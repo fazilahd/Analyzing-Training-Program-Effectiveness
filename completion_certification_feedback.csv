@@ -1,0 +1,621 @@
+GTS_TRAINING_ID,n_enrolled,n_certified,avg_trainer_rating,certification_rate,GTS_TRAINING_NAME
+2,1,0,1.0,0.0,Advanced Excel for Analysts
+3,1,0,5.0,0.0,Full Stack Web Development
+5,2,1,3.5,0.5,Cloud Computing with AWS
+6,1,1,1.0,1.0,Communication & Soft Skills
+7,1,0,4.0,0.0,Python for AI & ML
+9,1,1,4.0,1.0,Cloud Computing with AWS
+11,1,1,4.0,1.0,Cloud Computing with AWS
+13,2,1,3.0,0.5,Web Development Essentials
+14,1,0,5.0,0.0,Digital Marketing Fundamentals
+17,1,0,3.0,0.0,Full Stack Web Development
+19,1,1,3.0,1.0,Cloud Computing with AWS
+20,3,2,1.6666666666666667,0.6666666666666666,Web Development Essentials
+21,1,1,3.0,1.0,Cybersecurity Foundations
+24,3,2,1.6666666666666667,0.6666666666666666,SQL for Beginners
+25,2,0,2.5,0.0,Web Development Essentials
+26,1,0,4.0,0.0,Web Development Essentials
+27,2,2,3.0,1.0,Python for AI & ML
+29,1,1,1.0,1.0,Web Development Essentials
+31,2,0,2.5,0.0,SQL for Beginners
+32,3,0,2.3333333333333335,0.0,Python for AI & ML
+33,2,1,4.5,0.5,Cloud Computing with AWS
+34,1,1,5.0,1.0,Data Science Bootcamp
+35,3,0,3.3333333333333335,0.0,Full Stack Web Development
+39,1,1,3.0,1.0,Cybersecurity Foundations
+40,1,0,4.0,0.0,Cloud Computing with AWS
+42,1,0,1.0,0.0,Cybersecurity Foundations
+44,1,0,1.0,0.0,Cybersecurity Foundations
+46,1,1,3.0,1.0,Data Science Bootcamp
+47,2,2,3.5,1.0,SQL for Beginners
+48,2,1,4.0,0.5,Communication & Soft Skills
+49,2,1,3.5,0.5,SQL for Beginners
+50,3,2,3.6666666666666665,0.6666666666666666,Full Stack Web Development
+51,1,1,3.0,1.0,SQL for Beginners
+53,1,0,3.0,0.0,Cybersecurity Foundations
+54,4,1,2.25,0.25,Advanced Excel for Analysts
+55,1,1,4.0,1.0,Full Stack Web Development
+56,4,3,2.0,0.75,Advanced Excel for Analysts
+60,2,1,2.5,0.5,Python for AI & ML
+61,1,1,2.0,1.0,Python for AI & ML
+62,1,1,1.0,1.0,Data Science Bootcamp
+64,1,0,3.0,0.0,Cybersecurity Foundations
+66,2,2,2.0,1.0,SQL for Beginners
+67,2,0,3.0,0.0,Web Development Essentials
+68,1,1,1.0,1.0,Full Stack Web Development
+69,1,0,1.0,0.0,Full Stack Web Development
+70,2,2,2.0,1.0,SQL for Beginners
+73,2,2,2.5,1.0,Advanced Excel for Analysts
+74,4,0,3.0,0.0,Digital Marketing Fundamentals
+75,2,2,2.5,1.0,Full Stack Web Development
+77,3,1,2.6666666666666665,0.3333333333333333,Advanced Excel for Analysts
+78,2,1,4.0,0.5,Digital Marketing Fundamentals
+79,1,1,5.0,1.0,Data Science Bootcamp
+81,1,0,4.0,0.0,Cybersecurity Foundations
+83,1,0,3.0,0.0,SQL for Beginners
+84,1,0,3.0,0.0,Data Science Bootcamp
+85,1,1,2.0,1.0,Digital Marketing Fundamentals
+87,2,1,3.0,0.5,Communication & Soft Skills
+88,1,0,2.0,0.0,SQL for Beginners
+89,1,0,4.0,0.0,Digital Marketing Fundamentals
+90,2,2,4.0,1.0,Data Science Bootcamp
+91,1,1,1.0,1.0,Digital Marketing Fundamentals
+92,1,0,1.0,0.0,Digital Marketing Fundamentals
+94,1,0,5.0,0.0,Digital Marketing Fundamentals
+96,1,0,4.0,0.0,Advanced Excel for Analysts
+98,1,1,2.0,1.0,Python for AI & ML
+99,2,1,4.0,0.5,Python for AI & ML
+102,1,1,5.0,1.0,Web Development Essentials
+103,3,2,3.3333333333333335,0.6666666666666666,Communication & Soft Skills
+104,3,2,3.3333333333333335,0.6666666666666666,Web Development Essentials
+105,2,1,2.0,0.5,Web Development Essentials
+106,2,2,1.0,1.0,SQL for Beginners
+107,1,1,1.0,1.0,Data Science Bootcamp
+108,1,0,5.0,0.0,Cloud Computing with AWS
+109,1,0,2.0,0.0,SQL for Beginners
+111,1,0,3.0,0.0,Digital Marketing Fundamentals
+112,1,1,5.0,1.0,SQL for Beginners
+113,1,0,1.0,0.0,Full Stack Web Development
+114,1,0,5.0,0.0,Python for AI & ML
+117,1,1,4.0,1.0,SQL for Beginners
+118,1,0,3.0,0.0,Python for AI & ML
+119,3,1,2.3333333333333335,0.3333333333333333,Cybersecurity Foundations
+120,1,1,3.0,1.0,Python for AI & ML
+121,1,0,3.0,0.0,Advanced Excel for Analysts
+123,1,1,3.0,1.0,Cybersecurity Foundations
+125,1,0,3.0,0.0,Cybersecurity Foundations
+126,1,1,1.0,1.0,Cybersecurity Foundations
+129,1,0,1.0,0.0,Cybersecurity Foundations
+130,2,1,3.5,0.5,Digital Marketing Fundamentals
+131,2,1,2.0,0.5,Digital Marketing Fundamentals
+132,2,1,2.5,0.5,Cybersecurity Foundations
+133,2,2,2.0,1.0,Digital Marketing Fundamentals
+134,2,2,4.5,1.0,Cloud Computing with AWS
+136,1,0,2.0,0.0,Cloud Computing with AWS
+138,1,0,4.0,0.0,Web Development Essentials
+143,1,0,4.0,0.0,Web Development Essentials
+144,1,1,4.0,1.0,Communication & Soft Skills
+146,1,1,4.0,1.0,Communication & Soft Skills
+149,1,0,2.0,0.0,Digital Marketing Fundamentals
+151,1,1,3.0,1.0,Data Science Bootcamp
+152,2,0,3.0,0.0,Advanced Excel for Analysts
+153,1,0,4.0,0.0,Cloud Computing with AWS
+156,1,1,4.0,1.0,Data Science Bootcamp
+157,1,0,1.0,0.0,Python for AI & ML
+158,1,0,3.0,0.0,Python for AI & ML
+161,1,1,4.0,1.0,SQL for Beginners
+164,2,0,1.5,0.0,Digital Marketing Fundamentals
+165,1,0,1.0,0.0,Cloud Computing with AWS
+166,3,1,2.6666666666666665,0.3333333333333333,Digital Marketing Fundamentals
+168,1,0,4.0,0.0,Full Stack Web Development
+169,2,1,3.5,0.5,Web Development Essentials
+170,1,0,5.0,0.0,Data Science Bootcamp
+172,2,1,1.5,0.5,Data Science Bootcamp
+173,2,0,2.5,0.0,Web Development Essentials
+174,1,1,4.0,1.0,Communication & Soft Skills
+175,1,1,2.0,1.0,Cloud Computing with AWS
+176,2,0,3.5,0.0,Web Development Essentials
+177,2,0,1.0,0.0,SQL for Beginners
+178,4,3,3.25,0.75,Digital Marketing Fundamentals
+180,1,1,4.0,1.0,Cloud Computing with AWS
+181,1,1,3.0,1.0,Advanced Excel for Analysts
+183,1,0,4.0,0.0,Cloud Computing with AWS
+184,1,1,3.0,1.0,Web Development Essentials
+187,1,0,2.0,0.0,Cloud Computing with AWS
+188,1,1,3.0,1.0,Cloud Computing with AWS
+189,1,1,1.0,1.0,SQL for Beginners
+190,1,1,1.0,1.0,Data Science Bootcamp
+191,1,0,4.0,0.0,Full Stack Web Development
+192,4,3,4.0,0.75,Communication & Soft Skills
+193,3,2,3.6666666666666665,0.6666666666666666,Advanced Excel for Analysts
+194,2,0,1.5,0.0,Python for AI & ML
+196,1,0,2.0,0.0,Python for AI & ML
+197,1,1,2.0,1.0,Web Development Essentials
+198,2,2,3.0,1.0,Communication & Soft Skills
+200,1,0,3.0,0.0,Full Stack Web Development
+201,1,1,3.0,1.0,Web Development Essentials
+202,2,1,1.0,0.5,Cybersecurity Foundations
+203,3,2,3.0,0.6666666666666666,Data Science Bootcamp
+207,2,0,3.0,0.0,SQL for Beginners
+208,2,1,3.0,0.5,Full Stack Web Development
+209,2,2,2.0,1.0,Cybersecurity Foundations
+211,3,1,3.6666666666666665,0.3333333333333333,Data Science Bootcamp
+213,2,0,4.5,0.0,Advanced Excel for Analysts
+214,2,2,2.0,1.0,Python for AI & ML
+216,2,2,4.5,1.0,Web Development Essentials
+218,1,1,3.0,1.0,Cybersecurity Foundations
+220,1,0,1.0,0.0,Communication & Soft Skills
+221,2,1,3.0,0.5,SQL for Beginners
+222,1,1,3.0,1.0,Digital Marketing Fundamentals
+223,5,3,4.0,0.6,Communication & Soft Skills
+224,2,0,3.5,0.0,Communication & Soft Skills
+225,1,0,2.0,0.0,Cloud Computing with AWS
+227,2,1,1.0,0.5,Advanced Excel for Analysts
+228,1,0,1.0,0.0,Communication & Soft Skills
+231,1,1,1.0,1.0,Digital Marketing Fundamentals
+232,1,1,4.0,1.0,Digital Marketing Fundamentals
+234,2,0,3.0,0.0,Cybersecurity Foundations
+235,1,1,5.0,1.0,Cybersecurity Foundations
+237,1,1,4.0,1.0,Cybersecurity Foundations
+238,1,1,4.0,1.0,Cloud Computing with AWS
+239,2,1,3.5,0.5,Web Development Essentials
+240,3,1,3.3333333333333335,0.3333333333333333,Communication & Soft Skills
+242,2,1,4.0,0.5,Digital Marketing Fundamentals
+245,2,1,3.0,0.5,Digital Marketing Fundamentals
+246,1,0,1.0,0.0,SQL for Beginners
+247,1,0,4.0,0.0,Python for AI & ML
+250,1,1,2.0,1.0,Data Science Bootcamp
+252,2,2,3.5,1.0,Advanced Excel for Analysts
+253,2,0,4.0,0.0,Data Science Bootcamp
+256,1,0,1.0,0.0,Web Development Essentials
+258,1,1,4.0,1.0,Data Science Bootcamp
+259,2,2,3.0,1.0,Digital Marketing Fundamentals
+260,3,2,4.666666666666667,0.6666666666666666,Communication & Soft Skills
+261,1,1,1.0,1.0,Full Stack Web Development
+262,1,1,3.0,1.0,Digital Marketing Fundamentals
+263,2,1,2.0,0.5,Python for AI & ML
+267,1,1,5.0,1.0,Digital Marketing Fundamentals
+269,1,1,3.0,1.0,Digital Marketing Fundamentals
+270,4,0,2.75,0.0,Cloud Computing with AWS
+272,2,1,3.0,0.5,Full Stack Web Development
+273,2,2,3.5,1.0,Full Stack Web Development
+275,1,0,4.0,0.0,Cloud Computing with AWS
+276,1,1,4.0,1.0,Advanced Excel for Analysts
+278,1,0,2.0,0.0,Python for AI & ML
+281,1,0,3.0,0.0,Data Science Bootcamp
+283,2,2,2.5,1.0,Communication & Soft Skills
+284,3,0,1.0,0.0,Python for AI & ML
+285,1,0,2.0,0.0,SQL for Beginners
+286,2,1,5.0,0.5,Python for AI & ML
+287,2,1,1.5,0.5,Communication & Soft Skills
+288,2,0,3.5,0.0,SQL for Beginners
+290,1,0,4.0,0.0,Communication & Soft Skills
+292,8,3,3.375,0.375,SQL for Beginners
+293,1,0,4.0,0.0,Web Development Essentials
+294,3,0,4.0,0.0,Cloud Computing with AWS
+297,2,1,3.0,0.5,Digital Marketing Fundamentals
+304,1,0,5.0,0.0,Python for AI & ML
+305,1,0,5.0,0.0,Communication & Soft Skills
+308,1,1,2.0,1.0,Web Development Essentials
+310,1,1,1.0,1.0,Web Development Essentials
+311,1,1,3.0,1.0,Advanced Excel for Analysts
+312,3,2,3.6666666666666665,0.6666666666666666,Web Development Essentials
+314,1,1,2.0,1.0,Digital Marketing Fundamentals
+317,1,1,4.0,1.0,Python for AI & ML
+318,2,1,1.5,0.5,Advanced Excel for Analysts
+320,2,2,2.5,1.0,SQL for Beginners
+321,1,0,3.0,0.0,SQL for Beginners
+323,1,0,3.0,0.0,Cloud Computing with AWS
+324,1,1,1.0,1.0,Python for AI & ML
+328,1,0,1.0,0.0,Cybersecurity Foundations
+329,3,1,3.0,0.3333333333333333,Python for AI & ML
+330,1,0,3.0,0.0,Web Development Essentials
+332,1,0,1.0,0.0,Advanced Excel for Analysts
+333,4,2,4.0,0.5,Cybersecurity Foundations
+334,1,0,5.0,0.0,Python for AI & ML
+335,1,0,4.0,0.0,Python for AI & ML
+336,3,2,3.3333333333333335,0.6666666666666666,Digital Marketing Fundamentals
+341,1,1,3.0,1.0,Web Development Essentials
+342,1,1,2.0,1.0,Digital Marketing Fundamentals
+343,1,0,4.0,0.0,Full Stack Web Development
+344,1,1,1.0,1.0,Cloud Computing with AWS
+346,2,2,3.5,1.0,Python for AI & ML
+347,2,0,2.0,0.0,Data Science Bootcamp
+348,1,0,2.0,0.0,Cybersecurity Foundations
+349,2,0,3.5,0.0,Communication & Soft Skills
+352,2,2,4.0,1.0,Python for AI & ML
+353,3,1,2.0,0.3333333333333333,Digital Marketing Fundamentals
+355,2,0,3.0,0.0,Communication & Soft Skills
+356,1,1,3.0,1.0,Cybersecurity Foundations
+357,3,3,4.0,1.0,Data Science Bootcamp
+359,2,1,4.0,0.5,SQL for Beginners
+360,2,1,3.0,0.5,Data Science Bootcamp
+361,1,1,2.0,1.0,Cloud Computing with AWS
+362,1,1,2.0,1.0,SQL for Beginners
+363,3,3,3.6666666666666665,1.0,Web Development Essentials
+364,3,2,3.0,0.6666666666666666,SQL for Beginners
+365,1,1,3.0,1.0,Advanced Excel for Analysts
+366,1,1,2.0,1.0,Python for AI & ML
+367,2,1,4.5,0.5,Digital Marketing Fundamentals
+368,2,2,3.5,1.0,Web Development Essentials
+369,1,1,2.0,1.0,SQL for Beginners
+370,1,1,1.0,1.0,Web Development Essentials
+371,2,2,1.0,1.0,Data Science Bootcamp
+372,2,2,2.5,1.0,Advanced Excel for Analysts
+373,2,1,3.5,0.5,Python for AI & ML
+376,2,0,1.5,0.0,SQL for Beginners
+379,1,0,5.0,0.0,Python for AI & ML
+380,2,2,2.5,1.0,Advanced Excel for Analysts
+381,1,1,1.0,1.0,Communication & Soft Skills
+383,1,1,1.0,1.0,SQL for Beginners
+384,1,0,5.0,0.0,Cybersecurity Foundations
+385,2,1,2.0,0.5,Cloud Computing with AWS
+386,2,0,2.0,0.0,Data Science Bootcamp
+387,1,1,4.0,1.0,Data Science Bootcamp
+388,2,1,4.0,0.5,Data Science Bootcamp
+389,2,1,2.5,0.5,Digital Marketing Fundamentals
+392,2,1,3.0,0.5,Python for AI & ML
+395,1,1,5.0,1.0,Communication & Soft Skills
+396,1,0,4.0,0.0,Python for AI & ML
+397,2,2,2.5,1.0,SQL for Beginners
+398,1,1,5.0,1.0,Cybersecurity Foundations
+399,2,0,4.0,0.0,Web Development Essentials
+404,1,0,2.0,0.0,Data Science Bootcamp
+405,1,1,2.0,1.0,SQL for Beginners
+406,2,1,3.5,0.5,Web Development Essentials
+407,1,1,2.0,1.0,Communication & Soft Skills
+408,1,0,5.0,0.0,Data Science Bootcamp
+409,2,2,2.0,1.0,Advanced Excel for Analysts
+413,1,0,2.0,0.0,Data Science Bootcamp
+415,1,1,5.0,1.0,Web Development Essentials
+416,1,1,1.0,1.0,Communication & Soft Skills
+417,2,0,3.5,0.0,Advanced Excel for Analysts
+419,3,1,3.0,0.3333333333333333,SQL for Beginners
+421,1,0,1.0,0.0,Web Development Essentials
+422,1,1,2.0,1.0,Cybersecurity Foundations
+423,1,1,5.0,1.0,Communication & Soft Skills
+425,2,0,3.0,0.0,Cybersecurity Foundations
+426,1,0,4.0,0.0,Communication & Soft Skills
+427,2,2,5.0,1.0,Web Development Essentials
+428,1,1,3.0,1.0,Communication & Soft Skills
+429,1,0,1.0,0.0,Full Stack Web Development
+431,1,1,1.0,1.0,Cybersecurity Foundations
+433,1,0,5.0,0.0,SQL for Beginners
+434,2,1,4.5,0.5,Cybersecurity Foundations
+435,2,1,4.5,0.5,Python for AI & ML
+441,1,0,4.0,0.0,Web Development Essentials
+443,2,1,3.0,0.5,Cybersecurity Foundations
+444,1,0,1.0,0.0,Python for AI & ML
+447,3,1,4.0,0.3333333333333333,Data Science Bootcamp
+449,1,1,1.0,1.0,Digital Marketing Fundamentals
+450,2,0,1.0,0.0,Cloud Computing with AWS
+452,1,1,4.0,1.0,Web Development Essentials
+453,1,1,3.0,1.0,Python for AI & ML
+454,1,1,4.0,1.0,SQL for Beginners
+455,1,1,4.0,1.0,Cloud Computing with AWS
+456,1,0,1.0,0.0,Cybersecurity Foundations
+458,2,2,3.0,1.0,Advanced Excel for Analysts
+459,2,1,3.5,0.5,Cybersecurity Foundations
+461,1,1,3.0,1.0,Full Stack Web Development
+464,2,1,3.5,0.5,Cloud Computing with AWS
+465,1,0,2.0,0.0,Advanced Excel for Analysts
+467,1,1,1.0,1.0,Advanced Excel for Analysts
+468,1,0,1.0,0.0,Cybersecurity Foundations
+470,1,1,1.0,1.0,Digital Marketing Fundamentals
+472,1,1,1.0,1.0,Digital Marketing Fundamentals
+474,1,0,1.0,0.0,Python for AI & ML
+475,2,1,3.0,0.5,Communication & Soft Skills
+476,1,1,1.0,1.0,Advanced Excel for Analysts
+477,2,1,1.0,0.5,Digital Marketing Fundamentals
+479,1,1,5.0,1.0,SQL for Beginners
+482,1,0,1.0,0.0,Cybersecurity Foundations
+483,1,0,5.0,0.0,Full Stack Web Development
+485,1,0,4.0,0.0,Web Development Essentials
+486,1,1,4.0,1.0,Communication & Soft Skills
+488,1,1,4.0,1.0,Communication & Soft Skills
+489,2,1,3.5,0.5,Data Science Bootcamp
+491,2,2,3.0,1.0,Cybersecurity Foundations
+492,1,0,4.0,0.0,Cloud Computing with AWS
+494,2,2,4.0,1.0,Digital Marketing Fundamentals
+495,1,1,3.0,1.0,Cybersecurity Foundations
+502,1,1,3.0,1.0,Cloud Computing with AWS
+503,1,0,5.0,0.0,Cloud Computing with AWS
+504,1,1,3.0,1.0,Communication & Soft Skills
+506,1,0,5.0,0.0,Web Development Essentials
+507,1,1,5.0,1.0,Communication & Soft Skills
+508,2,2,2.0,1.0,Advanced Excel for Analysts
+509,2,1,3.5,0.5,Cloud Computing with AWS
+510,3,2,2.0,0.6666666666666666,Cloud Computing with AWS
+515,1,1,4.0,1.0,Communication & Soft Skills
+517,2,2,3.0,1.0,Full Stack Web Development
+518,1,1,5.0,1.0,Cloud Computing with AWS
+519,1,0,3.0,0.0,Advanced Excel for Analysts
+520,1,1,1.0,1.0,Digital Marketing Fundamentals
+521,1,0,2.0,0.0,Full Stack Web Development
+522,2,1,1.5,0.5,Python for AI & ML
+523,3,1,3.0,0.3333333333333333,Digital Marketing Fundamentals
+524,1,0,5.0,0.0,Communication & Soft Skills
+527,1,1,5.0,1.0,Web Development Essentials
+529,1,0,3.0,0.0,SQL for Beginners
+530,1,1,5.0,1.0,Digital Marketing Fundamentals
+531,1,1,1.0,1.0,Data Science Bootcamp
+533,1,1,4.0,1.0,Python for AI & ML
+536,1,0,3.0,0.0,Communication & Soft Skills
+538,1,0,2.0,0.0,Data Science Bootcamp
+540,2,2,3.0,1.0,Python for AI & ML
+541,2,1,1.5,0.5,Python for AI & ML
+542,1,1,2.0,1.0,Python for AI & ML
+544,2,1,2.5,0.5,Web Development Essentials
+545,2,0,3.5,0.0,Advanced Excel for Analysts
+546,4,2,1.75,0.5,Python for AI & ML
+547,1,1,1.0,1.0,Communication & Soft Skills
+548,2,1,1.5,0.5,Full Stack Web Development
+549,2,2,3.0,1.0,Communication & Soft Skills
+551,1,1,4.0,1.0,Full Stack Web Development
+553,2,2,4.0,1.0,Advanced Excel for Analysts
+556,1,0,5.0,0.0,SQL for Beginners
+557,2,2,2.0,1.0,Cybersecurity Foundations
+558,1,0,4.0,0.0,Full Stack Web Development
+559,2,2,3.5,1.0,Web Development Essentials
+560,1,1,5.0,1.0,Digital Marketing Fundamentals
+561,1,1,3.0,1.0,Advanced Excel for Analysts
+562,1,1,1.0,1.0,Digital Marketing Fundamentals
+565,3,0,3.3333333333333335,0.0,Web Development Essentials
+566,2,1,3.5,0.5,Digital Marketing Fundamentals
+567,1,0,2.0,0.0,Web Development Essentials
+568,1,1,1.0,1.0,Full Stack Web Development
+570,2,1,3.0,0.5,Cloud Computing with AWS
+572,2,1,4.0,0.5,Advanced Excel for Analysts
+574,1,0,4.0,0.0,Python for AI & ML
+575,1,1,5.0,1.0,Data Science Bootcamp
+576,2,1,1.5,0.5,Full Stack Web Development
+577,1,1,4.0,1.0,Python for AI & ML
+578,1,1,3.0,1.0,Advanced Excel for Analysts
+580,1,1,2.0,1.0,Web Development Essentials
+581,1,0,5.0,0.0,Web Development Essentials
+582,1,0,5.0,0.0,Communication & Soft Skills
+583,2,1,4.5,0.5,Cybersecurity Foundations
+584,1,1,3.0,1.0,Web Development Essentials
+587,1,1,1.0,1.0,Cloud Computing with AWS
+591,2,0,3.0,0.0,Advanced Excel for Analysts
+592,1,1,1.0,1.0,Cybersecurity Foundations
+593,2,1,4.5,0.5,Web Development Essentials
+594,1,1,1.0,1.0,Advanced Excel for Analysts
+596,3,1,3.6666666666666665,0.3333333333333333,Full Stack Web Development
+597,2,1,4.0,0.5,SQL for Beginners
+598,2,0,2.0,0.0,Python for AI & ML
+600,1,0,2.0,0.0,Cloud Computing with AWS
+601,1,0,2.0,0.0,Web Development Essentials
+602,1,0,2.0,0.0,Full Stack Web Development
+604,2,1,3.5,0.5,Web Development Essentials
+606,1,0,4.0,0.0,Cybersecurity Foundations
+607,1,0,2.0,0.0,Digital Marketing Fundamentals
+609,1,1,3.0,1.0,Cloud Computing with AWS
+610,1,0,3.0,0.0,Web Development Essentials
+611,1,1,2.0,1.0,Full Stack Web Development
+613,2,1,4.5,0.5,SQL for Beginners
+614,2,0,3.0,0.0,Digital Marketing Fundamentals
+615,2,1,4.5,0.5,SQL for Beginners
+616,2,2,4.0,1.0,Cloud Computing with AWS
+617,1,0,2.0,0.0,Web Development Essentials
+622,1,0,4.0,0.0,SQL for Beginners
+625,1,1,2.0,1.0,Full Stack Web Development
+627,1,1,4.0,1.0,SQL for Beginners
+629,1,0,3.0,0.0,Data Science Bootcamp
+631,1,0,5.0,0.0,Data Science Bootcamp
+632,1,1,5.0,1.0,Communication & Soft Skills
+635,1,0,4.0,0.0,Cybersecurity Foundations
+639,2,0,1.5,0.0,SQL for Beginners
+640,4,2,4.0,0.5,Cloud Computing with AWS
+642,2,2,1.5,1.0,Python for AI & ML
+643,1,1,2.0,1.0,Cloud Computing with AWS
+645,3,3,3.0,1.0,Web Development Essentials
+646,2,0,1.5,0.0,Python for AI & ML
+647,3,1,4.666666666666667,0.3333333333333333,Cybersecurity Foundations
+649,1,0,3.0,0.0,Full Stack Web Development
+650,3,0,2.6666666666666665,0.0,Python for AI & ML
+651,1,1,4.0,1.0,Data Science Bootcamp
+653,2,1,4.5,0.5,Advanced Excel for Analysts
+654,1,0,4.0,0.0,Full Stack Web Development
+658,1,1,4.0,1.0,Cybersecurity Foundations
+659,2,2,4.0,1.0,Advanced Excel for Analysts
+662,1,1,1.0,1.0,Full Stack Web Development
+663,2,0,4.0,0.0,Cloud Computing with AWS
+664,2,1,2.0,0.5,Communication & Soft Skills
+666,1,0,2.0,0.0,Communication & Soft Skills
+667,2,1,2.0,0.5,SQL for Beginners
+668,2,0,2.0,0.0,Web Development Essentials
+670,1,0,5.0,0.0,Python for AI & ML
+673,1,0,2.0,0.0,Cloud Computing with AWS
+674,1,0,3.0,0.0,Digital Marketing Fundamentals
+675,2,2,2.5,1.0,Python for AI & ML
+678,3,1,3.0,0.3333333333333333,Communication & Soft Skills
+679,2,1,3.5,0.5,Cybersecurity Foundations
+680,1,1,4.0,1.0,Digital Marketing Fundamentals
+681,4,2,2.75,0.5,Digital Marketing Fundamentals
+682,2,0,1.5,0.0,Python for AI & ML
+683,1,1,4.0,1.0,Advanced Excel for Analysts
+689,3,0,3.6666666666666665,0.0,Cybersecurity Foundations
+690,2,1,5.0,0.5,Digital Marketing Fundamentals
+692,1,1,4.0,1.0,Full Stack Web Development
+694,1,1,2.0,1.0,Communication & Soft Skills
+695,4,0,4.25,0.0,Advanced Excel for Analysts
+696,2,0,1.0,0.0,Full Stack Web Development
+698,1,1,3.0,1.0,Cybersecurity Foundations
+699,1,1,5.0,1.0,SQL for Beginners
+700,1,1,5.0,1.0,SQL for Beginners
+703,1,1,4.0,1.0,Communication & Soft Skills
+704,2,1,3.5,0.5,Advanced Excel for Analysts
+705,1,1,4.0,1.0,Cybersecurity Foundations
+706,1,1,4.0,1.0,Cybersecurity Foundations
+707,1,0,5.0,0.0,Communication & Soft Skills
+711,1,1,3.0,1.0,Python for AI & ML
+712,2,2,3.0,1.0,Python for AI & ML
+713,1,1,5.0,1.0,Python for AI & ML
+714,1,1,3.0,1.0,Cybersecurity Foundations
+715,1,0,4.0,0.0,Web Development Essentials
+716,1,0,1.0,0.0,Communication & Soft Skills
+717,1,0,4.0,0.0,Data Science Bootcamp
+722,1,1,4.0,1.0,Communication & Soft Skills
+723,1,1,5.0,1.0,Data Science Bootcamp
+724,3,2,2.6666666666666665,0.6666666666666666,Data Science Bootcamp
+726,2,0,3.0,0.0,Data Science Bootcamp
+727,2,0,3.0,0.0,Python for AI & ML
+728,1,0,4.0,0.0,Full Stack Web Development
+729,1,1,5.0,1.0,Digital Marketing Fundamentals
+733,1,1,3.0,1.0,Python for AI & ML
+734,3,0,1.6666666666666667,0.0,Advanced Excel for Analysts
+736,1,1,3.0,1.0,Cloud Computing with AWS
+737,3,1,1.6666666666666667,0.3333333333333333,Cybersecurity Foundations
+740,2,0,3.0,0.0,Cloud Computing with AWS
+741,2,0,2.5,0.0,Advanced Excel for Analysts
+742,2,0,3.0,0.0,Advanced Excel for Analysts
+743,1,0,5.0,0.0,Data Science Bootcamp
+744,2,0,2.0,0.0,Cybersecurity Foundations
+745,1,1,4.0,1.0,Cybersecurity Foundations
+746,1,1,4.0,1.0,Advanced Excel for Analysts
+750,3,2,3.0,0.6666666666666666,Cloud Computing with AWS
+752,1,1,4.0,1.0,Data Science Bootcamp
+756,2,1,3.0,0.5,SQL for Beginners
+760,1,1,2.0,1.0,Cloud Computing with AWS
+762,1,0,2.0,0.0,Cybersecurity Foundations
+763,2,0,5.0,0.0,Full Stack Web Development
+764,1,1,1.0,1.0,Cybersecurity Foundations
+765,2,1,1.5,0.5,Cloud Computing with AWS
+766,1,1,5.0,1.0,Advanced Excel for Analysts
+767,1,0,4.0,0.0,SQL for Beginners
+769,2,0,2.5,0.0,SQL for Beginners
+770,1,0,4.0,0.0,Communication & Soft Skills
+771,1,1,2.0,1.0,Cybersecurity Foundations
+773,2,1,2.0,0.5,Advanced Excel for Analysts
+774,1,0,4.0,0.0,Cybersecurity Foundations
+775,3,0,4.0,0.0,Data Science Bootcamp
+776,1,1,1.0,1.0,Advanced Excel for Analysts
+777,2,0,3.5,0.0,SQL for Beginners
+778,1,1,4.0,1.0,Digital Marketing Fundamentals
+779,1,1,4.0,1.0,Data Science Bootcamp
+784,1,1,3.0,1.0,Digital Marketing Fundamentals
+787,2,2,1.5,1.0,Cybersecurity Foundations
+788,3,1,2.6666666666666665,0.3333333333333333,Cybersecurity Foundations
+789,2,1,5.0,0.5,Communication & Soft Skills
+790,1,1,3.0,1.0,Full Stack Web Development
+791,2,1,3.0,0.5,Python for AI & ML
+792,2,0,3.5,0.0,Digital Marketing Fundamentals
+793,1,0,2.0,0.0,Cybersecurity Foundations
+794,1,1,2.0,1.0,Full Stack Web Development
+795,2,1,1.5,0.5,Python for AI & ML
+796,2,1,1.5,0.5,Python for AI & ML
+797,1,0,3.0,0.0,Cloud Computing with AWS
+798,1,0,1.0,0.0,Communication & Soft Skills
+799,1,1,2.0,1.0,Python for AI & ML
+801,1,0,4.0,0.0,Advanced Excel for Analysts
+803,1,0,3.0,0.0,Python for AI & ML
+804,4,1,3.5,0.25,Full Stack Web Development
+806,1,0,5.0,0.0,Web Development Essentials
+807,1,0,4.0,0.0,Advanced Excel for Analysts
+808,1,1,5.0,1.0,Cloud Computing with AWS
+809,2,1,2.0,0.5,Communication & Soft Skills
+811,2,1,1.0,0.5,Full Stack Web Development
+812,2,2,1.0,1.0,Digital Marketing Fundamentals
+815,1,1,3.0,1.0,Cloud Computing with AWS
+816,1,1,1.0,1.0,Advanced Excel for Analysts
+818,4,2,3.5,0.5,SQL for Beginners
+825,3,2,4.0,0.6666666666666666,Communication & Soft Skills
+829,2,1,3.0,0.5,Python for AI & ML
+836,1,1,3.0,1.0,Advanced Excel for Analysts
+837,2,2,1.0,1.0,Data Science Bootcamp
+839,2,0,4.5,0.0,Cloud Computing with AWS
+841,4,2,2.0,0.5,Web Development Essentials
+842,1,0,2.0,0.0,Web Development Essentials
+844,4,2,3.0,0.5,Digital Marketing Fundamentals
+845,3,2,2.0,0.6666666666666666,Cybersecurity Foundations
+848,2,1,3.0,0.5,Cloud Computing with AWS
+849,1,0,1.0,0.0,Data Science Bootcamp
+851,5,1,2.6,0.2,Web Development Essentials
+853,2,1,3.5,0.5,Data Science Bootcamp
+854,1,1,5.0,1.0,SQL for Beginners
+856,3,2,3.6666666666666665,0.6666666666666666,Full Stack Web Development
+858,2,1,4.0,0.5,Communication & Soft Skills
+860,1,1,4.0,1.0,Cybersecurity Foundations
+861,2,1,3.0,0.5,Digital Marketing Fundamentals
+862,3,3,3.3333333333333335,1.0,Communication & Soft Skills
+864,1,1,5.0,1.0,Advanced Excel for Analysts
+865,1,1,5.0,1.0,Full Stack Web Development
+867,2,1,4.0,0.5,Communication & Soft Skills
+868,3,0,3.0,0.0,Cybersecurity Foundations
+870,1,1,1.0,1.0,Data Science Bootcamp
+871,1,1,4.0,1.0,Advanced Excel for Analysts
+872,1,1,3.0,1.0,Digital Marketing Fundamentals
+876,1,1,3.0,1.0,Advanced Excel for Analysts
+877,1,1,4.0,1.0,Advanced Excel for Analysts
+878,3,1,3.0,0.3333333333333333,Python for AI & ML
+879,1,1,5.0,1.0,Full Stack Web Development
+880,2,2,2.5,1.0,Digital Marketing Fundamentals
+884,2,1,3.0,0.5,Cybersecurity Foundations
+885,1,0,4.0,0.0,Data Science Bootcamp
+887,3,0,3.6666666666666665,0.0,Advanced Excel for Analysts
+888,4,1,4.25,0.25,Communication & Soft Skills
+889,1,0,1.0,0.0,Cybersecurity Foundations
+890,2,1,1.0,0.5,Advanced Excel for Analysts
+891,3,2,1.0,0.6666666666666666,Cloud Computing with AWS
+896,1,1,4.0,1.0,Full Stack Web Development
+898,1,1,1.0,1.0,Full Stack Web Development
+899,1,0,4.0,0.0,SQL for Beginners
+901,2,1,3.5,0.5,Cloud Computing with AWS
+904,2,1,1.5,0.5,Communication & Soft Skills
+907,1,0,1.0,0.0,Advanced Excel for Analysts
+908,3,1,4.333333333333333,0.3333333333333333,Data Science Bootcamp
+909,2,0,3.0,0.0,Web Development Essentials
+912,2,0,2.5,0.0,Python for AI & ML
+913,1,1,1.0,1.0,Communication & Soft Skills
+916,1,0,5.0,0.0,Advanced Excel for Analysts
+918,1,1,2.0,1.0,Data Science Bootcamp
+919,1,1,3.0,1.0,Data Science Bootcamp
+921,3,1,2.6666666666666665,0.3333333333333333,Python for AI & ML
+923,1,1,1.0,1.0,Digital Marketing Fundamentals
+927,3,2,2.0,0.6666666666666666,Cloud Computing with AWS
+928,3,0,3.0,0.0,Python for AI & ML
+931,2,2,4.5,1.0,Advanced Excel for Analysts
+934,2,1,2.0,0.5,Cybersecurity Foundations
+936,2,1,4.5,0.5,Python for AI & ML
+937,1,1,2.0,1.0,Advanced Excel for Analysts
+941,2,2,4.5,1.0,Web Development Essentials
+942,1,0,3.0,0.0,Cybersecurity Foundations
+943,3,2,3.6666666666666665,0.6666666666666666,Communication & Soft Skills
+944,1,0,4.0,0.0,Advanced Excel for Analysts
+946,3,1,2.0,0.3333333333333333,Full Stack Web Development
+948,1,0,4.0,0.0,Data Science Bootcamp
+949,2,1,2.5,0.5,SQL for Beginners
+951,1,0,1.0,0.0,Cybersecurity Foundations
+952,1,0,4.0,0.0,Cybersecurity Foundations
+957,2,1,5.0,0.5,Communication & Soft Skills
+959,1,1,2.0,1.0,Cybersecurity Foundations
+961,3,1,4.0,0.3333333333333333,Data Science Bootcamp
+962,1,1,5.0,1.0,Advanced Excel for Analysts
+964,3,1,2.6666666666666665,0.3333333333333333,Cybersecurity Foundations
+966,1,1,5.0,1.0,Communication & Soft Skills
+968,2,0,3.0,0.0,Communication & Soft Skills
+970,1,1,1.0,1.0,Full Stack Web Development
+971,2,2,3.0,1.0,Python for AI & ML
+972,1,1,3.0,1.0,Data Science Bootcamp
+973,1,1,4.0,1.0,Communication & Soft Skills
+974,2,1,3.5,0.5,Advanced Excel for Analysts
+975,1,0,1.0,0.0,Cloud Computing with AWS
+976,2,2,3.0,1.0,Python for AI & ML
+978,1,1,4.0,1.0,SQL for Beginners
+979,1,1,5.0,1.0,Web Development Essentials
+980,4,2,1.75,0.5,Advanced Excel for Analysts
+981,2,2,3.0,1.0,Cloud Computing with AWS
+982,2,1,4.5,0.5,Cloud Computing with AWS
+984,1,1,5.0,1.0,Communication & Soft Skills
+985,2,0,3.5,0.0,SQL for Beginners
+987,2,0,2.5,0.0,Cloud Computing with AWS
+989,1,0,4.0,0.0,Web Development Essentials
+990,1,1,1.0,1.0,Web Development Essentials
+991,2,1,3.0,0.5,Communication & Soft Skills
+992,1,1,5.0,1.0,Communication & Soft Skills
+994,3,2,3.3333333333333335,0.6666666666666666,Cybersecurity Foundations
+996,2,1,1.5,0.5,Advanced Excel for Analysts
+997,1,1,2.0,1.0,Cybersecurity Foundations
+999,4,3,2.75,0.75,Cybersecurity Foundations
+1000,1,0,1.0,0.0,Cloud Computing with AWS

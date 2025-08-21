@@ -1,0 +1,1001 @@
+GTS_CITY_ID,GTS_CITY_NAME,GTS_CITY_DESCRIPTION,GTS_CITY_STATUS,GTS_COUNTRY_ID,GTS_STATE_ID
+1,Toronto,Toronto is a major city known for its culture.,FALSE,15,28
+2,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,30,27
+3,Medellín,Medellín is a major city known for its culture.,TRUE,17,17
+4,Moscow,Moscow is a major city known for its culture.,TRUE,1,2
+5,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,20,11
+6,Manila,Manila is a major city known for its culture.,TRUE,30,7
+7,Istanbul,Istanbul is a major city known for its culture.,TRUE,15,9
+8,London,London is a major city known for its culture.,FALSE,3,6
+9,Seoul,Seoul is a major city known for its culture.,FALSE,11,21
+10,Lagos,Lagos is a major city known for its culture.,FALSE,17,7
+11,Manila,Manila is a major city known for its culture.,TRUE,25,27
+12,Jakarta,Jakarta is a major city known for its culture.,TRUE,20,17
+13,Moscow,Moscow is a major city known for its culture.,TRUE,23,6
+14,São Paulo,São Paulo is a major city known for its culture.,TRUE,6,23
+15,Bangkok,Bangkok is a major city known for its culture.,FALSE,20,8
+16,Seoul,Seoul is a major city known for its culture.,TRUE,7,24
+17,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,18,26
+18,Hanoi,Hanoi is a major city known for its culture.,FALSE,14,29
+19,Istanbul,Istanbul is a major city known for its culture.,FALSE,28,30
+20,Lagos,Lagos is a major city known for its culture.,FALSE,9,8
+21,Tokyo,Tokyo is a major city known for its culture.,TRUE,13,18
+22,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,24,19
+23,Cape Town,Cape Town is a major city known for its culture.,FALSE,14,15
+24,Mumbai,Mumbai is a major city known for its culture.,FALSE,22,20
+25,São Paulo,São Paulo is a major city known for its culture.,TRUE,5,21
+26,Manila,Manila is a major city known for its culture.,TRUE,27,10
+27,Munich,Munich is a major city known for its culture.,TRUE,13,6
+28,Toronto,Toronto is a major city known for its culture.,FALSE,21,28
+29,São Paulo,São Paulo is a major city known for its culture.,FALSE,21,17
+30,Istanbul,Istanbul is a major city known for its culture.,FALSE,8,28
+31,Cairo,Cairo is a major city known for its culture.,FALSE,3,26
+32,Riyadh,Riyadh is a major city known for its culture.,FALSE,26,17
+33,Lagos,Lagos is a major city known for its culture.,FALSE,5,6
+34,Warsaw,Warsaw is a major city known for its culture.,TRUE,28,17
+35,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,17,13
+36,Milan,Milan is a major city known for its culture.,TRUE,13,20
+37,Stockholm,Stockholm is a major city known for its culture.,FALSE,14,23
+38,Cairo,Cairo is a major city known for its culture.,FALSE,23,30
+39,Cairo,Cairo is a major city known for its culture.,FALSE,11,26
+40,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,1,20
+41,Riyadh,Riyadh is a major city known for its culture.,FALSE,20,8
+42,Tokyo,Tokyo is a major city known for its culture.,TRUE,7,29
+43,Munich,Munich is a major city known for its culture.,FALSE,28,13
+44,Bangkok,Bangkok is a major city known for its culture.,TRUE,21,4
+45,London,London is a major city known for its culture.,FALSE,29,22
+46,Manila,Manila is a major city known for its culture.,TRUE,6,28
+47,Sydney,Sydney is a major city known for its culture.,FALSE,25,28
+48,Manila,Manila is a major city known for its culture.,TRUE,4,15
+49,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,14,15
+50,Istanbul,Istanbul is a major city known for its culture.,TRUE,17,24
+51,Cape Town,Cape Town is a major city known for its culture.,FALSE,1,29
+52,Milan,Milan is a major city known for its culture.,FALSE,17,2
+53,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,22,3
+54,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,18,27
+55,Riyadh,Riyadh is a major city known for its culture.,FALSE,16,9
+56,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,15,1
+57,Warsaw,Warsaw is a major city known for its culture.,TRUE,3,10
+58,Paris,Paris is a major city known for its culture.,TRUE,20,29
+59,Jakarta,Jakarta is a major city known for its culture.,FALSE,25,16
+60,São Paulo,São Paulo is a major city known for its culture.,TRUE,26,17
+61,Seoul,Seoul is a major city known for its culture.,TRUE,13,23
+62,Milan,Milan is a major city known for its culture.,FALSE,6,26
+63,Bangkok,Bangkok is a major city known for its culture.,FALSE,23,25
+64,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,19,19
+65,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,1,21
+66,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,13,6
+67,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,8,21
+68,Sydney,Sydney is a major city known for its culture.,FALSE,2,10
+69,Paris,Paris is a major city known for its culture.,FALSE,3,5
+70,Milan,Milan is a major city known for its culture.,TRUE,20,26
+71,Bangkok,Bangkok is a major city known for its culture.,TRUE,27,13
+72,Seoul,Seoul is a major city known for its culture.,FALSE,24,1
+73,Moscow,Moscow is a major city known for its culture.,FALSE,2,11
+74,Cairo,Cairo is a major city known for its culture.,TRUE,14,24
+75,Tokyo,Tokyo is a major city known for its culture.,TRUE,25,2
+76,Milan,Milan is a major city known for its culture.,TRUE,4,23
+77,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,6,26
+78,Paris,Paris is a major city known for its culture.,FALSE,29,19
+79,Paris,Paris is a major city known for its culture.,FALSE,5,28
+80,Barcelona,Barcelona is a major city known for its culture.,FALSE,22,20
+81,Cairo,Cairo is a major city known for its culture.,FALSE,8,24
+82,Jakarta,Jakarta is a major city known for its culture.,TRUE,24,21
+83,Munich,Munich is a major city known for its culture.,FALSE,18,10
+84,Medellín,Medellín is a major city known for its culture.,FALSE,22,9
+85,São Paulo,São Paulo is a major city known for its culture.,FALSE,27,1
+86,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,14,29
+87,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,18,8
+88,Paris,Paris is a major city known for its culture.,FALSE,2,29
+89,Jakarta,Jakarta is a major city known for its culture.,TRUE,3,21
+90,Istanbul,Istanbul is a major city known for its culture.,TRUE,3,28
+91,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,30,25
+92,Seoul,Seoul is a major city known for its culture.,FALSE,28,27
+93,Warsaw,Warsaw is a major city known for its culture.,FALSE,8,6
+94,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,26,22
+95,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,8,13
+96,Seoul,Seoul is a major city known for its culture.,FALSE,1,19
+97,Mumbai,Mumbai is a major city known for its culture.,FALSE,16,2
+98,Lahore,Lahore is a major city known for its culture.,TRUE,26,26
+99,Manila,Manila is a major city known for its culture.,TRUE,19,12
+100,Milan,Milan is a major city known for its culture.,FALSE,12,14
+101,Lahore,Lahore is a major city known for its culture.,TRUE,15,12
+102,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,28,2
+103,Manila,Manila is a major city known for its culture.,TRUE,26,12
+104,Paris,Paris is a major city known for its culture.,TRUE,13,11
+105,Tokyo,Tokyo is a major city known for its culture.,FALSE,11,21
+106,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,27,30
+107,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,20,19
+108,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,10,9
+109,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,27,3
+110,Bangkok,Bangkok is a major city known for its culture.,TRUE,30,28
+111,Medellín,Medellín is a major city known for its culture.,FALSE,18,14
+112,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,21,15
+113,Istanbul,Istanbul is a major city known for its culture.,TRUE,12,17
+114,Toronto,Toronto is a major city known for its culture.,TRUE,30,15
+115,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,9,23
+116,Milan,Milan is a major city known for its culture.,TRUE,21,29
+117,Mumbai,Mumbai is a major city known for its culture.,TRUE,19,12
+118,Sydney,Sydney is a major city known for its culture.,FALSE,2,16
+119,Medellín,Medellín is a major city known for its culture.,FALSE,17,27
+120,Milan,Milan is a major city known for its culture.,FALSE,11,21
+121,Cape Town,Cape Town is a major city known for its culture.,FALSE,11,8
+122,Cape Town,Cape Town is a major city known for its culture.,TRUE,4,1
+123,Lahore,Lahore is a major city known for its culture.,FALSE,4,20
+124,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,3,28
+125,Cairo,Cairo is a major city known for its culture.,TRUE,28,20
+126,Manila,Manila is a major city known for its culture.,TRUE,26,18
+127,Warsaw,Warsaw is a major city known for its culture.,TRUE,3,7
+128,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,1,22
+129,Milan,Milan is a major city known for its culture.,TRUE,9,14
+130,Warsaw,Warsaw is a major city known for its culture.,FALSE,20,10
+131,Bangkok,Bangkok is a major city known for its culture.,FALSE,30,21
+132,Cairo,Cairo is a major city known for its culture.,TRUE,12,18
+133,Seoul,Seoul is a major city known for its culture.,FALSE,7,12
+134,Cairo,Cairo is a major city known for its culture.,TRUE,1,10
+135,Jakarta,Jakarta is a major city known for its culture.,TRUE,28,28
+136,Seoul,Seoul is a major city known for its culture.,FALSE,5,27
+137,Hanoi,Hanoi is a major city known for its culture.,FALSE,14,27
+138,Tokyo,Tokyo is a major city known for its culture.,FALSE,14,23
+139,Munich,Munich is a major city known for its culture.,TRUE,1,26
+140,Cairo,Cairo is a major city known for its culture.,FALSE,7,3
+141,Toronto,Toronto is a major city known for its culture.,FALSE,3,7
+142,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,15,13
+143,Paris,Paris is a major city known for its culture.,FALSE,22,12
+144,Milan,Milan is a major city known for its culture.,FALSE,10,7
+145,Toronto,Toronto is a major city known for its culture.,TRUE,28,7
+146,Cape Town,Cape Town is a major city known for its culture.,FALSE,20,30
+147,Sydney,Sydney is a major city known for its culture.,FALSE,8,26
+148,Riyadh,Riyadh is a major city known for its culture.,TRUE,27,18
+149,Riyadh,Riyadh is a major city known for its culture.,FALSE,10,12
+150,Lahore,Lahore is a major city known for its culture.,FALSE,28,15
+151,Lagos,Lagos is a major city known for its culture.,FALSE,19,4
+152,Medellín,Medellín is a major city known for its culture.,FALSE,4,9
+153,Seoul,Seoul is a major city known for its culture.,FALSE,2,29
+154,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,10,19
+155,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,28,18
+156,Toronto,Toronto is a major city known for its culture.,TRUE,4,19
+157,Tokyo,Tokyo is a major city known for its culture.,FALSE,13,23
+158,Bangkok,Bangkok is a major city known for its culture.,TRUE,12,2
+159,Tokyo,Tokyo is a major city known for its culture.,TRUE,1,18
+160,Lahore,Lahore is a major city known for its culture.,FALSE,22,9
+161,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,10,4
+162,Hanoi,Hanoi is a major city known for its culture.,FALSE,9,24
+163,Barcelona,Barcelona is a major city known for its culture.,FALSE,15,20
+164,Mumbai,Mumbai is a major city known for its culture.,TRUE,21,23
+165,Jakarta,Jakarta is a major city known for its culture.,FALSE,17,10
+166,Manila,Manila is a major city known for its culture.,FALSE,30,1
+167,Paris,Paris is a major city known for its culture.,TRUE,5,28
+168,Lahore,Lahore is a major city known for its culture.,TRUE,4,16
+169,Hanoi,Hanoi is a major city known for its culture.,FALSE,10,11
+170,Stockholm,Stockholm is a major city known for its culture.,FALSE,12,9
+171,Jakarta,Jakarta is a major city known for its culture.,FALSE,14,16
+172,Mumbai,Mumbai is a major city known for its culture.,FALSE,9,13
+173,Manila,Manila is a major city known for its culture.,FALSE,7,5
+174,Cairo,Cairo is a major city known for its culture.,TRUE,27,28
+175,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,8,5
+176,Medellín,Medellín is a major city known for its culture.,TRUE,3,18
+177,Barcelona,Barcelona is a major city known for its culture.,FALSE,28,7
+178,Bangkok,Bangkok is a major city known for its culture.,FALSE,18,3
+179,Hanoi,Hanoi is a major city known for its culture.,FALSE,11,2
+180,Stockholm,Stockholm is a major city known for its culture.,FALSE,24,13
+181,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,30,10
+182,Toronto,Toronto is a major city known for its culture.,FALSE,14,3
+183,Sydney,Sydney is a major city known for its culture.,TRUE,12,28
+184,Cape Town,Cape Town is a major city known for its culture.,TRUE,1,2
+185,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,14,13
+186,Stockholm,Stockholm is a major city known for its culture.,FALSE,2,28
+187,Warsaw,Warsaw is a major city known for its culture.,FALSE,8,24
+188,Nairobi,Nairobi is a major city known for its culture.,TRUE,19,9
+189,Cairo,Cairo is a major city known for its culture.,TRUE,18,3
+190,Cape Town,Cape Town is a major city known for its culture.,FALSE,10,18
+191,Istanbul,Istanbul is a major city known for its culture.,FALSE,21,16
+192,Tokyo,Tokyo is a major city known for its culture.,TRUE,4,24
+193,Stockholm,Stockholm is a major city known for its culture.,FALSE,19,16
+194,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,7,27
+195,Tokyo,Tokyo is a major city known for its culture.,TRUE,3,20
+196,Paris,Paris is a major city known for its culture.,TRUE,22,29
+197,Hanoi,Hanoi is a major city known for its culture.,FALSE,19,26
+198,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,11,21
+199,Nairobi,Nairobi is a major city known for its culture.,FALSE,23,25
+200,Medellín,Medellín is a major city known for its culture.,FALSE,5,21
+201,Moscow,Moscow is a major city known for its culture.,TRUE,5,20
+202,Milan,Milan is a major city known for its culture.,FALSE,19,25
+203,Moscow,Moscow is a major city known for its culture.,TRUE,18,2
+204,Warsaw,Warsaw is a major city known for its culture.,TRUE,5,27
+205,Stockholm,Stockholm is a major city known for its culture.,TRUE,17,1
+206,Paris,Paris is a major city known for its culture.,FALSE,28,30
+207,Barcelona,Barcelona is a major city known for its culture.,FALSE,15,8
+208,Hanoi,Hanoi is a major city known for its culture.,TRUE,10,26
+209,Jakarta,Jakarta is a major city known for its culture.,TRUE,12,11
+210,Munich,Munich is a major city known for its culture.,TRUE,17,4
+211,London,London is a major city known for its culture.,TRUE,4,13
+212,Moscow,Moscow is a major city known for its culture.,FALSE,20,20
+213,Mumbai,Mumbai is a major city known for its culture.,FALSE,1,23
+214,Lagos,Lagos is a major city known for its culture.,FALSE,2,28
+215,Jakarta,Jakarta is a major city known for its culture.,TRUE,13,10
+216,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,15,30
+217,Tokyo,Tokyo is a major city known for its culture.,TRUE,18,11
+218,Lagos,Lagos is a major city known for its culture.,FALSE,4,25
+219,Riyadh,Riyadh is a major city known for its culture.,FALSE,9,19
+220,London,London is a major city known for its culture.,TRUE,30,4
+221,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,9,28
+222,London,London is a major city known for its culture.,FALSE,5,10
+223,Cairo,Cairo is a major city known for its culture.,TRUE,26,20
+224,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,4,22
+225,Medellín,Medellín is a major city known for its culture.,FALSE,29,25
+226,Cape Town,Cape Town is a major city known for its culture.,FALSE,21,14
+227,Seoul,Seoul is a major city known for its culture.,FALSE,2,6
+228,Moscow,Moscow is a major city known for its culture.,TRUE,29,2
+229,Barcelona,Barcelona is a major city known for its culture.,TRUE,24,30
+230,Toronto,Toronto is a major city known for its culture.,TRUE,11,6
+231,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,17,10
+232,Sydney,Sydney is a major city known for its culture.,TRUE,19,14
+233,Lahore,Lahore is a major city known for its culture.,FALSE,29,3
+234,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,24,10
+235,Warsaw,Warsaw is a major city known for its culture.,FALSE,5,18
+236,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,24,2
+237,Warsaw,Warsaw is a major city known for its culture.,TRUE,4,3
+238,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,25,9
+239,Sydney,Sydney is a major city known for its culture.,TRUE,4,3
+240,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,20,21
+241,Lahore,Lahore is a major city known for its culture.,TRUE,9,24
+242,Riyadh,Riyadh is a major city known for its culture.,TRUE,25,26
+243,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,24,6
+244,Mumbai,Mumbai is a major city known for its culture.,FALSE,25,14
+245,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,5,20
+246,Jakarta,Jakarta is a major city known for its culture.,TRUE,23,20
+247,London,London is a major city known for its culture.,TRUE,17,5
+248,Milan,Milan is a major city known for its culture.,FALSE,12,22
+249,Lagos,Lagos is a major city known for its culture.,FALSE,19,24
+250,Medellín,Medellín is a major city known for its culture.,TRUE,25,3
+251,Bangkok,Bangkok is a major city known for its culture.,FALSE,7,10
+252,London,London is a major city known for its culture.,TRUE,1,12
+253,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,19,23
+254,Sydney,Sydney is a major city known for its culture.,FALSE,23,19
+255,Stockholm,Stockholm is a major city known for its culture.,TRUE,23,13
+256,Mumbai,Mumbai is a major city known for its culture.,TRUE,28,29
+257,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,28,16
+258,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,22,12
+259,Lagos,Lagos is a major city known for its culture.,FALSE,21,5
+260,Toronto,Toronto is a major city known for its culture.,TRUE,24,27
+261,Riyadh,Riyadh is a major city known for its culture.,TRUE,6,19
+262,Lagos,Lagos is a major city known for its culture.,FALSE,9,20
+263,Tokyo,Tokyo is a major city known for its culture.,FALSE,1,9
+264,Seoul,Seoul is a major city known for its culture.,TRUE,9,11
+265,Milan,Milan is a major city known for its culture.,TRUE,16,23
+266,Lahore,Lahore is a major city known for its culture.,FALSE,19,23
+267,Cairo,Cairo is a major city known for its culture.,FALSE,16,29
+268,Bangkok,Bangkok is a major city known for its culture.,TRUE,9,4
+269,Warsaw,Warsaw is a major city known for its culture.,TRUE,18,11
+270,Tokyo,Tokyo is a major city known for its culture.,TRUE,29,27
+271,Munich,Munich is a major city known for its culture.,TRUE,17,9
+272,Milan,Milan is a major city known for its culture.,TRUE,30,5
+273,Milan,Milan is a major city known for its culture.,TRUE,21,21
+274,Toronto,Toronto is a major city known for its culture.,TRUE,8,4
+275,Stockholm,Stockholm is a major city known for its culture.,FALSE,26,6
+276,Paris,Paris is a major city known for its culture.,TRUE,9,24
+277,Stockholm,Stockholm is a major city known for its culture.,TRUE,9,18
+278,Bangkok,Bangkok is a major city known for its culture.,FALSE,8,6
+279,Riyadh,Riyadh is a major city known for its culture.,FALSE,5,8
+280,Munich,Munich is a major city known for its culture.,FALSE,2,6
+281,Munich,Munich is a major city known for its culture.,TRUE,3,3
+282,Sydney,Sydney is a major city known for its culture.,FALSE,3,14
+283,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,15,30
+284,Mumbai,Mumbai is a major city known for its culture.,TRUE,24,21
+285,Istanbul,Istanbul is a major city known for its culture.,TRUE,4,29
+286,Manila,Manila is a major city known for its culture.,TRUE,9,25
+287,Istanbul,Istanbul is a major city known for its culture.,FALSE,25,16
+288,Paris,Paris is a major city known for its culture.,FALSE,28,24
+289,Manila,Manila is a major city known for its culture.,FALSE,8,23
+290,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,19,20
+291,Paris,Paris is a major city known for its culture.,TRUE,21,3
+292,Warsaw,Warsaw is a major city known for its culture.,FALSE,3,16
+293,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,7,25
+294,Istanbul,Istanbul is a major city known for its culture.,TRUE,7,30
+295,Tokyo,Tokyo is a major city known for its culture.,TRUE,15,26
+296,Cairo,Cairo is a major city known for its culture.,FALSE,10,15
+297,Cairo,Cairo is a major city known for its culture.,TRUE,4,22
+298,Toronto,Toronto is a major city known for its culture.,TRUE,21,10
+299,Istanbul,Istanbul is a major city known for its culture.,TRUE,6,11
+300,Lagos,Lagos is a major city known for its culture.,TRUE,30,16
+301,Mumbai,Mumbai is a major city known for its culture.,FALSE,2,14
+302,Manila,Manila is a major city known for its culture.,TRUE,6,4
+303,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,8,21
+304,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,8,16
+305,Moscow,Moscow is a major city known for its culture.,FALSE,23,19
+306,Lahore,Lahore is a major city known for its culture.,TRUE,6,11
+307,Jakarta,Jakarta is a major city known for its culture.,TRUE,27,9
+308,Warsaw,Warsaw is a major city known for its culture.,FALSE,25,17
+309,Istanbul,Istanbul is a major city known for its culture.,FALSE,24,4
+310,Sydney,Sydney is a major city known for its culture.,TRUE,17,11
+311,Nairobi,Nairobi is a major city known for its culture.,FALSE,4,1
+312,Sydney,Sydney is a major city known for its culture.,FALSE,21,25
+313,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,18,10
+314,Riyadh,Riyadh is a major city known for its culture.,TRUE,11,22
+315,Warsaw,Warsaw is a major city known for its culture.,FALSE,8,8
+316,São Paulo,São Paulo is a major city known for its culture.,FALSE,29,6
+317,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,9,8
+318,Jakarta,Jakarta is a major city known for its culture.,FALSE,20,1
+319,Seoul,Seoul is a major city known for its culture.,TRUE,6,15
+320,Medellín,Medellín is a major city known for its culture.,FALSE,17,6
+321,Milan,Milan is a major city known for its culture.,FALSE,23,30
+322,Paris,Paris is a major city known for its culture.,FALSE,11,8
+323,Cape Town,Cape Town is a major city known for its culture.,FALSE,8,2
+324,Manila,Manila is a major city known for its culture.,TRUE,7,27
+325,Mumbai,Mumbai is a major city known for its culture.,FALSE,21,27
+326,Sydney,Sydney is a major city known for its culture.,TRUE,5,7
+327,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,12,13
+328,Riyadh,Riyadh is a major city known for its culture.,TRUE,1,14
+329,Seoul,Seoul is a major city known for its culture.,TRUE,12,23
+330,Munich,Munich is a major city known for its culture.,FALSE,24,9
+331,Istanbul,Istanbul is a major city known for its culture.,TRUE,7,14
+332,London,London is a major city known for its culture.,FALSE,15,10
+333,Medellín,Medellín is a major city known for its culture.,FALSE,8,23
+334,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,15,14
+335,Jakarta,Jakarta is a major city known for its culture.,FALSE,17,19
+336,Tokyo,Tokyo is a major city known for its culture.,TRUE,15,2
+337,Sydney,Sydney is a major city known for its culture.,FALSE,20,9
+338,Warsaw,Warsaw is a major city known for its culture.,TRUE,17,18
+339,Jakarta,Jakarta is a major city known for its culture.,FALSE,30,26
+340,Toronto,Toronto is a major city known for its culture.,TRUE,14,20
+341,Seoul,Seoul is a major city known for its culture.,TRUE,22,21
+342,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,12,17
+343,Cape Town,Cape Town is a major city known for its culture.,TRUE,29,5
+344,Riyadh,Riyadh is a major city known for its culture.,FALSE,21,1
+345,London,London is a major city known for its culture.,FALSE,2,11
+346,Sydney,Sydney is a major city known for its culture.,FALSE,3,14
+347,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,15,24
+348,Paris,Paris is a major city known for its culture.,FALSE,8,9
+349,Milan,Milan is a major city known for its culture.,TRUE,5,2
+350,Nairobi,Nairobi is a major city known for its culture.,FALSE,7,4
+351,Sydney,Sydney is a major city known for its culture.,TRUE,17,17
+352,Toronto,Toronto is a major city known for its culture.,TRUE,27,28
+353,Paris,Paris is a major city known for its culture.,FALSE,23,6
+354,Bangkok,Bangkok is a major city known for its culture.,TRUE,21,24
+355,Stockholm,Stockholm is a major city known for its culture.,TRUE,8,10
+356,Lahore,Lahore is a major city known for its culture.,FALSE,9,27
+357,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,7,28
+358,Milan,Milan is a major city known for its culture.,FALSE,15,28
+359,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,24,1
+360,Barcelona,Barcelona is a major city known for its culture.,FALSE,6,7
+361,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,28,28
+362,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,23,19
+363,Seoul,Seoul is a major city known for its culture.,TRUE,24,17
+364,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,26,19
+365,Munich,Munich is a major city known for its culture.,FALSE,9,10
+366,Medellín,Medellín is a major city known for its culture.,TRUE,26,13
+367,Riyadh,Riyadh is a major city known for its culture.,TRUE,13,21
+368,Riyadh,Riyadh is a major city known for its culture.,FALSE,17,18
+369,Cape Town,Cape Town is a major city known for its culture.,FALSE,22,16
+370,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,28,2
+371,Tokyo,Tokyo is a major city known for its culture.,FALSE,13,17
+372,Seoul,Seoul is a major city known for its culture.,FALSE,19,12
+373,Bangkok,Bangkok is a major city known for its culture.,FALSE,9,26
+374,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,13,2
+375,Tokyo,Tokyo is a major city known for its culture.,FALSE,6,11
+376,Lagos,Lagos is a major city known for its culture.,FALSE,21,3
+377,Jakarta,Jakarta is a major city known for its culture.,FALSE,28,3
+378,Milan,Milan is a major city known for its culture.,FALSE,17,29
+379,Mumbai,Mumbai is a major city known for its culture.,TRUE,18,26
+380,Mumbai,Mumbai is a major city known for its culture.,FALSE,16,30
+381,Mumbai,Mumbai is a major city known for its culture.,TRUE,19,16
+382,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,5,11
+383,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,30,27
+384,Lagos,Lagos is a major city known for its culture.,FALSE,7,8
+385,Moscow,Moscow is a major city known for its culture.,TRUE,14,29
+386,Lahore,Lahore is a major city known for its culture.,TRUE,12,15
+387,Toronto,Toronto is a major city known for its culture.,FALSE,13,21
+388,Lagos,Lagos is a major city known for its culture.,FALSE,3,16
+389,Milan,Milan is a major city known for its culture.,FALSE,22,2
+390,Medellín,Medellín is a major city known for its culture.,TRUE,17,12
+391,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,15,20
+392,Riyadh,Riyadh is a major city known for its culture.,TRUE,2,14
+393,Tokyo,Tokyo is a major city known for its culture.,TRUE,30,16
+394,London,London is a major city known for its culture.,TRUE,7,24
+395,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,30,2
+396,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,9,9
+397,São Paulo,São Paulo is a major city known for its culture.,TRUE,18,11
+398,Riyadh,Riyadh is a major city known for its culture.,FALSE,5,20
+399,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,2,12
+400,London,London is a major city known for its culture.,FALSE,17,4
+401,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,30,25
+402,Toronto,Toronto is a major city known for its culture.,FALSE,1,1
+403,Lagos,Lagos is a major city known for its culture.,FALSE,2,25
+404,Toronto,Toronto is a major city known for its culture.,TRUE,29,15
+405,Moscow,Moscow is a major city known for its culture.,FALSE,24,7
+406,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,9,11
+407,Istanbul,Istanbul is a major city known for its culture.,TRUE,1,15
+408,Riyadh,Riyadh is a major city known for its culture.,TRUE,27,26
+409,Lagos,Lagos is a major city known for its culture.,TRUE,21,8
+410,Lagos,Lagos is a major city known for its culture.,FALSE,8,14
+411,Paris,Paris is a major city known for its culture.,TRUE,6,2
+412,São Paulo,São Paulo is a major city known for its culture.,FALSE,7,3
+413,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,29,16
+414,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,12,17
+415,São Paulo,São Paulo is a major city known for its culture.,FALSE,27,6
+416,Lagos,Lagos is a major city known for its culture.,FALSE,23,25
+417,Barcelona,Barcelona is a major city known for its culture.,FALSE,7,11
+418,Cape Town,Cape Town is a major city known for its culture.,TRUE,6,30
+419,Lahore,Lahore is a major city known for its culture.,FALSE,8,21
+420,Stockholm,Stockholm is a major city known for its culture.,FALSE,20,28
+421,Riyadh,Riyadh is a major city known for its culture.,FALSE,2,1
+422,Cairo,Cairo is a major city known for its culture.,FALSE,4,13
+423,Milan,Milan is a major city known for its culture.,TRUE,25,22
+424,Milan,Milan is a major city known for its culture.,TRUE,14,25
+425,Sydney,Sydney is a major city known for its culture.,TRUE,24,13
+426,Cape Town,Cape Town is a major city known for its culture.,TRUE,27,25
+427,Milan,Milan is a major city known for its culture.,TRUE,21,27
+428,Stockholm,Stockholm is a major city known for its culture.,TRUE,16,11
+429,Toronto,Toronto is a major city known for its culture.,FALSE,25,18
+430,Cairo,Cairo is a major city known for its culture.,FALSE,9,1
+431,Toronto,Toronto is a major city known for its culture.,TRUE,24,28
+432,Barcelona,Barcelona is a major city known for its culture.,FALSE,28,19
+433,Sydney,Sydney is a major city known for its culture.,TRUE,23,20
+434,Paris,Paris is a major city known for its culture.,FALSE,21,14
+435,Warsaw,Warsaw is a major city known for its culture.,TRUE,8,8
+436,Riyadh,Riyadh is a major city known for its culture.,FALSE,16,7
+437,Lahore,Lahore is a major city known for its culture.,TRUE,10,5
+438,Moscow,Moscow is a major city known for its culture.,FALSE,9,5
+439,Manila,Manila is a major city known for its culture.,TRUE,12,21
+440,Sydney,Sydney is a major city known for its culture.,FALSE,18,6
+441,Paris,Paris is a major city known for its culture.,TRUE,11,30
+442,Cairo,Cairo is a major city known for its culture.,TRUE,12,5
+443,Lagos,Lagos is a major city known for its culture.,TRUE,28,24
+444,Nairobi,Nairobi is a major city known for its culture.,FALSE,22,13
+445,Riyadh,Riyadh is a major city known for its culture.,FALSE,22,25
+446,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,11,23
+447,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,28,11
+448,Sydney,Sydney is a major city known for its culture.,TRUE,12,25
+449,Medellín,Medellín is a major city known for its culture.,TRUE,24,24
+450,Manila,Manila is a major city known for its culture.,FALSE,22,18
+451,Stockholm,Stockholm is a major city known for its culture.,TRUE,3,1
+452,Riyadh,Riyadh is a major city known for its culture.,FALSE,22,20
+453,Medellín,Medellín is a major city known for its culture.,FALSE,27,1
+454,Riyadh,Riyadh is a major city known for its culture.,FALSE,29,26
+455,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,9,7
+456,Stockholm,Stockholm is a major city known for its culture.,FALSE,20,2
+457,Seoul,Seoul is a major city known for its culture.,FALSE,1,12
+458,London,London is a major city known for its culture.,FALSE,8,25
+459,Jakarta,Jakarta is a major city known for its culture.,FALSE,12,19
+460,Cape Town,Cape Town is a major city known for its culture.,TRUE,10,19
+461,Warsaw,Warsaw is a major city known for its culture.,FALSE,13,18
+462,Paris,Paris is a major city known for its culture.,TRUE,2,14
+463,London,London is a major city known for its culture.,TRUE,12,20
+464,Riyadh,Riyadh is a major city known for its culture.,FALSE,30,25
+465,Toronto,Toronto is a major city known for its culture.,TRUE,13,20
+466,São Paulo,São Paulo is a major city known for its culture.,TRUE,12,18
+467,Barcelona,Barcelona is a major city known for its culture.,TRUE,5,9
+468,Sydney,Sydney is a major city known for its culture.,TRUE,25,8
+469,Tokyo,Tokyo is a major city known for its culture.,TRUE,17,9
+470,Lagos,Lagos is a major city known for its culture.,TRUE,5,30
+471,Nairobi,Nairobi is a major city known for its culture.,FALSE,7,14
+472,Seoul,Seoul is a major city known for its culture.,FALSE,3,18
+473,Hanoi,Hanoi is a major city known for its culture.,TRUE,12,30
+474,Riyadh,Riyadh is a major city known for its culture.,FALSE,2,25
+475,Paris,Paris is a major city known for its culture.,FALSE,1,10
+476,São Paulo,São Paulo is a major city known for its culture.,FALSE,18,30
+477,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,3,23
+478,São Paulo,São Paulo is a major city known for its culture.,FALSE,29,2
+479,Riyadh,Riyadh is a major city known for its culture.,TRUE,27,18
+480,Moscow,Moscow is a major city known for its culture.,FALSE,21,16
+481,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,18,27
+482,Stockholm,Stockholm is a major city known for its culture.,FALSE,3,11
+483,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,23,18
+484,Stockholm,Stockholm is a major city known for its culture.,FALSE,20,28
+485,Milan,Milan is a major city known for its culture.,TRUE,8,6
+486,Nairobi,Nairobi is a major city known for its culture.,TRUE,6,22
+487,London,London is a major city known for its culture.,TRUE,26,5
+488,Stockholm,Stockholm is a major city known for its culture.,TRUE,29,16
+489,Lahore,Lahore is a major city known for its culture.,TRUE,22,28
+490,Riyadh,Riyadh is a major city known for its culture.,FALSE,8,18
+491,São Paulo,São Paulo is a major city known for its culture.,FALSE,12,25
+492,Paris,Paris is a major city known for its culture.,TRUE,10,1
+493,Medellín,Medellín is a major city known for its culture.,TRUE,14,6
+494,Milan,Milan is a major city known for its culture.,TRUE,7,5
+495,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,2,7
+496,Lagos,Lagos is a major city known for its culture.,TRUE,11,7
+497,Riyadh,Riyadh is a major city known for its culture.,TRUE,13,30
+498,Nairobi,Nairobi is a major city known for its culture.,TRUE,20,19
+499,Barcelona,Barcelona is a major city known for its culture.,FALSE,28,4
+500,Cairo,Cairo is a major city known for its culture.,TRUE,30,12
+501,Cape Town,Cape Town is a major city known for its culture.,FALSE,28,29
+502,Moscow,Moscow is a major city known for its culture.,TRUE,19,11
+503,Toronto,Toronto is a major city known for its culture.,TRUE,18,23
+504,Tokyo,Tokyo is a major city known for its culture.,TRUE,2,18
+505,Paris,Paris is a major city known for its culture.,TRUE,9,7
+506,Istanbul,Istanbul is a major city known for its culture.,FALSE,8,12
+507,Stockholm,Stockholm is a major city known for its culture.,FALSE,20,8
+508,Medellín,Medellín is a major city known for its culture.,FALSE,11,28
+509,Sydney,Sydney is a major city known for its culture.,TRUE,17,9
+510,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,9,1
+511,Manila,Manila is a major city known for its culture.,TRUE,18,7
+512,Tokyo,Tokyo is a major city known for its culture.,TRUE,27,25
+513,London,London is a major city known for its culture.,FALSE,28,29
+514,Istanbul,Istanbul is a major city known for its culture.,TRUE,18,24
+515,Jakarta,Jakarta is a major city known for its culture.,TRUE,14,15
+516,Munich,Munich is a major city known for its culture.,FALSE,17,2
+517,Toronto,Toronto is a major city known for its culture.,FALSE,20,8
+518,Nairobi,Nairobi is a major city known for its culture.,TRUE,30,22
+519,Bangkok,Bangkok is a major city known for its culture.,FALSE,1,15
+520,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,13,14
+521,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,11,27
+522,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,21,13
+523,Lahore,Lahore is a major city known for its culture.,TRUE,16,17
+524,Tokyo,Tokyo is a major city known for its culture.,TRUE,12,3
+525,Mumbai,Mumbai is a major city known for its culture.,FALSE,3,9
+526,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,28,22
+527,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,4,14
+528,Medellín,Medellín is a major city known for its culture.,FALSE,17,6
+529,Barcelona,Barcelona is a major city known for its culture.,FALSE,27,3
+530,Istanbul,Istanbul is a major city known for its culture.,FALSE,11,17
+531,Barcelona,Barcelona is a major city known for its culture.,TRUE,29,19
+532,Jakarta,Jakarta is a major city known for its culture.,TRUE,12,24
+533,Riyadh,Riyadh is a major city known for its culture.,FALSE,10,11
+534,Cape Town,Cape Town is a major city known for its culture.,FALSE,20,23
+535,Medellín,Medellín is a major city known for its culture.,TRUE,24,27
+536,Nairobi,Nairobi is a major city known for its culture.,FALSE,9,26
+537,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,6,16
+538,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,14,17
+539,Istanbul,Istanbul is a major city known for its culture.,FALSE,20,29
+540,Mumbai,Mumbai is a major city known for its culture.,FALSE,21,30
+541,Cape Town,Cape Town is a major city known for its culture.,FALSE,6,12
+542,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,16,29
+543,Riyadh,Riyadh is a major city known for its culture.,TRUE,11,8
+544,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,15,5
+545,Nairobi,Nairobi is a major city known for its culture.,TRUE,29,13
+546,São Paulo,São Paulo is a major city known for its culture.,TRUE,20,3
+547,Toronto,Toronto is a major city known for its culture.,FALSE,6,6
+548,London,London is a major city known for its culture.,TRUE,18,26
+549,Tokyo,Tokyo is a major city known for its culture.,TRUE,16,9
+550,Seoul,Seoul is a major city known for its culture.,TRUE,16,15
+551,Stockholm,Stockholm is a major city known for its culture.,TRUE,24,30
+552,London,London is a major city known for its culture.,TRUE,14,2
+553,Medellín,Medellín is a major city known for its culture.,FALSE,20,30
+554,Manila,Manila is a major city known for its culture.,FALSE,25,1
+555,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,30,16
+556,London,London is a major city known for its culture.,FALSE,19,4
+557,Stockholm,Stockholm is a major city known for its culture.,TRUE,18,10
+558,Istanbul,Istanbul is a major city known for its culture.,FALSE,18,11
+559,Mumbai,Mumbai is a major city known for its culture.,FALSE,6,11
+560,Hanoi,Hanoi is a major city known for its culture.,FALSE,26,25
+561,Jakarta,Jakarta is a major city known for its culture.,TRUE,10,24
+562,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,6,29
+563,Hanoi,Hanoi is a major city known for its culture.,TRUE,12,18
+564,Riyadh,Riyadh is a major city known for its culture.,FALSE,3,11
+565,Medellín,Medellín is a major city known for its culture.,FALSE,28,10
+566,Stockholm,Stockholm is a major city known for its culture.,TRUE,23,23
+567,Manila,Manila is a major city known for its culture.,TRUE,26,27
+568,Sydney,Sydney is a major city known for its culture.,TRUE,2,17
+569,Nairobi,Nairobi is a major city known for its culture.,FALSE,23,18
+570,Lagos,Lagos is a major city known for its culture.,TRUE,13,24
+571,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,11,22
+572,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,9,21
+573,Seoul,Seoul is a major city known for its culture.,TRUE,15,20
+574,Cape Town,Cape Town is a major city known for its culture.,TRUE,14,17
+575,Milan,Milan is a major city known for its culture.,FALSE,11,1
+576,Warsaw,Warsaw is a major city known for its culture.,FALSE,27,24
+577,Stockholm,Stockholm is a major city known for its culture.,FALSE,18,10
+578,Barcelona,Barcelona is a major city known for its culture.,TRUE,7,29
+579,Nairobi,Nairobi is a major city known for its culture.,TRUE,16,9
+580,Munich,Munich is a major city known for its culture.,TRUE,21,21
+581,Moscow,Moscow is a major city known for its culture.,FALSE,7,10
+582,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,15,16
+583,Munich,Munich is a major city known for its culture.,FALSE,11,4
+584,Lahore,Lahore is a major city known for its culture.,FALSE,3,13
+585,Seoul,Seoul is a major city known for its culture.,TRUE,19,22
+586,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,29,11
+587,São Paulo,São Paulo is a major city known for its culture.,TRUE,21,21
+588,Toronto,Toronto is a major city known for its culture.,TRUE,11,19
+589,London,London is a major city known for its culture.,TRUE,7,10
+590,Riyadh,Riyadh is a major city known for its culture.,FALSE,5,14
+591,Cape Town,Cape Town is a major city known for its culture.,TRUE,10,1
+592,Warsaw,Warsaw is a major city known for its culture.,TRUE,17,2
+593,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,19,8
+594,Paris,Paris is a major city known for its culture.,TRUE,23,7
+595,Tokyo,Tokyo is a major city known for its culture.,FALSE,21,23
+596,Warsaw,Warsaw is a major city known for its culture.,TRUE,28,23
+597,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,9,29
+598,Munich,Munich is a major city known for its culture.,FALSE,27,30
+599,Manila,Manila is a major city known for its culture.,FALSE,23,20
+600,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,27,1
+601,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,10,10
+602,Milan,Milan is a major city known for its culture.,TRUE,9,25
+603,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,22,1
+604,Stockholm,Stockholm is a major city known for its culture.,TRUE,16,3
+605,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,6,22
+606,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,19,23
+607,Mumbai,Mumbai is a major city known for its culture.,TRUE,21,16
+608,Cape Town,Cape Town is a major city known for its culture.,TRUE,12,15
+609,Nairobi,Nairobi is a major city known for its culture.,TRUE,15,9
+610,Milan,Milan is a major city known for its culture.,FALSE,29,4
+611,Paris,Paris is a major city known for its culture.,FALSE,25,7
+612,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,5,13
+613,Cape Town,Cape Town is a major city known for its culture.,TRUE,1,17
+614,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,12,28
+615,Warsaw,Warsaw is a major city known for its culture.,TRUE,26,10
+616,Munich,Munich is a major city known for its culture.,TRUE,27,28
+617,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,28,23
+618,Paris,Paris is a major city known for its culture.,TRUE,12,14
+619,Medellín,Medellín is a major city known for its culture.,TRUE,16,10
+620,Moscow,Moscow is a major city known for its culture.,FALSE,2,21
+621,Nairobi,Nairobi is a major city known for its culture.,TRUE,6,11
+622,Moscow,Moscow is a major city known for its culture.,FALSE,10,2
+623,Lahore,Lahore is a major city known for its culture.,TRUE,14,29
+624,Barcelona,Barcelona is a major city known for its culture.,TRUE,8,13
+625,Riyadh,Riyadh is a major city known for its culture.,FALSE,20,20
+626,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,26,4
+627,Barcelona,Barcelona is a major city known for its culture.,TRUE,5,1
+628,Cape Town,Cape Town is a major city known for its culture.,FALSE,5,15
+629,Munich,Munich is a major city known for its culture.,TRUE,11,24
+630,Hanoi,Hanoi is a major city known for its culture.,FALSE,24,3
+631,Lahore,Lahore is a major city known for its culture.,FALSE,23,8
+632,Moscow,Moscow is a major city known for its culture.,TRUE,11,1
+633,Stockholm,Stockholm is a major city known for its culture.,TRUE,13,19
+634,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,12,8
+635,Manila,Manila is a major city known for its culture.,TRUE,18,10
+636,Lahore,Lahore is a major city known for its culture.,TRUE,21,12
+637,Nairobi,Nairobi is a major city known for its culture.,FALSE,3,12
+638,Sydney,Sydney is a major city known for its culture.,FALSE,21,5
+639,Nairobi,Nairobi is a major city known for its culture.,FALSE,11,9
+640,Tokyo,Tokyo is a major city known for its culture.,TRUE,1,3
+641,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,15,9
+642,Stockholm,Stockholm is a major city known for its culture.,FALSE,10,9
+643,Jakarta,Jakarta is a major city known for its culture.,FALSE,20,3
+644,Paris,Paris is a major city known for its culture.,TRUE,27,24
+645,Warsaw,Warsaw is a major city known for its culture.,FALSE,30,6
+646,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,14,24
+647,Paris,Paris is a major city known for its culture.,FALSE,13,30
+648,Istanbul,Istanbul is a major city known for its culture.,FALSE,21,11
+649,Lahore,Lahore is a major city known for its culture.,FALSE,6,22
+650,Paris,Paris is a major city known for its culture.,TRUE,2,24
+651,Jakarta,Jakarta is a major city known for its culture.,TRUE,4,19
+652,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,26,7
+653,Mumbai,Mumbai is a major city known for its culture.,FALSE,13,12
+654,Riyadh,Riyadh is a major city known for its culture.,FALSE,21,21
+655,Nairobi,Nairobi is a major city known for its culture.,TRUE,23,6
+656,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,25,6
+657,Warsaw,Warsaw is a major city known for its culture.,TRUE,15,25
+658,Hanoi,Hanoi is a major city known for its culture.,TRUE,5,9
+659,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,25,21
+660,Istanbul,Istanbul is a major city known for its culture.,TRUE,6,7
+661,Cairo,Cairo is a major city known for its culture.,TRUE,17,3
+662,Cape Town,Cape Town is a major city known for its culture.,FALSE,1,28
+663,Istanbul,Istanbul is a major city known for its culture.,FALSE,8,3
+664,Moscow,Moscow is a major city known for its culture.,FALSE,13,6
+665,Hanoi,Hanoi is a major city known for its culture.,TRUE,13,17
+666,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,20,20
+667,Bangkok,Bangkok is a major city known for its culture.,FALSE,15,19
+668,Jakarta,Jakarta is a major city known for its culture.,FALSE,30,9
+669,Jakarta,Jakarta is a major city known for its culture.,TRUE,1,4
+670,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,13,14
+671,Istanbul,Istanbul is a major city known for its culture.,FALSE,28,24
+672,Moscow,Moscow is a major city known for its culture.,FALSE,20,8
+673,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,23,4
+674,Manila,Manila is a major city known for its culture.,TRUE,12,2
+675,Toronto,Toronto is a major city known for its culture.,FALSE,24,18
+676,Cape Town,Cape Town is a major city known for its culture.,FALSE,25,2
+677,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,2,1
+678,Lahore,Lahore is a major city known for its culture.,TRUE,7,25
+679,Mumbai,Mumbai is a major city known for its culture.,TRUE,30,15
+680,Cape Town,Cape Town is a major city known for its culture.,FALSE,6,27
+681,Tokyo,Tokyo is a major city known for its culture.,TRUE,25,14
+682,Riyadh,Riyadh is a major city known for its culture.,TRUE,6,29
+683,Lahore,Lahore is a major city known for its culture.,FALSE,29,8
+684,Jakarta,Jakarta is a major city known for its culture.,TRUE,14,17
+685,Cairo,Cairo is a major city known for its culture.,TRUE,20,26
+686,Toronto,Toronto is a major city known for its culture.,FALSE,11,6
+687,Warsaw,Warsaw is a major city known for its culture.,FALSE,1,21
+688,Paris,Paris is a major city known for its culture.,FALSE,24,30
+689,Paris,Paris is a major city known for its culture.,TRUE,21,8
+690,Mumbai,Mumbai is a major city known for its culture.,FALSE,16,21
+691,Seoul,Seoul is a major city known for its culture.,TRUE,29,8
+692,Medellín,Medellín is a major city known for its culture.,FALSE,12,6
+693,Riyadh,Riyadh is a major city known for its culture.,FALSE,16,1
+694,Istanbul,Istanbul is a major city known for its culture.,FALSE,9,9
+695,Medellín,Medellín is a major city known for its culture.,TRUE,9,17
+696,Toronto,Toronto is a major city known for its culture.,FALSE,26,26
+697,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,26,5
+698,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,4,7
+699,Toronto,Toronto is a major city known for its culture.,FALSE,11,2
+700,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,12,7
+701,Medellín,Medellín is a major city known for its culture.,FALSE,16,19
+702,Lagos,Lagos is a major city known for its culture.,FALSE,1,2
+703,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,15,13
+704,Seoul,Seoul is a major city known for its culture.,TRUE,22,15
+705,Bangkok,Bangkok is a major city known for its culture.,TRUE,6,4
+706,Istanbul,Istanbul is a major city known for its culture.,TRUE,4,7
+707,São Paulo,São Paulo is a major city known for its culture.,TRUE,18,28
+708,Toronto,Toronto is a major city known for its culture.,FALSE,23,13
+709,Lahore,Lahore is a major city known for its culture.,TRUE,9,30
+710,Seoul,Seoul is a major city known for its culture.,TRUE,20,17
+711,Warsaw,Warsaw is a major city known for its culture.,FALSE,30,28
+712,Stockholm,Stockholm is a major city known for its culture.,TRUE,21,27
+713,Jakarta,Jakarta is a major city known for its culture.,TRUE,14,15
+714,Cairo,Cairo is a major city known for its culture.,FALSE,17,21
+715,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,17,2
+716,Mumbai,Mumbai is a major city known for its culture.,TRUE,14,24
+717,Barcelona,Barcelona is a major city known for its culture.,FALSE,6,1
+718,Lahore,Lahore is a major city known for its culture.,TRUE,16,8
+719,Istanbul,Istanbul is a major city known for its culture.,TRUE,29,1
+720,Jakarta,Jakarta is a major city known for its culture.,FALSE,3,4
+721,London,London is a major city known for its culture.,TRUE,11,15
+722,Moscow,Moscow is a major city known for its culture.,TRUE,3,17
+723,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,13,3
+724,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,27,7
+725,Warsaw,Warsaw is a major city known for its culture.,TRUE,27,22
+726,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,28,21
+727,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,21,2
+728,Riyadh,Riyadh is a major city known for its culture.,TRUE,25,15
+729,São Paulo,São Paulo is a major city known for its culture.,FALSE,22,4
+730,São Paulo,São Paulo is a major city known for its culture.,FALSE,26,9
+731,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,13,11
+732,Lagos,Lagos is a major city known for its culture.,FALSE,14,9
+733,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,29,29
+734,London,London is a major city known for its culture.,TRUE,15,28
+735,Warsaw,Warsaw is a major city known for its culture.,TRUE,9,30
+736,Munich,Munich is a major city known for its culture.,FALSE,18,3
+737,Tokyo,Tokyo is a major city known for its culture.,FALSE,24,26
+738,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,5,16
+739,Seoul,Seoul is a major city known for its culture.,FALSE,27,3
+740,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,19,20
+741,Moscow,Moscow is a major city known for its culture.,FALSE,19,21
+742,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,23,4
+743,Stockholm,Stockholm is a major city known for its culture.,TRUE,23,30
+744,Manila,Manila is a major city known for its culture.,FALSE,19,21
+745,Tokyo,Tokyo is a major city known for its culture.,TRUE,8,17
+746,Munich,Munich is a major city known for its culture.,FALSE,13,17
+747,Sydney,Sydney is a major city known for its culture.,TRUE,30,15
+748,Hanoi,Hanoi is a major city known for its culture.,FALSE,27,29
+749,Warsaw,Warsaw is a major city known for its culture.,TRUE,2,23
+750,Milan,Milan is a major city known for its culture.,FALSE,23,4
+751,London,London is a major city known for its culture.,FALSE,3,5
+752,Istanbul,Istanbul is a major city known for its culture.,FALSE,28,6
+753,Stockholm,Stockholm is a major city known for its culture.,FALSE,29,16
+754,Jakarta,Jakarta is a major city known for its culture.,TRUE,19,7
+755,Stockholm,Stockholm is a major city known for its culture.,TRUE,14,15
+756,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,22,6
+757,Stockholm,Stockholm is a major city known for its culture.,FALSE,12,12
+758,Seoul,Seoul is a major city known for its culture.,FALSE,6,8
+759,Lagos,Lagos is a major city known for its culture.,FALSE,5,2
+760,Stockholm,Stockholm is a major city known for its culture.,TRUE,11,1
+761,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,10,12
+762,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,12,9
+763,Seoul,Seoul is a major city known for its culture.,FALSE,7,1
+764,Jakarta,Jakarta is a major city known for its culture.,TRUE,11,20
+765,Seoul,Seoul is a major city known for its culture.,TRUE,29,10
+766,Munich,Munich is a major city known for its culture.,FALSE,4,11
+767,São Paulo,São Paulo is a major city known for its culture.,FALSE,11,3
+768,Munich,Munich is a major city known for its culture.,FALSE,23,14
+769,Manila,Manila is a major city known for its culture.,FALSE,23,13
+770,Barcelona,Barcelona is a major city known for its culture.,TRUE,10,2
+771,Barcelona,Barcelona is a major city known for its culture.,TRUE,17,13
+772,Seoul,Seoul is a major city known for its culture.,FALSE,29,23
+773,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,TRUE,27,9
+774,Paris,Paris is a major city known for its culture.,FALSE,28,19
+775,Seoul,Seoul is a major city known for its culture.,FALSE,27,8
+776,Seoul,Seoul is a major city known for its culture.,TRUE,28,14
+777,Paris,Paris is a major city known for its culture.,TRUE,28,12
+778,Tokyo,Tokyo is a major city known for its culture.,FALSE,23,5
+779,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,9,30
+780,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,8,6
+781,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,2,22
+782,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,8,14
+783,Riyadh,Riyadh is a major city known for its culture.,FALSE,14,21
+784,Mumbai,Mumbai is a major city known for its culture.,TRUE,23,9
+785,Hanoi,Hanoi is a major city known for its culture.,FALSE,4,18
+786,London,London is a major city known for its culture.,TRUE,28,16
+787,Barcelona,Barcelona is a major city known for its culture.,TRUE,16,20
+788,Hanoi,Hanoi is a major city known for its culture.,TRUE,14,13
+789,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,7,1
+790,Nairobi,Nairobi is a major city known for its culture.,FALSE,18,18
+791,Seoul,Seoul is a major city known for its culture.,TRUE,1,15
+792,Cape Town,Cape Town is a major city known for its culture.,TRUE,9,2
+793,Medellín,Medellín is a major city known for its culture.,TRUE,14,4
+794,Medellín,Medellín is a major city known for its culture.,FALSE,1,21
+795,Riyadh,Riyadh is a major city known for its culture.,FALSE,5,5
+796,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,12,22
+797,Cape Town,Cape Town is a major city known for its culture.,TRUE,3,11
+798,Cairo,Cairo is a major city known for its culture.,TRUE,9,16
+799,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,7,24
+800,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,23,21
+801,Warsaw,Warsaw is a major city known for its culture.,TRUE,26,18
+802,Moscow,Moscow is a major city known for its culture.,TRUE,15,7
+803,Manila,Manila is a major city known for its culture.,FALSE,11,21
+804,Moscow,Moscow is a major city known for its culture.,FALSE,20,20
+805,Warsaw,Warsaw is a major city known for its culture.,FALSE,10,11
+806,Munich,Munich is a major city known for its culture.,TRUE,8,25
+807,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,16,19
+808,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,12,22
+809,São Paulo,São Paulo is a major city known for its culture.,TRUE,8,15
+810,Paris,Paris is a major city known for its culture.,FALSE,11,29
+811,São Paulo,São Paulo is a major city known for its culture.,TRUE,14,22
+812,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,6,19
+813,Riyadh,Riyadh is a major city known for its culture.,FALSE,1,23
+814,Seoul,Seoul is a major city known for its culture.,TRUE,21,30
+815,Medellín,Medellín is a major city known for its culture.,FALSE,23,29
+816,Paris,Paris is a major city known for its culture.,TRUE,6,30
+817,Mumbai,Mumbai is a major city known for its culture.,FALSE,25,21
+818,Moscow,Moscow is a major city known for its culture.,FALSE,7,10
+819,Sydney,Sydney is a major city known for its culture.,FALSE,24,25
+820,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,3,20
+821,Barcelona,Barcelona is a major city known for its culture.,TRUE,3,7
+822,Lagos,Lagos is a major city known for its culture.,FALSE,10,18
+823,Medellín,Medellín is a major city known for its culture.,TRUE,21,18
+824,Jakarta,Jakarta is a major city known for its culture.,TRUE,29,29
+825,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,15,10
+826,Nairobi,Nairobi is a major city known for its culture.,TRUE,17,26
+827,Munich,Munich is a major city known for its culture.,TRUE,29,19
+828,Manila,Manila is a major city known for its culture.,TRUE,12,30
+829,Toronto,Toronto is a major city known for its culture.,TRUE,30,3
+830,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,29,23
+831,Seoul,Seoul is a major city known for its culture.,FALSE,18,19
+832,Manila,Manila is a major city known for its culture.,FALSE,18,5
+833,São Paulo,São Paulo is a major city known for its culture.,FALSE,9,29
+834,São Paulo,São Paulo is a major city known for its culture.,TRUE,5,19
+835,Mumbai,Mumbai is a major city known for its culture.,FALSE,9,8
+836,Jakarta,Jakarta is a major city known for its culture.,FALSE,27,16
+837,Milan,Milan is a major city known for its culture.,TRUE,24,20
+838,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,17,8
+839,Moscow,Moscow is a major city known for its culture.,TRUE,16,13
+840,London,London is a major city known for its culture.,FALSE,5,4
+841,Warsaw,Warsaw is a major city known for its culture.,TRUE,9,17
+842,Warsaw,Warsaw is a major city known for its culture.,TRUE,19,13
+843,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,5,7
+844,Warsaw,Warsaw is a major city known for its culture.,TRUE,10,20
+845,Lahore,Lahore is a major city known for its culture.,TRUE,25,27
+846,Istanbul,Istanbul is a major city known for its culture.,TRUE,20,1
+847,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,23,18
+848,Lagos,Lagos is a major city known for its culture.,TRUE,19,25
+849,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,13,21
+850,Bangkok,Bangkok is a major city known for its culture.,FALSE,8,13
+851,Tokyo,Tokyo is a major city known for its culture.,TRUE,27,29
+852,Cairo,Cairo is a major city known for its culture.,FALSE,16,15
+853,Seoul,Seoul is a major city known for its culture.,TRUE,4,27
+854,Tokyo,Tokyo is a major city known for its culture.,TRUE,16,25
+855,Medellín,Medellín is a major city known for its culture.,FALSE,3,18
+856,Tokyo,Tokyo is a major city known for its culture.,FALSE,27,1
+857,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,25,22
+858,Tokyo,Tokyo is a major city known for its culture.,TRUE,22,29
+859,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,11,15
+860,Medellín,Medellín is a major city known for its culture.,FALSE,4,10
+861,Nairobi,Nairobi is a major city known for its culture.,TRUE,10,17
+862,Riyadh,Riyadh is a major city known for its culture.,FALSE,12,20
+863,Cairo,Cairo is a major city known for its culture.,TRUE,23,16
+864,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,17,11
+865,Lahore,Lahore is a major city known for its culture.,TRUE,14,1
+866,Seoul,Seoul is a major city known for its culture.,TRUE,4,21
+867,Lahore,Lahore is a major city known for its culture.,FALSE,21,3
+868,Tokyo,Tokyo is a major city known for its culture.,FALSE,20,22
+869,São Paulo,São Paulo is a major city known for its culture.,TRUE,21,6
+870,Manila,Manila is a major city known for its culture.,FALSE,25,2
+871,Toronto,Toronto is a major city known for its culture.,FALSE,14,23
+872,Mumbai,Mumbai is a major city known for its culture.,FALSE,3,18
+873,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,3,3
+874,Medellín,Medellín is a major city known for its culture.,TRUE,11,19
+875,Manila,Manila is a major city known for its culture.,TRUE,18,24
+876,Manila,Manila is a major city known for its culture.,TRUE,11,22
+877,Sydney,Sydney is a major city known for its culture.,FALSE,4,25
+878,Bangkok,Bangkok is a major city known for its culture.,FALSE,11,1
+879,Nairobi,Nairobi is a major city known for its culture.,FALSE,1,13
+880,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,10,27
+881,São Paulo,São Paulo is a major city known for its culture.,TRUE,10,25
+882,Lahore,Lahore is a major city known for its culture.,FALSE,15,20
+883,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,9,25
+884,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,3,25
+885,Jakarta,Jakarta is a major city known for its culture.,FALSE,27,14
+886,Milan,Milan is a major city known for its culture.,FALSE,17,8
+887,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,1,18
+888,Milan,Milan is a major city known for its culture.,FALSE,1,10
+889,Cairo,Cairo is a major city known for its culture.,TRUE,14,5
+890,Paris,Paris is a major city known for its culture.,TRUE,24,17
+891,Manila,Manila is a major city known for its culture.,FALSE,22,22
+892,Moscow,Moscow is a major city known for its culture.,TRUE,28,22
+893,São Paulo,São Paulo is a major city known for its culture.,FALSE,8,18
+894,Bangkok,Bangkok is a major city known for its culture.,FALSE,2,18
+895,Bangkok,Bangkok is a major city known for its culture.,FALSE,13,20
+896,Seoul,Seoul is a major city known for its culture.,TRUE,28,14
+897,Barcelona,Barcelona is a major city known for its culture.,TRUE,17,7
+898,Cairo,Cairo is a major city known for its culture.,TRUE,12,27
+899,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,26,7
+900,Jakarta,Jakarta is a major city known for its culture.,FALSE,17,29
+901,Medellín,Medellín is a major city known for its culture.,FALSE,8,6
+902,Jakarta,Jakarta is a major city known for its culture.,TRUE,14,8
+903,Jakarta,Jakarta is a major city known for its culture.,TRUE,11,29
+904,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,26,9
+905,Milan,Milan is a major city known for its culture.,FALSE,15,8
+906,Guangzhou,Guangzhou is a major city known for its culture.,FALSE,21,9
+907,Medellín,Medellín is a major city known for its culture.,FALSE,15,5
+908,London,London is a major city known for its culture.,TRUE,21,20
+909,Hanoi,Hanoi is a major city known for its culture.,FALSE,3,10
+910,Stockholm,Stockholm is a major city known for its culture.,TRUE,8,16
+911,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,2,9
+912,Lahore,Lahore is a major city known for its culture.,FALSE,28,22
+913,London,London is a major city known for its culture.,TRUE,1,8
+914,Munich,Munich is a major city known for its culture.,FALSE,21,2
+915,Milan,Milan is a major city known for its culture.,FALSE,8,10
+916,Lagos,Lagos is a major city known for its culture.,FALSE,4,3
+917,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,18,10
+918,Stockholm,Stockholm is a major city known for its culture.,FALSE,17,15
+919,Nairobi,Nairobi is a major city known for its culture.,FALSE,16,7
+920,Bangkok,Bangkok is a major city known for its culture.,TRUE,25,10
+921,London,London is a major city known for its culture.,FALSE,26,9
+922,Tokyo,Tokyo is a major city known for its culture.,TRUE,28,21
+923,Medellín,Medellín is a major city known for its culture.,TRUE,13,2
+924,Milan,Milan is a major city known for its culture.,TRUE,30,1
+925,Cape Town,Cape Town is a major city known for its culture.,FALSE,24,24
+926,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,23,27
+927,Seoul,Seoul is a major city known for its culture.,TRUE,6,22
+928,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,25,21
+929,Guangzhou,Guangzhou is a major city known for its culture.,TRUE,18,30
+930,São Paulo,São Paulo is a major city known for its culture.,TRUE,25,29
+931,Hanoi,Hanoi is a major city known for its culture.,FALSE,30,18
+932,London,London is a major city known for its culture.,FALSE,30,10
+933,Milan,Milan is a major city known for its culture.,TRUE,23,25
+934,London,London is a major city known for its culture.,FALSE,14,12
+935,Barcelona,Barcelona is a major city known for its culture.,TRUE,23,8
+936,Bangkok,Bangkok is a major city known for its culture.,FALSE,11,10
+937,Seoul,Seoul is a major city known for its culture.,FALSE,25,25
+938,Sydney,Sydney is a major city known for its culture.,FALSE,5,6
+939,Nairobi,Nairobi is a major city known for its culture.,FALSE,8,18
+940,Munich,Munich is a major city known for its culture.,FALSE,27,30
+941,Mumbai,Mumbai is a major city known for its culture.,TRUE,27,23
+942,Toronto,Toronto is a major city known for its culture.,TRUE,28,19
+943,Paris,Paris is a major city known for its culture.,FALSE,24,26
+944,Cairo,Cairo is a major city known for its culture.,TRUE,22,15
+945,Barcelona,Barcelona is a major city known for its culture.,FALSE,15,29
+946,Moscow,Moscow is a major city known for its culture.,FALSE,19,8
+947,Nairobi,Nairobi is a major city known for its culture.,FALSE,2,4
+948,Warsaw,Warsaw is a major city known for its culture.,TRUE,6,5
+949,Bangkok,Bangkok is a major city known for its culture.,FALSE,10,9
+950,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,8,21
+951,Seoul,Seoul is a major city known for its culture.,TRUE,6,17
+952,Medellín,Medellín is a major city known for its culture.,TRUE,22,25
+953,Sydney,Sydney is a major city known for its culture.,FALSE,14,26
+954,Nairobi,Nairobi is a major city known for its culture.,FALSE,15,27
+955,Milan,Milan is a major city known for its culture.,FALSE,8,24
+956,Toronto,Toronto is a major city known for its culture.,TRUE,25,26
+957,Buenos Aires,Buenos Aires is a major city known for its culture.,TRUE,7,28
+958,Medellín,Medellín is a major city known for its culture.,FALSE,26,6
+959,Paris,Paris is a major city known for its culture.,FALSE,12,26
+960,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,10,14
+961,Munich,Munich is a major city known for its culture.,FALSE,5,23
+962,Moscow,Moscow is a major city known for its culture.,TRUE,6,20
+963,Sydney,Sydney is a major city known for its culture.,FALSE,18,25
+964,Jakarta,Jakarta is a major city known for its culture.,TRUE,30,5
+965,Manila,Manila is a major city known for its culture.,TRUE,3,30
+966,Toronto,Toronto is a major city known for its culture.,TRUE,12,9
+967,Manila,Manila is a major city known for its culture.,FALSE,18,7
+968,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,25,13
+969,Hanoi,Hanoi is a major city known for its culture.,TRUE,3,24
+970,Jakarta,Jakarta is a major city known for its culture.,TRUE,16,12
+971,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,29,22
+972,Cairo,Cairo is a major city known for its culture.,TRUE,7,17
+973,Moscow,Moscow is a major city known for its culture.,FALSE,6,20
+974,Cape Town,Cape Town is a major city known for its culture.,TRUE,20,19
+975,Kuala Lumpur,Kuala Lumpur is a major city known for its culture.,FALSE,4,18
+976,London,London is a major city known for its culture.,FALSE,28,28
+977,Jakarta,Jakarta is a major city known for its culture.,TRUE,8,2
+978,Bangkok,Bangkok is a major city known for its culture.,TRUE,17,11
+979,Nairobi,Nairobi is a major city known for its culture.,FALSE,3,24
+980,Nairobi,Nairobi is a major city known for its culture.,TRUE,28,20
+981,Sydney,Sydney is a major city known for its culture.,FALSE,3,17
+982,Mumbai,Mumbai is a major city known for its culture.,TRUE,25,2
+983,Stockholm,Stockholm is a major city known for its culture.,TRUE,14,22
+984,Cape Town,Cape Town is a major city known for its culture.,FALSE,17,1
+985,Nairobi,Nairobi is a major city known for its culture.,FALSE,18,10
+986,Los Angeles,Los Angeles is a major city known for its culture.,TRUE,21,20
+987,Buenos Aires,Buenos Aires is a major city known for its culture.,FALSE,22,30
+988,Manila,Manila is a major city known for its culture.,TRUE,15,15
+989,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,8,20
+990,Toronto,Toronto is a major city known for its culture.,FALSE,21,7
+991,Jakarta,Jakarta is a major city known for its culture.,TRUE,4,8
+992,Guadalajara,Guadalajara is a major city known for its culture.,TRUE,17,16
+993,Milan,Milan is a major city known for its culture.,TRUE,25,25
+994,Los Angeles,Los Angeles is a major city known for its culture.,FALSE,5,18
+995,Mumbai,Mumbai is a major city known for its culture.,TRUE,17,18
+996,London,London is a major city known for its culture.,FALSE,24,14
+997,Cairo,Cairo is a major city known for its culture.,FALSE,29,15
+998,Riyadh,Riyadh is a major city known for its culture.,TRUE,8,23
+999,Guadalajara,Guadalajara is a major city known for its culture.,FALSE,13,30
+1000,Lagos,Lagos is a major city known for its culture.,TRUE,9,21

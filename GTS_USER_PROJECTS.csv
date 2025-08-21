@@ -1,0 +1,1001 @@
+GTS_USER_PROJECT_ID,GTS_USER_ID,GTS_USER_PROJECT_NAME,GTS_USER_PROJECT_SKILL_IDS,GTS_USER_PROJECT_START_DATE,GTS_USER_PROJECT_END_DATE,GTS_USER_TEAM_SIZE,GTS_PROJECT_DESCRIPTION,GTS_PROJECT_INSTITUTE_ID,GTS_PROJECT_COMPANY_ID
+1,218,Project on AI for Healthcare,3,7/27/2023,7/27/2023,1,Developed a model for predicting health outcomes using machine learning.,53,48
+2,47,Content Marketing Campaign,5,06-05-2020,06-05-2020,6,"Created blog posts, videos, and infographics for a product launch.",37,340
+3,639,Project on AI for Healthcare,5,09-05-2024,09-05-2024,5,Developed a model for predicting health outcomes using machine learning.,79,437
+4,295,Content Marketing Campaign,8,6/28/2024,6/28/2024,6,"Created blog posts, videos, and infographics for a product launch.",20,453
+5,184,E-commerce Website Development,18,2/24/2023,2/24/2023,1,Built a responsive web store with secure payments and user login.,87,227
+6,100,Cloud Architecture Design,15,3/25/2020,3/25/2020,9,Designed a scalable cloud system using AWS services for high uptime.,64,33
+7,127,Content Marketing Campaign,8,06-12-2021,06-12-2021,2,"Created blog posts, videos, and infographics for a product launch.",65,251
+8,560,E-commerce Website Development,18,09-06-2021,09-06-2021,4,Built a responsive web store with secure payments and user login.,32,107
+9,324,Content Marketing Campaign,2,6/17/2022,6/17/2022,8,"Created blog posts, videos, and infographics for a product launch.",56,271
+10,582,Cloud Architecture Design,7,8/13/2024,8/13/2024,5,Designed a scalable cloud system using AWS services for high uptime.,93,362
+11,245,Content Marketing Campaign,20,12-10-2024,12-10-2024,10,"Created blog posts, videos, and infographics for a product launch.",79,489
+12,313,Content Marketing Campaign,14,01-09-2020,01-09-2020,5,"Created blog posts, videos, and infographics for a product launch.",80,294
+13,696,Mobile App Prototype Design,13,1/17/2022,1/17/2022,3,Prototyped a mobile app with a strong focus on UX and accessibility.,66,112
+14,27,Mobile App Prototype Design,16,1/15/2021,1/15/2021,1,Prototyped a mobile app with a strong focus on UX and accessibility.,100,128
+15,499,Cloud Architecture Design,20,1/26/2021,1/26/2021,5,Designed a scalable cloud system using AWS services for high uptime.,63,47
+16,733,E-commerce Website Development,1,9/14/2024,9/14/2024,10,Built a responsive web store with secure payments and user login.,97,220
+17,109,Mobile App Prototype Design,19,10/23/2022,10/23/2022,1,Prototyped a mobile app with a strong focus on UX and accessibility.,70,76
+18,941,Project on AI for Healthcare,20,07-01-2020,07-01-2020,3,Developed a model for predicting health outcomes using machine learning.,54,54
+19,203,Mobile App Prototype Design,2,2/19/2023,2/19/2023,2,Prototyped a mobile app with a strong focus on UX and accessibility.,34,51
+20,979,Cloud Architecture Design,19,3/23/2022,3/23/2022,4,Designed a scalable cloud system using AWS services for high uptime.,67,166
+21,437,Mobile App Prototype Design,20,3/20/2021,3/20/2021,5,Prototyped a mobile app with a strong focus on UX and accessibility.,59,59
+22,636,Network Security Assessment,15,04-12-2022,04-12-2022,5,Conducted audits and applied firewall and encryption strategies.,5,187
+23,69,Project on AI for Healthcare,3,10/17/2023,10/17/2023,4,Developed a model for predicting health outcomes using machine learning.,52,205
+24,40,Mobile App Prototype Design,8,9/13/2020,9/13/2020,7,Prototyped a mobile app with a strong focus on UX and accessibility.,58,380
+25,59,Network Security Assessment,8,6/15/2022,6/15/2022,4,Conducted audits and applied firewall and encryption strategies.,29,250
+26,328,Mobile App Prototype Design,12,8/21/2020,8/21/2020,2,Prototyped a mobile app with a strong focus on UX and accessibility.,100,85
+27,20,E-commerce Website Development,14,1/19/2023,1/19/2023,10,Built a responsive web store with secure payments and user login.,28,257
+28,778,Cloud Architecture Design,13,12/21/2022,12/21/2022,7,Designed a scalable cloud system using AWS services for high uptime.,54,261
+29,930,Content Marketing Campaign,2,6/24/2023,6/24/2023,10,"Created blog posts, videos, and infographics for a product launch.",83,205
+30,933,Mobile App Prototype Design,8,3/19/2020,3/19/2020,10,Prototyped a mobile app with a strong focus on UX and accessibility.,41,386
+31,24,Cloud Architecture Design,14,06-01-2021,06-01-2021,7,Designed a scalable cloud system using AWS services for high uptime.,58,168
+32,609,Project on AI for Healthcare,7,10/20/2023,10/20/2023,3,Developed a model for predicting health outcomes using machine learning.,25,153
+33,499,Network Security Assessment,7,05-07-2020,05-07-2020,8,Conducted audits and applied firewall and encryption strategies.,2,31
+34,317,Network Security Assessment,7,05-01-2020,05-01-2020,3,Conducted audits and applied firewall and encryption strategies.,86,101
+35,914,E-commerce Website Development,18,05-08-2022,05-08-2022,6,Built a responsive web store with secure payments and user login.,18,382
+36,905,Project on AI for Healthcare,12,07-05-2020,07-05-2020,2,Developed a model for predicting health outcomes using machine learning.,71,377
+37,477,Mobile App Prototype Design,6,10-03-2021,10-03-2021,1,Prototyped a mobile app with a strong focus on UX and accessibility.,15,397
+38,86,Content Marketing Campaign,12,01-02-2020,01-02-2020,6,"Created blog posts, videos, and infographics for a product launch.",58,373
+39,12,E-commerce Website Development,14,08-01-2021,08-01-2021,10,Built a responsive web store with secure payments and user login.,33,323
+40,353,Project on AI for Healthcare,4,9/14/2020,9/14/2020,3,Developed a model for predicting health outcomes using machine learning.,24,315
+41,193,Project on AI for Healthcare,11,5/26/2021,5/26/2021,9,Developed a model for predicting health outcomes using machine learning.,78,65
+42,66,Mobile App Prototype Design,10,11/28/2024,11/28/2024,5,Prototyped a mobile app with a strong focus on UX and accessibility.,30,328
+43,859,Content Marketing Campaign,9,4/29/2021,4/29/2021,7,"Created blog posts, videos, and infographics for a product launch.",36,437
+44,237,Content Marketing Campaign,20,6/17/2022,6/17/2022,1,"Created blog posts, videos, and infographics for a product launch.",21,466
+45,36,Content Marketing Campaign,13,04-05-2024,04-05-2024,1,"Created blog posts, videos, and infographics for a product launch.",97,492
+46,690,Project on AI for Healthcare,5,03-11-2024,03-11-2024,3,Developed a model for predicting health outcomes using machine learning.,66,64
+47,951,Cloud Architecture Design,17,5/13/2024,5/13/2024,9,Designed a scalable cloud system using AWS services for high uptime.,49,276
+48,953,Content Marketing Campaign,11,03-07-2020,03-07-2020,3,"Created blog posts, videos, and infographics for a product launch.",89,70
+49,800,E-commerce Website Development,12,06-06-2024,06-06-2024,8,Built a responsive web store with secure payments and user login.,65,146
+50,134,E-commerce Website Development,10,04-07-2024,04-07-2024,5,Built a responsive web store with secure payments and user login.,100,439
+51,170,Mobile App Prototype Design,5,11/20/2024,11/20/2024,7,Prototyped a mobile app with a strong focus on UX and accessibility.,26,220
+52,723,E-commerce Website Development,11,04-01-2022,04-01-2022,5,Built a responsive web store with secure payments and user login.,89,366
+53,150,Cloud Architecture Design,13,4/14/2020,4/14/2020,7,Designed a scalable cloud system using AWS services for high uptime.,21,356
+54,125,E-commerce Website Development,9,06-02-2022,06-02-2022,1,Built a responsive web store with secure payments and user login.,95,113
+55,777,Project on AI for Healthcare,9,12-01-2020,12-01-2020,1,Developed a model for predicting health outcomes using machine learning.,48,104
+56,710,E-commerce Website Development,12,07-07-2024,07-07-2024,9,Built a responsive web store with secure payments and user login.,32,394
+57,697,Mobile App Prototype Design,7,09-08-2020,09-08-2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,39,167
+58,693,Content Marketing Campaign,5,6/15/2024,6/15/2024,2,"Created blog posts, videos, and infographics for a product launch.",59,30
+59,821,Project on AI for Healthcare,1,12/28/2022,12/28/2022,4,Developed a model for predicting health outcomes using machine learning.,41,10
+60,906,E-commerce Website Development,3,2/20/2023,2/20/2023,7,Built a responsive web store with secure payments and user login.,100,456
+61,751,E-commerce Website Development,17,10-04-2021,10-04-2021,5,Built a responsive web store with secure payments and user login.,42,170
+62,113,Network Security Assessment,12,9/28/2020,9/28/2020,2,Conducted audits and applied firewall and encryption strategies.,96,275
+63,446,Mobile App Prototype Design,19,6/14/2023,6/14/2023,8,Prototyped a mobile app with a strong focus on UX and accessibility.,3,165
+64,530,Mobile App Prototype Design,9,03-09-2022,03-09-2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,61,168
+65,729,Content Marketing Campaign,14,1/25/2022,1/25/2022,10,"Created blog posts, videos, and infographics for a product launch.",51,453
+66,950,E-commerce Website Development,14,9/21/2023,9/21/2023,9,Built a responsive web store with secure payments and user login.,82,35
+67,634,E-commerce Website Development,10,10/19/2021,10/19/2021,8,Built a responsive web store with secure payments and user login.,47,437
+68,11,Project on AI for Healthcare,2,09-11-2020,09-11-2020,3,Developed a model for predicting health outcomes using machine learning.,64,498
+69,3,Project on AI for Healthcare,8,10/21/2020,10/21/2020,10,Developed a model for predicting health outcomes using machine learning.,43,367
+70,515,Project on AI for Healthcare,15,5/20/2023,5/20/2023,7,Developed a model for predicting health outcomes using machine learning.,90,300
+71,472,Content Marketing Campaign,3,2/20/2020,2/20/2020,9,"Created blog posts, videos, and infographics for a product launch.",76,430
+72,362,Cloud Architecture Design,6,8/28/2021,8/28/2021,8,Designed a scalable cloud system using AWS services for high uptime.,8,328
+73,558,Network Security Assessment,13,04-06-2024,04-06-2024,8,Conducted audits and applied firewall and encryption strategies.,76,441
+74,175,Mobile App Prototype Design,17,08-06-2021,08-06-2021,10,Prototyped a mobile app with a strong focus on UX and accessibility.,63,365
+75,610,Content Marketing Campaign,4,5/19/2021,5/19/2021,6,"Created blog posts, videos, and infographics for a product launch.",85,368
+76,351,Project on AI for Healthcare,4,1/19/2021,1/19/2021,3,Developed a model for predicting health outcomes using machine learning.,49,465
+77,168,Cloud Architecture Design,5,07-05-2021,07-05-2021,8,Designed a scalable cloud system using AWS services for high uptime.,74,337
+78,466,E-commerce Website Development,6,04-11-2021,04-11-2021,2,Built a responsive web store with secure payments and user login.,28,20
+79,460,Mobile App Prototype Design,18,12-01-2022,12-01-2022,3,Prototyped a mobile app with a strong focus on UX and accessibility.,14,144
+80,587,Project on AI for Healthcare,8,10/16/2020,10/16/2020,9,Developed a model for predicting health outcomes using machine learning.,1,185
+81,854,Project on AI for Healthcare,4,11-08-2023,11-08-2023,6,Developed a model for predicting health outcomes using machine learning.,62,30
+82,920,Content Marketing Campaign,1,05-09-2020,05-09-2020,2,"Created blog posts, videos, and infographics for a product launch.",44,137
+83,590,Mobile App Prototype Design,14,7/24/2021,7/24/2021,4,Prototyped a mobile app with a strong focus on UX and accessibility.,82,401
+84,773,Cloud Architecture Design,11,10/28/2021,10/28/2021,3,Designed a scalable cloud system using AWS services for high uptime.,58,255
+85,245,Cloud Architecture Design,5,10/29/2024,10/29/2024,9,Designed a scalable cloud system using AWS services for high uptime.,80,115
+86,392,Content Marketing Campaign,15,03-11-2021,03-11-2021,8,"Created blog posts, videos, and infographics for a product launch.",6,345
+87,21,Mobile App Prototype Design,17,8/16/2023,8/16/2023,4,Prototyped a mobile app with a strong focus on UX and accessibility.,17,5
+88,377,Content Marketing Campaign,4,07-05-2023,07-05-2023,6,"Created blog posts, videos, and infographics for a product launch.",18,369
+89,898,E-commerce Website Development,17,10/13/2022,10/13/2022,1,Built a responsive web store with secure payments and user login.,87,354
+90,262,Mobile App Prototype Design,6,3/20/2020,3/20/2020,2,Prototyped a mobile app with a strong focus on UX and accessibility.,67,101
+91,317,Network Security Assessment,18,1/26/2022,1/26/2022,6,Conducted audits and applied firewall and encryption strategies.,90,472
+92,642,E-commerce Website Development,2,12-10-2024,12-10-2024,2,Built a responsive web store with secure payments and user login.,69,369
+93,223,Network Security Assessment,15,2/16/2022,2/16/2022,9,Conducted audits and applied firewall and encryption strategies.,29,170
+94,728,Mobile App Prototype Design,12,12/27/2020,12/27/2020,1,Prototyped a mobile app with a strong focus on UX and accessibility.,25,299
+95,309,Cloud Architecture Design,17,1/13/2023,1/13/2023,2,Designed a scalable cloud system using AWS services for high uptime.,88,436
+96,411,Content Marketing Campaign,4,1/20/2023,1/20/2023,4,"Created blog posts, videos, and infographics for a product launch.",32,232
+97,751,Network Security Assessment,19,10-03-2024,10-03-2024,10,Conducted audits and applied firewall and encryption strategies.,16,50
+98,76,Content Marketing Campaign,8,07-10-2023,07-10-2023,10,"Created blog posts, videos, and infographics for a product launch.",20,305
+99,557,E-commerce Website Development,8,9/30/2021,9/30/2021,3,Built a responsive web store with secure payments and user login.,84,167
+100,647,Content Marketing Campaign,13,02-04-2021,02-04-2021,10,"Created blog posts, videos, and infographics for a product launch.",94,147
+101,91,Content Marketing Campaign,9,9/29/2021,9/29/2021,2,"Created blog posts, videos, and infographics for a product launch.",67,460
+102,644,Mobile App Prototype Design,13,9/20/2024,9/20/2024,7,Prototyped a mobile app with a strong focus on UX and accessibility.,7,419
+103,693,E-commerce Website Development,6,07-04-2020,07-04-2020,4,Built a responsive web store with secure payments and user login.,89,57
+104,751,Project on AI for Healthcare,20,03-09-2021,03-09-2021,1,Developed a model for predicting health outcomes using machine learning.,46,463
+105,752,Network Security Assessment,18,05-02-2024,05-02-2024,7,Conducted audits and applied firewall and encryption strategies.,76,469
+106,483,E-commerce Website Development,10,1/30/2024,1/30/2024,2,Built a responsive web store with secure payments and user login.,13,427
+107,838,E-commerce Website Development,13,2/25/2020,2/25/2020,1,Built a responsive web store with secure payments and user login.,77,261
+108,753,Mobile App Prototype Design,2,10/20/2021,10/20/2021,8,Prototyped a mobile app with a strong focus on UX and accessibility.,73,281
+109,764,Content Marketing Campaign,5,4/25/2024,4/25/2024,3,"Created blog posts, videos, and infographics for a product launch.",46,218
+110,591,Cloud Architecture Design,17,08-02-2024,08-02-2024,9,Designed a scalable cloud system using AWS services for high uptime.,92,442
+111,533,Network Security Assessment,5,06-11-2023,06-11-2023,2,Conducted audits and applied firewall and encryption strategies.,73,11
+112,272,Network Security Assessment,17,3/26/2023,3/26/2023,1,Conducted audits and applied firewall and encryption strategies.,16,236
+113,707,Mobile App Prototype Design,16,08-01-2021,08-01-2021,8,Prototyped a mobile app with a strong focus on UX and accessibility.,76,178
+114,748,Cloud Architecture Design,11,12/16/2022,12/16/2022,5,Designed a scalable cloud system using AWS services for high uptime.,99,91
+115,542,Project on AI for Healthcare,19,4/26/2020,4/26/2020,9,Developed a model for predicting health outcomes using machine learning.,97,396
+116,780,Cloud Architecture Design,6,1/18/2023,1/18/2023,4,Designed a scalable cloud system using AWS services for high uptime.,98,216
+117,445,E-commerce Website Development,17,8/29/2021,8/29/2021,9,Built a responsive web store with secure payments and user login.,92,371
+118,639,Network Security Assessment,3,12/14/2023,12/14/2023,6,Conducted audits and applied firewall and encryption strategies.,73,465
+119,51,Network Security Assessment,12,05-11-2023,05-11-2023,6,Conducted audits and applied firewall and encryption strategies.,82,390
+120,838,Cloud Architecture Design,11,7/28/2020,7/28/2020,4,Designed a scalable cloud system using AWS services for high uptime.,89,310
+121,283,Mobile App Prototype Design,5,10/16/2022,10/16/2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,36,22
+122,437,Mobile App Prototype Design,4,6/16/2020,6/16/2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,63,47
+123,271,Network Security Assessment,1,11/19/2023,11/19/2023,9,Conducted audits and applied firewall and encryption strategies.,3,109
+124,759,Network Security Assessment,5,10/21/2022,10/21/2022,7,Conducted audits and applied firewall and encryption strategies.,75,452
+125,831,Mobile App Prototype Design,16,10-01-2020,10-01-2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,94,203
+126,141,Cloud Architecture Design,16,5/17/2021,5/17/2021,4,Designed a scalable cloud system using AWS services for high uptime.,29,464
+127,876,Network Security Assessment,6,5/20/2020,5/20/2020,8,Conducted audits and applied firewall and encryption strategies.,12,301
+128,520,Cloud Architecture Design,18,09-05-2020,09-05-2020,8,Designed a scalable cloud system using AWS services for high uptime.,53,253
+129,628,Project on AI for Healthcare,6,05-02-2021,05-02-2021,8,Developed a model for predicting health outcomes using machine learning.,29,371
+130,734,E-commerce Website Development,11,2/26/2021,2/26/2021,3,Built a responsive web store with secure payments and user login.,7,479
+131,629,Project on AI for Healthcare,9,10/17/2020,10/17/2020,5,Developed a model for predicting health outcomes using machine learning.,69,55
+132,517,Network Security Assessment,11,10/20/2023,10/20/2023,5,Conducted audits and applied firewall and encryption strategies.,8,49
+133,797,E-commerce Website Development,8,06-05-2023,06-05-2023,9,Built a responsive web store with secure payments and user login.,97,452
+134,105,Project on AI for Healthcare,20,7/14/2020,7/14/2020,2,Developed a model for predicting health outcomes using machine learning.,58,266
+135,40,E-commerce Website Development,3,09-12-2021,09-12-2021,2,Built a responsive web store with secure payments and user login.,67,274
+136,337,Cloud Architecture Design,4,11-01-2020,11-01-2020,10,Designed a scalable cloud system using AWS services for high uptime.,22,394
+137,986,Network Security Assessment,9,12-06-2022,12-06-2022,8,Conducted audits and applied firewall and encryption strategies.,66,14
+138,481,Cloud Architecture Design,19,09-03-2021,09-03-2021,7,Designed a scalable cloud system using AWS services for high uptime.,43,222
+139,594,Mobile App Prototype Design,1,4/26/2024,4/26/2024,5,Prototyped a mobile app with a strong focus on UX and accessibility.,14,323
+140,136,E-commerce Website Development,15,11-11-2022,11-11-2022,1,Built a responsive web store with secure payments and user login.,14,418
+141,871,E-commerce Website Development,20,03-05-2023,03-05-2023,9,Built a responsive web store with secure payments and user login.,92,263
+142,695,Project on AI for Healthcare,3,4/25/2024,4/25/2024,4,Developed a model for predicting health outcomes using machine learning.,74,377
+143,975,Content Marketing Campaign,13,10/17/2020,10/17/2020,2,"Created blog posts, videos, and infographics for a product launch.",2,335
+144,87,Content Marketing Campaign,18,08-08-2023,08-08-2023,9,"Created blog posts, videos, and infographics for a product launch.",10,469
+145,102,Cloud Architecture Design,10,05-02-2024,05-02-2024,7,Designed a scalable cloud system using AWS services for high uptime.,54,290
+146,289,Cloud Architecture Design,19,5/29/2023,5/29/2023,4,Designed a scalable cloud system using AWS services for high uptime.,9,9
+147,338,Cloud Architecture Design,17,08-10-2020,08-10-2020,8,Designed a scalable cloud system using AWS services for high uptime.,61,387
+148,119,Content Marketing Campaign,9,10/23/2020,10/23/2020,9,"Created blog posts, videos, and infographics for a product launch.",29,102
+149,728,Mobile App Prototype Design,15,2/18/2022,2/18/2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,56,368
+150,174,Network Security Assessment,20,06-12-2024,06-12-2024,4,Conducted audits and applied firewall and encryption strategies.,64,309
+151,851,Project on AI for Healthcare,14,9/18/2024,9/18/2024,6,Developed a model for predicting health outcomes using machine learning.,19,22
+152,517,Content Marketing Campaign,8,12/22/2024,12/22/2024,10,"Created blog posts, videos, and infographics for a product launch.",60,8
+153,418,Content Marketing Campaign,14,02-02-2023,02-02-2023,10,"Created blog posts, videos, and infographics for a product launch.",95,439
+154,911,Content Marketing Campaign,7,04-03-2021,04-03-2021,10,"Created blog posts, videos, and infographics for a product launch.",65,330
+155,97,Network Security Assessment,3,05-03-2021,05-03-2021,9,Conducted audits and applied firewall and encryption strategies.,61,343
+156,530,Project on AI for Healthcare,7,06-10-2022,06-10-2022,10,Developed a model for predicting health outcomes using machine learning.,4,360
+157,490,Cloud Architecture Design,17,12/27/2021,12/27/2021,8,Designed a scalable cloud system using AWS services for high uptime.,67,90
+158,90,Content Marketing Campaign,5,12-10-2023,12-10-2023,8,"Created blog posts, videos, and infographics for a product launch.",66,88
+159,525,Network Security Assessment,15,05-10-2023,05-10-2023,2,Conducted audits and applied firewall and encryption strategies.,10,303
+160,650,Network Security Assessment,1,4/20/2024,4/20/2024,8,Conducted audits and applied firewall and encryption strategies.,44,122
+161,880,Mobile App Prototype Design,7,4/26/2022,4/26/2022,6,Prototyped a mobile app with a strong focus on UX and accessibility.,96,395
+162,959,E-commerce Website Development,11,8/30/2024,8/30/2024,3,Built a responsive web store with secure payments and user login.,48,367
+163,422,Project on AI for Healthcare,1,01-08-2023,01-08-2023,3,Developed a model for predicting health outcomes using machine learning.,91,165
+164,897,Cloud Architecture Design,18,9/30/2021,9/30/2021,4,Designed a scalable cloud system using AWS services for high uptime.,69,31
+165,953,Mobile App Prototype Design,12,3/20/2024,3/20/2024,4,Prototyped a mobile app with a strong focus on UX and accessibility.,82,251
+166,888,Content Marketing Campaign,7,09-06-2023,09-06-2023,7,"Created blog posts, videos, and infographics for a product launch.",51,437
+167,989,Project on AI for Healthcare,14,3/22/2021,3/22/2021,1,Developed a model for predicting health outcomes using machine learning.,15,364
+168,844,Content Marketing Campaign,7,4/30/2022,4/30/2022,6,"Created blog posts, videos, and infographics for a product launch.",78,153
+169,502,E-commerce Website Development,11,7/13/2024,7/13/2024,2,Built a responsive web store with secure payments and user login.,50,480
+170,24,Content Marketing Campaign,13,07-05-2024,07-05-2024,7,"Created blog posts, videos, and infographics for a product launch.",95,196
+171,593,Project on AI for Healthcare,18,2/21/2020,2/21/2020,5,Developed a model for predicting health outcomes using machine learning.,96,78
+172,260,Mobile App Prototype Design,1,7/13/2022,7/13/2022,1,Prototyped a mobile app with a strong focus on UX and accessibility.,61,127
+173,628,Project on AI for Healthcare,12,11-12-2020,11-12-2020,7,Developed a model for predicting health outcomes using machine learning.,32,377
+174,582,Network Security Assessment,18,10/31/2020,10/31/2020,2,Conducted audits and applied firewall and encryption strategies.,61,269
+175,172,Mobile App Prototype Design,14,2/27/2022,2/27/2022,9,Prototyped a mobile app with a strong focus on UX and accessibility.,99,144
+176,64,E-commerce Website Development,2,02-04-2023,02-04-2023,2,Built a responsive web store with secure payments and user login.,28,275
+177,601,Mobile App Prototype Design,4,06-03-2023,06-03-2023,10,Prototyped a mobile app with a strong focus on UX and accessibility.,33,111
+178,547,Content Marketing Campaign,8,5/20/2022,5/20/2022,10,"Created blog posts, videos, and infographics for a product launch.",89,187
+179,357,E-commerce Website Development,16,7/25/2024,7/25/2024,1,Built a responsive web store with secure payments and user login.,99,488
+180,189,Content Marketing Campaign,15,7/13/2024,7/13/2024,9,"Created blog posts, videos, and infographics for a product launch.",16,174
+181,923,E-commerce Website Development,18,10-01-2022,10-01-2022,5,Built a responsive web store with secure payments and user login.,7,469
+182,758,Project on AI for Healthcare,13,09-11-2023,09-11-2023,1,Developed a model for predicting health outcomes using machine learning.,22,480
+183,718,Network Security Assessment,3,8/24/2022,8/24/2022,10,Conducted audits and applied firewall and encryption strategies.,76,33
+184,36,Content Marketing Campaign,7,8/24/2020,8/24/2020,7,"Created blog posts, videos, and infographics for a product launch.",9,353
+185,913,Project on AI for Healthcare,5,5/25/2021,5/25/2021,10,Developed a model for predicting health outcomes using machine learning.,4,436
+186,792,Content Marketing Campaign,14,11-03-2022,11-03-2022,9,"Created blog posts, videos, and infographics for a product launch.",14,19
+187,695,E-commerce Website Development,7,08-06-2023,08-06-2023,4,Built a responsive web store with secure payments and user login.,86,240
+188,162,Network Security Assessment,19,11/29/2020,11/29/2020,9,Conducted audits and applied firewall and encryption strategies.,47,91
+189,860,Project on AI for Healthcare,1,10/25/2021,10/25/2021,2,Developed a model for predicting health outcomes using machine learning.,50,436
+190,638,Project on AI for Healthcare,16,05-06-2020,05-06-2020,5,Developed a model for predicting health outcomes using machine learning.,12,221
+191,506,E-commerce Website Development,5,07-08-2024,07-08-2024,10,Built a responsive web store with secure payments and user login.,26,396
+192,627,Network Security Assessment,17,04-04-2023,04-04-2023,10,Conducted audits and applied firewall and encryption strategies.,72,453
+193,474,Cloud Architecture Design,9,10/31/2023,10/31/2023,7,Designed a scalable cloud system using AWS services for high uptime.,30,52
+194,134,Content Marketing Campaign,14,8/23/2022,8/23/2022,8,"Created blog posts, videos, and infographics for a product launch.",41,188
+195,174,Mobile App Prototype Design,15,10-05-2023,10-05-2023,2,Prototyped a mobile app with a strong focus on UX and accessibility.,60,225
+196,117,Network Security Assessment,16,2/22/2022,2/22/2022,10,Conducted audits and applied firewall and encryption strategies.,53,282
+197,846,Network Security Assessment,15,2/18/2024,2/18/2024,2,Conducted audits and applied firewall and encryption strategies.,96,313
+198,169,E-commerce Website Development,12,9/15/2022,9/15/2022,5,Built a responsive web store with secure payments and user login.,42,320
+199,715,Mobile App Prototype Design,1,1/24/2021,1/24/2021,3,Prototyped a mobile app with a strong focus on UX and accessibility.,1,169
+200,639,E-commerce Website Development,7,01-06-2024,01-06-2024,7,Built a responsive web store with secure payments and user login.,97,240
+201,246,Network Security Assessment,13,04-05-2024,04-05-2024,5,Conducted audits and applied firewall and encryption strategies.,18,296
+202,666,Network Security Assessment,1,06-07-2024,06-07-2024,6,Conducted audits and applied firewall and encryption strategies.,2,355
+203,750,Cloud Architecture Design,8,11-04-2020,11-04-2020,9,Designed a scalable cloud system using AWS services for high uptime.,78,75
+204,197,Cloud Architecture Design,14,09-02-2024,09-02-2024,6,Designed a scalable cloud system using AWS services for high uptime.,41,16
+205,215,Cloud Architecture Design,14,11/29/2021,11/29/2021,9,Designed a scalable cloud system using AWS services for high uptime.,42,477
+206,650,Cloud Architecture Design,5,12/16/2022,12/16/2022,1,Designed a scalable cloud system using AWS services for high uptime.,95,454
+207,614,Cloud Architecture Design,15,10-02-2023,10-02-2023,2,Designed a scalable cloud system using AWS services for high uptime.,14,267
+208,160,Network Security Assessment,4,03-12-2023,03-12-2023,7,Conducted audits and applied firewall and encryption strategies.,13,6
+209,748,Mobile App Prototype Design,8,08-06-2022,08-06-2022,3,Prototyped a mobile app with a strong focus on UX and accessibility.,62,374
+210,612,E-commerce Website Development,11,06-11-2022,06-11-2022,10,Built a responsive web store with secure payments and user login.,93,130
+211,314,Mobile App Prototype Design,11,8/20/2022,8/20/2022,9,Prototyped a mobile app with a strong focus on UX and accessibility.,35,297
+212,599,Mobile App Prototype Design,19,01-11-2024,01-11-2024,4,Prototyped a mobile app with a strong focus on UX and accessibility.,26,235
+213,751,Cloud Architecture Design,12,05-10-2020,05-10-2020,6,Designed a scalable cloud system using AWS services for high uptime.,8,246
+214,155,Mobile App Prototype Design,6,6/14/2024,6/14/2024,9,Prototyped a mobile app with a strong focus on UX and accessibility.,47,461
+215,72,Content Marketing Campaign,17,12/26/2024,12/26/2024,2,"Created blog posts, videos, and infographics for a product launch.",61,22
+216,676,Cloud Architecture Design,1,02-09-2022,02-09-2022,1,Designed a scalable cloud system using AWS services for high uptime.,96,121
+217,424,Network Security Assessment,7,6/29/2020,6/29/2020,1,Conducted audits and applied firewall and encryption strategies.,8,205
+218,882,Mobile App Prototype Design,11,10/26/2023,10/26/2023,1,Prototyped a mobile app with a strong focus on UX and accessibility.,97,186
+219,319,Project on AI for Healthcare,20,10/29/2020,10/29/2020,1,Developed a model for predicting health outcomes using machine learning.,84,79
+220,604,Project on AI for Healthcare,1,09-02-2024,09-02-2024,9,Developed a model for predicting health outcomes using machine learning.,60,20
+221,60,Network Security Assessment,4,9/29/2020,9/29/2020,10,Conducted audits and applied firewall and encryption strategies.,64,224
+222,589,Project on AI for Healthcare,2,02-10-2022,02-10-2022,3,Developed a model for predicting health outcomes using machine learning.,32,101
+223,974,Mobile App Prototype Design,2,09-10-2020,09-10-2020,6,Prototyped a mobile app with a strong focus on UX and accessibility.,35,46
+224,693,Network Security Assessment,15,08-05-2023,08-05-2023,8,Conducted audits and applied firewall and encryption strategies.,82,288
+225,240,Mobile App Prototype Design,11,4/21/2022,4/21/2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,31,47
+226,141,E-commerce Website Development,2,08-04-2021,08-04-2021,7,Built a responsive web store with secure payments and user login.,62,379
+227,545,Project on AI for Healthcare,15,02-05-2020,02-05-2020,1,Developed a model for predicting health outcomes using machine learning.,94,257
+228,837,Project on AI for Healthcare,11,02-12-2021,02-12-2021,8,Developed a model for predicting health outcomes using machine learning.,100,292
+229,354,Project on AI for Healthcare,20,01-02-2023,01-02-2023,7,Developed a model for predicting health outcomes using machine learning.,64,147
+230,542,Mobile App Prototype Design,8,09-10-2024,09-10-2024,2,Prototyped a mobile app with a strong focus on UX and accessibility.,55,75
+231,456,Content Marketing Campaign,18,12-03-2022,12-03-2022,3,"Created blog posts, videos, and infographics for a product launch.",2,483
+232,258,Network Security Assessment,7,07-06-2023,07-06-2023,3,Conducted audits and applied firewall and encryption strategies.,46,345
+233,222,Network Security Assessment,5,11-06-2021,11-06-2021,1,Conducted audits and applied firewall and encryption strategies.,22,149
+234,907,Mobile App Prototype Design,5,3/23/2021,3/23/2021,4,Prototyped a mobile app with a strong focus on UX and accessibility.,23,209
+235,954,Cloud Architecture Design,18,7/30/2022,7/30/2022,8,Designed a scalable cloud system using AWS services for high uptime.,81,370
+236,901,Project on AI for Healthcare,4,08-03-2020,08-03-2020,8,Developed a model for predicting health outcomes using machine learning.,98,460
+237,128,Project on AI for Healthcare,17,11-09-2021,11-09-2021,10,Developed a model for predicting health outcomes using machine learning.,34,258
+238,640,Content Marketing Campaign,5,11/13/2021,11/13/2021,5,"Created blog posts, videos, and infographics for a product launch.",79,211
+239,51,Mobile App Prototype Design,19,06-03-2023,06-03-2023,5,Prototyped a mobile app with a strong focus on UX and accessibility.,71,128
+240,921,Cloud Architecture Design,16,05-03-2024,05-03-2024,1,Designed a scalable cloud system using AWS services for high uptime.,13,429
+241,886,Network Security Assessment,3,8/28/2021,8/28/2021,5,Conducted audits and applied firewall and encryption strategies.,37,134
+242,757,E-commerce Website Development,11,6/30/2021,6/30/2021,3,Built a responsive web store with secure payments and user login.,94,29
+243,175,Content Marketing Campaign,15,08-04-2020,08-04-2020,6,"Created blog posts, videos, and infographics for a product launch.",83,26
+244,628,Mobile App Prototype Design,9,05-01-2020,05-01-2020,3,Prototyped a mobile app with a strong focus on UX and accessibility.,9,254
+245,20,Mobile App Prototype Design,8,5/17/2020,5/17/2020,10,Prototyped a mobile app with a strong focus on UX and accessibility.,12,9
+246,834,Content Marketing Campaign,16,7/16/2020,7/16/2020,9,"Created blog posts, videos, and infographics for a product launch.",15,10
+247,299,Mobile App Prototype Design,18,6/30/2021,6/30/2021,10,Prototyped a mobile app with a strong focus on UX and accessibility.,47,74
+248,399,Network Security Assessment,17,03-04-2021,03-04-2021,1,Conducted audits and applied firewall and encryption strategies.,92,88
+249,946,Network Security Assessment,5,2/17/2021,2/17/2021,2,Conducted audits and applied firewall and encryption strategies.,28,133
+250,651,Cloud Architecture Design,13,12/27/2021,12/27/2021,2,Designed a scalable cloud system using AWS services for high uptime.,85,183
+251,316,Cloud Architecture Design,14,2/19/2020,2/19/2020,10,Designed a scalable cloud system using AWS services for high uptime.,20,241
+252,394,Cloud Architecture Design,15,1/17/2024,1/17/2024,9,Designed a scalable cloud system using AWS services for high uptime.,33,360
+253,184,Cloud Architecture Design,13,7/18/2023,7/18/2023,5,Designed a scalable cloud system using AWS services for high uptime.,76,135
+254,30,Project on AI for Healthcare,6,11/22/2022,11/22/2022,8,Developed a model for predicting health outcomes using machine learning.,97,182
+255,411,Content Marketing Campaign,18,12/17/2023,12/17/2023,7,"Created blog posts, videos, and infographics for a product launch.",38,488
+256,284,Project on AI for Healthcare,4,11/29/2022,11/29/2022,4,Developed a model for predicting health outcomes using machine learning.,99,158
+257,973,E-commerce Website Development,19,12/30/2024,12/30/2024,9,Built a responsive web store with secure payments and user login.,66,468
+258,803,E-commerce Website Development,20,12/26/2024,12/26/2024,2,Built a responsive web store with secure payments and user login.,49,135
+259,504,Project on AI for Healthcare,13,10/25/2022,10/25/2022,5,Developed a model for predicting health outcomes using machine learning.,97,49
+260,483,Content Marketing Campaign,3,11/16/2022,11/16/2022,6,"Created blog posts, videos, and infographics for a product launch.",40,67
+261,929,Mobile App Prototype Design,18,1/13/2022,1/13/2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,91,364
+262,833,E-commerce Website Development,15,5/20/2024,5/20/2024,5,Built a responsive web store with secure payments and user login.,50,294
+263,810,Content Marketing Campaign,2,06-11-2023,06-11-2023,4,"Created blog posts, videos, and infographics for a product launch.",48,309
+264,959,Mobile App Prototype Design,15,12-04-2023,12-04-2023,4,Prototyped a mobile app with a strong focus on UX and accessibility.,83,422
+265,345,Network Security Assessment,7,02-04-2024,02-04-2024,6,Conducted audits and applied firewall and encryption strategies.,68,16
+266,182,Cloud Architecture Design,13,10/22/2024,10/22/2024,5,Designed a scalable cloud system using AWS services for high uptime.,2,260
+267,177,Network Security Assessment,4,1/23/2021,1/23/2021,9,Conducted audits and applied firewall and encryption strategies.,97,347
+268,948,Cloud Architecture Design,13,1/21/2021,1/21/2021,9,Designed a scalable cloud system using AWS services for high uptime.,36,265
+269,886,Cloud Architecture Design,16,8/29/2022,8/29/2022,1,Designed a scalable cloud system using AWS services for high uptime.,62,440
+270,504,Network Security Assessment,9,01-11-2024,01-11-2024,2,Conducted audits and applied firewall and encryption strategies.,14,397
+271,188,Mobile App Prototype Design,14,02-12-2022,02-12-2022,1,Prototyped a mobile app with a strong focus on UX and accessibility.,50,471
+272,237,Project on AI for Healthcare,18,3/13/2022,3/13/2022,2,Developed a model for predicting health outcomes using machine learning.,64,102
+273,930,Content Marketing Campaign,2,3/30/2024,3/30/2024,2,"Created blog posts, videos, and infographics for a product launch.",96,455
+274,951,E-commerce Website Development,10,10/17/2023,10/17/2023,2,Built a responsive web store with secure payments and user login.,86,62
+275,80,Network Security Assessment,20,7/13/2020,7/13/2020,6,Conducted audits and applied firewall and encryption strategies.,56,243
+276,229,Project on AI for Healthcare,15,5/13/2021,5/13/2021,10,Developed a model for predicting health outcomes using machine learning.,41,288
+277,482,Cloud Architecture Design,9,11-06-2024,11-06-2024,9,Designed a scalable cloud system using AWS services for high uptime.,85,309
+278,340,Network Security Assessment,10,4/17/2022,4/17/2022,10,Conducted audits and applied firewall and encryption strategies.,84,231
+279,487,Cloud Architecture Design,16,1/21/2023,1/21/2023,8,Designed a scalable cloud system using AWS services for high uptime.,67,2
+280,299,E-commerce Website Development,11,3/20/2020,3/20/2020,3,Built a responsive web store with secure payments and user login.,77,181
+281,819,Network Security Assessment,16,12/21/2021,12/21/2021,5,Conducted audits and applied firewall and encryption strategies.,86,252
+282,298,E-commerce Website Development,14,3/26/2021,3/26/2021,7,Built a responsive web store with secure payments and user login.,93,243
+283,186,Project on AI for Healthcare,11,06-12-2023,06-12-2023,3,Developed a model for predicting health outcomes using machine learning.,4,437
+284,633,Mobile App Prototype Design,20,1/20/2020,1/20/2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,43,327
+285,439,Project on AI for Healthcare,16,12/16/2021,12/16/2021,6,Developed a model for predicting health outcomes using machine learning.,7,176
+286,811,Cloud Architecture Design,9,10-07-2023,10-07-2023,1,Designed a scalable cloud system using AWS services for high uptime.,52,228
+287,211,Content Marketing Campaign,12,01-04-2020,01-04-2020,4,"Created blog posts, videos, and infographics for a product launch.",61,170
+288,332,Content Marketing Campaign,19,1/26/2020,1/26/2020,1,"Created blog posts, videos, and infographics for a product launch.",7,146
+289,12,Project on AI for Healthcare,12,6/29/2021,6/29/2021,5,Developed a model for predicting health outcomes using machine learning.,24,32
+290,809,Mobile App Prototype Design,18,1/13/2023,1/13/2023,2,Prototyped a mobile app with a strong focus on UX and accessibility.,84,5
+291,224,Network Security Assessment,6,2/23/2023,2/23/2023,5,Conducted audits and applied firewall and encryption strategies.,55,333
+292,933,E-commerce Website Development,14,2/21/2021,2/21/2021,6,Built a responsive web store with secure payments and user login.,14,113
+293,674,Content Marketing Campaign,4,07-09-2023,07-09-2023,4,"Created blog posts, videos, and infographics for a product launch.",9,461
+294,146,Mobile App Prototype Design,1,11/18/2021,11/18/2021,2,Prototyped a mobile app with a strong focus on UX and accessibility.,60,471
+295,134,Project on AI for Healthcare,16,2/18/2024,2/18/2024,7,Developed a model for predicting health outcomes using machine learning.,61,428
+296,279,Mobile App Prototype Design,15,11/29/2022,11/29/2022,10,Prototyped a mobile app with a strong focus on UX and accessibility.,51,495
+297,598,Cloud Architecture Design,14,12/18/2024,12/18/2024,3,Designed a scalable cloud system using AWS services for high uptime.,8,254
+298,99,Content Marketing Campaign,3,3/13/2022,3/13/2022,5,"Created blog posts, videos, and infographics for a product launch.",92,303
+299,953,Cloud Architecture Design,17,6/29/2021,6/29/2021,5,Designed a scalable cloud system using AWS services for high uptime.,13,50
+300,126,Cloud Architecture Design,12,8/20/2024,8/20/2024,4,Designed a scalable cloud system using AWS services for high uptime.,92,467
+301,479,Project on AI for Healthcare,13,11/21/2024,11/21/2024,5,Developed a model for predicting health outcomes using machine learning.,40,257
+302,411,Mobile App Prototype Design,16,10-07-2024,10-07-2024,3,Prototyped a mobile app with a strong focus on UX and accessibility.,18,415
+303,208,Project on AI for Healthcare,10,07-04-2023,07-04-2023,1,Developed a model for predicting health outcomes using machine learning.,59,167
+304,336,Content Marketing Campaign,17,04-09-2020,04-09-2020,3,"Created blog posts, videos, and infographics for a product launch.",92,208
+305,943,E-commerce Website Development,16,12/31/2023,12/31/2023,4,Built a responsive web store with secure payments and user login.,3,170
+306,103,E-commerce Website Development,16,4/21/2021,4/21/2021,8,Built a responsive web store with secure payments and user login.,77,495
+307,123,Content Marketing Campaign,12,4/26/2023,4/26/2023,4,"Created blog posts, videos, and infographics for a product launch.",77,98
+308,726,Mobile App Prototype Design,12,5/27/2020,5/27/2020,3,Prototyped a mobile app with a strong focus on UX and accessibility.,18,373
+309,570,Mobile App Prototype Design,11,2/23/2020,2/23/2020,3,Prototyped a mobile app with a strong focus on UX and accessibility.,68,366
+310,342,E-commerce Website Development,18,05-04-2020,05-04-2020,7,Built a responsive web store with secure payments and user login.,64,202
+311,927,Mobile App Prototype Design,1,7/26/2024,7/26/2024,6,Prototyped a mobile app with a strong focus on UX and accessibility.,12,280
+312,393,Project on AI for Healthcare,19,03-09-2023,03-09-2023,1,Developed a model for predicting health outcomes using machine learning.,13,455
+313,776,Network Security Assessment,3,7/13/2022,7/13/2022,10,Conducted audits and applied firewall and encryption strategies.,91,68
+314,675,Project on AI for Healthcare,11,8/27/2024,8/27/2024,5,Developed a model for predicting health outcomes using machine learning.,40,274
+315,541,Network Security Assessment,6,03-11-2021,03-11-2021,4,Conducted audits and applied firewall and encryption strategies.,32,322
+316,978,Cloud Architecture Design,6,06-09-2021,06-09-2021,8,Designed a scalable cloud system using AWS services for high uptime.,65,390
+317,691,Mobile App Prototype Design,6,11-06-2020,11-06-2020,8,Prototyped a mobile app with a strong focus on UX and accessibility.,62,184
+318,250,E-commerce Website Development,14,2/19/2022,2/19/2022,5,Built a responsive web store with secure payments and user login.,85,108
+319,975,Mobile App Prototype Design,12,5/24/2021,5/24/2021,1,Prototyped a mobile app with a strong focus on UX and accessibility.,95,200
+320,622,Project on AI for Healthcare,19,11/27/2022,11/27/2022,4,Developed a model for predicting health outcomes using machine learning.,26,35
+321,561,Mobile App Prototype Design,15,08-04-2023,08-04-2023,9,Prototyped a mobile app with a strong focus on UX and accessibility.,19,359
+322,535,Content Marketing Campaign,10,12/20/2024,12/20/2024,6,"Created blog posts, videos, and infographics for a product launch.",15,29
+323,923,Project on AI for Healthcare,1,08-01-2022,08-01-2022,6,Developed a model for predicting health outcomes using machine learning.,23,294
+324,562,E-commerce Website Development,1,07-11-2024,07-11-2024,5,Built a responsive web store with secure payments and user login.,2,301
+325,878,Cloud Architecture Design,14,6/19/2024,6/19/2024,10,Designed a scalable cloud system using AWS services for high uptime.,57,375
+326,134,Network Security Assessment,3,11/26/2023,11/26/2023,10,Conducted audits and applied firewall and encryption strategies.,41,195
+327,748,Cloud Architecture Design,15,8/13/2021,8/13/2021,9,Designed a scalable cloud system using AWS services for high uptime.,30,397
+328,475,Content Marketing Campaign,12,5/26/2023,5/26/2023,7,"Created blog posts, videos, and infographics for a product launch.",72,398
+329,390,Mobile App Prototype Design,14,7/25/2022,7/25/2022,3,Prototyped a mobile app with a strong focus on UX and accessibility.,93,265
+330,711,Cloud Architecture Design,8,5/16/2021,5/16/2021,10,Designed a scalable cloud system using AWS services for high uptime.,100,280
+331,853,Mobile App Prototype Design,11,10/31/2024,10/31/2024,3,Prototyped a mobile app with a strong focus on UX and accessibility.,63,357
+332,510,Cloud Architecture Design,18,01-06-2022,01-06-2022,1,Designed a scalable cloud system using AWS services for high uptime.,49,13
+333,406,E-commerce Website Development,17,2/20/2021,2/20/2021,7,Built a responsive web store with secure payments and user login.,5,218
+334,204,Project on AI for Healthcare,10,11-10-2023,11-10-2023,3,Developed a model for predicting health outcomes using machine learning.,27,327
+335,129,Mobile App Prototype Design,6,6/26/2021,6/26/2021,3,Prototyped a mobile app with a strong focus on UX and accessibility.,95,386
+336,698,Project on AI for Healthcare,17,02-09-2021,02-09-2021,9,Developed a model for predicting health outcomes using machine learning.,15,349
+337,589,Content Marketing Campaign,1,12/15/2020,12/15/2020,9,"Created blog posts, videos, and infographics for a product launch.",3,483
+338,43,E-commerce Website Development,5,7/24/2023,7/24/2023,10,Built a responsive web store with secure payments and user login.,45,177
+339,759,Network Security Assessment,20,04-04-2022,04-04-2022,1,Conducted audits and applied firewall and encryption strategies.,20,25
+340,859,Cloud Architecture Design,16,9/24/2021,9/24/2021,1,Designed a scalable cloud system using AWS services for high uptime.,96,16
+341,146,Project on AI for Healthcare,6,8/21/2024,8/21/2024,6,Developed a model for predicting health outcomes using machine learning.,11,298
+342,435,Network Security Assessment,17,12-04-2022,12-04-2022,5,Conducted audits and applied firewall and encryption strategies.,54,139
+343,724,Cloud Architecture Design,20,9/28/2022,9/28/2022,5,Designed a scalable cloud system using AWS services for high uptime.,61,438
+344,281,Content Marketing Campaign,3,10/19/2021,10/19/2021,2,"Created blog posts, videos, and infographics for a product launch.",86,60
+345,239,E-commerce Website Development,4,7/15/2024,7/15/2024,2,Built a responsive web store with secure payments and user login.,35,475
+346,81,Network Security Assessment,16,11/21/2022,11/21/2022,7,Conducted audits and applied firewall and encryption strategies.,21,493
+347,214,E-commerce Website Development,1,09-11-2024,09-11-2024,1,Built a responsive web store with secure payments and user login.,80,48
+348,138,Network Security Assessment,9,12-10-2020,12-10-2020,4,Conducted audits and applied firewall and encryption strategies.,14,168
+349,703,Content Marketing Campaign,19,7/17/2021,7/17/2021,3,"Created blog posts, videos, and infographics for a product launch.",22,446
+350,45,Content Marketing Campaign,2,4/15/2024,4/15/2024,4,"Created blog posts, videos, and infographics for a product launch.",28,409
+351,736,Cloud Architecture Design,19,5/21/2021,5/21/2021,10,Designed a scalable cloud system using AWS services for high uptime.,34,135
+352,518,Project on AI for Healthcare,18,2/19/2023,2/19/2023,7,Developed a model for predicting health outcomes using machine learning.,6,47
+353,727,Cloud Architecture Design,20,6/13/2020,6/13/2020,7,Designed a scalable cloud system using AWS services for high uptime.,74,236
+354,773,Mobile App Prototype Design,9,2/21/2022,2/21/2022,6,Prototyped a mobile app with a strong focus on UX and accessibility.,60,278
+355,480,Cloud Architecture Design,2,2/21/2024,2/21/2024,8,Designed a scalable cloud system using AWS services for high uptime.,20,125
+356,184,Project on AI for Healthcare,15,12-12-2021,12-12-2021,1,Developed a model for predicting health outcomes using machine learning.,60,438
+357,370,E-commerce Website Development,15,8/25/2022,8/25/2022,2,Built a responsive web store with secure payments and user login.,30,183
+358,34,Content Marketing Campaign,9,9/29/2020,9/29/2020,7,"Created blog posts, videos, and infographics for a product launch.",5,16
+359,956,Mobile App Prototype Design,18,12/26/2021,12/26/2021,9,Prototyped a mobile app with a strong focus on UX and accessibility.,58,396
+360,733,Mobile App Prototype Design,15,2/21/2022,2/21/2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,46,244
+361,359,E-commerce Website Development,5,5/16/2024,5/16/2024,7,Built a responsive web store with secure payments and user login.,16,239
+362,79,Project on AI for Healthcare,20,12/19/2022,12/19/2022,10,Developed a model for predicting health outcomes using machine learning.,39,480
+363,507,Network Security Assessment,18,05-07-2024,05-07-2024,7,Conducted audits and applied firewall and encryption strategies.,43,384
+364,376,Network Security Assessment,8,12/21/2022,12/21/2022,10,Conducted audits and applied firewall and encryption strategies.,97,59
+365,254,Cloud Architecture Design,13,3/21/2021,3/21/2021,7,Designed a scalable cloud system using AWS services for high uptime.,84,233
+366,460,E-commerce Website Development,10,5/31/2021,5/31/2021,5,Built a responsive web store with secure payments and user login.,40,352
+367,80,Mobile App Prototype Design,12,5/18/2020,5/18/2020,10,Prototyped a mobile app with a strong focus on UX and accessibility.,36,212
+368,474,Network Security Assessment,18,8/29/2023,8/29/2023,10,Conducted audits and applied firewall and encryption strategies.,42,348
+369,605,Mobile App Prototype Design,19,03-11-2023,03-11-2023,3,Prototyped a mobile app with a strong focus on UX and accessibility.,69,287
+370,749,Cloud Architecture Design,14,10/14/2022,10/14/2022,5,Designed a scalable cloud system using AWS services for high uptime.,70,293
+371,275,Network Security Assessment,19,10/20/2022,10/20/2022,5,Conducted audits and applied firewall and encryption strategies.,89,469
+372,873,Mobile App Prototype Design,7,2/20/2023,2/20/2023,7,Prototyped a mobile app with a strong focus on UX and accessibility.,81,51
+373,637,Cloud Architecture Design,10,2/28/2020,2/28/2020,6,Designed a scalable cloud system using AWS services for high uptime.,36,114
+374,151,E-commerce Website Development,1,3/21/2022,3/21/2022,2,Built a responsive web store with secure payments and user login.,20,244
+375,58,Project on AI for Healthcare,2,10-01-2022,10-01-2022,7,Developed a model for predicting health outcomes using machine learning.,92,450
+376,46,Project on AI for Healthcare,18,3/18/2021,3/18/2021,8,Developed a model for predicting health outcomes using machine learning.,89,372
+377,654,Cloud Architecture Design,18,5/26/2023,5/26/2023,7,Designed a scalable cloud system using AWS services for high uptime.,9,68
+378,661,Network Security Assessment,8,11-01-2022,11-01-2022,3,Conducted audits and applied firewall and encryption strategies.,76,391
+379,890,Cloud Architecture Design,3,5/28/2021,5/28/2021,6,Designed a scalable cloud system using AWS services for high uptime.,88,388
+380,380,Project on AI for Healthcare,8,3/24/2021,3/24/2021,1,Developed a model for predicting health outcomes using machine learning.,22,258
+381,255,E-commerce Website Development,9,6/19/2021,6/19/2021,10,Built a responsive web store with secure payments and user login.,52,350
+382,845,Content Marketing Campaign,5,03-09-2023,03-09-2023,2,"Created blog posts, videos, and infographics for a product launch.",8,21
+383,155,Cloud Architecture Design,16,3/28/2021,3/28/2021,8,Designed a scalable cloud system using AWS services for high uptime.,30,168
+384,142,Cloud Architecture Design,10,04-11-2024,04-11-2024,6,Designed a scalable cloud system using AWS services for high uptime.,11,127
+385,331,Project on AI for Healthcare,9,8/23/2020,8/23/2020,2,Developed a model for predicting health outcomes using machine learning.,64,442
+386,894,Project on AI for Healthcare,10,11/15/2024,11/15/2024,4,Developed a model for predicting health outcomes using machine learning.,60,193
+387,268,E-commerce Website Development,4,05-03-2024,05-03-2024,4,Built a responsive web store with secure payments and user login.,52,314
+388,114,Mobile App Prototype Design,8,8/21/2022,8/21/2022,3,Prototyped a mobile app with a strong focus on UX and accessibility.,32,304
+389,686,Project on AI for Healthcare,6,02-02-2023,02-02-2023,8,Developed a model for predicting health outcomes using machine learning.,78,476
+390,957,Content Marketing Campaign,4,11/28/2023,11/28/2023,3,"Created blog posts, videos, and infographics for a product launch.",57,99
+391,261,Project on AI for Healthcare,12,09-01-2020,09-01-2020,9,Developed a model for predicting health outcomes using machine learning.,58,340
+392,150,Cloud Architecture Design,2,2/27/2024,2/27/2024,4,Designed a scalable cloud system using AWS services for high uptime.,47,179
+393,456,Project on AI for Healthcare,5,12-01-2024,12-01-2024,4,Developed a model for predicting health outcomes using machine learning.,87,362
+394,232,Content Marketing Campaign,7,5/18/2023,5/18/2023,6,"Created blog posts, videos, and infographics for a product launch.",3,247
+395,278,Content Marketing Campaign,7,08-05-2021,08-05-2021,10,"Created blog posts, videos, and infographics for a product launch.",37,151
+396,743,E-commerce Website Development,6,09-12-2024,09-12-2024,1,Built a responsive web store with secure payments and user login.,36,367
+397,430,Network Security Assessment,12,01-02-2024,01-02-2024,7,Conducted audits and applied firewall and encryption strategies.,75,409
+398,877,Mobile App Prototype Design,5,03-02-2022,03-02-2022,4,Prototyped a mobile app with a strong focus on UX and accessibility.,74,184
+399,567,Project on AI for Healthcare,14,12-03-2023,12-03-2023,2,Developed a model for predicting health outcomes using machine learning.,84,301
+400,818,Mobile App Prototype Design,2,2/23/2022,2/23/2022,10,Prototyped a mobile app with a strong focus on UX and accessibility.,11,172
+401,878,E-commerce Website Development,6,4/14/2024,4/14/2024,10,Built a responsive web store with secure payments and user login.,89,481
+402,982,Content Marketing Campaign,15,05-01-2020,05-01-2020,8,"Created blog posts, videos, and infographics for a product launch.",60,263
+403,400,Content Marketing Campaign,2,3/22/2021,3/22/2021,1,"Created blog posts, videos, and infographics for a product launch.",2,314
+404,300,E-commerce Website Development,13,12/21/2021,12/21/2021,10,Built a responsive web store with secure payments and user login.,32,126
+405,452,Content Marketing Campaign,6,10-10-2023,10-10-2023,1,"Created blog posts, videos, and infographics for a product launch.",100,399
+406,384,E-commerce Website Development,14,06-04-2024,06-04-2024,10,Built a responsive web store with secure payments and user login.,52,147
+407,409,Mobile App Prototype Design,6,3/17/2024,3/17/2024,9,Prototyped a mobile app with a strong focus on UX and accessibility.,18,295
+408,449,Mobile App Prototype Design,11,01-08-2023,01-08-2023,2,Prototyped a mobile app with a strong focus on UX and accessibility.,66,102
+409,294,Content Marketing Campaign,10,12/31/2020,12/31/2020,3,"Created blog posts, videos, and infographics for a product launch.",90,232
+410,206,Network Security Assessment,7,04-10-2020,04-10-2020,8,Conducted audits and applied firewall and encryption strategies.,62,13
+411,644,Mobile App Prototype Design,20,05-11-2020,05-11-2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,37,284
+412,419,Content Marketing Campaign,13,11/13/2021,11/13/2021,7,"Created blog posts, videos, and infographics for a product launch.",21,388
+413,126,Content Marketing Campaign,2,05-11-2020,05-11-2020,6,"Created blog posts, videos, and infographics for a product launch.",18,97
+414,859,Mobile App Prototype Design,4,10/15/2021,10/15/2021,7,Prototyped a mobile app with a strong focus on UX and accessibility.,42,348
+415,885,Project on AI for Healthcare,3,01-08-2021,01-08-2021,7,Developed a model for predicting health outcomes using machine learning.,19,440
+416,508,Mobile App Prototype Design,20,06-07-2024,06-07-2024,5,Prototyped a mobile app with a strong focus on UX and accessibility.,67,144
+417,102,Cloud Architecture Design,7,4/16/2023,4/16/2023,4,Designed a scalable cloud system using AWS services for high uptime.,63,139
+418,635,E-commerce Website Development,4,3/14/2023,3/14/2023,4,Built a responsive web store with secure payments and user login.,4,80
+419,762,Network Security Assessment,17,1/21/2023,1/21/2023,5,Conducted audits and applied firewall and encryption strategies.,90,88
+420,685,Mobile App Prototype Design,15,03-05-2023,03-05-2023,10,Prototyped a mobile app with a strong focus on UX and accessibility.,44,73
+421,729,Network Security Assessment,17,11/24/2023,11/24/2023,3,Conducted audits and applied firewall and encryption strategies.,79,85
+422,721,Mobile App Prototype Design,3,03-10-2023,03-10-2023,8,Prototyped a mobile app with a strong focus on UX and accessibility.,53,257
+423,716,Cloud Architecture Design,7,09-06-2024,09-06-2024,8,Designed a scalable cloud system using AWS services for high uptime.,50,134
+424,730,Project on AI for Healthcare,9,10/31/2021,10/31/2021,1,Developed a model for predicting health outcomes using machine learning.,35,106
+425,523,Cloud Architecture Design,9,03-08-2020,03-08-2020,6,Designed a scalable cloud system using AWS services for high uptime.,2,268
+426,537,Project on AI for Healthcare,2,11-04-2021,11-04-2021,6,Developed a model for predicting health outcomes using machine learning.,45,228
+427,302,Network Security Assessment,14,4/18/2022,4/18/2022,7,Conducted audits and applied firewall and encryption strategies.,4,300
+428,507,Mobile App Prototype Design,19,7/31/2023,7/31/2023,9,Prototyped a mobile app with a strong focus on UX and accessibility.,85,28
+429,301,Content Marketing Campaign,18,6/28/2024,6/28/2024,6,"Created blog posts, videos, and infographics for a product launch.",66,333
+430,762,Content Marketing Campaign,18,5/21/2023,5/21/2023,7,"Created blog posts, videos, and infographics for a product launch.",23,292
+431,916,Content Marketing Campaign,13,2/20/2023,2/20/2023,2,"Created blog posts, videos, and infographics for a product launch.",74,126
+432,930,Project on AI for Healthcare,2,1/25/2021,1/25/2021,9,Developed a model for predicting health outcomes using machine learning.,54,462
+433,171,Content Marketing Campaign,5,10-05-2022,10-05-2022,2,"Created blog posts, videos, and infographics for a product launch.",39,241
+434,717,Content Marketing Campaign,10,1/31/2022,1/31/2022,10,"Created blog posts, videos, and infographics for a product launch.",64,159
+435,269,Cloud Architecture Design,6,12/27/2021,12/27/2021,4,Designed a scalable cloud system using AWS services for high uptime.,57,244
+436,797,Mobile App Prototype Design,16,3/18/2020,3/18/2020,9,Prototyped a mobile app with a strong focus on UX and accessibility.,6,408
+437,797,Network Security Assessment,17,7/13/2021,7/13/2021,6,Conducted audits and applied firewall and encryption strategies.,26,236
+438,214,Content Marketing Campaign,6,03-12-2024,03-12-2024,7,"Created blog posts, videos, and infographics for a product launch.",14,237
+439,171,Content Marketing Campaign,20,12/17/2021,12/17/2021,4,"Created blog posts, videos, and infographics for a product launch.",31,252
+440,194,E-commerce Website Development,14,5/15/2021,5/15/2021,8,Built a responsive web store with secure payments and user login.,17,141
+441,567,E-commerce Website Development,14,7/19/2020,7/19/2020,2,Built a responsive web store with secure payments and user login.,28,241
+442,647,Mobile App Prototype Design,15,11/21/2023,11/21/2023,10,Prototyped a mobile app with a strong focus on UX and accessibility.,34,483
+443,147,Cloud Architecture Design,8,7/15/2020,7/15/2020,3,Designed a scalable cloud system using AWS services for high uptime.,4,243
+444,508,Mobile App Prototype Design,9,6/23/2020,6/23/2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,57,445
+445,269,Cloud Architecture Design,3,9/21/2022,9/21/2022,2,Designed a scalable cloud system using AWS services for high uptime.,49,17
+446,556,Network Security Assessment,15,12/15/2023,12/15/2023,9,Conducted audits and applied firewall and encryption strategies.,3,381
+447,651,E-commerce Website Development,19,03-05-2020,03-05-2020,4,Built a responsive web store with secure payments and user login.,81,293
+448,965,Mobile App Prototype Design,16,1/31/2022,1/31/2022,2,Prototyped a mobile app with a strong focus on UX and accessibility.,25,46
+449,412,Mobile App Prototype Design,19,01-08-2020,01-08-2020,8,Prototyped a mobile app with a strong focus on UX and accessibility.,96,495
+450,697,Project on AI for Healthcare,8,03-12-2023,03-12-2023,2,Developed a model for predicting health outcomes using machine learning.,91,452
+451,261,Network Security Assessment,20,03-01-2022,03-01-2022,3,Conducted audits and applied firewall and encryption strategies.,26,239
+452,441,Project on AI for Healthcare,9,1/20/2022,1/20/2022,5,Developed a model for predicting health outcomes using machine learning.,96,214
+453,770,E-commerce Website Development,2,4/24/2021,4/24/2021,5,Built a responsive web store with secure payments and user login.,17,106
+454,483,E-commerce Website Development,15,2/23/2022,2/23/2022,5,Built a responsive web store with secure payments and user login.,92,399
+455,555,E-commerce Website Development,7,06-09-2022,06-09-2022,5,Built a responsive web store with secure payments and user login.,77,168
+456,971,Network Security Assessment,19,8/24/2023,8/24/2023,10,Conducted audits and applied firewall and encryption strategies.,53,462
+457,278,Content Marketing Campaign,16,6/24/2024,6/24/2024,2,"Created blog posts, videos, and infographics for a product launch.",61,235
+458,396,Project on AI for Healthcare,19,11/28/2022,11/28/2022,8,Developed a model for predicting health outcomes using machine learning.,89,239
+459,154,Cloud Architecture Design,13,9/24/2022,9/24/2022,8,Designed a scalable cloud system using AWS services for high uptime.,27,244
+460,518,Network Security Assessment,13,12-01-2023,12-01-2023,8,Conducted audits and applied firewall and encryption strategies.,18,403
+461,263,Mobile App Prototype Design,8,06-10-2020,06-10-2020,7,Prototyped a mobile app with a strong focus on UX and accessibility.,66,101
+462,682,Cloud Architecture Design,8,05-07-2022,05-07-2022,2,Designed a scalable cloud system using AWS services for high uptime.,42,328
+463,487,Project on AI for Healthcare,19,08-01-2020,08-01-2020,5,Developed a model for predicting health outcomes using machine learning.,46,21
+464,853,Network Security Assessment,10,7/19/2024,7/19/2024,1,Conducted audits and applied firewall and encryption strategies.,66,141
+465,508,Content Marketing Campaign,9,10/13/2023,10/13/2023,10,"Created blog posts, videos, and infographics for a product launch.",31,207
+466,402,Network Security Assessment,15,4/24/2024,4/24/2024,8,Conducted audits and applied firewall and encryption strategies.,45,181
+467,264,Mobile App Prototype Design,4,11/27/2022,11/27/2022,10,Prototyped a mobile app with a strong focus on UX and accessibility.,84,445
+468,604,Network Security Assessment,3,1/28/2020,1/28/2020,1,Conducted audits and applied firewall and encryption strategies.,65,478
+469,598,Cloud Architecture Design,9,02-11-2023,02-11-2023,4,Designed a scalable cloud system using AWS services for high uptime.,65,79
+470,101,Content Marketing Campaign,5,7/27/2022,7/27/2022,1,"Created blog posts, videos, and infographics for a product launch.",24,329
+471,440,Project on AI for Healthcare,3,06-10-2021,06-10-2021,10,Developed a model for predicting health outcomes using machine learning.,28,409
+472,59,Content Marketing Campaign,15,03-05-2024,03-05-2024,5,"Created blog posts, videos, and infographics for a product launch.",72,457
+473,442,Cloud Architecture Design,4,10-05-2023,10-05-2023,4,Designed a scalable cloud system using AWS services for high uptime.,35,405
+474,979,Content Marketing Campaign,4,01-06-2022,01-06-2022,6,"Created blog posts, videos, and infographics for a product launch.",95,118
+475,435,Content Marketing Campaign,15,3/26/2023,3/26/2023,1,"Created blog posts, videos, and infographics for a product launch.",33,205
+476,5,Cloud Architecture Design,13,3/30/2021,3/30/2021,5,Designed a scalable cloud system using AWS services for high uptime.,62,51
+477,704,Cloud Architecture Design,9,4/18/2023,4/18/2023,9,Designed a scalable cloud system using AWS services for high uptime.,14,408
+478,184,Project on AI for Healthcare,19,07-12-2022,07-12-2022,8,Developed a model for predicting health outcomes using machine learning.,51,199
+479,841,Content Marketing Campaign,20,03-03-2024,03-03-2024,6,"Created blog posts, videos, and infographics for a product launch.",70,309
+480,630,Content Marketing Campaign,8,6/15/2023,6/15/2023,5,"Created blog posts, videos, and infographics for a product launch.",50,410
+481,784,E-commerce Website Development,6,4/30/2020,4/30/2020,10,Built a responsive web store with secure payments and user login.,59,445
+482,924,Network Security Assessment,13,7/18/2022,7/18/2022,7,Conducted audits and applied firewall and encryption strategies.,48,26
+483,907,Network Security Assessment,5,7/23/2024,7/23/2024,1,Conducted audits and applied firewall and encryption strategies.,17,408
+484,979,E-commerce Website Development,12,3/23/2024,3/23/2024,1,Built a responsive web store with secure payments and user login.,95,484
+485,455,Mobile App Prototype Design,10,2/24/2023,2/24/2023,6,Prototyped a mobile app with a strong focus on UX and accessibility.,14,298
+486,578,E-commerce Website Development,11,05-01-2024,05-01-2024,3,Built a responsive web store with secure payments and user login.,27,210
+487,404,Cloud Architecture Design,14,06-01-2024,06-01-2024,5,Designed a scalable cloud system using AWS services for high uptime.,63,77
+488,807,Project on AI for Healthcare,20,6/17/2020,6/17/2020,10,Developed a model for predicting health outcomes using machine learning.,6,362
+489,67,Mobile App Prototype Design,16,8/13/2024,8/13/2024,10,Prototyped a mobile app with a strong focus on UX and accessibility.,75,145
+490,482,Cloud Architecture Design,15,12/26/2023,12/26/2023,8,Designed a scalable cloud system using AWS services for high uptime.,24,85
+491,846,Mobile App Prototype Design,20,5/19/2020,5/19/2020,8,Prototyped a mobile app with a strong focus on UX and accessibility.,85,324
+492,192,Project on AI for Healthcare,9,05-07-2021,05-07-2021,7,Developed a model for predicting health outcomes using machine learning.,67,45
+493,854,Mobile App Prototype Design,16,12/26/2020,12/26/2020,1,Prototyped a mobile app with a strong focus on UX and accessibility.,79,437
+494,934,Mobile App Prototype Design,1,2/26/2023,2/26/2023,9,Prototyped a mobile app with a strong focus on UX and accessibility.,58,3
+495,755,E-commerce Website Development,9,1/16/2023,1/16/2023,10,Built a responsive web store with secure payments and user login.,15,251
+496,992,Content Marketing Campaign,18,7/24/2024,7/24/2024,2,"Created blog posts, videos, and infographics for a product launch.",82,182
+497,581,Project on AI for Healthcare,6,10/27/2021,10/27/2021,9,Developed a model for predicting health outcomes using machine learning.,2,166
+498,800,Content Marketing Campaign,14,9/13/2024,9/13/2024,4,"Created blog posts, videos, and infographics for a product launch.",84,273
+499,818,Mobile App Prototype Design,2,3/13/2024,3/13/2024,8,Prototyped a mobile app with a strong focus on UX and accessibility.,84,130
+500,370,E-commerce Website Development,13,6/27/2021,6/27/2021,4,Built a responsive web store with secure payments and user login.,25,464
+501,83,E-commerce Website Development,8,9/21/2022,9/21/2022,3,Built a responsive web store with secure payments and user login.,23,320
+502,407,Content Marketing Campaign,20,2/13/2022,2/13/2022,8,"Created blog posts, videos, and infographics for a product launch.",2,118
+503,371,Network Security Assessment,3,07-01-2023,07-01-2023,1,Conducted audits and applied firewall and encryption strategies.,35,467
+504,991,Content Marketing Campaign,14,10-07-2022,10-07-2022,5,"Created blog posts, videos, and infographics for a product launch.",1,416
+505,239,Network Security Assessment,11,8/29/2024,8/29/2024,10,Conducted audits and applied firewall and encryption strategies.,18,418
+506,359,E-commerce Website Development,14,6/28/2020,6/28/2020,3,Built a responsive web store with secure payments and user login.,26,433
+507,62,Content Marketing Campaign,6,05-09-2022,05-09-2022,10,"Created blog posts, videos, and infographics for a product launch.",81,32
+508,99,Mobile App Prototype Design,7,11-03-2021,11-03-2021,4,Prototyped a mobile app with a strong focus on UX and accessibility.,43,141
+509,452,Cloud Architecture Design,19,6/28/2022,6/28/2022,1,Designed a scalable cloud system using AWS services for high uptime.,22,351
+510,127,Cloud Architecture Design,10,2/19/2020,2/19/2020,10,Designed a scalable cloud system using AWS services for high uptime.,63,482
+511,736,Mobile App Prototype Design,1,08-06-2020,08-06-2020,1,Prototyped a mobile app with a strong focus on UX and accessibility.,39,372
+512,277,Project on AI for Healthcare,11,4/22/2020,4/22/2020,7,Developed a model for predicting health outcomes using machine learning.,71,220
+513,557,E-commerce Website Development,15,09-06-2023,09-06-2023,7,Built a responsive web store with secure payments and user login.,45,322
+514,647,Cloud Architecture Design,5,9/18/2024,9/18/2024,2,Designed a scalable cloud system using AWS services for high uptime.,63,349
+515,432,Mobile App Prototype Design,5,5/23/2021,5/23/2021,2,Prototyped a mobile app with a strong focus on UX and accessibility.,34,205
+516,972,E-commerce Website Development,12,9/28/2020,9/28/2020,4,Built a responsive web store with secure payments and user login.,36,326
+517,940,E-commerce Website Development,20,11/19/2020,11/19/2020,4,Built a responsive web store with secure payments and user login.,90,363
+518,609,Network Security Assessment,3,04-03-2022,04-03-2022,10,Conducted audits and applied firewall and encryption strategies.,30,77
+519,436,Mobile App Prototype Design,16,9/15/2020,9/15/2020,8,Prototyped a mobile app with a strong focus on UX and accessibility.,86,379
+520,100,Project on AI for Healthcare,4,1/30/2023,1/30/2023,9,Developed a model for predicting health outcomes using machine learning.,2,364
+521,620,Content Marketing Campaign,6,6/21/2021,6/21/2021,8,"Created blog posts, videos, and infographics for a product launch.",2,389
+522,932,Cloud Architecture Design,2,3/30/2021,3/30/2021,2,Designed a scalable cloud system using AWS services for high uptime.,55,30
+523,946,E-commerce Website Development,1,2/28/2023,2/28/2023,6,Built a responsive web store with secure payments and user login.,33,148
+524,181,Mobile App Prototype Design,9,06-07-2022,06-07-2022,1,Prototyped a mobile app with a strong focus on UX and accessibility.,37,184
+525,641,Mobile App Prototype Design,15,9/24/2023,9/24/2023,7,Prototyped a mobile app with a strong focus on UX and accessibility.,41,226
+526,636,Cloud Architecture Design,12,12/16/2024,12/16/2024,9,Designed a scalable cloud system using AWS services for high uptime.,89,179
+527,7,Cloud Architecture Design,14,12/21/2020,12/21/2020,2,Designed a scalable cloud system using AWS services for high uptime.,14,94
+528,46,E-commerce Website Development,8,3/28/2022,3/28/2022,9,Built a responsive web store with secure payments and user login.,42,357
+529,603,Content Marketing Campaign,4,6/16/2021,6/16/2021,7,"Created blog posts, videos, and infographics for a product launch.",44,492
+530,702,Network Security Assessment,19,1/22/2022,1/22/2022,2,Conducted audits and applied firewall and encryption strategies.,32,461
+531,847,E-commerce Website Development,10,08-03-2023,08-03-2023,3,Built a responsive web store with secure payments and user login.,96,141
+532,521,Cloud Architecture Design,11,5/13/2023,5/13/2023,2,Designed a scalable cloud system using AWS services for high uptime.,69,68
+533,246,Content Marketing Campaign,16,07-05-2023,07-05-2023,9,"Created blog posts, videos, and infographics for a product launch.",26,247
+534,79,Cloud Architecture Design,5,11-06-2021,11-06-2021,8,Designed a scalable cloud system using AWS services for high uptime.,53,372
+535,298,Content Marketing Campaign,7,12/20/2024,12/20/2024,8,"Created blog posts, videos, and infographics for a product launch.",15,404
+536,237,Project on AI for Healthcare,3,12-01-2024,12-01-2024,8,Developed a model for predicting health outcomes using machine learning.,12,208
+537,985,Mobile App Prototype Design,17,02-05-2023,02-05-2023,9,Prototyped a mobile app with a strong focus on UX and accessibility.,33,472
+538,394,Mobile App Prototype Design,8,10-05-2021,10-05-2021,5,Prototyped a mobile app with a strong focus on UX and accessibility.,93,421
+539,905,E-commerce Website Development,19,02-11-2023,02-11-2023,6,Built a responsive web store with secure payments and user login.,15,370
+540,271,Mobile App Prototype Design,20,2/22/2021,2/22/2021,1,Prototyped a mobile app with a strong focus on UX and accessibility.,4,184
+541,107,Network Security Assessment,16,11/19/2020,11/19/2020,5,Conducted audits and applied firewall and encryption strategies.,73,398
+542,772,Project on AI for Healthcare,17,11/20/2020,11/20/2020,2,Developed a model for predicting health outcomes using machine learning.,48,343
+543,963,Mobile App Prototype Design,6,10-05-2024,10-05-2024,3,Prototyped a mobile app with a strong focus on UX and accessibility.,88,184
+544,198,Mobile App Prototype Design,12,6/20/2024,6/20/2024,10,Prototyped a mobile app with a strong focus on UX and accessibility.,65,479
+545,16,E-commerce Website Development,2,04-06-2021,04-06-2021,9,Built a responsive web store with secure payments and user login.,1,335
+546,278,Network Security Assessment,18,04-11-2023,04-11-2023,2,Conducted audits and applied firewall and encryption strategies.,90,322
+547,136,E-commerce Website Development,2,6/16/2022,6/16/2022,2,Built a responsive web store with secure payments and user login.,63,435
+548,745,Network Security Assessment,13,07-05-2021,07-05-2021,1,Conducted audits and applied firewall and encryption strategies.,2,473
+549,893,E-commerce Website Development,10,05-06-2020,05-06-2020,7,Built a responsive web store with secure payments and user login.,21,84
+550,39,Project on AI for Healthcare,20,6/24/2021,6/24/2021,8,Developed a model for predicting health outcomes using machine learning.,87,389
+551,819,Content Marketing Campaign,19,01-04-2023,01-04-2023,2,"Created blog posts, videos, and infographics for a product launch.",19,244
+552,33,Project on AI for Healthcare,19,9/18/2023,9/18/2023,8,Developed a model for predicting health outcomes using machine learning.,11,119
+553,899,Content Marketing Campaign,3,05-05-2020,05-05-2020,10,"Created blog posts, videos, and infographics for a product launch.",47,400
+554,811,E-commerce Website Development,7,8/28/2021,8/28/2021,4,Built a responsive web store with secure payments and user login.,32,339
+555,385,Network Security Assessment,13,03-12-2020,03-12-2020,10,Conducted audits and applied firewall and encryption strategies.,22,415
+556,310,Network Security Assessment,17,8/25/2023,8/25/2023,3,Conducted audits and applied firewall and encryption strategies.,14,75
+557,897,Content Marketing Campaign,6,7/26/2023,7/26/2023,2,"Created blog posts, videos, and infographics for a product launch.",31,146
+558,508,Network Security Assessment,7,10-03-2020,10-03-2020,5,Conducted audits and applied firewall and encryption strategies.,66,107
+559,340,Project on AI for Healthcare,18,6/27/2021,6/27/2021,3,Developed a model for predicting health outcomes using machine learning.,86,464
+560,533,Content Marketing Campaign,10,12-01-2024,12-01-2024,9,"Created blog posts, videos, and infographics for a product launch.",99,150
+561,218,Content Marketing Campaign,10,09-04-2020,09-04-2020,2,"Created blog posts, videos, and infographics for a product launch.",73,54
+562,927,Network Security Assessment,7,11/18/2023,11/18/2023,2,Conducted audits and applied firewall and encryption strategies.,80,27
+563,456,Project on AI for Healthcare,20,3/29/2024,3/29/2024,6,Developed a model for predicting health outcomes using machine learning.,81,328
+564,1,E-commerce Website Development,10,07-12-2021,07-12-2021,2,Built a responsive web store with secure payments and user login.,12,130
+565,489,E-commerce Website Development,10,1/21/2022,1/21/2022,7,Built a responsive web store with secure payments and user login.,94,166
+566,76,Content Marketing Campaign,17,10-03-2023,10-03-2023,7,"Created blog posts, videos, and infographics for a product launch.",80,370
+567,677,Content Marketing Campaign,16,7/18/2023,7/18/2023,5,"Created blog posts, videos, and infographics for a product launch.",64,236
+568,598,E-commerce Website Development,7,01-07-2023,01-07-2023,8,Built a responsive web store with secure payments and user login.,95,362
+569,1000,Mobile App Prototype Design,5,2/25/2020,2/25/2020,7,Prototyped a mobile app with a strong focus on UX and accessibility.,15,461
+570,527,Mobile App Prototype Design,15,12/23/2021,12/23/2021,8,Prototyped a mobile app with a strong focus on UX and accessibility.,4,73
+571,900,Content Marketing Campaign,11,10/28/2021,10/28/2021,9,"Created blog posts, videos, and infographics for a product launch.",35,100
+572,933,E-commerce Website Development,17,01-03-2022,01-03-2022,9,Built a responsive web store with secure payments and user login.,29,9
+573,972,E-commerce Website Development,14,09-01-2020,09-01-2020,2,Built a responsive web store with secure payments and user login.,30,483
+574,276,Project on AI for Healthcare,1,3/19/2024,3/19/2024,7,Developed a model for predicting health outcomes using machine learning.,68,185
+575,433,Cloud Architecture Design,1,10/16/2021,10/16/2021,9,Designed a scalable cloud system using AWS services for high uptime.,76,149
+576,720,Cloud Architecture Design,7,07-12-2024,07-12-2024,8,Designed a scalable cloud system using AWS services for high uptime.,26,337
+577,904,Cloud Architecture Design,5,5/19/2024,5/19/2024,8,Designed a scalable cloud system using AWS services for high uptime.,50,157
+578,206,E-commerce Website Development,14,12-02-2023,12-02-2023,5,Built a responsive web store with secure payments and user login.,3,54
+579,341,Network Security Assessment,10,02-01-2023,02-01-2023,8,Conducted audits and applied firewall and encryption strategies.,7,492
+580,910,E-commerce Website Development,1,05-05-2022,05-05-2022,10,Built a responsive web store with secure payments and user login.,89,122
+581,101,Cloud Architecture Design,9,5/30/2024,5/30/2024,2,Designed a scalable cloud system using AWS services for high uptime.,93,277
+582,2,E-commerce Website Development,14,9/21/2020,9/21/2020,9,Built a responsive web store with secure payments and user login.,19,178
+583,624,Mobile App Prototype Design,16,5/26/2022,5/26/2022,5,Prototyped a mobile app with a strong focus on UX and accessibility.,36,285
+584,335,Network Security Assessment,1,4/27/2023,4/27/2023,8,Conducted audits and applied firewall and encryption strategies.,19,227
+585,1000,Cloud Architecture Design,1,10/24/2024,10/24/2024,5,Designed a scalable cloud system using AWS services for high uptime.,96,143
+586,999,Content Marketing Campaign,16,06-02-2024,06-02-2024,2,"Created blog posts, videos, and infographics for a product launch.",54,474
+587,637,Mobile App Prototype Design,6,2/27/2020,2/27/2020,3,Prototyped a mobile app with a strong focus on UX and accessibility.,94,100
+588,858,Project on AI for Healthcare,4,11-01-2023,11-01-2023,5,Developed a model for predicting health outcomes using machine learning.,14,152
+589,452,Content Marketing Campaign,6,10-06-2021,10-06-2021,4,"Created blog posts, videos, and infographics for a product launch.",21,443
+590,6,E-commerce Website Development,11,4/26/2021,4/26/2021,2,Built a responsive web store with secure payments and user login.,51,394
+591,68,Network Security Assessment,6,10/27/2021,10/27/2021,3,Conducted audits and applied firewall and encryption strategies.,32,372
+592,103,Project on AI for Healthcare,20,3/14/2024,3/14/2024,7,Developed a model for predicting health outcomes using machine learning.,51,113
+593,825,Cloud Architecture Design,13,1/24/2020,1/24/2020,9,Designed a scalable cloud system using AWS services for high uptime.,43,449
+594,868,Content Marketing Campaign,14,07-01-2023,07-01-2023,9,"Created blog posts, videos, and infographics for a product launch.",32,480
+595,11,Network Security Assessment,12,05-05-2024,05-05-2024,4,Conducted audits and applied firewall and encryption strategies.,4,336
+596,49,Content Marketing Campaign,20,12-09-2023,12-09-2023,3,"Created blog posts, videos, and infographics for a product launch.",90,116
+597,775,Content Marketing Campaign,14,10-05-2021,10-05-2021,9,"Created blog posts, videos, and infographics for a product launch.",93,226
+598,674,Project on AI for Healthcare,19,5/17/2024,5/17/2024,1,Developed a model for predicting health outcomes using machine learning.,61,188
+599,785,Network Security Assessment,10,10/22/2020,10/22/2020,3,Conducted audits and applied firewall and encryption strategies.,98,337
+600,611,Mobile App Prototype Design,13,08-09-2020,08-09-2020,9,Prototyped a mobile app with a strong focus on UX and accessibility.,53,374
+601,839,Project on AI for Healthcare,16,4/13/2022,4/13/2022,6,Developed a model for predicting health outcomes using machine learning.,92,269
+602,805,E-commerce Website Development,11,7/13/2024,7/13/2024,5,Built a responsive web store with secure payments and user login.,39,325
+603,238,E-commerce Website Development,12,12/16/2023,12/16/2023,2,Built a responsive web store with secure payments and user login.,36,18
+604,893,E-commerce Website Development,1,9/16/2022,9/16/2022,2,Built a responsive web store with secure payments and user login.,2,31
+605,387,Network Security Assessment,20,11/15/2020,11/15/2020,4,Conducted audits and applied firewall and encryption strategies.,19,78
+606,575,Project on AI for Healthcare,8,7/19/2022,7/19/2022,8,Developed a model for predicting health outcomes using machine learning.,20,96
+607,860,Cloud Architecture Design,3,04-08-2023,04-08-2023,9,Designed a scalable cloud system using AWS services for high uptime.,43,198
+608,480,Project on AI for Healthcare,2,02-07-2024,02-07-2024,5,Developed a model for predicting health outcomes using machine learning.,77,216
+609,298,Project on AI for Healthcare,3,12-10-2024,12-10-2024,7,Developed a model for predicting health outcomes using machine learning.,45,158
+610,87,Content Marketing Campaign,18,06-04-2024,06-04-2024,1,"Created blog posts, videos, and infographics for a product launch.",6,20
+611,320,E-commerce Website Development,7,1/25/2022,1/25/2022,6,Built a responsive web store with secure payments and user login.,79,37
+612,537,E-commerce Website Development,2,12-08-2020,12-08-2020,7,Built a responsive web store with secure payments and user login.,45,388
+613,925,Network Security Assessment,15,07-09-2020,07-09-2020,9,Conducted audits and applied firewall and encryption strategies.,51,234
+614,442,E-commerce Website Development,19,6/28/2020,6/28/2020,6,Built a responsive web store with secure payments and user login.,21,425
+615,362,Cloud Architecture Design,12,10-11-2020,10-11-2020,1,Designed a scalable cloud system using AWS services for high uptime.,66,153
+616,52,Content Marketing Campaign,1,6/14/2021,6/14/2021,6,"Created blog posts, videos, and infographics for a product launch.",25,90
+617,988,Cloud Architecture Design,19,01-04-2023,01-04-2023,3,Designed a scalable cloud system using AWS services for high uptime.,19,362
+618,115,Cloud Architecture Design,18,8/18/2020,8/18/2020,5,Designed a scalable cloud system using AWS services for high uptime.,100,66
+619,592,Content Marketing Campaign,5,6/30/2023,6/30/2023,7,"Created blog posts, videos, and infographics for a product launch.",14,202
+620,980,E-commerce Website Development,17,3/14/2020,3/14/2020,2,Built a responsive web store with secure payments and user login.,66,464
+621,797,Mobile App Prototype Design,5,3/30/2021,3/30/2021,3,Prototyped a mobile app with a strong focus on UX and accessibility.,3,382
+622,598,E-commerce Website Development,10,1/16/2023,1/16/2023,1,Built a responsive web store with secure payments and user login.,66,85
+623,95,Content Marketing Campaign,2,9/23/2022,9/23/2022,4,"Created blog posts, videos, and infographics for a product launch.",46,314
+624,4,E-commerce Website Development,10,04-09-2021,04-09-2021,4,Built a responsive web store with secure payments and user login.,44,165
+625,230,Project on AI for Healthcare,2,3/17/2023,3/17/2023,10,Developed a model for predicting health outcomes using machine learning.,8,29
+626,136,Mobile App Prototype Design,18,08-03-2024,08-03-2024,8,Prototyped a mobile app with a strong focus on UX and accessibility.,98,225
+627,37,Mobile App Prototype Design,20,9/15/2023,9/15/2023,10,Prototyped a mobile app with a strong focus on UX and accessibility.,4,498
+628,312,Cloud Architecture Design,20,5/17/2021,5/17/2021,10,Designed a scalable cloud system using AWS services for high uptime.,48,268
+629,706,Mobile App Prototype Design,3,2/20/2024,2/20/2024,4,Prototyped a mobile app with a strong focus on UX and accessibility.,75,475
+630,134,E-commerce Website Development,9,7/13/2024,7/13/2024,8,Built a responsive web store with secure payments and user login.,26,301
+631,606,E-commerce Website Development,13,11-02-2023,11-02-2023,2,Built a responsive web store with secure payments and user login.,43,278
+632,819,Content Marketing Campaign,15,6/29/2021,6/29/2021,10,"Created blog posts, videos, and infographics for a product launch.",53,127
+633,730,Project on AI for Healthcare,12,9/22/2023,9/22/2023,5,Developed a model for predicting health outcomes using machine learning.,6,52
+634,932,Cloud Architecture Design,7,10/19/2020,10/19/2020,1,Designed a scalable cloud system using AWS services for high uptime.,6,250
+635,436,Network Security Assessment,14,06-05-2023,06-05-2023,1,Conducted audits and applied firewall and encryption strategies.,95,367
+636,536,E-commerce Website Development,18,8/22/2021,8/22/2021,7,Built a responsive web store with secure payments and user login.,84,284
+637,483,Network Security Assessment,20,6/24/2020,6/24/2020,8,Conducted audits and applied firewall and encryption strategies.,14,180
+638,486,Mobile App Prototype Design,2,09-11-2024,09-11-2024,10,Prototyped a mobile app with a strong focus on UX and accessibility.,54,117
+639,969,E-commerce Website Development,5,12/15/2024,12/15/2024,5,Built a responsive web store with secure payments and user login.,51,25
+640,586,Mobile App Prototype Design,9,10/31/2024,10/31/2024,8,Prototyped a mobile app with a strong focus on UX and accessibility.,87,342
+641,306,E-commerce Website Development,15,12-01-2020,12-01-2020,3,Built a responsive web store with secure payments and user login.,21,469
+642,892,Cloud Architecture Design,16,06-01-2020,06-01-2020,2,Designed a scalable cloud system using AWS services for high uptime.,86,454
+643,857,Content Marketing Campaign,15,8/16/2023,8/16/2023,4,"Created blog posts, videos, and infographics for a product launch.",49,131
+644,900,Cloud Architecture Design,7,07-07-2022,07-07-2022,5,Designed a scalable cloud system using AWS services for high uptime.,10,246
+645,461,Mobile App Prototype Design,6,07-03-2021,07-03-2021,4,Prototyped a mobile app with a strong focus on UX and accessibility.,78,45
+646,573,Mobile App Prototype Design,10,12-10-2023,12-10-2023,7,Prototyped a mobile app with a strong focus on UX and accessibility.,20,450
+647,93,Content Marketing Campaign,4,1/16/2023,1/16/2023,10,"Created blog posts, videos, and infographics for a product launch.",98,58
+648,152,Mobile App Prototype Design,12,07-11-2021,07-11-2021,5,Prototyped a mobile app with a strong focus on UX and accessibility.,1,185
+649,601,Project on AI for Healthcare,14,6/22/2023,6/22/2023,9,Developed a model for predicting health outcomes using machine learning.,13,239
+650,750,Mobile App Prototype Design,2,8/19/2020,8/19/2020,8,Prototyped a mobile app with a strong focus on UX and accessibility.,75,233
+651,249,E-commerce Website Development,8,12/17/2021,12/17/2021,6,Built a responsive web store with secure payments and user login.,49,273
+652,446,Project on AI for Healthcare,17,10-07-2020,10-07-2020,8,Developed a model for predicting health outcomes using machine learning.,61,125
+653,734,Project on AI for Healthcare,11,9/23/2024,9/23/2024,4,Developed a model for predicting health outcomes using machine learning.,1,434
+654,393,Mobile App Prototype Design,8,12/22/2020,12/22/2020,5,Prototyped a mobile app with a strong focus on UX and accessibility.,87,8
+655,533,Content Marketing Campaign,14,02-09-2023,02-09-2023,9,"Created blog posts, videos, and infographics for a product launch.",6,473
+656,295,Mobile App Prototype Design,18,07-01-2020,07-01-2020,4,Prototyped a mobile app with a strong focus on UX and accessibility.,17,351
+657,874,Content Marketing Campaign,8,4/21/2021,4/21/2021,3,"Created blog posts, videos, and infographics for a product launch.",31,76
+658,891,E-commerce Website Development,5,5/16/2020,5/16/2020,3,Built a responsive web store with secure payments and user login.,20,10
+659,326,Mobile App Prototype Design,9,5/13/2021,5/13/2021,4,Prototyped a mobile app with a strong focus on UX and accessibility.,34,339
+660,728,Content Marketing Campaign,12,04-02-2021,04-02-2021,1,"Created blog posts, videos, and infographics for a product launch.",50,164
+661,959,Content Marketing Campaign,10,7/24/2022,7/24/2022,7,"Created blog posts, videos, and infographics for a product launch.",30,33
+662,627,Network Security Assessment,3,10/13/2024,10/13/2024,2,Conducted audits and applied firewall and encryption strategies.,59,98
+663,124,Mobile App Prototype Design,2,04-06-2023,04-06-2023,6,Prototyped a mobile app with a strong focus on UX and accessibility.,88,389
+664,895,Network Security Assessment,3,6/18/2021,6/18/2021,10,Conducted audits and applied firewall and encryption strategies.,89,103
+665,250,E-commerce Website Development,2,8/23/2020,8/23/2020,10,Built a responsive web store with secure payments and user login.,84,88
+666,226,E-commerce Website Development,8,5/15/2022,5/15/2022,2,Built a responsive web store with secure payments and user login.,89,166
+667,498,Cloud Architecture Design,3,06-08-2021,06-08-2021,5,Designed a scalable cloud system using AWS services for high uptime.,2,414
+668,108,Project on AI for Healthcare,9,8/13/2021,8/13/2021,8,Developed a model for predicting health outcomes using machine learning.,75,451
+669,701,Cloud Architecture Design,4,06-11-2021,06-11-2021,5,Designed a scalable cloud system using AWS services for high uptime.,21,129
+670,283,Network Security Assessment,19,08-01-2021,08-01-2021,5,Conducted audits and applied firewall and encryption strategies.,61,442
+671,402,Network Security Assessment,5,4/15/2022,4/15/2022,2,Conducted audits and applied firewall and encryption strategies.,32,193
+672,39,Cloud Architecture Design,6,03-02-2022,03-02-2022,7,Designed a scalable cloud system using AWS services for high uptime.,63,126
+673,333,E-commerce Website Development,6,11/15/2023,11/15/2023,9,Built a responsive web store with secure payments and user login.,25,149
+674,60,Cloud Architecture Design,16,1/26/2021,1/26/2021,6,Designed a scalable cloud system using AWS services for high uptime.,75,1
+675,695,Project on AI for Healthcare,7,9/18/2020,9/18/2020,7,Developed a model for predicting health outcomes using machine learning.,43,235
+676,195,Mobile App Prototype Design,9,6/17/2021,6/17/2021,1,Prototyped a mobile app with a strong focus on UX and accessibility.,10,198
+677,896,Content Marketing Campaign,17,06-03-2021,06-03-2021,1,"Created blog posts, videos, and infographics for a product launch.",3,338
+678,808,Mobile App Prototype Design,15,11/24/2021,11/24/2021,10,Prototyped a mobile app with a strong focus on UX and accessibility.,9,467
+679,914,E-commerce Website Development,19,02-10-2020,02-10-2020,1,Built a responsive web store with secure payments and user login.,70,3
+680,507,Content Marketing Campaign,11,04-03-2024,04-03-2024,1,"Created blog posts, videos, and infographics for a product launch.",30,462
+681,291,E-commerce Website Development,14,03-08-2023,03-08-2023,6,Built a responsive web store with secure payments and user login.,63,73
+682,825,E-commerce Website Development,9,8/30/2022,8/30/2022,3,Built a responsive web store with secure payments and user login.,59,111
+683,416,Network Security Assessment,16,01-03-2024,01-03-2024,6,Conducted audits and applied firewall and encryption strategies.,45,284
+684,836,Cloud Architecture Design,8,12-11-2023,12-11-2023,4,Designed a scalable cloud system using AWS services for high uptime.,38,176
+685,457,Project on AI for Healthcare,14,02-08-2024,02-08-2024,5,Developed a model for predicting health outcomes using machine learning.,95,191
+686,475,E-commerce Website Development,16,1/14/2022,1/14/2022,2,Built a responsive web store with secure payments and user login.,6,73
+687,660,Mobile App Prototype Design,2,05-07-2022,05-07-2022,6,Prototyped a mobile app with a strong focus on UX and accessibility.,33,220
+688,618,Cloud Architecture Design,5,9/18/2021,9/18/2021,1,Designed a scalable cloud system using AWS services for high uptime.,68,96
+689,112,Cloud Architecture Design,16,11/17/2023,11/17/2023,3,Designed a scalable cloud system using AWS services for high uptime.,60,302
+690,548,Content Marketing Campaign,19,01-07-2020,01-07-2020,7,"Created blog posts, videos, and infographics for a product launch.",71,424
+691,438,Project on AI for Healthcare,4,06-05-2021,06-05-2021,8,Developed a model for predicting health outcomes using machine learning.,65,111
+692,464,Content Marketing Campaign,19,8/29/2024,8/29/2024,8,"Created blog posts, videos, and infographics for a product launch.",96,133
+693,340,Project on AI for Healthcare,13,7/28/2021,7/28/2021,3,Developed a model for predicting health outcomes using machine learning.,80,205
+694,702,Cloud Architecture Design,20,4/24/2022,4/24/2022,10,Designed a scalable cloud system using AWS services for high uptime.,41,353
+695,496,Cloud Architecture Design,8,9/13/2022,9/13/2022,1,Designed a scalable cloud system using AWS services for high uptime.,5,89
+696,381,E-commerce Website Development,5,3/14/2022,3/14/2022,2,Built a responsive web store with secure payments and user login.,15,206
+697,799,Project on AI for Healthcare,13,04-09-2024,04-09-2024,6,Developed a model for predicting health outcomes using machine learning.,91,47
+698,455,Content Marketing Campaign,14,05-08-2024,05-08-2024,1,"Created blog posts, videos, and infographics for a product launch.",2,329
+699,868,Cloud Architecture Design,10,10-10-2022,10-10-2022,6,Designed a scalable cloud system using AWS services for high uptime.,100,157
+700,879,Cloud Architecture Design,9,9/15/2023,9/15/2023,9,Designed a scalable cloud system using AWS services for high uptime.,11,369
+701,889,Mobile App Prototype Design,15,1/20/2020,1/20/2020,2,Prototyped a mobile app with a strong focus on UX and accessibility.,2,484
+702,452,E-commerce Website Development,12,06-01-2023,06-01-2023,7,Built a responsive web store with secure payments and user login.,69,259
+703,796,Cloud Architecture Design,7,11/18/2023,11/18/2023,5,Designed a scalable cloud system using AWS services for high uptime.,89,78
+704,891,E-commerce Website Development,10,07-08-2023,07-08-2023,4,Built a responsive web store with secure payments and user login.,49,435
+705,963,Project on AI for Healthcare,9,12-12-2020,12-12-2020,9,Developed a model for predicting health outcomes using machine learning.,15,61
+706,548,Content Marketing Campaign,11,11/23/2020,11/23/2020,2,"Created blog posts, videos, and infographics for a product launch.",21,430
+707,925,Network Security Assessment,3,1/14/2022,1/14/2022,6,Conducted audits and applied firewall and encryption strategies.,94,8
+708,576,Project on AI for Healthcare,3,1/14/2024,1/14/2024,4,Developed a model for predicting health outcomes using machine learning.,45,279
+709,252,E-commerce Website Development,6,6/24/2021,6/24/2021,8,Built a responsive web store with secure payments and user login.,10,159
+710,960,Network Security Assessment,11,06-12-2021,06-12-2021,1,Conducted audits and applied firewall and encryption strategies.,57,37
+711,748,Mobile App Prototype Design,3,7/16/2021,7/16/2021,5,Prototyped a mobile app with a strong focus on UX and accessibility.,50,135
+712,695,Content Marketing Campaign,18,09-02-2021,09-02-2021,5,"Created blog posts, videos, and infographics for a product launch.",62,60
+713,853,Cloud Architecture Design,12,11-09-2023,11-09-2023,1,Designed a scalable cloud system using AWS services for high uptime.,85,246
+714,990,Mobile App Prototype Design,9,12/27/2024,12/27/2024,5,Prototyped a mobile app with a strong focus on UX and accessibility.,64,84
+715,232,E-commerce Website Development,3,04-08-2020,04-08-2020,1,Built a responsive web store with secure payments and user login.,97,196
+716,346,Cloud Architecture Design,16,8/18/2020,8/18/2020,6,Designed a scalable cloud system using AWS services for high uptime.,88,37
+717,710,Mobile App Prototype Design,20,2/26/2020,2/26/2020,9,Prototyped a mobile app with a strong focus on UX and accessibility.,96,437
+718,644,E-commerce Website Development,2,05-05-2024,05-05-2024,3,Built a responsive web store with secure payments and user login.,52,286
+719,779,Content Marketing Campaign,10,06-09-2023,06-09-2023,2,"Created blog posts, videos, and infographics for a product launch.",1,494
+720,523,E-commerce Website Development,14,03-02-2020,03-02-2020,3,Built a responsive web store with secure payments and user login.,75,142
+721,803,E-commerce Website Development,11,10/30/2023,10/30/2023,1,Built a responsive web store with secure payments and user login.,39,349
+722,841,Mobile App Prototype Design,8,1/16/2022,1/16/2022,3,Prototyped a mobile app with a strong focus on UX and accessibility.,89,382
+723,523,Project on AI for Healthcare,19,04-10-2023,04-10-2023,8,Developed a model for predicting health outcomes using machine learning.,24,440
+724,967,Project on AI for Healthcare,12,5/29/2022,5/29/2022,1,Developed a model for predicting health outcomes using machine learning.,48,397
+725,392,Network Security Assessment,18,6/18/2021,6/18/2021,3,Conducted audits and applied firewall and encryption strategies.,14,350
+726,952,Content Marketing Campaign,1,2/17/2020,2/17/2020,9,"Created blog posts, videos, and infographics for a product launch.",16,451
+727,6,E-commerce Website Development,4,1/18/2022,1/18/2022,10,Built a responsive web store with secure payments and user login.,69,229
+728,529,E-commerce Website Development,17,12/19/2023,12/19/2023,7,Built a responsive web store with secure payments and user login.,13,177
+729,784,E-commerce Website Development,8,1/17/2022,1/17/2022,5,Built a responsive web store with secure payments and user login.,83,187
+730,211,Project on AI for Healthcare,9,08-03-2022,08-03-2022,3,Developed a model for predicting health outcomes using machine learning.,85,389
+731,759,Mobile App Prototype Design,5,04-01-2021,04-01-2021,9,Prototyped a mobile app with a strong focus on UX and accessibility.,61,148
+732,659,Cloud Architecture Design,9,5/20/2023,5/20/2023,3,Designed a scalable cloud system using AWS services for high uptime.,66,191
+733,844,Cloud Architecture Design,13,8/27/2023,8/27/2023,8,Designed a scalable cloud system using AWS services for high uptime.,48,296
+734,60,Network Security Assessment,9,04-07-2023,04-07-2023,2,Conducted audits and applied firewall and encryption strategies.,67,427
+735,765,E-commerce Website Development,2,06-04-2022,06-04-2022,4,Built a responsive web store with secure payments and user login.,21,442
+736,810,E-commerce Website Development,18,07-08-2022,07-08-2022,7,Built a responsive web store with secure payments and user login.,98,88
+737,542,Network Security Assessment,9,03-06-2024,03-06-2024,9,Conducted audits and applied firewall and encryption strategies.,91,7
+738,354,Content Marketing Campaign,8,3/26/2022,3/26/2022,2,"Created blog posts, videos, and infographics for a product launch.",18,61
+739,819,Mobile App Prototype Design,2,1/20/2023,1/20/2023,4,Prototyped a mobile app with a strong focus on UX and accessibility.,69,183
+740,160,Mobile App Prototype Design,16,05-03-2023,05-03-2023,8,Prototyped a mobile app with a strong focus on UX and accessibility.,81,135
+741,59,Cloud Architecture Design,20,12-12-2022,12-12-2022,4,Designed a scalable cloud system using AWS services for high uptime.,27,317
+742,141,Cloud Architecture Design,5,3/30/2021,3/30/2021,4,Designed a scalable cloud system using AWS services for high uptime.,37,94
+743,348,Cloud Architecture Design,5,5/24/2021,5/24/2021,5,Designed a scalable cloud system using AWS services for high uptime.,60,204
+744,655,Network Security Assessment,14,01-11-2022,01-11-2022,10,Conducted audits and applied firewall and encryption strategies.,91,46
+745,622,Network Security Assessment,6,3/26/2022,3/26/2022,7,Conducted audits and applied firewall and encryption strategies.,100,295
+746,917,E-commerce Website Development,3,03-09-2020,03-09-2020,2,Built a responsive web store with secure payments and user login.,88,229
+747,16,Project on AI for Healthcare,14,05-06-2022,05-06-2022,1,Developed a model for predicting health outcomes using machine learning.,76,378
+748,124,Content Marketing Campaign,13,8/17/2024,8/17/2024,1,"Created blog posts, videos, and infographics for a product launch.",62,167
+749,799,E-commerce Website Development,19,4/13/2023,4/13/2023,10,Built a responsive web store with secure payments and user login.,17,451
+750,173,Content Marketing Campaign,18,7/19/2024,7/19/2024,2,"Created blog posts, videos, and infographics for a product launch.",93,338
+751,910,Content Marketing Campaign,8,05-06-2023,05-06-2023,6,"Created blog posts, videos, and infographics for a product launch.",64,242
+752,814,Network Security Assessment,8,02-10-2023,02-10-2023,8,Conducted audits and applied firewall and encryption strategies.,5,394
+753,926,Network Security Assessment,3,06-10-2020,06-10-2020,7,Conducted audits and applied firewall and encryption strategies.,16,243
+754,640,E-commerce Website Development,5,12-01-2022,12-01-2022,2,Built a responsive web store with secure payments and user login.,68,309
+755,112,Project on AI for Healthcare,2,9/27/2020,9/27/2020,3,Developed a model for predicting health outcomes using machine learning.,1,482
+756,325,E-commerce Website Development,10,6/17/2023,6/17/2023,4,Built a responsive web store with secure payments and user login.,45,363
+757,34,E-commerce Website Development,9,10-10-2023,10-10-2023,6,Built a responsive web store with secure payments and user login.,86,128
+758,907,Content Marketing Campaign,12,09-06-2023,09-06-2023,5,"Created blog posts, videos, and infographics for a product launch.",11,153
+759,850,Content Marketing Campaign,18,4/22/2021,4/22/2021,6,"Created blog posts, videos, and infographics for a product launch.",83,192
+760,551,Network Security Assessment,6,03-09-2023,03-09-2023,6,Conducted audits and applied firewall and encryption strategies.,21,203
+761,124,Project on AI for Healthcare,5,07-08-2021,07-08-2021,5,Developed a model for predicting health outcomes using machine learning.,23,86
+762,279,Project on AI for Healthcare,19,08-08-2023,08-08-2023,9,Developed a model for predicting health outcomes using machine learning.,37,346
+763,300,Content Marketing Campaign,2,6/29/2020,6/29/2020,8,"Created blog posts, videos, and infographics for a product launch.",8,237
+764,718,E-commerce Website Development,3,05-06-2021,05-06-2021,1,Built a responsive web store with secure payments and user login.,50,449
+765,132,Network Security Assessment,4,04-06-2023,04-06-2023,4,Conducted audits and applied firewall and encryption strategies.,14,429
+766,352,Network Security Assessment,15,8/28/2024,8/28/2024,3,Conducted audits and applied firewall and encryption strategies.,5,437
+767,575,E-commerce Website Development,16,7/14/2021,7/14/2021,10,Built a responsive web store with secure payments and user login.,92,381
+768,337,E-commerce Website Development,10,12-12-2024,12-12-2024,7,Built a responsive web store with secure payments and user login.,63,275
+769,811,Mobile App Prototype Design,17,2/28/2024,2/28/2024,9,Prototyped a mobile app with a strong focus on UX and accessibility.,78,330
+770,145,Content Marketing Campaign,5,05-02-2020,05-02-2020,3,"Created blog posts, videos, and infographics for a product launch.",76,427
+771,954,Mobile App Prototype Design,13,10-02-2020,10-02-2020,5,Prototyped a mobile app with a strong focus on UX and accessibility.,19,13
+772,487,E-commerce Website Development,10,10/28/2020,10/28/2020,1,Built a responsive web store with secure payments and user login.,84,195
+773,683,Cloud Architecture Design,12,02-05-2023,02-05-2023,6,Designed a scalable cloud system using AWS services for high uptime.,74,48
+774,562,E-commerce Website Development,6,09-05-2022,09-05-2022,5,Built a responsive web store with secure payments and user login.,25,181
+775,22,Content Marketing Campaign,19,8/19/2021,8/19/2021,6,"Created blog posts, videos, and infographics for a product launch.",42,327
+776,797,E-commerce Website Development,4,01-06-2024,01-06-2024,4,Built a responsive web store with secure payments and user login.,79,221
+777,38,Content Marketing Campaign,11,10-12-2022,10-12-2022,4,"Created blog posts, videos, and infographics for a product launch.",100,204
+778,665,Mobile App Prototype Design,8,6/13/2024,6/13/2024,3,Prototyped a mobile app with a strong focus on UX and accessibility.,28,366
+779,947,Mobile App Prototype Design,15,3/28/2022,3/28/2022,9,Prototyped a mobile app with a strong focus on UX and accessibility.,26,355
+780,1,Project on AI for Healthcare,16,7/14/2023,7/14/2023,10,Developed a model for predicting health outcomes using machine learning.,90,461
+781,945,Content Marketing Campaign,1,10/18/2024,10/18/2024,5,"Created blog posts, videos, and infographics for a product launch.",90,373
+782,305,Content Marketing Campaign,20,4/17/2024,4/17/2024,8,"Created blog posts, videos, and infographics for a product launch.",19,289
+783,86,E-commerce Website Development,20,6/19/2023,6/19/2023,4,Built a responsive web store with secure payments and user login.,77,315
+784,762,Mobile App Prototype Design,10,4/25/2021,4/25/2021,3,Prototyped a mobile app with a strong focus on UX and accessibility.,69,122
+785,944,Cloud Architecture Design,3,9/27/2022,9/27/2022,6,Designed a scalable cloud system using AWS services for high uptime.,68,123
+786,444,Network Security Assessment,14,5/23/2021,5/23/2021,6,Conducted audits and applied firewall and encryption strategies.,50,235
+787,974,Mobile App Prototype Design,6,12/18/2023,12/18/2023,2,Prototyped a mobile app with a strong focus on UX and accessibility.,57,88
+788,244,Network Security Assessment,1,4/14/2023,4/14/2023,4,Conducted audits and applied firewall and encryption strategies.,9,346
+789,101,Mobile App Prototype Design,10,10/26/2023,10/26/2023,7,Prototyped a mobile app with a strong focus on UX and accessibility.,77,193
+790,746,Cloud Architecture Design,16,10-02-2020,10-02-2020,4,Designed a scalable cloud system using AWS services for high uptime.,85,395
+791,14,Project on AI for Healthcare,12,1/29/2024,1/29/2024,3,Developed a model for predicting health outcomes using machine learning.,18,34
+792,832,Content Marketing Campaign,16,1/25/2020,1/25/2020,10,"Created blog posts, videos, and infographics for a product launch.",35,213
+793,452,Content Marketing Campaign,8,6/25/2022,6/25/2022,4,"Created blog posts, videos, and infographics for a product launch.",31,466
+794,751,Content Marketing Campaign,9,3/24/2021,3/24/2021,9,"Created blog posts, videos, and infographics for a product launch.",39,175
+795,144,Network Security Assessment,12,01-06-2024,01-06-2024,4,Conducted audits and applied firewall and encryption strategies.,83,480
+796,819,Project on AI for Healthcare,12,1/31/2022,1/31/2022,9,Developed a model for predicting health outcomes using machine learning.,99,327
+797,697,Mobile App Prototype Design,4,9/29/2021,9/29/2021,5,Prototyped a mobile app with a strong focus on UX and accessibility.,57,70
+798,310,E-commerce Website Development,12,5/15/2023,5/15/2023,2,Built a responsive web store with secure payments and user login.,9,132
+799,456,Cloud Architecture Design,18,9/26/2023,9/26/2023,5,Designed a scalable cloud system using AWS services for high uptime.,97,144
+800,844,E-commerce Website Development,16,3/22/2024,3/22/2024,3,Built a responsive web store with secure payments and user login.,48,357
+801,177,E-commerce Website Development,12,04-05-2022,04-05-2022,4,Built a responsive web store with secure payments and user login.,100,321
+802,698,E-commerce Website Development,5,11/19/2021,11/19/2021,3,Built a responsive web store with secure payments and user login.,18,474
+803,908,Cloud Architecture Design,20,04-09-2024,04-09-2024,7,Designed a scalable cloud system using AWS services for high uptime.,88,391
+804,219,E-commerce Website Development,10,3/23/2024,3/23/2024,10,Built a responsive web store with secure payments and user login.,52,376
+805,903,Cloud Architecture Design,15,11/21/2021,11/21/2021,5,Designed a scalable cloud system using AWS services for high uptime.,16,23
+806,35,Project on AI for Healthcare,6,8/25/2022,8/25/2022,4,Developed a model for predicting health outcomes using machine learning.,89,185
+807,932,Project on AI for Healthcare,13,3/19/2022,3/19/2022,6,Developed a model for predicting health outcomes using machine learning.,17,184
+808,659,Network Security Assessment,3,05-05-2021,05-05-2021,7,Conducted audits and applied firewall and encryption strategies.,18,300
+809,35,Network Security Assessment,18,12/18/2020,12/18/2020,6,Conducted audits and applied firewall and encryption strategies.,19,239
+810,225,Project on AI for Healthcare,1,6/17/2023,6/17/2023,3,Developed a model for predicting health outcomes using machine learning.,73,229
+811,384,Project on AI for Healthcare,17,01-08-2022,01-08-2022,4,Developed a model for predicting health outcomes using machine learning.,87,427
+812,178,Network Security Assessment,12,05-06-2024,05-06-2024,7,Conducted audits and applied firewall and encryption strategies.,72,104
+813,693,Project on AI for Healthcare,14,9/24/2023,9/24/2023,3,Developed a model for predicting health outcomes using machine learning.,60,152
+814,486,E-commerce Website Development,3,10/18/2022,10/18/2022,5,Built a responsive web store with secure payments and user login.,43,373
+815,123,Mobile App Prototype Design,4,2/16/2021,2/16/2021,4,Prototyped a mobile app with a strong focus on UX and accessibility.,90,465
+816,548,Content Marketing Campaign,6,11/16/2022,11/16/2022,5,"Created blog posts, videos, and infographics for a product launch.",17,55
+817,262,Network Security Assessment,4,8/26/2021,8/26/2021,2,Conducted audits and applied firewall and encryption strategies.,6,229
+818,332,Network Security Assessment,17,12/29/2021,12/29/2021,4,Conducted audits and applied firewall and encryption strategies.,72,28
+819,952,Content Marketing Campaign,15,06-11-2021,06-11-2021,2,"Created blog posts, videos, and infographics for a product launch.",48,490
+820,683,Cloud Architecture Design,13,08-03-2022,08-03-2022,10,Designed a scalable cloud system using AWS services for high uptime.,92,227
+821,365,Network Security Assessment,16,3/16/2022,3/16/2022,7,Conducted audits and applied firewall and encryption strategies.,30,88
+822,565,Cloud Architecture Design,15,04-06-2020,04-06-2020,9,Designed a scalable cloud system using AWS services for high uptime.,14,140
+823,434,Project on AI for Healthcare,4,12/25/2020,12/25/2020,4,Developed a model for predicting health outcomes using machine learning.,86,393
+824,570,Cloud Architecture Design,11,10/16/2023,10/16/2023,5,Designed a scalable cloud system using AWS services for high uptime.,60,440
+825,239,E-commerce Website Development,12,5/24/2020,5/24/2020,3,Built a responsive web store with secure payments and user login.,34,12
+826,546,Mobile App Prototype Design,17,12-02-2023,12-02-2023,10,Prototyped a mobile app with a strong focus on UX and accessibility.,84,224
+827,625,Mobile App Prototype Design,10,6/20/2020,6/20/2020,8,Prototyped a mobile app with a strong focus on UX and accessibility.,48,103
+828,654,E-commerce Website Development,13,08-07-2023,08-07-2023,9,Built a responsive web store with secure payments and user login.,91,312
+829,989,E-commerce Website Development,16,8/19/2021,8/19/2021,5,Built a responsive web store with secure payments and user login.,92,432
+830,754,Cloud Architecture Design,20,05-11-2024,05-11-2024,3,Designed a scalable cloud system using AWS services for high uptime.,89,221
+831,194,Content Marketing Campaign,12,12/16/2020,12/16/2020,5,"Created blog posts, videos, and infographics for a product launch.",8,321
+832,763,Network Security Assessment,11,2/28/2023,2/28/2023,5,Conducted audits and applied firewall and encryption strategies.,82,49
+833,553,Mobile App Prototype Design,17,7/18/2022,7/18/2022,10,Prototyped a mobile app with a strong focus on UX and accessibility.,22,433
+834,404,Cloud Architecture Design,14,9/24/2022,9/24/2022,3,Designed a scalable cloud system using AWS services for high uptime.,3,79
+835,74,Content Marketing Campaign,5,09-01-2023,09-01-2023,7,"Created blog posts, videos, and infographics for a product launch.",85,96
+836,150,E-commerce Website Development,5,3/24/2023,3/24/2023,3,Built a responsive web store with secure payments and user login.,15,331
+837,143,Content Marketing Campaign,1,08-08-2023,08-08-2023,6,"Created blog posts, videos, and infographics for a product launch.",36,52
+838,32,Cloud Architecture Design,6,3/22/2021,3/22/2021,10,Designed a scalable cloud system using AWS services for high uptime.,82,148
+839,47,Mobile App Prototype Design,1,02-12-2024,02-12-2024,8,Prototyped a mobile app with a strong focus on UX and accessibility.,2,78
+840,207,Network Security Assessment,18,6/14/2021,6/14/2021,5,Conducted audits and applied firewall and encryption strategies.,23,120
+841,729,E-commerce Website Development,5,3/30/2022,3/30/2022,10,Built a responsive web store with secure payments and user login.,91,322
+842,900,Mobile App Prototype Design,10,11/16/2022,11/16/2022,4,Prototyped a mobile app with a strong focus on UX and accessibility.,61,274
+843,525,Mobile App Prototype Design,5,12-06-2022,12-06-2022,9,Prototyped a mobile app with a strong focus on UX and accessibility.,90,411
+844,525,Network Security Assessment,3,02-09-2023,02-09-2023,2,Conducted audits and applied firewall and encryption strategies.,36,478
+845,111,Network Security Assessment,1,9/27/2022,9/27/2022,8,Conducted audits and applied firewall and encryption strategies.,32,486
+846,851,Project on AI for Healthcare,3,5/20/2022,5/20/2022,10,Developed a model for predicting health outcomes using machine learning.,33,491
+847,862,E-commerce Website Development,1,1/15/2024,1/15/2024,10,Built a responsive web store with secure payments and user login.,64,143
+848,244,Content Marketing Campaign,20,10/22/2023,10/22/2023,8,"Created blog posts, videos, and infographics for a product launch.",55,126
+849,365,Content Marketing Campaign,17,3/29/2021,3/29/2021,9,"Created blog posts, videos, and infographics for a product launch.",71,94
+850,66,E-commerce Website Development,8,3/18/2020,3/18/2020,8,Built a responsive web store with secure payments and user login.,65,91
+851,42,Mobile App Prototype Design,10,2/14/2020,2/14/2020,7,Prototyped a mobile app with a strong focus on UX and accessibility.,41,46
+852,152,Content Marketing Campaign,18,1/23/2024,1/23/2024,1,"Created blog posts, videos, and infographics for a product launch.",14,251
+853,35,Project on AI for Healthcare,12,2/19/2022,2/19/2022,3,Developed a model for predicting health outcomes using machine learning.,23,47
+854,576,Cloud Architecture Design,9,12/30/2020,12/30/2020,6,Designed a scalable cloud system using AWS services for high uptime.,84,442
+855,892,Content Marketing Campaign,14,3/25/2023,3/25/2023,5,"Created blog posts, videos, and infographics for a product launch.",45,316
+856,218,Project on AI for Healthcare,15,03-03-2021,03-03-2021,5,Developed a model for predicting health outcomes using machine learning.,39,145
+857,394,Cloud Architecture Design,19,1/18/2024,1/18/2024,3,Designed a scalable cloud system using AWS services for high uptime.,71,48
+858,939,Mobile App Prototype Design,17,2/18/2020,2/18/2020,5,Prototyped a mobile app with a strong focus on UX and accessibility.,68,93
+859,337,Cloud Architecture Design,16,1/14/2024,1/14/2024,4,Designed a scalable cloud system using AWS services for high uptime.,58,380
+860,514,Mobile App Prototype Design,16,06-08-2023,06-08-2023,4,Prototyped a mobile app with a strong focus on UX and accessibility.,31,167
+861,149,Project on AI for Healthcare,6,09-01-2021,09-01-2021,5,Developed a model for predicting health outcomes using machine learning.,36,308
+862,772,E-commerce Website Development,11,11-12-2023,11-12-2023,6,Built a responsive web store with secure payments and user login.,60,494
+863,972,Project on AI for Healthcare,16,7/13/2021,7/13/2021,2,Developed a model for predicting health outcomes using machine learning.,87,24
+864,364,Project on AI for Healthcare,17,02-01-2023,02-01-2023,2,Developed a model for predicting health outcomes using machine learning.,50,347
+865,311,Cloud Architecture Design,12,6/13/2023,6/13/2023,2,Designed a scalable cloud system using AWS services for high uptime.,100,313
+866,863,Project on AI for Healthcare,4,7/15/2022,7/15/2022,6,Developed a model for predicting health outcomes using machine learning.,48,420
+867,533,Project on AI for Healthcare,20,8/30/2022,8/30/2022,3,Developed a model for predicting health outcomes using machine learning.,40,162
+868,591,Project on AI for Healthcare,8,3/31/2020,3/31/2020,5,Developed a model for predicting health outcomes using machine learning.,86,238
+869,616,Cloud Architecture Design,7,04-09-2022,04-09-2022,5,Designed a scalable cloud system using AWS services for high uptime.,69,264
+870,773,Project on AI for Healthcare,6,9/13/2020,9/13/2020,5,Developed a model for predicting health outcomes using machine learning.,29,52
+871,888,Network Security Assessment,7,02-03-2023,02-03-2023,4,Conducted audits and applied firewall and encryption strategies.,7,218
+872,356,Cloud Architecture Design,19,07-07-2021,07-07-2021,1,Designed a scalable cloud system using AWS services for high uptime.,55,185
+873,706,E-commerce Website Development,19,07-09-2022,07-09-2022,7,Built a responsive web store with secure payments and user login.,38,111
+874,379,Content Marketing Campaign,2,1/28/2020,1/28/2020,10,"Created blog posts, videos, and infographics for a product launch.",70,294
+875,895,Content Marketing Campaign,13,10/16/2020,10/16/2020,4,"Created blog posts, videos, and infographics for a product launch.",46,58
+876,732,Project on AI for Healthcare,5,1/14/2023,1/14/2023,9,Developed a model for predicting health outcomes using machine learning.,20,248
+877,746,Network Security Assessment,14,06-06-2024,06-06-2024,8,Conducted audits and applied firewall and encryption strategies.,91,453
+878,973,Cloud Architecture Design,11,04-12-2022,04-12-2022,8,Designed a scalable cloud system using AWS services for high uptime.,27,223
+879,23,E-commerce Website Development,9,09-06-2023,09-06-2023,2,Built a responsive web store with secure payments and user login.,61,86
+880,59,Network Security Assessment,5,1/26/2022,1/26/2022,8,Conducted audits and applied firewall and encryption strategies.,63,114
+881,595,Content Marketing Campaign,17,02-04-2023,02-04-2023,4,"Created blog posts, videos, and infographics for a product launch.",27,396
+882,508,E-commerce Website Development,4,4/18/2024,4/18/2024,9,Built a responsive web store with secure payments and user login.,48,101
+883,457,E-commerce Website Development,1,02-03-2023,02-03-2023,7,Built a responsive web store with secure payments and user login.,52,248
+884,991,Network Security Assessment,4,8/19/2022,8/19/2022,5,Conducted audits and applied firewall and encryption strategies.,39,70
+885,415,Mobile App Prototype Design,20,07-02-2020,07-02-2020,3,Prototyped a mobile app with a strong focus on UX and accessibility.,11,27
+886,113,Network Security Assessment,3,12/18/2021,12/18/2021,5,Conducted audits and applied firewall and encryption strategies.,76,178
+887,94,Project on AI for Healthcare,8,6/29/2023,6/29/2023,4,Developed a model for predicting health outcomes using machine learning.,71,388
+888,157,E-commerce Website Development,16,03-01-2023,03-01-2023,5,Built a responsive web store with secure payments and user login.,85,456
+889,445,Project on AI for Healthcare,3,01-01-2021,01-01-2021,5,Developed a model for predicting health outcomes using machine learning.,32,237
+890,856,Content Marketing Campaign,7,4/21/2023,4/21/2023,1,"Created blog posts, videos, and infographics for a product launch.",26,49
+891,709,Project on AI for Healthcare,13,06-09-2022,06-09-2022,1,Developed a model for predicting health outcomes using machine learning.,10,252
+892,583,Project on AI for Healthcare,4,04-11-2024,04-11-2024,5,Developed a model for predicting health outcomes using machine learning.,80,337
+893,692,Content Marketing Campaign,9,10-10-2024,10-10-2024,5,"Created blog posts, videos, and infographics for a product launch.",98,460
+894,486,Content Marketing Campaign,15,02-07-2021,02-07-2021,6,"Created blog posts, videos, and infographics for a product launch.",13,459
+895,356,Project on AI for Healthcare,8,4/15/2020,4/15/2020,3,Developed a model for predicting health outcomes using machine learning.,30,216
+896,197,Cloud Architecture Design,12,3/27/2020,3/27/2020,10,Designed a scalable cloud system using AWS services for high uptime.,60,334
+897,934,E-commerce Website Development,8,7/22/2020,7/22/2020,3,Built a responsive web store with secure payments and user login.,29,261
+898,304,Cloud Architecture Design,7,08-04-2022,08-04-2022,5,Designed a scalable cloud system using AWS services for high uptime.,93,45
+899,595,Cloud Architecture Design,5,08-12-2023,08-12-2023,7,Designed a scalable cloud system using AWS services for high uptime.,26,25
+900,854,E-commerce Website Development,4,06-12-2020,06-12-2020,6,Built a responsive web store with secure payments and user login.,10,362
+901,351,Content Marketing Campaign,14,12-05-2020,12-05-2020,4,"Created blog posts, videos, and infographics for a product launch.",97,490
+902,754,Network Security Assessment,12,8/26/2020,8/26/2020,5,Conducted audits and applied firewall and encryption strategies.,47,22
+903,703,Cloud Architecture Design,7,6/23/2024,6/23/2024,8,Designed a scalable cloud system using AWS services for high uptime.,16,334
+904,471,E-commerce Website Development,9,12-08-2020,12-08-2020,2,Built a responsive web store with secure payments and user login.,20,458
+905,330,Project on AI for Healthcare,16,9/20/2021,9/20/2021,9,Developed a model for predicting health outcomes using machine learning.,50,268
+906,289,Network Security Assessment,20,03-09-2021,03-09-2021,1,Conducted audits and applied firewall and encryption strategies.,82,407
+907,27,E-commerce Website Development,12,8/30/2021,8/30/2021,9,Built a responsive web store with secure payments and user login.,45,171
+908,941,E-commerce Website Development,9,12/18/2020,12/18/2020,7,Built a responsive web store with secure payments and user login.,58,413
+909,950,Project on AI for Healthcare,13,07-11-2022,07-11-2022,8,Developed a model for predicting health outcomes using machine learning.,10,378
+910,160,E-commerce Website Development,7,10/28/2022,10/28/2022,4,Built a responsive web store with secure payments and user login.,14,380
+911,391,E-commerce Website Development,19,9/16/2021,9/16/2021,3,Built a responsive web store with secure payments and user login.,55,487
+912,296,Content Marketing Campaign,14,8/31/2021,8/31/2021,5,"Created blog posts, videos, and infographics for a product launch.",4,147
+913,243,Network Security Assessment,6,7/24/2022,7/24/2022,10,Conducted audits and applied firewall and encryption strategies.,15,175
+914,921,Project on AI for Healthcare,17,11/15/2021,11/15/2021,5,Developed a model for predicting health outcomes using machine learning.,92,411
+915,229,Content Marketing Campaign,1,5/30/2021,5/30/2021,3,"Created blog posts, videos, and infographics for a product launch.",77,92
+916,628,Cloud Architecture Design,2,2/22/2022,2/22/2022,4,Designed a scalable cloud system using AWS services for high uptime.,3,424
+917,242,Project on AI for Healthcare,8,4/15/2021,4/15/2021,3,Developed a model for predicting health outcomes using machine learning.,52,302
+918,360,Project on AI for Healthcare,14,11/15/2022,11/15/2022,9,Developed a model for predicting health outcomes using machine learning.,45,10
+919,595,Mobile App Prototype Design,16,6/16/2022,6/16/2022,9,Prototyped a mobile app with a strong focus on UX and accessibility.,96,293
+920,290,Network Security Assessment,14,01-04-2023,01-04-2023,2,Conducted audits and applied firewall and encryption strategies.,80,257
+921,12,Cloud Architecture Design,8,9/26/2020,9/26/2020,3,Designed a scalable cloud system using AWS services for high uptime.,64,74
+922,903,Cloud Architecture Design,1,4/18/2022,4/18/2022,5,Designed a scalable cloud system using AWS services for high uptime.,87,249
+923,381,Network Security Assessment,20,2/27/2020,2/27/2020,5,Conducted audits and applied firewall and encryption strategies.,49,68
+924,528,E-commerce Website Development,18,12-07-2024,12-07-2024,6,Built a responsive web store with secure payments and user login.,76,480
+925,839,E-commerce Website Development,8,07-06-2023,07-06-2023,10,Built a responsive web store with secure payments and user login.,31,394
+926,696,Project on AI for Healthcare,6,10-01-2023,10-01-2023,3,Developed a model for predicting health outcomes using machine learning.,93,353
+927,362,Network Security Assessment,2,9/23/2022,9/23/2022,10,Conducted audits and applied firewall and encryption strategies.,74,227
+928,874,Content Marketing Campaign,5,02-01-2022,02-01-2022,7,"Created blog posts, videos, and infographics for a product launch.",51,343
+929,337,Network Security Assessment,16,9/26/2022,9/26/2022,9,Conducted audits and applied firewall and encryption strategies.,92,41
+930,828,Cloud Architecture Design,16,4/24/2023,4/24/2023,2,Designed a scalable cloud system using AWS services for high uptime.,50,394
+931,269,Project on AI for Healthcare,2,5/21/2022,5/21/2022,10,Developed a model for predicting health outcomes using machine learning.,57,46
+932,714,Cloud Architecture Design,2,01-01-2020,01-01-2020,6,Designed a scalable cloud system using AWS services for high uptime.,52,415
+933,53,Project on AI for Healthcare,18,08-12-2023,08-12-2023,6,Developed a model for predicting health outcomes using machine learning.,50,459
+934,888,Project on AI for Healthcare,17,4/29/2022,4/29/2022,9,Developed a model for predicting health outcomes using machine learning.,34,275
+935,97,Cloud Architecture Design,14,10/18/2021,10/18/2021,7,Designed a scalable cloud system using AWS services for high uptime.,65,49
+936,152,Project on AI for Healthcare,11,10-02-2020,10-02-2020,8,Developed a model for predicting health outcomes using machine learning.,16,486
+937,882,Content Marketing Campaign,8,05-10-2024,05-10-2024,6,"Created blog posts, videos, and infographics for a product launch.",69,417
+938,993,E-commerce Website Development,9,4/26/2021,4/26/2021,3,Built a responsive web store with secure payments and user login.,59,335
+939,507,Network Security Assessment,6,3/21/2024,3/21/2024,5,Conducted audits and applied firewall and encryption strategies.,93,407
+940,895,Mobile App Prototype Design,4,07-01-2024,07-01-2024,4,Prototyped a mobile app with a strong focus on UX and accessibility.,8,186
+941,738,Content Marketing Campaign,9,05-04-2022,05-04-2022,6,"Created blog posts, videos, and infographics for a product launch.",78,75
+942,119,Network Security Assessment,16,7/30/2024,7/30/2024,6,Conducted audits and applied firewall and encryption strategies.,47,217
+943,442,Network Security Assessment,14,2/21/2024,2/21/2024,3,Conducted audits and applied firewall and encryption strategies.,36,347
+944,100,Content Marketing Campaign,10,11/26/2020,11/26/2020,2,"Created blog posts, videos, and infographics for a product launch.",46,127
+945,719,Content Marketing Campaign,7,10/15/2022,10/15/2022,8,"Created blog posts, videos, and infographics for a product launch.",59,253
+946,569,Content Marketing Campaign,4,3/17/2020,3/17/2020,9,"Created blog posts, videos, and infographics for a product launch.",41,363
+947,508,Network Security Assessment,20,11-03-2020,11-03-2020,5,Conducted audits and applied firewall and encryption strategies.,23,313
+948,787,Mobile App Prototype Design,8,3/18/2024,3/18/2024,2,Prototyped a mobile app with a strong focus on UX and accessibility.,16,39
+949,493,Mobile App Prototype Design,9,11-02-2024,11-02-2024,5,Prototyped a mobile app with a strong focus on UX and accessibility.,96,376
+950,998,Mobile App Prototype Design,5,3/28/2024,3/28/2024,6,Prototyped a mobile app with a strong focus on UX and accessibility.,19,397
+951,879,Cloud Architecture Design,12,12/21/2020,12/21/2020,9,Designed a scalable cloud system using AWS services for high uptime.,52,305
+952,743,Content Marketing Campaign,10,6/16/2024,6/16/2024,6,"Created blog posts, videos, and infographics for a product launch.",87,47
+953,123,Mobile App Prototype Design,5,1/16/2023,1/16/2023,7,Prototyped a mobile app with a strong focus on UX and accessibility.,27,164
+954,84,E-commerce Website Development,3,8/16/2023,8/16/2023,1,Built a responsive web store with secure payments and user login.,53,265
+955,525,Cloud Architecture Design,6,3/22/2023,3/22/2023,3,Designed a scalable cloud system using AWS services for high uptime.,77,157
+956,805,Network Security Assessment,5,4/25/2023,4/25/2023,10,Conducted audits and applied firewall and encryption strategies.,1,400
+957,109,Network Security Assessment,9,12/22/2020,12/22/2020,2,Conducted audits and applied firewall and encryption strategies.,77,326
+958,218,Content Marketing Campaign,12,8/18/2024,8/18/2024,1,"Created blog posts, videos, and infographics for a product launch.",27,295
+959,862,Mobile App Prototype Design,7,11/22/2023,11/22/2023,9,Prototyped a mobile app with a strong focus on UX and accessibility.,22,458
+960,17,Cloud Architecture Design,19,12-02-2020,12-02-2020,5,Designed a scalable cloud system using AWS services for high uptime.,99,35
+961,380,Content Marketing Campaign,4,7/13/2022,7/13/2022,3,"Created blog posts, videos, and infographics for a product launch.",55,351
+962,626,E-commerce Website Development,2,11/26/2023,11/26/2023,8,Built a responsive web store with secure payments and user login.,61,373
+963,718,Content Marketing Campaign,5,2/24/2020,2/24/2020,1,"Created blog posts, videos, and infographics for a product launch.",63,76
+964,221,Cloud Architecture Design,15,7/17/2020,7/17/2020,1,Designed a scalable cloud system using AWS services for high uptime.,53,193
+965,963,E-commerce Website Development,1,6/16/2022,6/16/2022,1,Built a responsive web store with secure payments and user login.,24,340
+966,29,Project on AI for Healthcare,15,8/15/2020,8/15/2020,1,Developed a model for predicting health outcomes using machine learning.,13,50
+967,260,E-commerce Website Development,5,9/14/2022,9/14/2022,10,Built a responsive web store with secure payments and user login.,18,199
+968,167,Cloud Architecture Design,19,04-05-2022,04-05-2022,7,Designed a scalable cloud system using AWS services for high uptime.,94,363
+969,952,Mobile App Prototype Design,14,5/26/2022,5/26/2022,4,Prototyped a mobile app with a strong focus on UX and accessibility.,6,392
+970,98,Content Marketing Campaign,2,9/26/2021,9/26/2021,3,"Created blog posts, videos, and infographics for a product launch.",41,252
+971,31,Content Marketing Campaign,18,7/29/2020,7/29/2020,8,"Created blog posts, videos, and infographics for a product launch.",85,277
+972,887,Project on AI for Healthcare,14,06-03-2023,06-03-2023,5,Developed a model for predicting health outcomes using machine learning.,49,293
+973,923,Network Security Assessment,5,12/13/2020,12/13/2020,1,Conducted audits and applied firewall and encryption strategies.,82,70
+974,204,Network Security Assessment,18,7/28/2023,7/28/2023,7,Conducted audits and applied firewall and encryption strategies.,39,124
+975,472,Mobile App Prototype Design,20,07-11-2020,07-11-2020,7,Prototyped a mobile app with a strong focus on UX and accessibility.,91,198
+976,226,Content Marketing Campaign,19,04-05-2023,04-05-2023,9,"Created blog posts, videos, and infographics for a product launch.",49,184
+977,804,Network Security Assessment,16,12/13/2022,12/13/2022,7,Conducted audits and applied firewall and encryption strategies.,15,460
+978,964,Project on AI for Healthcare,16,2/28/2021,2/28/2021,4,Developed a model for predicting health outcomes using machine learning.,2,278
+979,578,Project on AI for Healthcare,2,06-06-2023,06-06-2023,3,Developed a model for predicting health outcomes using machine learning.,48,148
+980,181,Project on AI for Healthcare,19,10/18/2020,10/18/2020,3,Developed a model for predicting health outcomes using machine learning.,96,45
+981,311,Project on AI for Healthcare,4,02-08-2020,02-08-2020,3,Developed a model for predicting health outcomes using machine learning.,29,37
+982,872,Content Marketing Campaign,2,9/19/2021,9/19/2021,7,"Created blog posts, videos, and infographics for a product launch.",9,364
+983,597,Content Marketing Campaign,12,12-08-2020,12-08-2020,3,"Created blog posts, videos, and infographics for a product launch.",91,439
+984,165,E-commerce Website Development,18,11-08-2022,11-08-2022,7,Built a responsive web store with secure payments and user login.,80,335
+985,253,Mobile App Prototype Design,14,2/27/2023,2/27/2023,8,Prototyped a mobile app with a strong focus on UX and accessibility.,45,428
+986,960,Network Security Assessment,18,07-10-2024,07-10-2024,4,Conducted audits and applied firewall and encryption strategies.,15,123
+987,514,Network Security Assessment,7,2/27/2021,2/27/2021,1,Conducted audits and applied firewall and encryption strategies.,69,476
+988,609,Cloud Architecture Design,3,07-09-2020,07-09-2020,3,Designed a scalable cloud system using AWS services for high uptime.,37,392
+989,571,Content Marketing Campaign,9,2/15/2024,2/15/2024,3,"Created blog posts, videos, and infographics for a product launch.",62,457
+990,9,Network Security Assessment,16,03-09-2023,03-09-2023,7,Conducted audits and applied firewall and encryption strategies.,95,80
+991,245,Cloud Architecture Design,19,11-02-2020,11-02-2020,8,Designed a scalable cloud system using AWS services for high uptime.,96,483
+992,366,Content Marketing Campaign,10,05-05-2021,05-05-2021,5,"Created blog posts, videos, and infographics for a product launch.",53,474
+993,98,Network Security Assessment,11,09-01-2023,09-01-2023,7,Conducted audits and applied firewall and encryption strategies.,1,227
+994,404,Network Security Assessment,4,08-12-2020,08-12-2020,8,Conducted audits and applied firewall and encryption strategies.,67,197
+995,865,Project on AI for Healthcare,2,05-01-2023,05-01-2023,5,Developed a model for predicting health outcomes using machine learning.,69,375
+996,528,E-commerce Website Development,5,09-12-2022,09-12-2022,9,Built a responsive web store with secure payments and user login.,78,150
+997,36,Network Security Assessment,13,12-08-2020,12-08-2020,3,Conducted audits and applied firewall and encryption strategies.,15,162
+998,996,Cloud Architecture Design,17,08-05-2021,08-05-2021,6,Designed a scalable cloud system using AWS services for high uptime.,94,14
+999,473,Network Security Assessment,7,10/27/2023,10/27/2023,9,Conducted audits and applied firewall and encryption strategies.,94,37
+1000,291,Mobile App Prototype Design,13,7/13/2021,7/13/2021,8,Prototyped a mobile app with a strong focus on UX and accessibility.,100,56

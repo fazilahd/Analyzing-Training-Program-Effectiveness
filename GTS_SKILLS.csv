@@ -1,0 +1,1001 @@
+GTS_SKILL_ID,GTS_SKILL_NAME,GTS_SKILL_DESCRIPTION,GTS_SKILL_STATUS
+1,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+2,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+3,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+4,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+5,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+6,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+7,Python for AI & ML,Develop machine learning models using Python.,FALSE
+8,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+9,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+10,Python for AI & ML,Develop machine learning models using Python.,TRUE
+11,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+12,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+13,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+14,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+15,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+16,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+17,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+18,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+19,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+20,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+21,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+22,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+23,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+24,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+25,Python for AI & ML,Develop machine learning models using Python.,TRUE
+26,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+27,Python for AI & ML,Develop machine learning models using Python.,TRUE
+28,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+29,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+30,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+31,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+32,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+33,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+34,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+35,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+36,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+37,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+38,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+39,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+40,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+41,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+42,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+43,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+44,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+45,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+46,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+47,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+48,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+49,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+50,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+51,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+52,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+53,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+54,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+55,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+56,Python for AI & ML,Develop machine learning models using Python.,FALSE
+57,Python for AI & ML,Develop machine learning models using Python.,FALSE
+58,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+59,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+60,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+61,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+62,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+63,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+64,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+65,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+66,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+67,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+68,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+69,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+70,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+71,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+72,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+73,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+74,Python for AI & ML,Develop machine learning models using Python.,TRUE
+75,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+76,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+77,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+78,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+79,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+80,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+81,Python for AI & ML,Develop machine learning models using Python.,FALSE
+82,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+83,Python for AI & ML,Develop machine learning models using Python.,FALSE
+84,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+85,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+86,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+87,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+88,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+89,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+90,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+91,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+92,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+93,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+94,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+95,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+96,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+97,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+98,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+99,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+100,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+101,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+102,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+103,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+104,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+105,Python for AI & ML,Develop machine learning models using Python.,FALSE
+106,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+107,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+108,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+109,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+110,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+111,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+112,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+113,Python for AI & ML,Develop machine learning models using Python.,FALSE
+114,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+115,Python for AI & ML,Develop machine learning models using Python.,TRUE
+116,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+117,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+118,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+119,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+120,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+121,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+122,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+123,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+124,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+125,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+126,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+127,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+128,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+129,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+130,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+131,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+132,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+133,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+134,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+135,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+136,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+137,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+138,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+139,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+140,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+141,Python for AI & ML,Develop machine learning models using Python.,TRUE
+142,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+143,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+144,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+145,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+146,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+147,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+148,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+149,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+150,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+151,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+152,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+153,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+154,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+155,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+156,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+157,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+158,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+159,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+160,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+161,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+162,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+163,Python for AI & ML,Develop machine learning models using Python.,FALSE
+164,Python for AI & ML,Develop machine learning models using Python.,TRUE
+165,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+166,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+167,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+168,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+169,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+170,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+171,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+172,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+173,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+174,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+175,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+176,Python for AI & ML,Develop machine learning models using Python.,TRUE
+177,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+178,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+179,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+180,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+181,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+182,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+183,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+184,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+185,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+186,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+187,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+188,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+189,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+190,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+191,Python for AI & ML,Develop machine learning models using Python.,FALSE
+192,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+193,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+194,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+195,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+196,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+197,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+198,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+199,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+200,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+201,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+202,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+203,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+204,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+205,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+206,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+207,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+208,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+209,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+210,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+211,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+212,Python for AI & ML,Develop machine learning models using Python.,TRUE
+213,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+214,Python for AI & ML,Develop machine learning models using Python.,FALSE
+215,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+216,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+217,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+218,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+219,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+220,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+221,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+222,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+223,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+224,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+225,Python for AI & ML,Develop machine learning models using Python.,TRUE
+226,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+227,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+228,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+229,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+230,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+231,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+232,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+233,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+234,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+235,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+236,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+237,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+238,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+239,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+240,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+241,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+242,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+243,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+244,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+245,Python for AI & ML,Develop machine learning models using Python.,FALSE
+246,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+247,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+248,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+249,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+250,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+251,Python for AI & ML,Develop machine learning models using Python.,TRUE
+252,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+253,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+254,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+255,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+256,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+257,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+258,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+259,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+260,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+261,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+262,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+263,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+264,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+265,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+266,Python for AI & ML,Develop machine learning models using Python.,TRUE
+267,Python for AI & ML,Develop machine learning models using Python.,TRUE
+268,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+269,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+270,Python for AI & ML,Develop machine learning models using Python.,FALSE
+271,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+272,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+273,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+274,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+275,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+276,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+277,Python for AI & ML,Develop machine learning models using Python.,TRUE
+278,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+279,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+280,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+281,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+282,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+283,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+284,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+285,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+286,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+287,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+288,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+289,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+290,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+291,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+292,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+293,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+294,Python for AI & ML,Develop machine learning models using Python.,FALSE
+295,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+296,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+297,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+298,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+299,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+300,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+301,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+302,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+303,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+304,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+305,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+306,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+307,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+308,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+309,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+310,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+311,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+312,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+313,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+314,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+315,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+316,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+317,Python for AI & ML,Develop machine learning models using Python.,TRUE
+318,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+319,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+320,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+321,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+322,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+323,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+324,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+325,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+326,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+327,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+328,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+329,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+330,Python for AI & ML,Develop machine learning models using Python.,FALSE
+331,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+332,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+333,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+334,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+335,Python for AI & ML,Develop machine learning models using Python.,TRUE
+336,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+337,Python for AI & ML,Develop machine learning models using Python.,FALSE
+338,Python for AI & ML,Develop machine learning models using Python.,FALSE
+339,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+340,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+341,Python for AI & ML,Develop machine learning models using Python.,FALSE
+342,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+343,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+344,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+345,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+346,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+347,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+348,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+349,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+350,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+351,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+352,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+353,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+354,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+355,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+356,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+357,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+358,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+359,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+360,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+361,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+362,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+363,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+364,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+365,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+366,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+367,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+368,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+369,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+370,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+371,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+372,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+373,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+374,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+375,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+376,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+377,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+378,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+379,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+380,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+381,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+382,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+383,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+384,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+385,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+386,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+387,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+388,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+389,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+390,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+391,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+392,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+393,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+394,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+395,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+396,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+397,Python for AI & ML,Develop machine learning models using Python.,TRUE
+398,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+399,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+400,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+401,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+402,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+403,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+404,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+405,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+406,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+407,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+408,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+409,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+410,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+411,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+412,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+413,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+414,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+415,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+416,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+417,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+418,Python for AI & ML,Develop machine learning models using Python.,FALSE
+419,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+420,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+421,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+422,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+423,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+424,Python for AI & ML,Develop machine learning models using Python.,FALSE
+425,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+426,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+427,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+428,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+429,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+430,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+431,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+432,Python for AI & ML,Develop machine learning models using Python.,TRUE
+433,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+434,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+435,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+436,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+437,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+438,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+439,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+440,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+441,Python for AI & ML,Develop machine learning models using Python.,FALSE
+442,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+443,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+444,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+445,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+446,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+447,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+448,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+449,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+450,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+451,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+452,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+453,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+454,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+455,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+456,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+457,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+458,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+459,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+460,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+461,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+462,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+463,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+464,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+465,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+466,Python for AI & ML,Develop machine learning models using Python.,TRUE
+467,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+468,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+469,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+470,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+471,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+472,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+473,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+474,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+475,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+476,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+477,Python for AI & ML,Develop machine learning models using Python.,FALSE
+478,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+479,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+480,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+481,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+482,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+483,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+484,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+485,Python for AI & ML,Develop machine learning models using Python.,TRUE
+486,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+487,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+488,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+489,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+490,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+491,Python for AI & ML,Develop machine learning models using Python.,FALSE
+492,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+493,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+494,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+495,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+496,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+497,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+498,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+499,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+500,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+501,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+502,Python for AI & ML,Develop machine learning models using Python.,FALSE
+503,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+504,Python for AI & ML,Develop machine learning models using Python.,TRUE
+505,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+506,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+507,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+508,Python for AI & ML,Develop machine learning models using Python.,TRUE
+509,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+510,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+511,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+512,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+513,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+514,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+515,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+516,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+517,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+518,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+519,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+520,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+521,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+522,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+523,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+524,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+525,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+526,Python for AI & ML,Develop machine learning models using Python.,FALSE
+527,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+528,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+529,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+530,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+531,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+532,Python for AI & ML,Develop machine learning models using Python.,TRUE
+533,Python for AI & ML,Develop machine learning models using Python.,TRUE
+534,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+535,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+536,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+537,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+538,Python for AI & ML,Develop machine learning models using Python.,FALSE
+539,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+540,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+541,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+542,Python for AI & ML,Develop machine learning models using Python.,TRUE
+543,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+544,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+545,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+546,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+547,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+548,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+549,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+550,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+551,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+552,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+553,Python for AI & ML,Develop machine learning models using Python.,TRUE
+554,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+555,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+556,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+557,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+558,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+559,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+560,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+561,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+562,Python for AI & ML,Develop machine learning models using Python.,TRUE
+563,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+564,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+565,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+566,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+567,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+568,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+569,Python for AI & ML,Develop machine learning models using Python.,TRUE
+570,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+571,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+572,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+573,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+574,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+575,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+576,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+577,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+578,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+579,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+580,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+581,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+582,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+583,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+584,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+585,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+586,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+587,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+588,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+589,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+590,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+591,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+592,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+593,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+594,Python for AI & ML,Develop machine learning models using Python.,TRUE
+595,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+596,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+597,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+598,Python for AI & ML,Develop machine learning models using Python.,TRUE
+599,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+600,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+601,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+602,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+603,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+604,Python for AI & ML,Develop machine learning models using Python.,FALSE
+605,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+606,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+607,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+608,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+609,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+610,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+611,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+612,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+613,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+614,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+615,Python for AI & ML,Develop machine learning models using Python.,TRUE
+616,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+617,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+618,Python for AI & ML,Develop machine learning models using Python.,FALSE
+619,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+620,Python for AI & ML,Develop machine learning models using Python.,FALSE
+621,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+622,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+623,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+624,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+625,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+626,Python for AI & ML,Develop machine learning models using Python.,FALSE
+627,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+628,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+629,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+630,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+631,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+632,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+633,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+634,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+635,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+636,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+637,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+638,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+639,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+640,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+641,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+642,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+643,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+644,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+645,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+646,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+647,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+648,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+649,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+650,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+651,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+652,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+653,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+654,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+655,Python for AI & ML,Develop machine learning models using Python.,FALSE
+656,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+657,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+658,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+659,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+660,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+661,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+662,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+663,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+664,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+665,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+666,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+667,Python for AI & ML,Develop machine learning models using Python.,TRUE
+668,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+669,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+670,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+671,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+672,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+673,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+674,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+675,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+676,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+677,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+678,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+679,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+680,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+681,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+682,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+683,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+684,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+685,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+686,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+687,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+688,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+689,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+690,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+691,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+692,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+693,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+694,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+695,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+696,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+697,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+698,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+699,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+700,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+701,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+702,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+703,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+704,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+705,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+706,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+707,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+708,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+709,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+710,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+711,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+712,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+713,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+714,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+715,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+716,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+717,Python for AI & ML,Develop machine learning models using Python.,TRUE
+718,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+719,Python for AI & ML,Develop machine learning models using Python.,TRUE
+720,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+721,Python for AI & ML,Develop machine learning models using Python.,TRUE
+722,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+723,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+724,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+725,Python for AI & ML,Develop machine learning models using Python.,FALSE
+726,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+727,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+728,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+729,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+730,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+731,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+732,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+733,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+734,Python for AI & ML,Develop machine learning models using Python.,TRUE
+735,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+736,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+737,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+738,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+739,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+740,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+741,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+742,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+743,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+744,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+745,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+746,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+747,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+748,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+749,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+750,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+751,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+752,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+753,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+754,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+755,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+756,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+757,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+758,Python for AI & ML,Develop machine learning models using Python.,TRUE
+759,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+760,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+761,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+762,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+763,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+764,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+765,Python for AI & ML,Develop machine learning models using Python.,FALSE
+766,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+767,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+768,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+769,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+770,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+771,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+772,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+773,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+774,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+775,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+776,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+777,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+778,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+779,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+780,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+781,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+782,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+783,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+784,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+785,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+786,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+787,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+788,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+789,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+790,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+791,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+792,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+793,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+794,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+795,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+796,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+797,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+798,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+799,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+800,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+801,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+802,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+803,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+804,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+805,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+806,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+807,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+808,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+809,Python for AI & ML,Develop machine learning models using Python.,TRUE
+810,Python for AI & ML,Develop machine learning models using Python.,TRUE
+811,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+812,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+813,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+814,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+815,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+816,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+817,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+818,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+819,Python for AI & ML,Develop machine learning models using Python.,TRUE
+820,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+821,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+822,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+823,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+824,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+825,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+826,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+827,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+828,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+829,Python for AI & ML,Develop machine learning models using Python.,TRUE
+830,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+831,Python for AI & ML,Develop machine learning models using Python.,TRUE
+832,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+833,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+834,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+835,Python for AI & ML,Develop machine learning models using Python.,FALSE
+836,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+837,Python for AI & ML,Develop machine learning models using Python.,TRUE
+838,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+839,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+840,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+841,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+842,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+843,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+844,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+845,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+846,Python for AI & ML,Develop machine learning models using Python.,FALSE
+847,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+848,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+849,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+850,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+851,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+852,Python for AI & ML,Develop machine learning models using Python.,FALSE
+853,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+854,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+855,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+856,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+857,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+858,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+859,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+860,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+861,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+862,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+863,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+864,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+865,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+866,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+867,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+868,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+869,Python for AI & ML,Develop machine learning models using Python.,TRUE
+870,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+871,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+872,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+873,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+874,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+875,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+876,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+877,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+878,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+879,Python for AI & ML,Develop machine learning models using Python.,FALSE
+880,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+881,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+882,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+883,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+884,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+885,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+886,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+887,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+888,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+889,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+890,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+891,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+892,Python for AI & ML,Develop machine learning models using Python.,TRUE
+893,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+894,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+895,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+896,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+897,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+898,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+899,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+900,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+901,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+902,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+903,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+904,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+905,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+906,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+907,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+908,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+909,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+910,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+911,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+912,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+913,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+914,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+915,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+916,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+917,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+918,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+919,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+920,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+921,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+922,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+923,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+924,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+925,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+926,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+927,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+928,Python for AI & ML,Develop machine learning models using Python.,TRUE
+929,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+930,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+931,Cybersecurity Foundations,Understand threats and implement protection methods.,TRUE
+932,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+933,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+934,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+935,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",TRUE
+936,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+937,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+938,Python for AI & ML,Develop machine learning models using Python.,TRUE
+939,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+940,Python for AI & ML,Develop machine learning models using Python.,TRUE
+941,Python for AI & ML,Develop machine learning models using Python.,TRUE
+942,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+943,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+944,Python for AI & ML,Develop machine learning models using Python.,TRUE
+945,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+946,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+947,Full Stack Web Development,Work with both front-end and back-end web technologies.,TRUE
+948,Python for AI & ML,Develop machine learning models using Python.,FALSE
+949,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+950,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+951,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+952,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+953,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+954,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+955,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+956,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+957,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,FALSE
+958,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+959,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+960,Python for AI & ML,Develop machine learning models using Python.,FALSE
+961,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+962,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+963,Python for AI & ML,Develop machine learning models using Python.,FALSE
+964,Cybersecurity Foundations,Understand threats and implement protection methods.,FALSE
+965,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+966,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+967,Python for AI & ML,Develop machine learning models using Python.,FALSE
+968,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+969,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+970,Python for AI & ML,Develop machine learning models using Python.,FALSE
+971,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+972,Python for AI & ML,Develop machine learning models using Python.,TRUE
+973,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE
+974,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+975,Python for AI & ML,Develop machine learning models using Python.,TRUE
+976,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+977,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",TRUE
+978,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",TRUE
+979,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+980,Python for AI & ML,Develop machine learning models using Python.,TRUE
+981,Python for AI & ML,Develop machine learning models using Python.,TRUE
+982,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+983,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+984,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+985,Python for AI & ML,Develop machine learning models using Python.,TRUE
+986,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",TRUE
+987,Advanced Excel for Analysts,"Master Excel functions, pivot tables, and automation.",FALSE
+988,SQL for Beginners,Write queries to retrieve and manipulate data.,FALSE
+989,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+990,SQL for Beginners,Write queries to retrieve and manipulate data.,TRUE
+991,Web Development Essentials,"Build responsive websites with HTML, CSS, and JS.",FALSE
+992,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+993,Python for AI & ML,Develop machine learning models using Python.,FALSE
+994,Communication & Soft Skills,Improve workplace communication and teamwork.,TRUE
+995,Cloud Computing with AWS,Deploy and manage services on AWS infrastructure.,TRUE
+996,Data Science Bootcamp,"Analyze data using Python, stats, and visualization.",FALSE
+997,Full Stack Web Development,Work with both front-end and back-end web technologies.,FALSE
+998,Python for AI & ML,Develop machine learning models using Python.,TRUE
+999,Digital Marketing Fundamentals,"Learn SEO, social media, and content strategy.",FALSE
+1000,Communication & Soft Skills,Improve workplace communication and teamwork.,FALSE

@@ -1,0 +1,1001 @@
+GTS_COUNTRY_ID,GTS_COUNTRY_NAME,GTS_COUNTRY_DESCRIPTION,GTS_COUNTRY_STATUS,GTS_COUNTRY_CODE
+1,Colombia,Developing,FALSE,CO
+2,Colombia,Developing,TRUE,CO
+3,Nigeria,Developing,FALSE,NG
+4,South Africa,Developing,TRUE,ZA
+5,China,Emerging,FALSE,CN
+6,France,Developed,TRUE,FR
+7,China,Emerging,FALSE,CN
+8,Malaysia,Emerging,FALSE,MY
+9,Russia,Developing,FALSE,RU
+10,Japan,Developed,TRUE,JP
+11,Thailand,Emerging,FALSE,TH
+12,Brazil,Developing,FALSE,BR
+13,Italy,Developed,FALSE,IT
+14,Turkey,Emerging,TRUE,TR
+15,Canada,Developed,FALSE,CA
+16,Kenya,Developing,FALSE,KE
+17,Malaysia,Emerging,TRUE,MY
+18,China,Emerging,FALSE,CN
+19,Italy,Developed,TRUE,IT
+20,South Africa,Developing,FALSE,ZA
+21,India,Emerging,FALSE,IN
+22,China,Emerging,TRUE,CN
+23,Indonesia,Emerging,TRUE,ID
+24,Canada,Developed,TRUE,CA
+25,Russia,Developing,TRUE,RU
+26,Japan,Developed,FALSE,JP
+27,Turkey,Emerging,FALSE,TR
+28,Spain,Developed,TRUE,ES
+29,Mexico,Emerging,TRUE,MX
+30,Italy,Developed,FALSE,IT
+31,Nigeria,Developing,TRUE,NG
+32,United Kingdom,Developed,TRUE,UK
+33,Poland,Developed,FALSE,PL
+34,Turkey,Emerging,FALSE,TR
+35,United Kingdom,Developed,FALSE,UK
+36,France,Developed,TRUE,FR
+37,Mexico,Emerging,FALSE,MX
+38,Canada,Developed,FALSE,CA
+39,Egypt,Developing,TRUE,EG
+40,Russia,Developing,TRUE,RU
+41,South Korea,Developed,TRUE,KR
+42,Malaysia,Emerging,TRUE,MY
+43,Australia,Developed,TRUE,AU
+44,Nigeria,Developing,FALSE,NG
+45,Brazil,Developing,TRUE,BR
+46,Kenya,Developing,TRUE,KE
+47,Vietnam,Emerging,TRUE,VN
+48,United Kingdom,Developed,FALSE,UK
+49,Vietnam,Emerging,FALSE,VN
+50,China,Emerging,TRUE,CN
+51,Kenya,Developing,FALSE,KE
+52,Argentina,Developing,TRUE,AR
+53,Philippines,Emerging,TRUE,PH
+54,France,Developed,FALSE,FR
+55,South Korea,Developed,FALSE,KR
+56,Italy,Developed,FALSE,IT
+57,South Africa,Developing,FALSE,ZA
+58,Sweden,Developed,FALSE,SE
+59,Pakistan,Developing,TRUE,PK
+60,Mexico,Emerging,FALSE,MX
+61,Turkey,Emerging,TRUE,TR
+62,Malaysia,Emerging,FALSE,MY
+63,Vietnam,Emerging,FALSE,VN
+64,Brazil,Developing,TRUE,BR
+65,China,Emerging,TRUE,CN
+66,Australia,Developed,TRUE,AU
+67,Russia,Developing,TRUE,RU
+68,Malaysia,Emerging,TRUE,MY
+69,Mexico,Emerging,TRUE,MX
+70,Mexico,Emerging,FALSE,MX
+71,Kenya,Developing,FALSE,KE
+72,China,Emerging,TRUE,CN
+73,Pakistan,Developing,FALSE,PK
+74,Australia,Developed,FALSE,AU
+75,South Korea,Developed,TRUE,KR
+76,Japan,Developed,TRUE,JP
+77,Turkey,Emerging,FALSE,TR
+78,Malaysia,Emerging,FALSE,MY
+79,South Africa,Developing,FALSE,ZA
+80,Australia,Developed,TRUE,AU
+81,Saudi Arabia,Emerging,TRUE,SA
+82,Saudi Arabia,Emerging,FALSE,SA
+83,India,Emerging,TRUE,IN
+84,Poland,Developed,TRUE,PL
+85,Saudi Arabia,Emerging,FALSE,SA
+86,Indonesia,Emerging,TRUE,ID
+87,Germany,Developed,FALSE,DE
+88,Poland,Developed,TRUE,PL
+89,Spain,Developed,FALSE,ES
+90,Spain,Developed,FALSE,ES
+91,Malaysia,Emerging,TRUE,MY
+92,Canada,Developed,TRUE,CA
+93,Brazil,Developing,FALSE,BR
+94,Japan,Developed,FALSE,JP
+95,Turkey,Emerging,FALSE,TR
+96,France,Developed,FALSE,FR
+97,United States,Leading,TRUE,US
+98,Russia,Developing,FALSE,RU
+99,Pakistan,Developing,FALSE,PK
+100,United States,Leading,FALSE,US
+101,United States,Leading,FALSE,US
+102,South Africa,Developing,FALSE,ZA
+103,Saudi Arabia,Emerging,FALSE,SA
+104,Germany,Developed,TRUE,DE
+105,South Africa,Developing,TRUE,ZA
+106,Malaysia,Emerging,TRUE,MY
+107,France,Developed,TRUE,FR
+108,South Africa,Developing,TRUE,ZA
+109,France,Developed,FALSE,FR
+110,Thailand,Emerging,FALSE,TH
+111,Philippines,Emerging,TRUE,PH
+112,Egypt,Developing,FALSE,EG
+113,Brazil,Developing,FALSE,BR
+114,United Kingdom,Developed,FALSE,UK
+115,Italy,Developed,FALSE,IT
+116,Nigeria,Developing,FALSE,NG
+117,Germany,Developed,TRUE,DE
+118,Philippines,Emerging,FALSE,PH
+119,Russia,Developing,FALSE,RU
+120,Argentina,Developing,FALSE,AR
+121,Pakistan,Developing,FALSE,PK
+122,Germany,Developed,TRUE,DE
+123,Japan,Developed,TRUE,JP
+124,Sweden,Developed,TRUE,SE
+125,Nigeria,Developing,TRUE,NG
+126,Philippines,Emerging,FALSE,PH
+127,Canada,Developed,TRUE,CA
+128,Vietnam,Emerging,FALSE,VN
+129,Spain,Developed,FALSE,ES
+130,Canada,Developed,FALSE,CA
+131,Mexico,Emerging,FALSE,MX
+132,Nigeria,Developing,FALSE,NG
+133,Vietnam,Emerging,TRUE,VN
+134,Philippines,Emerging,FALSE,PH
+135,France,Developed,FALSE,FR
+136,Australia,Developed,TRUE,AU
+137,Malaysia,Emerging,FALSE,MY
+138,Spain,Developed,FALSE,ES
+139,Mexico,Emerging,TRUE,MX
+140,Turkey,Emerging,TRUE,TR
+141,Germany,Developed,FALSE,DE
+142,Pakistan,Developing,TRUE,PK
+143,Mexico,Emerging,FALSE,MX
+144,Russia,Developing,FALSE,RU
+145,Saudi Arabia,Emerging,TRUE,SA
+146,Saudi Arabia,Emerging,FALSE,SA
+147,China,Emerging,FALSE,CN
+148,Brazil,Developing,TRUE,BR
+149,Australia,Developed,FALSE,AU
+150,Canada,Developed,TRUE,CA
+151,Pakistan,Developing,TRUE,PK
+152,Brazil,Developing,FALSE,BR
+153,India,Emerging,FALSE,IN
+154,Sweden,Developed,TRUE,SE
+155,Sweden,Developed,TRUE,SE
+156,France,Developed,TRUE,FR
+157,Pakistan,Developing,FALSE,PK
+158,Philippines,Emerging,TRUE,PH
+159,Nigeria,Developing,TRUE,NG
+160,Kenya,Developing,TRUE,KE
+161,Italy,Developed,FALSE,IT
+162,Philippines,Emerging,FALSE,PH
+163,Kenya,Developing,FALSE,KE
+164,Australia,Developed,FALSE,AU
+165,Saudi Arabia,Emerging,FALSE,SA
+166,Philippines,Emerging,TRUE,PH
+167,Saudi Arabia,Emerging,TRUE,SA
+168,Italy,Developed,FALSE,IT
+169,Australia,Developed,TRUE,AU
+170,Egypt,Developing,TRUE,EG
+171,United Kingdom,Developed,FALSE,UK
+172,Kenya,Developing,TRUE,KE
+173,Egypt,Developing,TRUE,EG
+174,Thailand,Emerging,TRUE,TH
+175,Canada,Developed,FALSE,CA
+176,Sweden,Developed,TRUE,SE
+177,Japan,Developed,FALSE,JP
+178,Japan,Developed,TRUE,JP
+179,Canada,Developed,TRUE,CA
+180,South Korea,Developed,FALSE,KR
+181,Philippines,Emerging,FALSE,PH
+182,France,Developed,TRUE,FR
+183,Italy,Developed,FALSE,IT
+184,Italy,Developed,TRUE,IT
+185,Thailand,Emerging,FALSE,TH
+186,Sweden,Developed,TRUE,SE
+187,Spain,Developed,FALSE,ES
+188,South Korea,Developed,TRUE,KR
+189,Philippines,Emerging,FALSE,PH
+190,United Kingdom,Developed,TRUE,UK
+191,South Africa,Developing,FALSE,ZA
+192,United Kingdom,Developed,TRUE,UK
+193,South Africa,Developing,FALSE,ZA
+194,Kenya,Developing,TRUE,KE
+195,Canada,Developed,FALSE,CA
+196,United Kingdom,Developed,TRUE,UK
+197,France,Developed,TRUE,FR
+198,Saudi Arabia,Emerging,TRUE,SA
+199,Spain,Developed,TRUE,ES
+200,South Africa,Developing,FALSE,ZA
+201,Malaysia,Emerging,TRUE,MY
+202,Canada,Developed,FALSE,CA
+203,Colombia,Developing,TRUE,CO
+204,Spain,Developed,TRUE,ES
+205,Pakistan,Developing,FALSE,PK
+206,Russia,Developing,TRUE,RU
+207,Australia,Developed,TRUE,AU
+208,Indonesia,Emerging,FALSE,ID
+209,Pakistan,Developing,TRUE,PK
+210,China,Emerging,FALSE,CN
+211,Egypt,Developing,FALSE,EG
+212,Colombia,Developing,FALSE,CO
+213,Vietnam,Emerging,FALSE,VN
+214,Vietnam,Emerging,TRUE,VN
+215,Nigeria,Developing,FALSE,NG
+216,Spain,Developed,TRUE,ES
+217,Philippines,Emerging,FALSE,PH
+218,Brazil,Developing,TRUE,BR
+219,Thailand,Emerging,TRUE,TH
+220,Sweden,Developed,TRUE,SE
+221,Philippines,Emerging,TRUE,PH
+222,Canada,Developed,TRUE,CA
+223,Italy,Developed,FALSE,IT
+224,Australia,Developed,TRUE,AU
+225,United Kingdom,Developed,TRUE,UK
+226,Italy,Developed,TRUE,IT
+227,France,Developed,FALSE,FR
+228,Thailand,Emerging,TRUE,TH
+229,India,Emerging,TRUE,IN
+230,Egypt,Developing,TRUE,EG
+231,Russia,Developing,TRUE,RU
+232,Nigeria,Developing,TRUE,NG
+233,Germany,Developed,TRUE,DE
+234,Indonesia,Emerging,TRUE,ID
+235,South Korea,Developed,TRUE,KR
+236,Nigeria,Developing,FALSE,NG
+237,Brazil,Developing,TRUE,BR
+238,Vietnam,Emerging,TRUE,VN
+239,Spain,Developed,TRUE,ES
+240,Italy,Developed,FALSE,IT
+241,India,Emerging,TRUE,IN
+242,Poland,Developed,FALSE,PL
+243,Poland,Developed,FALSE,PL
+244,Argentina,Developing,FALSE,AR
+245,China,Emerging,TRUE,CN
+246,Malaysia,Emerging,TRUE,MY
+247,Poland,Developed,FALSE,PL
+248,Mexico,Emerging,TRUE,MX
+249,Philippines,Emerging,FALSE,PH
+250,Brazil,Developing,FALSE,BR
+251,Argentina,Developing,TRUE,AR
+252,France,Developed,FALSE,FR
+253,Sweden,Developed,TRUE,SE
+254,Kenya,Developing,FALSE,KE
+255,Japan,Developed,FALSE,JP
+256,Egypt,Developing,TRUE,EG
+257,Brazil,Developing,TRUE,BR
+258,Turkey,Emerging,TRUE,TR
+259,Colombia,Developing,TRUE,CO
+260,United States,Leading,FALSE,US
+261,Vietnam,Emerging,TRUE,VN
+262,Canada,Developed,FALSE,CA
+263,China,Emerging,FALSE,CN
+264,South Africa,Developing,TRUE,ZA
+265,France,Developed,FALSE,FR
+266,France,Developed,FALSE,FR
+267,South Africa,Developing,TRUE,ZA
+268,Japan,Developed,FALSE,JP
+269,Thailand,Emerging,TRUE,TH
+270,Malaysia,Emerging,TRUE,MY
+271,Germany,Developed,FALSE,DE
+272,Argentina,Developing,FALSE,AR
+273,Australia,Developed,FALSE,AU
+274,Russia,Developing,FALSE,RU
+275,Colombia,Developing,FALSE,CO
+276,Italy,Developed,FALSE,IT
+277,Argentina,Developing,FALSE,AR
+278,Poland,Developed,TRUE,PL
+279,Canada,Developed,TRUE,CA
+280,Brazil,Developing,FALSE,BR
+281,Mexico,Emerging,TRUE,MX
+282,Egypt,Developing,TRUE,EG
+283,Australia,Developed,FALSE,AU
+284,United Kingdom,Developed,TRUE,UK
+285,Argentina,Developing,TRUE,AR
+286,Colombia,Developing,FALSE,CO
+287,Italy,Developed,FALSE,IT
+288,Vietnam,Emerging,FALSE,VN
+289,Vietnam,Emerging,FALSE,VN
+290,Egypt,Developing,FALSE,EG
+291,Russia,Developing,FALSE,RU
+292,Saudi Arabia,Emerging,TRUE,SA
+293,Mexico,Emerging,FALSE,MX
+294,France,Developed,TRUE,FR
+295,South Korea,Developed,TRUE,KR
+296,Poland,Developed,TRUE,PL
+297,Sweden,Developed,TRUE,SE
+298,Germany,Developed,FALSE,DE
+299,China,Emerging,TRUE,CN
+300,Sweden,Developed,FALSE,SE
+301,Italy,Developed,TRUE,IT
+302,South Africa,Developing,FALSE,ZA
+303,Australia,Developed,FALSE,AU
+304,China,Emerging,FALSE,CN
+305,Indonesia,Emerging,TRUE,ID
+306,Australia,Developed,FALSE,AU
+307,Nigeria,Developing,FALSE,NG
+308,Nigeria,Developing,TRUE,NG
+309,Germany,Developed,TRUE,DE
+310,Thailand,Emerging,FALSE,TH
+311,United States,Leading,FALSE,US
+312,Australia,Developed,TRUE,AU
+313,Nigeria,Developing,FALSE,NG
+314,Pakistan,Developing,FALSE,PK
+315,Turkey,Emerging,TRUE,TR
+316,Italy,Developed,TRUE,IT
+317,United Kingdom,Developed,FALSE,UK
+318,Saudi Arabia,Emerging,FALSE,SA
+319,Vietnam,Emerging,FALSE,VN
+320,Egypt,Developing,TRUE,EG
+321,Kenya,Developing,TRUE,KE
+322,South Korea,Developed,TRUE,KR
+323,Canada,Developed,TRUE,CA
+324,South Korea,Developed,TRUE,KR
+325,South Korea,Developed,FALSE,KR
+326,Philippines,Emerging,FALSE,PH
+327,Brazil,Developing,TRUE,BR
+328,Italy,Developed,TRUE,IT
+329,Pakistan,Developing,FALSE,PK
+330,South Africa,Developing,FALSE,ZA
+331,Argentina,Developing,FALSE,AR
+332,Argentina,Developing,TRUE,AR
+333,Turkey,Emerging,FALSE,TR
+334,Germany,Developed,TRUE,DE
+335,Germany,Developed,FALSE,DE
+336,Russia,Developing,TRUE,RU
+337,Kenya,Developing,FALSE,KE
+338,Malaysia,Emerging,TRUE,MY
+339,Canada,Developed,FALSE,CA
+340,Argentina,Developing,FALSE,AR
+341,India,Emerging,TRUE,IN
+342,Colombia,Developing,FALSE,CO
+343,United States,Leading,FALSE,US
+344,Japan,Developed,FALSE,JP
+345,United Kingdom,Developed,FALSE,UK
+346,Saudi Arabia,Emerging,TRUE,SA
+347,South Korea,Developed,FALSE,KR
+348,Philippines,Emerging,TRUE,PH
+349,Vietnam,Emerging,FALSE,VN
+350,Germany,Developed,TRUE,DE
+351,Japan,Developed,TRUE,JP
+352,Kenya,Developing,FALSE,KE
+353,United Kingdom,Developed,TRUE,UK
+354,Canada,Developed,TRUE,CA
+355,United States,Leading,TRUE,US
+356,Saudi Arabia,Emerging,TRUE,SA
+357,Egypt,Developing,TRUE,EG
+358,India,Emerging,FALSE,IN
+359,Argentina,Developing,FALSE,AR
+360,Germany,Developed,TRUE,DE
+361,Egypt,Developing,FALSE,EG
+362,Saudi Arabia,Emerging,FALSE,SA
+363,Indonesia,Emerging,TRUE,ID
+364,Kenya,Developing,FALSE,KE
+365,South Africa,Developing,TRUE,ZA
+366,Italy,Developed,TRUE,IT
+367,Germany,Developed,FALSE,DE
+368,United Kingdom,Developed,FALSE,UK
+369,Brazil,Developing,TRUE,BR
+370,United Kingdom,Developed,TRUE,UK
+371,Mexico,Emerging,TRUE,MX
+372,Vietnam,Emerging,TRUE,VN
+373,France,Developed,FALSE,FR
+374,Poland,Developed,TRUE,PL
+375,India,Emerging,TRUE,IN
+376,China,Emerging,FALSE,CN
+377,Japan,Developed,TRUE,JP
+378,Kenya,Developing,TRUE,KE
+379,Philippines,Emerging,TRUE,PH
+380,Egypt,Developing,TRUE,EG
+381,Canada,Developed,FALSE,CA
+382,Thailand,Emerging,TRUE,TH
+383,Kenya,Developing,FALSE,KE
+384,United Kingdom,Developed,FALSE,UK
+385,Mexico,Emerging,TRUE,MX
+386,China,Emerging,FALSE,CN
+387,Egypt,Developing,FALSE,EG
+388,Japan,Developed,TRUE,JP
+389,Argentina,Developing,FALSE,AR
+390,Saudi Arabia,Emerging,TRUE,SA
+391,Canada,Developed,FALSE,CA
+392,United States,Leading,TRUE,US
+393,South Korea,Developed,TRUE,KR
+394,France,Developed,TRUE,FR
+395,Japan,Developed,TRUE,JP
+396,Saudi Arabia,Emerging,TRUE,SA
+397,Spain,Developed,TRUE,ES
+398,Colombia,Developing,TRUE,CO
+399,South Africa,Developing,TRUE,ZA
+400,Germany,Developed,TRUE,DE
+401,South Korea,Developed,FALSE,KR
+402,Mexico,Emerging,FALSE,MX
+403,Germany,Developed,FALSE,DE
+404,China,Emerging,FALSE,CN
+405,Thailand,Emerging,TRUE,TH
+406,Italy,Developed,FALSE,IT
+407,Italy,Developed,TRUE,IT
+408,Mexico,Emerging,FALSE,MX
+409,Sweden,Developed,TRUE,SE
+410,Kenya,Developing,FALSE,KE
+411,Spain,Developed,FALSE,ES
+412,South Korea,Developed,TRUE,KR
+413,Indonesia,Emerging,FALSE,ID
+414,Malaysia,Emerging,TRUE,MY
+415,Saudi Arabia,Emerging,TRUE,SA
+416,Colombia,Developing,FALSE,CO
+417,Mexico,Emerging,TRUE,MX
+418,Philippines,Emerging,TRUE,PH
+419,Spain,Developed,FALSE,ES
+420,Turkey,Emerging,FALSE,TR
+421,Egypt,Developing,TRUE,EG
+422,Vietnam,Emerging,TRUE,VN
+423,Turkey,Emerging,TRUE,TR
+424,Mexico,Emerging,FALSE,MX
+425,United States,Leading,FALSE,US
+426,Argentina,Developing,TRUE,AR
+427,Egypt,Developing,TRUE,EG
+428,Saudi Arabia,Emerging,FALSE,SA
+429,Indonesia,Emerging,TRUE,ID
+430,Colombia,Developing,TRUE,CO
+431,Russia,Developing,FALSE,RU
+432,Argentina,Developing,FALSE,AR
+433,Russia,Developing,FALSE,RU
+434,South Korea,Developed,FALSE,KR
+435,Vietnam,Emerging,FALSE,VN
+436,Canada,Developed,FALSE,CA
+437,Canada,Developed,FALSE,CA
+438,Poland,Developed,TRUE,PL
+439,Philippines,Emerging,TRUE,PH
+440,Kenya,Developing,FALSE,KE
+441,Pakistan,Developing,FALSE,PK
+442,India,Emerging,FALSE,IN
+443,Colombia,Developing,FALSE,CO
+444,India,Emerging,FALSE,IN
+445,Turkey,Emerging,FALSE,TR
+446,Germany,Developed,FALSE,DE
+447,United States,Leading,FALSE,US
+448,Saudi Arabia,Emerging,TRUE,SA
+449,Kenya,Developing,TRUE,KE
+450,Germany,Developed,TRUE,DE
+451,United States,Leading,TRUE,US
+452,Kenya,Developing,FALSE,KE
+453,Thailand,Emerging,TRUE,TH
+454,Russia,Developing,TRUE,RU
+455,Kenya,Developing,TRUE,KE
+456,Spain,Developed,TRUE,ES
+457,Nigeria,Developing,TRUE,NG
+458,Thailand,Emerging,TRUE,TH
+459,Poland,Developed,FALSE,PL
+460,Indonesia,Emerging,FALSE,ID
+461,Australia,Developed,FALSE,AU
+462,Argentina,Developing,FALSE,AR
+463,Colombia,Developing,FALSE,CO
+464,Saudi Arabia,Emerging,TRUE,SA
+465,Mexico,Emerging,FALSE,MX
+466,Kenya,Developing,FALSE,KE
+467,Pakistan,Developing,TRUE,PK
+468,Indonesia,Emerging,FALSE,ID
+469,Germany,Developed,FALSE,DE
+470,Mexico,Emerging,TRUE,MX
+471,Philippines,Emerging,FALSE,PH
+472,Poland,Developed,FALSE,PL
+473,Poland,Developed,TRUE,PL
+474,Pakistan,Developing,FALSE,PK
+475,Japan,Developed,TRUE,JP
+476,Pakistan,Developing,FALSE,PK
+477,Spain,Developed,TRUE,ES
+478,South Africa,Developing,TRUE,ZA
+479,United Kingdom,Developed,FALSE,UK
+480,France,Developed,TRUE,FR
+481,United Kingdom,Developed,TRUE,UK
+482,Sweden,Developed,TRUE,SE
+483,Malaysia,Emerging,FALSE,MY
+484,Mexico,Emerging,FALSE,MX
+485,Colombia,Developing,TRUE,CO
+486,South Korea,Developed,TRUE,KR
+487,Thailand,Emerging,FALSE,TH
+488,Canada,Developed,TRUE,CA
+489,Australia,Developed,TRUE,AU
+490,Spain,Developed,TRUE,ES
+491,Poland,Developed,TRUE,PL
+492,Philippines,Emerging,FALSE,PH
+493,Brazil,Developing,TRUE,BR
+494,Nigeria,Developing,FALSE,NG
+495,United States,Leading,TRUE,US
+496,Mexico,Emerging,FALSE,MX
+497,United States,Leading,TRUE,US
+498,United States,Leading,FALSE,US
+499,Australia,Developed,TRUE,AU
+500,Saudi Arabia,Emerging,TRUE,SA
+501,Vietnam,Emerging,FALSE,VN
+502,Australia,Developed,TRUE,AU
+503,Spain,Developed,TRUE,ES
+504,Colombia,Developing,TRUE,CO
+505,Colombia,Developing,FALSE,CO
+506,Australia,Developed,FALSE,AU
+507,Australia,Developed,TRUE,AU
+508,Mexico,Emerging,TRUE,MX
+509,Indonesia,Emerging,FALSE,ID
+510,Sweden,Developed,FALSE,SE
+511,Argentina,Developing,FALSE,AR
+512,United Kingdom,Developed,TRUE,UK
+513,Mexico,Emerging,FALSE,MX
+514,Thailand,Emerging,TRUE,TH
+515,Poland,Developed,TRUE,PL
+516,Nigeria,Developing,TRUE,NG
+517,Thailand,Emerging,FALSE,TH
+518,Egypt,Developing,TRUE,EG
+519,United States,Leading,TRUE,US
+520,Canada,Developed,TRUE,CA
+521,Philippines,Emerging,TRUE,PH
+522,Colombia,Developing,TRUE,CO
+523,South Korea,Developed,TRUE,KR
+524,Thailand,Emerging,FALSE,TH
+525,Indonesia,Emerging,FALSE,ID
+526,Mexico,Emerging,TRUE,MX
+527,Philippines,Emerging,FALSE,PH
+528,Poland,Developed,FALSE,PL
+529,Saudi Arabia,Emerging,TRUE,SA
+530,Germany,Developed,FALSE,DE
+531,Vietnam,Emerging,TRUE,VN
+532,India,Emerging,TRUE,IN
+533,France,Developed,TRUE,FR
+534,Italy,Developed,TRUE,IT
+535,Sweden,Developed,FALSE,SE
+536,South Africa,Developing,TRUE,ZA
+537,South Korea,Developed,TRUE,KR
+538,Argentina,Developing,FALSE,AR
+539,Colombia,Developing,TRUE,CO
+540,Germany,Developed,FALSE,DE
+541,South Africa,Developing,FALSE,ZA
+542,Germany,Developed,FALSE,DE
+543,Indonesia,Emerging,FALSE,ID
+544,Vietnam,Emerging,TRUE,VN
+545,Sweden,Developed,FALSE,SE
+546,Germany,Developed,FALSE,DE
+547,Russia,Developing,TRUE,RU
+548,Italy,Developed,TRUE,IT
+549,Mexico,Emerging,FALSE,MX
+550,Japan,Developed,TRUE,JP
+551,Kenya,Developing,FALSE,KE
+552,Colombia,Developing,FALSE,CO
+553,Brazil,Developing,TRUE,BR
+554,Poland,Developed,TRUE,PL
+555,Indonesia,Emerging,TRUE,ID
+556,Malaysia,Emerging,FALSE,MY
+557,Saudi Arabia,Emerging,TRUE,SA
+558,Colombia,Developing,TRUE,CO
+559,Kenya,Developing,TRUE,KE
+560,South Korea,Developed,TRUE,KR
+561,Sweden,Developed,FALSE,SE
+562,Egypt,Developing,FALSE,EG
+563,United Kingdom,Developed,FALSE,UK
+564,Philippines,Emerging,FALSE,PH
+565,United Kingdom,Developed,TRUE,UK
+566,Spain,Developed,FALSE,ES
+567,Indonesia,Emerging,FALSE,ID
+568,Japan,Developed,TRUE,JP
+569,Japan,Developed,TRUE,JP
+570,China,Emerging,TRUE,CN
+571,Australia,Developed,FALSE,AU
+572,Mexico,Emerging,FALSE,MX
+573,Mexico,Emerging,FALSE,MX
+574,Kenya,Developing,TRUE,KE
+575,China,Emerging,TRUE,CN
+576,Pakistan,Developing,FALSE,PK
+577,China,Emerging,FALSE,CN
+578,Turkey,Emerging,FALSE,TR
+579,Sweden,Developed,TRUE,SE
+580,Australia,Developed,TRUE,AU
+581,Philippines,Emerging,FALSE,PH
+582,Malaysia,Emerging,TRUE,MY
+583,United Kingdom,Developed,FALSE,UK
+584,Thailand,Emerging,TRUE,TH
+585,Egypt,Developing,TRUE,EG
+586,Germany,Developed,TRUE,DE
+587,Nigeria,Developing,FALSE,NG
+588,Poland,Developed,FALSE,PL
+589,Turkey,Emerging,TRUE,TR
+590,Spain,Developed,FALSE,ES
+591,Russia,Developing,FALSE,RU
+592,United Kingdom,Developed,FALSE,UK
+593,Spain,Developed,FALSE,ES
+594,Brazil,Developing,FALSE,BR
+595,United Kingdom,Developed,FALSE,UK
+596,Brazil,Developing,FALSE,BR
+597,Italy,Developed,TRUE,IT
+598,Vietnam,Emerging,FALSE,VN
+599,Turkey,Emerging,TRUE,TR
+600,India,Emerging,TRUE,IN
+601,Malaysia,Emerging,FALSE,MY
+602,United States,Leading,TRUE,US
+603,Italy,Developed,TRUE,IT
+604,Thailand,Emerging,TRUE,TH
+605,Indonesia,Emerging,FALSE,ID
+606,Egypt,Developing,TRUE,EG
+607,United Kingdom,Developed,TRUE,UK
+608,Turkey,Emerging,FALSE,TR
+609,Poland,Developed,TRUE,PL
+610,Germany,Developed,FALSE,DE
+611,Malaysia,Emerging,FALSE,MY
+612,Malaysia,Emerging,TRUE,MY
+613,Indonesia,Emerging,TRUE,ID
+614,Brazil,Developing,TRUE,BR
+615,Colombia,Developing,TRUE,CO
+616,Philippines,Emerging,TRUE,PH
+617,Poland,Developed,FALSE,PL
+618,Indonesia,Emerging,FALSE,ID
+619,Vietnam,Emerging,TRUE,VN
+620,South Korea,Developed,FALSE,KR
+621,Indonesia,Emerging,FALSE,ID
+622,France,Developed,TRUE,FR
+623,United Kingdom,Developed,TRUE,UK
+624,Spain,Developed,TRUE,ES
+625,Vietnam,Emerging,FALSE,VN
+626,Indonesia,Emerging,TRUE,ID
+627,Nigeria,Developing,TRUE,NG
+628,Italy,Developed,FALSE,IT
+629,Poland,Developed,FALSE,PL
+630,Japan,Developed,FALSE,JP
+631,Colombia,Developing,FALSE,CO
+632,Spain,Developed,TRUE,ES
+633,Australia,Developed,FALSE,AU
+634,Vietnam,Emerging,TRUE,VN
+635,China,Emerging,FALSE,CN
+636,Malaysia,Emerging,FALSE,MY
+637,Vietnam,Emerging,FALSE,VN
+638,Canada,Developed,FALSE,CA
+639,Poland,Developed,FALSE,PL
+640,Colombia,Developing,TRUE,CO
+641,United Kingdom,Developed,TRUE,UK
+642,Canada,Developed,TRUE,CA
+643,China,Emerging,TRUE,CN
+644,Japan,Developed,FALSE,JP
+645,Vietnam,Emerging,TRUE,VN
+646,Spain,Developed,FALSE,ES
+647,Pakistan,Developing,TRUE,PK
+648,Russia,Developing,FALSE,RU
+649,Argentina,Developing,TRUE,AR
+650,India,Emerging,TRUE,IN
+651,United States,Leading,TRUE,US
+652,Japan,Developed,FALSE,JP
+653,Turkey,Emerging,TRUE,TR
+654,Malaysia,Emerging,FALSE,MY
+655,Sweden,Developed,FALSE,SE
+656,Sweden,Developed,FALSE,SE
+657,United Kingdom,Developed,FALSE,UK
+658,Argentina,Developing,TRUE,AR
+659,Brazil,Developing,FALSE,BR
+660,Russia,Developing,FALSE,RU
+661,Turkey,Emerging,FALSE,TR
+662,Australia,Developed,FALSE,AU
+663,France,Developed,TRUE,FR
+664,Saudi Arabia,Emerging,FALSE,SA
+665,Nigeria,Developing,TRUE,NG
+666,France,Developed,TRUE,FR
+667,Poland,Developed,TRUE,PL
+668,Russia,Developing,TRUE,RU
+669,Poland,Developed,TRUE,PL
+670,Turkey,Emerging,TRUE,TR
+671,Kenya,Developing,TRUE,KE
+672,United States,Leading,FALSE,US
+673,United Kingdom,Developed,FALSE,UK
+674,South Korea,Developed,TRUE,KR
+675,Vietnam,Emerging,FALSE,VN
+676,China,Emerging,FALSE,CN
+677,France,Developed,TRUE,FR
+678,Poland,Developed,TRUE,PL
+679,Brazil,Developing,TRUE,BR
+680,China,Emerging,FALSE,CN
+681,Thailand,Emerging,TRUE,TH
+682,Indonesia,Emerging,TRUE,ID
+683,Brazil,Developing,TRUE,BR
+684,Malaysia,Emerging,TRUE,MY
+685,Sweden,Developed,TRUE,SE
+686,Japan,Developed,TRUE,JP
+687,Australia,Developed,FALSE,AU
+688,Nigeria,Developing,FALSE,NG
+689,Sweden,Developed,FALSE,SE
+690,Malaysia,Emerging,TRUE,MY
+691,Saudi Arabia,Emerging,TRUE,SA
+692,Germany,Developed,FALSE,DE
+693,United Kingdom,Developed,TRUE,UK
+694,United States,Leading,TRUE,US
+695,United States,Leading,TRUE,US
+696,Brazil,Developing,FALSE,BR
+697,China,Emerging,FALSE,CN
+698,Germany,Developed,TRUE,DE
+699,Philippines,Emerging,TRUE,PH
+700,Pakistan,Developing,FALSE,PK
+701,Sweden,Developed,TRUE,SE
+702,South Korea,Developed,FALSE,KR
+703,South Africa,Developing,TRUE,ZA
+704,South Africa,Developing,FALSE,ZA
+705,Philippines,Emerging,FALSE,PH
+706,Philippines,Emerging,TRUE,PH
+707,Pakistan,Developing,TRUE,PK
+708,Turkey,Emerging,TRUE,TR
+709,Saudi Arabia,Emerging,FALSE,SA
+710,Pakistan,Developing,TRUE,PK
+711,Nigeria,Developing,FALSE,NG
+712,Poland,Developed,TRUE,PL
+713,Vietnam,Emerging,FALSE,VN
+714,Canada,Developed,FALSE,CA
+715,Saudi Arabia,Emerging,TRUE,SA
+716,Thailand,Emerging,TRUE,TH
+717,Saudi Arabia,Emerging,TRUE,SA
+718,Germany,Developed,FALSE,DE
+719,Saudi Arabia,Emerging,FALSE,SA
+720,France,Developed,FALSE,FR
+721,France,Developed,TRUE,FR
+722,China,Emerging,FALSE,CN
+723,China,Emerging,TRUE,CN
+724,Japan,Developed,FALSE,JP
+725,South Korea,Developed,FALSE,KR
+726,Australia,Developed,FALSE,AU
+727,Sweden,Developed,FALSE,SE
+728,Argentina,Developing,FALSE,AR
+729,Pakistan,Developing,FALSE,PK
+730,Brazil,Developing,FALSE,BR
+731,Canada,Developed,FALSE,CA
+732,Spain,Developed,TRUE,ES
+733,South Korea,Developed,TRUE,KR
+734,Vietnam,Emerging,TRUE,VN
+735,Nigeria,Developing,TRUE,NG
+736,Malaysia,Emerging,FALSE,MY
+737,Saudi Arabia,Emerging,FALSE,SA
+738,Vietnam,Emerging,TRUE,VN
+739,Saudi Arabia,Emerging,FALSE,SA
+740,Colombia,Developing,FALSE,CO
+741,Egypt,Developing,TRUE,EG
+742,Saudi Arabia,Emerging,TRUE,SA
+743,Colombia,Developing,FALSE,CO
+744,South Korea,Developed,FALSE,KR
+745,Philippines,Emerging,TRUE,PH
+746,Pakistan,Developing,TRUE,PK
+747,Saudi Arabia,Emerging,FALSE,SA
+748,Malaysia,Emerging,TRUE,MY
+749,Saudi Arabia,Emerging,FALSE,SA
+750,Canada,Developed,FALSE,CA
+751,China,Emerging,FALSE,CN
+752,France,Developed,FALSE,FR
+753,Argentina,Developing,FALSE,AR
+754,Canada,Developed,FALSE,CA
+755,Saudi Arabia,Emerging,FALSE,SA
+756,Malaysia,Emerging,TRUE,MY
+757,Japan,Developed,FALSE,JP
+758,China,Emerging,FALSE,CN
+759,Sweden,Developed,TRUE,SE
+760,South Korea,Developed,TRUE,KR
+761,Argentina,Developing,FALSE,AR
+762,India,Emerging,TRUE,IN
+763,Thailand,Emerging,FALSE,TH
+764,Kenya,Developing,FALSE,KE
+765,Brazil,Developing,FALSE,BR
+766,Sweden,Developed,FALSE,SE
+767,Canada,Developed,TRUE,CA
+768,Mexico,Emerging,TRUE,MX
+769,Vietnam,Emerging,TRUE,VN
+770,China,Emerging,TRUE,CN
+771,Australia,Developed,FALSE,AU
+772,Canada,Developed,FALSE,CA
+773,Mexico,Emerging,TRUE,MX
+774,Nigeria,Developing,FALSE,NG
+775,Italy,Developed,TRUE,IT
+776,France,Developed,TRUE,FR
+777,South Korea,Developed,FALSE,KR
+778,Mexico,Emerging,FALSE,MX
+779,Japan,Developed,TRUE,JP
+780,France,Developed,FALSE,FR
+781,Vietnam,Emerging,TRUE,VN
+782,Poland,Developed,FALSE,PL
+783,Japan,Developed,TRUE,JP
+784,Vietnam,Emerging,FALSE,VN
+785,Malaysia,Emerging,TRUE,MY
+786,Saudi Arabia,Emerging,TRUE,SA
+787,Sweden,Developed,TRUE,SE
+788,Turkey,Emerging,FALSE,TR
+789,Germany,Developed,FALSE,DE
+790,Thailand,Emerging,FALSE,TH
+791,Kenya,Developing,FALSE,KE
+792,Thailand,Emerging,TRUE,TH
+793,Poland,Developed,FALSE,PL
+794,Russia,Developing,TRUE,RU
+795,China,Emerging,TRUE,CN
+796,India,Emerging,TRUE,IN
+797,Italy,Developed,TRUE,IT
+798,France,Developed,TRUE,FR
+799,Japan,Developed,TRUE,JP
+800,Argentina,Developing,TRUE,AR
+801,Germany,Developed,TRUE,DE
+802,Indonesia,Emerging,FALSE,ID
+803,Kenya,Developing,FALSE,KE
+804,Argentina,Developing,TRUE,AR
+805,South Korea,Developed,TRUE,KR
+806,South Africa,Developing,FALSE,ZA
+807,Turkey,Emerging,FALSE,TR
+808,Vietnam,Emerging,TRUE,VN
+809,Argentina,Developing,TRUE,AR
+810,Australia,Developed,TRUE,AU
+811,Russia,Developing,FALSE,RU
+812,India,Emerging,TRUE,IN
+813,Russia,Developing,FALSE,RU
+814,Mexico,Emerging,FALSE,MX
+815,Philippines,Emerging,FALSE,PH
+816,Australia,Developed,FALSE,AU
+817,Germany,Developed,FALSE,DE
+818,United Kingdom,Developed,TRUE,UK
+819,China,Emerging,FALSE,CN
+820,Saudi Arabia,Emerging,TRUE,SA
+821,Brazil,Developing,TRUE,BR
+822,Indonesia,Emerging,TRUE,ID
+823,Mexico,Emerging,TRUE,MX
+824,Egypt,Developing,FALSE,EG
+825,United Kingdom,Developed,FALSE,UK
+826,Indonesia,Emerging,TRUE,ID
+827,South Korea,Developed,FALSE,KR
+828,Philippines,Emerging,FALSE,PH
+829,Turkey,Emerging,FALSE,TR
+830,Malaysia,Emerging,FALSE,MY
+831,Thailand,Emerging,FALSE,TH
+832,Egypt,Developing,TRUE,EG
+833,Saudi Arabia,Emerging,TRUE,SA
+834,South Africa,Developing,FALSE,ZA
+835,Saudi Arabia,Emerging,FALSE,SA
+836,Philippines,Emerging,FALSE,PH
+837,Philippines,Emerging,FALSE,PH
+838,France,Developed,TRUE,FR
+839,United States,Leading,FALSE,US
+840,Russia,Developing,FALSE,RU
+841,Turkey,Emerging,TRUE,TR
+842,Malaysia,Emerging,TRUE,MY
+843,Philippines,Emerging,TRUE,PH
+844,France,Developed,FALSE,FR
+845,Kenya,Developing,FALSE,KE
+846,South Africa,Developing,TRUE,ZA
+847,Pakistan,Developing,FALSE,PK
+848,South Korea,Developed,TRUE,KR
+849,Italy,Developed,TRUE,IT
+850,Turkey,Emerging,FALSE,TR
+851,Germany,Developed,TRUE,DE
+852,Mexico,Emerging,TRUE,MX
+853,United States,Leading,FALSE,US
+854,Kenya,Developing,FALSE,KE
+855,Canada,Developed,TRUE,CA
+856,Spain,Developed,FALSE,ES
+857,Brazil,Developing,FALSE,BR
+858,United States,Leading,FALSE,US
+859,Italy,Developed,TRUE,IT
+860,Russia,Developing,TRUE,RU
+861,Turkey,Emerging,TRUE,TR
+862,India,Emerging,TRUE,IN
+863,Philippines,Emerging,FALSE,PH
+864,South Korea,Developed,TRUE,KR
+865,Saudi Arabia,Emerging,FALSE,SA
+866,Indonesia,Emerging,TRUE,ID
+867,United States,Leading,TRUE,US
+868,Argentina,Developing,FALSE,AR
+869,United Kingdom,Developed,TRUE,UK
+870,Spain,Developed,TRUE,ES
+871,Spain,Developed,FALSE,ES
+872,China,Emerging,TRUE,CN
+873,Australia,Developed,FALSE,AU
+874,Australia,Developed,FALSE,AU
+875,United States,Leading,FALSE,US
+876,Pakistan,Developing,TRUE,PK
+877,Australia,Developed,TRUE,AU
+878,South Korea,Developed,FALSE,KR
+879,Thailand,Emerging,TRUE,TH
+880,Thailand,Emerging,TRUE,TH
+881,Mexico,Emerging,FALSE,MX
+882,Sweden,Developed,TRUE,SE
+883,Philippines,Emerging,FALSE,PH
+884,South Korea,Developed,FALSE,KR
+885,Russia,Developing,TRUE,RU
+886,Egypt,Developing,FALSE,EG
+887,India,Emerging,TRUE,IN
+888,United Kingdom,Developed,FALSE,UK
+889,Vietnam,Emerging,TRUE,VN
+890,Turkey,Emerging,FALSE,TR
+891,Thailand,Emerging,FALSE,TH
+892,Mexico,Emerging,FALSE,MX
+893,Poland,Developed,TRUE,PL
+894,South Korea,Developed,TRUE,KR
+895,Italy,Developed,FALSE,IT
+896,Mexico,Emerging,FALSE,MX
+897,South Korea,Developed,FALSE,KR
+898,South Korea,Developed,FALSE,KR
+899,Canada,Developed,TRUE,CA
+900,Russia,Developing,TRUE,RU
+901,Philippines,Emerging,TRUE,PH
+902,Poland,Developed,FALSE,PL
+903,Philippines,Emerging,TRUE,PH
+904,Turkey,Emerging,TRUE,TR
+905,Nigeria,Developing,FALSE,NG
+906,Spain,Developed,FALSE,ES
+907,Japan,Developed,FALSE,JP
+908,Colombia,Developing,TRUE,CO
+909,Indonesia,Emerging,FALSE,ID
+910,Russia,Developing,FALSE,RU
+911,Italy,Developed,FALSE,IT
+912,Colombia,Developing,TRUE,CO
+913,Russia,Developing,FALSE,RU
+914,Kenya,Developing,TRUE,KE
+915,Colombia,Developing,FALSE,CO
+916,China,Emerging,FALSE,CN
+917,Saudi Arabia,Emerging,FALSE,SA
+918,Spain,Developed,TRUE,ES
+919,Colombia,Developing,TRUE,CO
+920,Kenya,Developing,TRUE,KE
+921,Italy,Developed,TRUE,IT
+922,Italy,Developed,TRUE,IT
+923,Russia,Developing,FALSE,RU
+924,France,Developed,FALSE,FR
+925,Russia,Developing,FALSE,RU
+926,South Korea,Developed,TRUE,KR
+927,Spain,Developed,TRUE,ES
+928,France,Developed,TRUE,FR
+929,Colombia,Developing,FALSE,CO
+930,United Kingdom,Developed,TRUE,UK
+931,Turkey,Emerging,FALSE,TR
+932,Argentina,Developing,TRUE,AR
+933,India,Emerging,FALSE,IN
+934,Italy,Developed,TRUE,IT
+935,India,Emerging,FALSE,IN
+936,Saudi Arabia,Emerging,TRUE,SA
+937,Italy,Developed,TRUE,IT
+938,Indonesia,Emerging,FALSE,ID
+939,Egypt,Developing,TRUE,EG
+940,Philippines,Emerging,FALSE,PH
+941,India,Emerging,FALSE,IN
+942,Spain,Developed,FALSE,ES
+943,Kenya,Developing,FALSE,KE
+944,Thailand,Emerging,TRUE,TH
+945,Germany,Developed,TRUE,DE
+946,South Africa,Developing,TRUE,ZA
+947,Poland,Developed,TRUE,PL
+948,Japan,Developed,TRUE,JP
+949,Mexico,Emerging,FALSE,MX
+950,Vietnam,Emerging,TRUE,VN
+951,Germany,Developed,TRUE,DE
+952,Colombia,Developing,TRUE,CO
+953,Pakistan,Developing,FALSE,PK
+954,United Kingdom,Developed,TRUE,UK
+955,Turkey,Emerging,TRUE,TR
+956,Philippines,Emerging,TRUE,PH
+957,Poland,Developed,TRUE,PL
+958,Philippines,Emerging,TRUE,PH
+959,Saudi Arabia,Emerging,FALSE,SA
+960,Kenya,Developing,TRUE,KE
+961,Egypt,Developing,TRUE,EG
+962,Kenya,Developing,TRUE,KE
+963,Nigeria,Developing,TRUE,NG
+964,Nigeria,Developing,FALSE,NG
+965,South Africa,Developing,FALSE,ZA
+966,Australia,Developed,FALSE,AU
+967,Egypt,Developing,TRUE,EG
+968,Japan,Developed,FALSE,JP
+969,Thailand,Emerging,FALSE,TH
+970,Kenya,Developing,TRUE,KE
+971,South Africa,Developing,FALSE,ZA
+972,Indonesia,Emerging,FALSE,ID
+973,Indonesia,Emerging,FALSE,ID
+974,Brazil,Developing,FALSE,BR
+975,Malaysia,Emerging,FALSE,MY
+976,Turkey,Emerging,FALSE,TR
+977,South Africa,Developing,TRUE,ZA
+978,Russia,Developing,FALSE,RU
+979,Pakistan,Developing,TRUE,PK
+980,Russia,Developing,TRUE,RU
+981,Australia,Developed,FALSE,AU
+982,Argentina,Developing,FALSE,AR
+983,Poland,Developed,TRUE,PL
+984,Pakistan,Developing,TRUE,PK
+985,Russia,Developing,FALSE,RU
+986,Saudi Arabia,Emerging,FALSE,SA
+987,South Africa,Developing,FALSE,ZA
+988,Poland,Developed,FALSE,PL
+989,India,Emerging,TRUE,IN
+990,Brazil,Developing,TRUE,BR
+991,Russia,Developing,FALSE,RU
+992,India,Emerging,FALSE,IN
+993,Indonesia,Emerging,TRUE,ID
+994,Italy,Developed,TRUE,IT
+995,South Africa,Developing,FALSE,ZA
+996,Colombia,Developing,TRUE,CO
+997,Colombia,Developing,TRUE,CO
+998,Japan,Developed,TRUE,JP
+999,United Kingdom,Developed,TRUE,UK
+1000,Saudi Arabia,Emerging,FALSE,SA

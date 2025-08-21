@@ -1,0 +1,1001 @@
+GTS_USER_WORK_EXPERIENCE_ID,GTS_USER_ID,GTS_USER_COMPANY_ID,GTS_USER_JOB_TITLE_ID,GTS_USER_PROJECT_SKILL_IDS,GTS_USER_JOB_DESCRIPTION,GTS_USER_WORK_START_DATE,IS_CURRENTLY_WORKING,GTS_USER_WORK_END_DATE,GTS_CITY_ID,IS_SELF_EMPLOYED
+1,70,743,535,"478,43",Developed user-centric frontend applications.,4/19/2011,FALSE,4/19/2013,113,FALSE
+2,339,,672,262,Designed and deployed scalable backend services.,02-05-2014,FALSE,02-05-2016,768,TRUE
+3,523,,255,399,Automated reporting and data visualization tasks.,6/21/2018,TRUE,,,FALSE
+4,685,408,513,"3,36,55,435",Led DevOps efforts across multiple environments.,6/21/2013,FALSE,6/21/2017,749,TRUE
+5,378,576,737,"19,41,02,373",Managed cross-functional agile teams.,2/15/2023,TRUE,,818,TRUE
+6,843,995,821,258,Led DevOps efforts across multiple environments.,10/18/2022,FALSE,10/18/2023,,TRUE
+7,544,884,997,"2,74,138",Led DevOps efforts across multiple environments.,02-07-2019,FALSE,02-07-2021,366,TRUE
+8,196,875,876,"16,51,97,101",Led DevOps efforts across multiple environments.,05-06-2012,TRUE,,322,TRUE
+9,407,,346,"38,91,31,171",Developed user-centric frontend applications.,06-03-2023,FALSE,06-03-2027,373,FALSE
+10,816,228,287,"3,76,387",Automated reporting and data visualization tasks.,10/22/2023,TRUE,,115,TRUE
+11,503,749,309,364,Automated reporting and data visualization tasks.,10/26/2010,TRUE,,814,FALSE
+12,208,310,629,"400,1,48",Designed and deployed scalable backend services.,12/15/2012,FALSE,12/15/2014,248,TRUE
+13,184,514,375,213,Oversaw quality assurance and testing processes.,12/19/2016,FALSE,12/19/2020,288,TRUE
+14,511,,151,309,Managed cross-functional agile teams.,08-09-2020,FALSE,08-09-2021,216,TRUE
+15,596,,246,"3,14,52,137",Automated reporting and data visualization tasks.,4/16/2023,FALSE,4/16/2027,435,FALSE
+16,449,702,89,"3,00,214",Managed cross-functional agile teams.,01-12-2020,FALSE,01-12-2022,185,FALSE
+17,109,546,700,330,Developed user-centric frontend applications.,12/21/2010,FALSE,12/21/2011,139,FALSE
+18,10,767,354,441,Managed cross-functional agile teams.,07-02-2015,TRUE,,724,TRUE
+19,483,333,541,"153,268,41",Managed cross-functional agile teams.,7/21/2012,FALSE,7/21/2015,372,TRUE
+20,794,,951,"36,82,81,146",Managed cross-functional agile teams.,11/23/2022,TRUE,,393,TRUE
+21,75,319,158,219,Managed cross-functional agile teams.,12-09-2023,FALSE,12-09-2026,919,FALSE
+22,129,171,405,"26,21,89,223",Oversaw quality assurance and testing processes.,03-11-2020,TRUE,,854,TRUE
+23,776,,715,219,Managed cross-functional agile teams.,6/21/2023,FALSE,6/21/2025,366,FALSE
+24,198,736,955,"248,347,13",Automated reporting and data visualization tasks.,2/13/2019,TRUE,,,FALSE
+25,224,,857,"1,51,18,415",Automated reporting and data visualization tasks.,11/29/2016,TRUE,,,FALSE
+26,920,996,224,"154,56",Developed user-centric frontend applications.,5/30/2023,TRUE,,728,TRUE
+27,581,259,230,"3,97,139",Managed cross-functional agile teams.,08-07-2019,FALSE,08-07-2022,496,TRUE
+28,172,717,800,496,Managed cross-functional agile teams.,5/17/2023,TRUE,,644,FALSE
+29,26,958,259,"470,214,31",Automated reporting and data visualization tasks.,9/28/2015,FALSE,9/28/2018,287,TRUE
+30,661,573,644,133,Automated reporting and data visualization tasks.,5/16/2022,FALSE,5/16/2027,,FALSE
+31,646,993,459,271,Managed cross-functional agile teams.,3/14/2015,TRUE,,402,TRUE
+32,349,65,729,460,Managed cross-functional agile teams.,3/26/2012,FALSE,3/26/2013,666,FALSE
+33,440,,791,476,Led DevOps efforts across multiple environments.,07-09-2015,FALSE,07-09-2019,484,FALSE
+34,426,148,352,"3,04,425",Managed cross-functional agile teams.,11/30/2013,FALSE,11/30/2014,99,FALSE
+35,59,842,799,"37,13",Managed cross-functional agile teams.,4/23/2016,TRUE,,350,TRUE
+36,692,,850,"483,90",Automated reporting and data visualization tasks.,11/19/2020,TRUE,,,TRUE
+37,987,433,703,"2,67,151",Developed user-centric frontend applications.,12/28/2023,FALSE,12/28/2027,914,FALSE
+38,968,408,404,"3,19,82,143",Designed and deployed scalable backend services.,3/30/2012,TRUE,,,FALSE
+39,434,695,904,"3,67,60,319",Automated reporting and data visualization tasks.,05-11-2017,FALSE,05-11-2018,801,TRUE
+40,613,188,790,"2,22,497",Oversaw quality assurance and testing processes.,6/22/2019,FALSE,6/22/2021,,FALSE
+41,467,164,307,247,Led DevOps efforts across multiple environments.,02-12-2014,TRUE,,1,TRUE
+42,9,645,976,"29,34,46,409",Oversaw quality assurance and testing processes.,11-04-2020,FALSE,11-04-2023,,TRUE
+43,852,217,720,459,Oversaw quality assurance and testing processes.,09-04-2011,FALSE,09-04-2015,289,FALSE
+44,691,486,862,"31,91,34,380",Developed user-centric frontend applications.,6/30/2018,FALSE,6/30/2022,585,TRUE
+45,240,,941,"41,93,08,209",Developed user-centric frontend applications.,05-08-2011,TRUE,,824,FALSE
+46,354,,788,193,Managed cross-functional agile teams.,2/25/2023,TRUE,,443,FALSE
+47,850,,965,"310,307,40",Automated reporting and data visualization tasks.,7/13/2011,FALSE,7/13/2012,586,TRUE
+48,998,,292,479,Automated reporting and data visualization tasks.,10-03-2015,TRUE,,828,FALSE
+49,888,659,40,"3,88,205",Oversaw quality assurance and testing processes.,12/20/2015,TRUE,,184,FALSE
+50,217,204,788,84,Managed cross-functional agile teams.,6/27/2020,FALSE,6/27/2021,105,FALSE
+51,437,420,828,"402,481,82",Managed cross-functional agile teams.,04-05-2019,FALSE,04-05-2024,677,FALSE
+52,123,620,199,"42,62,58,403",Managed cross-functional agile teams.,11-06-2011,FALSE,11-06-2016,,FALSE
+53,231,458,332,167,Developed user-centric frontend applications.,3/18/2014,TRUE,,506,FALSE
+54,223,,987,"3,78,330",Designed and deployed scalable backend services.,05-10-2015,TRUE,,913,TRUE
+55,850,,596,365,Automated reporting and data visualization tasks.,11/22/2022,FALSE,11/22/2026,656,TRUE
+56,186,,62,"176,27",Designed and deployed scalable backend services.,12/28/2022,TRUE,,774,FALSE
+57,313,,262,"16,53,15,143",Designed and deployed scalable backend services.,06-12-2023,FALSE,06-12-2026,111,TRUE
+58,861,,940,361,Automated reporting and data visualization tasks.,12/17/2016,FALSE,12/17/2018,301,TRUE
+59,816,,790,"441,358,2",Designed and deployed scalable backend services.,5/13/2018,FALSE,5/13/2023,141,TRUE
+60,423,264,286,275,Led DevOps efforts across multiple environments.,4/16/2017,FALSE,4/16/2019,,TRUE
+61,296,,121,"476,395,79",Developed user-centric frontend applications.,11-08-2011,TRUE,,528,FALSE
+62,802,,833,"3,28,143",Oversaw quality assurance and testing processes.,09-08-2014,TRUE,,833,FALSE
+63,220,344,100,"23,24,90,415",Led DevOps efforts across multiple environments.,05-12-2010,TRUE,,65,TRUE
+64,916,,357,"29,42,20,297",Led DevOps efforts across multiple environments.,7/24/2017,FALSE,7/24/2020,372,TRUE
+65,91,,172,"3,42,88,229",Managed cross-functional agile teams.,12-05-2017,FALSE,12-05-2020,,FALSE
+66,67,,699,"29,126,26",Oversaw quality assurance and testing processes.,10-02-2011,FALSE,10-02-2012,431,TRUE
+67,675,,549,"2,50,463",Automated reporting and data visualization tasks.,1/25/2013,TRUE,,208,TRUE
+68,289,837,72,"2,63,54,239",Developed user-centric frontend applications.,5/24/2021,TRUE,,415,FALSE
+69,874,528,135,"30,34,74,312",Designed and deployed scalable backend services.,9/19/2012,FALSE,9/19/2013,,FALSE
+70,742,664,882,"91,176,69",Oversaw quality assurance and testing processes.,02-10-2018,TRUE,,295,FALSE
+71,933,333,943,"26,22,20,359",Automated reporting and data visualization tasks.,05-03-2016,FALSE,05-03-2018,713,FALSE
+72,310,,463,"3,36,17,190",Managed cross-functional agile teams.,8/19/2023,FALSE,8/19/2027,688,TRUE
+73,643,311,474,"80,220",Led DevOps efforts across multiple environments.,5/31/2021,TRUE,,681,TRUE
+74,444,654,367,"70,392",Developed user-centric frontend applications.,09-06-2022,FALSE,09-06-2026,3,TRUE
+75,346,644,666,167,Led DevOps efforts across multiple environments.,11/24/2011,TRUE,,469,TRUE
+76,407,,709,92,Oversaw quality assurance and testing processes.,12-01-2019,FALSE,12-01-2020,415,FALSE
+77,585,821,897,"485,48",Managed cross-functional agile teams.,7/16/2013,FALSE,7/16/2014,389,FALSE
+78,372,876,198,"288,418,23",Designed and deployed scalable backend services.,10/28/2013,TRUE,,309,TRUE
+79,193,326,138,"289,58",Managed cross-functional agile teams.,8/14/2019,FALSE,8/14/2023,896,TRUE
+80,36,995,736,"326,11",Managed cross-functional agile teams.,01-06-2021,FALSE,01-06-2022,996,TRUE
+81,672,,414,464,Led DevOps efforts across multiple environments.,6/25/2022,TRUE,,106,TRUE
+82,345,894,864,"2,07,226",Oversaw quality assurance and testing processes.,8/28/2012,FALSE,8/28/2014,767,TRUE
+83,389,792,536,"215,46,23",Led DevOps efforts across multiple environments.,01-08-2018,TRUE,,175,FALSE
+84,883,,879,169,Designed and deployed scalable backend services.,12-09-2018,TRUE,,658,FALSE
+85,944,479,844,"451,428,10",Led DevOps efforts across multiple environments.,06-09-2019,TRUE,,199,FALSE
+86,712,520,513,63,Managed cross-functional agile teams.,05-05-2017,TRUE,,330,FALSE
+87,862,521,528,"35,73,34,383",Managed cross-functional agile teams.,3/16/2021,FALSE,3/16/2024,,FALSE
+88,408,,651,65,Managed cross-functional agile teams.,3/18/2014,TRUE,,618,FALSE
+89,93,,455,"2,87,178",Managed cross-functional agile teams.,6/24/2017,FALSE,6/24/2022,,FALSE
+90,412,709,551,"29,44,79,299",Managed cross-functional agile teams.,11-03-2019,FALSE,11-03-2024,194,TRUE
+91,410,843,384,"27,22,83,124",Led DevOps efforts across multiple environments.,8/17/2012,TRUE,,817,FALSE
+92,866,823,1,"1,57,77,322",Oversaw quality assurance and testing processes.,2/16/2022,TRUE,,,TRUE
+93,692,,301,"3,63,39,479",Automated reporting and data visualization tasks.,1/24/2013,FALSE,1/24/2014,231,FALSE
+94,226,767,649,"4,87,360",Led DevOps efforts across multiple environments.,06-06-2011,FALSE,06-06-2013,634,TRUE
+95,877,995,442,"35,23,54,483",Oversaw quality assurance and testing processes.,2/18/2023,FALSE,2/18/2025,,TRUE
+96,979,,539,391,Oversaw quality assurance and testing processes.,09-03-2019,FALSE,09-03-2024,997,TRUE
+97,869,536,142,"449,68",Designed and deployed scalable backend services.,3/28/2016,FALSE,3/28/2017,146,FALSE
+98,385,652,831,432,Developed user-centric frontend applications.,11-08-2022,TRUE,,,TRUE
+99,412,263,507,447,Managed cross-functional agile teams.,1/31/2010,TRUE,,837,TRUE
+100,29,,982,"382,99",Managed cross-functional agile teams.,03-12-2022,TRUE,,702,TRUE
+101,886,20,680,"49,62,93,231",Oversaw quality assurance and testing processes.,4/17/2019,TRUE,,462,TRUE
+102,386,82,593,"2,55,452",Automated reporting and data visualization tasks.,5/25/2010,TRUE,,441,FALSE
+103,368,,186,"47,73,48,453",Developed user-centric frontend applications.,6/30/2012,FALSE,6/30/2014,831,FALSE
+104,621,,224,"276,15",Automated reporting and data visualization tasks.,06-06-2022,TRUE,,583,FALSE
+105,766,,678,"39,31,69,421",Designed and deployed scalable backend services.,09-05-2013,FALSE,09-05-2016,442,TRUE
+106,790,372,300,"366,5",Developed user-centric frontend applications.,6/26/2013,TRUE,,366,FALSE
+107,452,,585,232,Developed user-centric frontend applications.,06-01-2011,FALSE,06-01-2013,,TRUE
+108,129,,938,"5,72,54,386",Automated reporting and data visualization tasks.,3/18/2016,FALSE,3/18/2020,,TRUE
+109,234,607,931,5,Oversaw quality assurance and testing processes.,01-03-2023,TRUE,,,FALSE
+110,869,,469,430,Managed cross-functional agile teams.,5/28/2011,FALSE,5/28/2016,375,TRUE
+111,28,,664,423,Automated reporting and data visualization tasks.,6/28/2016,TRUE,,523,FALSE
+112,722,935,439,469,Oversaw quality assurance and testing processes.,12/26/2020,FALSE,12/26/2022,178,TRUE
+113,92,,913,"2,10,455",Automated reporting and data visualization tasks.,5/25/2015,FALSE,5/25/2017,,FALSE
+114,672,,442,"24,63,65,417",Developed user-centric frontend applications.,1/22/2021,TRUE,,198,FALSE
+115,301,,355,476,Automated reporting and data visualization tasks.,6/23/2023,TRUE,,456,FALSE
+116,547,515,691,112,Led DevOps efforts across multiple environments.,03-02-2021,FALSE,03-02-2022,741,FALSE
+117,277,,685,"3,84,120",Designed and deployed scalable backend services.,2/23/2021,FALSE,2/23/2022,,FALSE
+118,244,747,579,55,Managed cross-functional agile teams.,10-12-2014,TRUE,,238,FALSE
+119,815,,989,"4,76,307",Oversaw quality assurance and testing processes.,5/18/2018,TRUE,,766,FALSE
+120,263,885,701,"1,49,159",Developed user-centric frontend applications.,03-01-2011,TRUE,,898,FALSE
+121,425,442,877,324,Automated reporting and data visualization tasks.,7/14/2021,TRUE,,588,TRUE
+122,323,908,156,298,Managed cross-functional agile teams.,2/13/2010,TRUE,,521,FALSE
+123,640,,345,"5,02,96,304",Managed cross-functional agile teams.,9/15/2021,TRUE,,15,FALSE
+124,407,864,646,"2,57,312",Automated reporting and data visualization tasks.,2/15/2019,TRUE,,360,FALSE
+125,138,560,243,"46,93,60,250",Led DevOps efforts across multiple environments.,4/26/2022,TRUE,,927,TRUE
+126,469,928,606,"34,6,84",Automated reporting and data visualization tasks.,07-01-2017,TRUE,,575,TRUE
+127,369,857,905,"8,02,25,191",Developed user-centric frontend applications.,2/19/2017,TRUE,,447,FALSE
+128,143,,381,182,Developed user-centric frontend applications.,10/24/2013,TRUE,,315,TRUE
+129,709,550,976,"43,62,48,152",Oversaw quality assurance and testing processes.,11/26/2013,TRUE,,459,FALSE
+130,831,19,106,"45,84,82,498",Designed and deployed scalable backend services.,1/21/2010,TRUE,,691,FALSE
+131,703,596,228,382,Led DevOps efforts across multiple environments.,09-12-2014,FALSE,09-12-2018,656,FALSE
+132,488,262,555,"56,40,408",Designed and deployed scalable backend services.,09-12-2014,FALSE,09-12-2017,933,FALSE
+133,712,819,390,"19,53,86,381",Developed user-centric frontend applications.,01-03-2019,FALSE,01-03-2021,274,TRUE
+134,497,576,676,"53,57",Developed user-centric frontend applications.,10-11-2021,FALSE,10-11-2026,,FALSE
+135,814,,991,"33,71,45,330",Led DevOps efforts across multiple environments.,3/28/2019,FALSE,3/28/2020,254,TRUE
+136,366,,576,35,Automated reporting and data visualization tasks.,05-04-2011,TRUE,,559,TRUE
+137,719,423,239,"1,33,217",Developed user-centric frontend applications.,07-03-2014,FALSE,07-03-2019,786,FALSE
+138,976,231,891,204,Automated reporting and data visualization tasks.,02-10-2022,FALSE,02-10-2024,947,TRUE
+139,866,339,546,403,Led DevOps efforts across multiple environments.,5/14/2019,TRUE,,891,TRUE
+140,285,41,64,273,Managed cross-functional agile teams.,11/26/2010,FALSE,11/26/2012,951,FALSE
+141,628,,192,486,Oversaw quality assurance and testing processes.,10-10-2023,TRUE,,581,TRUE
+142,1000,,961,"33,73,34,297",Oversaw quality assurance and testing processes.,3/15/2015,TRUE,,645,FALSE
+143,202,789,156,471,Oversaw quality assurance and testing processes.,2/20/2018,TRUE,,281,FALSE
+144,505,291,978,"32,64,74,243",Developed user-centric frontend applications.,05-04-2018,TRUE,,594,FALSE
+145,876,709,908,"1,78,177",Managed cross-functional agile teams.,9/25/2016,FALSE,9/25/2021,128,FALSE
+146,780,,859,"6,42,72,452",Managed cross-functional agile teams.,02-06-2020,TRUE,,,TRUE
+147,285,103,559,254,Designed and deployed scalable backend services.,03-02-2021,TRUE,,792,FALSE
+148,687,,819,"1,45,419",Developed user-centric frontend applications.,9/15/2022,TRUE,,209,TRUE
+149,923,409,112,"36,04,09,433",Developed user-centric frontend applications.,3/24/2014,FALSE,3/24/2016,939,TRUE
+150,986,,335,279,Managed cross-functional agile teams.,08-07-2013,FALSE,08-07-2015,555,FALSE
+151,879,702,665,"48,02,96,258",Designed and deployed scalable backend services.,9/23/2015,TRUE,,431,TRUE
+152,143,,941,41,Designed and deployed scalable backend services.,05-04-2014,FALSE,05-04-2015,407,TRUE
+153,806,,243,"3,98,268",Managed cross-functional agile teams.,11-04-2010,TRUE,,,FALSE
+154,585,,683,"35,81,71,191",Designed and deployed scalable backend services.,10/13/2016,TRUE,,324,TRUE
+155,376,,333,"333,420,13",Designed and deployed scalable backend services.,02-01-2019,FALSE,02-01-2024,360,TRUE
+156,411,,907,"1,87,204",Managed cross-functional agile teams.,7/16/2010,FALSE,7/16/2014,,TRUE
+157,846,,777,"82,428",Oversaw quality assurance and testing processes.,11-08-2013,FALSE,11-08-2018,348,TRUE
+158,221,,307,"3,51,321",Led DevOps efforts across multiple environments.,3/18/2023,FALSE,3/18/2025,576,TRUE
+159,429,,312,284,Developed user-centric frontend applications.,1/20/2020,TRUE,,105,FALSE
+160,81,,277,483,Developed user-centric frontend applications.,02-07-2014,TRUE,,284,TRUE
+161,344,757,970,"41,32,41,380",Designed and deployed scalable backend services.,05-12-2018,FALSE,05-12-2022,433,TRUE
+162,626,981,391,270,Designed and deployed scalable backend services.,5/18/2015,FALSE,5/18/2018,467,FALSE
+163,547,15,975,"4,82,165",Designed and deployed scalable backend services.,12-05-2013,TRUE,,685,FALSE
+164,580,291,426,"67,335",Automated reporting and data visualization tasks.,6/16/2016,TRUE,,440,FALSE
+165,825,931,524,"40,64,97,238",Automated reporting and data visualization tasks.,12/13/2017,TRUE,,469,FALSE
+166,380,171,625,"26,58,229",Managed cross-functional agile teams.,3/24/2023,TRUE,,231,TRUE
+167,887,997,201,"365,124,25",Developed user-centric frontend applications.,4/30/2015,TRUE,,38,TRUE
+168,431,,231,"34,257",Managed cross-functional agile teams.,12/17/2019,FALSE,12/17/2024,820,FALSE
+169,5,676,752,"1,70,384",Oversaw quality assurance and testing processes.,6/21/2014,TRUE,,373,TRUE
+170,992,,379,"339,13",Designed and deployed scalable backend services.,7/20/2014,TRUE,,578,TRUE
+171,79,,708,245,Managed cross-functional agile teams.,02-03-2023,FALSE,02-03-2026,316,TRUE
+172,820,502,25,"153,28",Automated reporting and data visualization tasks.,7/13/2016,FALSE,7/13/2018,715,TRUE
+173,768,395,70,"9,02,04,430",Automated reporting and data visualization tasks.,5/15/2012,TRUE,,519,TRUE
+174,969,97,82,"7,42,32,167",Designed and deployed scalable backend services.,5/31/2019,FALSE,5/31/2020,822,FALSE
+175,26,515,576,"32,71,87,328",Managed cross-functional agile teams.,6/25/2013,FALSE,6/25/2015,164,FALSE
+176,462,65,327,"4,78,491",Led DevOps efforts across multiple environments.,4/19/2017,TRUE,,641,FALSE
+177,597,,904,"26,23,15,439",Oversaw quality assurance and testing processes.,8/24/2011,TRUE,,302,TRUE
+178,702,919,417,202,Led DevOps efforts across multiple environments.,07-09-2018,TRUE,,411,TRUE
+179,337,92,762,"1,36,280",Developed user-centric frontend applications.,8/25/2015,FALSE,8/25/2016,437,FALSE
+180,206,740,811,"1,87,441",Developed user-centric frontend applications.,06-01-2014,TRUE,,482,TRUE
+181,21,224,416,"2,89,305",Automated reporting and data visualization tasks.,11/20/2016,FALSE,11/20/2017,393,TRUE
+182,715,537,106,"2,48,170",Oversaw quality assurance and testing processes.,05-03-2017,TRUE,,434,TRUE
+183,985,314,184,"434,35",Developed user-centric frontend applications.,11-09-2023,TRUE,,897,TRUE
+184,790,,489,272,Designed and deployed scalable backend services.,1/27/2010,FALSE,1/27/2012,334,TRUE
+185,608,394,892,45,Designed and deployed scalable backend services.,02-10-2010,FALSE,02-10-2011,488,FALSE
+186,396,,464,"227,36",Developed user-centric frontend applications.,12/17/2010,TRUE,,33,FALSE
+187,927,,255,"1,49,102",Designed and deployed scalable backend services.,5/16/2022,TRUE,,382,TRUE
+188,889,379,450,452,Developed user-centric frontend applications.,04-02-2019,TRUE,,526,FALSE
+189,180,71,733,"270,151,39",Automated reporting and data visualization tasks.,1/18/2019,TRUE,,912,TRUE
+190,279,239,368,"445,72",Automated reporting and data visualization tasks.,5/20/2013,TRUE,,125,FALSE
+191,177,,68,"1,97,321",Designed and deployed scalable backend services.,7/22/2023,TRUE,,982,TRUE
+192,410,,666,396,Oversaw quality assurance and testing processes.,4/17/2011,TRUE,,650,FALSE
+193,868,976,605,"22,43,71,182",Managed cross-functional agile teams.,12-06-2019,FALSE,12-06-2021,744,TRUE
+194,649,229,759,"1,21,363",Automated reporting and data visualization tasks.,11/25/2018,FALSE,11/25/2022,1000,TRUE
+195,438,,564,"63,66,469",Oversaw quality assurance and testing processes.,09-12-2018,FALSE,09-12-2023,,TRUE
+196,393,180,718,"3,65,234",Led DevOps efforts across multiple environments.,09-09-2020,FALSE,09-09-2025,638,FALSE
+197,206,147,714,"40,299",Designed and deployed scalable backend services.,3/19/2014,FALSE,3/19/2018,219,TRUE
+198,917,823,292,"11,28,380",Managed cross-functional agile teams.,10/14/2014,FALSE,10/14/2018,898,FALSE
+199,28,,22,39,Automated reporting and data visualization tasks.,6/14/2010,TRUE,,970,FALSE
+200,127,412,380,"98,64",Oversaw quality assurance and testing processes.,08-06-2017,FALSE,08-06-2021,614,TRUE
+201,150,711,543,183,Designed and deployed scalable backend services.,5/27/2014,TRUE,,,TRUE
+202,918,629,875,440,Managed cross-functional agile teams.,6/14/2010,TRUE,,883,FALSE
+203,792,253,317,"14,64,59,238",Developed user-centric frontend applications.,6/13/2016,TRUE,,755,TRUE
+204,557,319,146,402,Automated reporting and data visualization tasks.,12/14/2021,FALSE,12/14/2026,856,TRUE
+205,506,824,184,363,Managed cross-functional agile teams.,06-09-2015,TRUE,,746,FALSE
+206,957,372,267,"237,29,60",Managed cross-functional agile teams.,2/17/2016,FALSE,2/17/2018,31,FALSE
+207,158,202,35,273,Automated reporting and data visualization tasks.,9/17/2011,FALSE,9/17/2012,358,FALSE
+208,958,,689,489,Designed and deployed scalable backend services.,06-07-2015,FALSE,06-07-2019,723,FALSE
+209,602,81,138,278,Designed and deployed scalable backend services.,05-07-2021,FALSE,05-07-2024,989,FALSE
+210,908,641,572,"13,11,42,416",Oversaw quality assurance and testing processes.,6/30/2020,FALSE,6/30/2023,,TRUE
+211,796,926,291,"38,53,09,318",Led DevOps efforts across multiple environments.,3/30/2010,TRUE,,877,TRUE
+212,451,,182,235,Developed user-centric frontend applications.,6/22/2018,TRUE,,,TRUE
+213,204,486,768,"4,35,113",Oversaw quality assurance and testing processes.,02-09-2021,FALSE,02-09-2022,433,FALSE
+214,481,293,876,"18,13,12,117",Designed and deployed scalable backend services.,08-03-2016,FALSE,08-03-2018,464,FALSE
+215,116,452,930,"8,78,83",Managed cross-functional agile teams.,08-12-2014,TRUE,,775,FALSE
+216,255,,570,"1,25,152",Oversaw quality assurance and testing processes.,11/17/2012,FALSE,11/17/2017,,FALSE
+217,866,,982,"47,12,36,464",Automated reporting and data visualization tasks.,1/22/2020,TRUE,,858,TRUE
+218,63,504,922,"4,17,160",Oversaw quality assurance and testing processes.,05-11-2016,TRUE,,854,TRUE
+219,424,749,312,"1,32,348",Automated reporting and data visualization tasks.,4/23/2020,TRUE,,409,TRUE
+220,451,64,983,"9,61,20,461",Designed and deployed scalable backend services.,12-08-2010,FALSE,12-08-2015,468,TRUE
+221,234,120,479,418,Managed cross-functional agile teams.,12-10-2023,TRUE,,796,TRUE
+222,314,267,65,"11,82,49,426",Led DevOps efforts across multiple environments.,5/13/2019,FALSE,5/13/2020,576,TRUE
+223,359,900,410,"23,01,36,440",Designed and deployed scalable backend services.,10-12-2022,TRUE,,979,TRUE
+224,10,681,241,"2,48,99,223",Managed cross-functional agile teams.,10/24/2018,FALSE,10/24/2022,736,TRUE
+225,518,357,169,"7,11,70,403",Led DevOps efforts across multiple environments.,07-04-2023,FALSE,07-04-2028,,FALSE
+226,758,68,663,"3,469",Designed and deployed scalable backend services.,10/26/2017,FALSE,10/26/2022,679,FALSE
+227,960,886,918,368,Developed user-centric frontend applications.,06-11-2019,FALSE,06-11-2022,135,TRUE
+228,6,196,392,"156,95",Oversaw quality assurance and testing processes.,05-07-2017,FALSE,05-07-2018,790,TRUE
+229,175,965,673,382,Automated reporting and data visualization tasks.,10/14/2015,TRUE,,565,TRUE
+230,577,,266,"3,27,390",Designed and deployed scalable backend services.,11-11-2021,TRUE,,,TRUE
+231,330,565,162,"75,303,74",Automated reporting and data visualization tasks.,9/22/2011,FALSE,9/22/2014,68,TRUE
+232,848,458,403,"21,14,84,260",Automated reporting and data visualization tasks.,08-12-2013,TRUE,,11,FALSE
+233,313,842,865,"2,30,148",Designed and deployed scalable backend services.,10-03-2011,TRUE,,803,TRUE
+234,701,120,777,"135,66",Led DevOps efforts across multiple environments.,12-05-2012,FALSE,12-05-2014,830,TRUE
+235,725,643,224,377,Oversaw quality assurance and testing processes.,03-09-2020,TRUE,,,TRUE
+236,660,,134,"2,26,397",Designed and deployed scalable backend services.,2/21/2021,FALSE,2/21/2025,583,FALSE
+237,580,,318,"2,06,276",Oversaw quality assurance and testing processes.,06-11-2012,FALSE,06-11-2017,312,FALSE
+238,598,267,267,275,Oversaw quality assurance and testing processes.,5/26/2021,FALSE,5/26/2026,330,FALSE
+239,650,594,546,"327,63,16",Led DevOps efforts across multiple environments.,06-11-2017,TRUE,,113,TRUE
+240,269,713,874,"329,403,27",Automated reporting and data visualization tasks.,05-05-2010,TRUE,,,FALSE
+241,296,383,867,"393,66",Designed and deployed scalable backend services.,12-06-2019,FALSE,12-06-2022,,FALSE
+242,716,278,116,"228,65",Designed and deployed scalable backend services.,12/22/2022,TRUE,,,FALSE
+243,376,119,988,"2,46,214",Led DevOps efforts across multiple environments.,8/25/2019,FALSE,8/25/2022,606,FALSE
+244,163,346,518,405,Designed and deployed scalable backend services.,04-10-2020,FALSE,04-10-2021,943,TRUE
+245,634,639,226,"2,34,29,243",Developed user-centric frontend applications.,3/18/2017,TRUE,,20,TRUE
+246,369,,291,"1,06,247",Automated reporting and data visualization tasks.,02-01-2019,TRUE,,477,TRUE
+247,343,,827,"324,70",Oversaw quality assurance and testing processes.,4/15/2018,TRUE,,206,TRUE
+248,307,1000,738,490,Automated reporting and data visualization tasks.,3/26/2020,TRUE,,122,TRUE
+249,519,,981,"33,54,25,164",Designed and deployed scalable backend services.,5/29/2018,FALSE,5/29/2023,41,FALSE
+250,10,369,679,"251,245,73",Designed and deployed scalable backend services.,2/14/2022,TRUE,,779,TRUE
+251,432,585,94,"4,09,489",Led DevOps efforts across multiple environments.,11/27/2014,TRUE,,841,TRUE
+252,924,781,649,"137,285,88",Oversaw quality assurance and testing processes.,09-02-2019,FALSE,09-02-2023,271,TRUE
+253,939,862,426,"3,95,132",Led DevOps efforts across multiple environments.,05-07-2010,FALSE,05-07-2013,381,TRUE
+254,264,696,524,"34,44,88,316",Oversaw quality assurance and testing processes.,01-03-2018,FALSE,01-03-2022,427,TRUE
+255,699,,124,"1,40,410",Automated reporting and data visualization tasks.,11/22/2012,FALSE,11/22/2015,721,FALSE
+256,912,,867,"4,10,40,340",Led DevOps efforts across multiple environments.,08-01-2017,TRUE,,,TRUE
+257,824,,679,"4,81,38,331",Automated reporting and data visualization tasks.,8/24/2022,TRUE,,,TRUE
+258,285,275,272,87,Oversaw quality assurance and testing processes.,09-06-2013,FALSE,09-06-2018,553,FALSE
+259,138,164,370,"4,06,485",Managed cross-functional agile teams.,06-01-2015,FALSE,06-01-2017,948,TRUE
+260,686,,71,"1,38,312",Managed cross-functional agile teams.,09-01-2020,FALSE,09-01-2024,847,TRUE
+261,680,666,524,"3,54,30,443",Automated reporting and data visualization tasks.,9/22/2016,TRUE,,259,FALSE
+262,63,,269,"2,61,307",Developed user-centric frontend applications.,07-04-2010,TRUE,,641,FALSE
+263,368,,502,"30,360,59",Managed cross-functional agile teams.,07-11-2023,TRUE,,889,TRUE
+264,724,730,173,"9,97,368",Managed cross-functional agile teams.,07-11-2017,FALSE,07-11-2018,50,FALSE
+265,806,629,974,321,Managed cross-functional agile teams.,05-12-2023,FALSE,05-12-2026,956,TRUE
+266,870,272,364,"276,181,11",Automated reporting and data visualization tasks.,11/25/2014,FALSE,11/25/2015,992,TRUE
+267,257,,324,203,Designed and deployed scalable backend services.,05-09-2012,TRUE,,577,FALSE
+268,18,165,177,"82,490",Oversaw quality assurance and testing processes.,03-05-2016,TRUE,,,FALSE
+269,221,413,730,"4,57,175",Automated reporting and data visualization tasks.,03-02-2018,TRUE,,372,TRUE
+270,847,788,525,"32,224,48",Designed and deployed scalable backend services.,5/29/2021,FALSE,5/29/2025,314,TRUE
+271,110,751,37,"24,14,22,199",Designed and deployed scalable backend services.,10/27/2016,TRUE,,189,FALSE
+272,770,798,939,"3,84,303",Designed and deployed scalable backend services.,5/20/2021,FALSE,5/20/2025,180,FALSE
+273,23,416,859,425,Managed cross-functional agile teams.,09-10-2023,FALSE,09-10-2028,666,TRUE
+274,194,297,176,"2,59,142",Led DevOps efforts across multiple environments.,8/29/2021,TRUE,,237,FALSE
+275,287,378,95,307,Developed user-centric frontend applications.,6/29/2020,TRUE,,,FALSE
+276,82,168,680,"4,28,239",Oversaw quality assurance and testing processes.,09-07-2016,TRUE,,552,FALSE
+277,132,959,352,386,Led DevOps efforts across multiple environments.,3/22/2012,TRUE,,657,FALSE
+278,791,751,864,"1,25,26,196",Automated reporting and data visualization tasks.,11-03-2020,TRUE,,343,FALSE
+279,195,171,179,89,Automated reporting and data visualization tasks.,12/15/2010,TRUE,,943,TRUE
+280,522,,476,207,Developed user-centric frontend applications.,8/15/2022,FALSE,8/15/2025,,TRUE
+281,431,,45,"2,10,338",Oversaw quality assurance and testing processes.,07-11-2010,FALSE,07-11-2014,490,TRUE
+282,663,874,447,"2,59,283",Oversaw quality assurance and testing processes.,5/26/2018,TRUE,,572,TRUE
+283,80,312,356,"8,31,32,333",Oversaw quality assurance and testing processes.,4/18/2016,TRUE,,160,FALSE
+284,65,648,997,"149,280,99",Led DevOps efforts across multiple environments.,3/26/2010,TRUE,,18,TRUE
+285,22,,789,"8,52,61,341",Automated reporting and data visualization tasks.,06-09-2023,FALSE,06-09-2028,306,TRUE
+286,610,934,967,496,Led DevOps efforts across multiple environments.,10-04-2012,FALSE,10-04-2015,674,TRUE
+287,21,,95,229,Developed user-centric frontend applications.,6/15/2018,TRUE,,,FALSE
+288,734,,532,298,Automated reporting and data visualization tasks.,12/23/2012,FALSE,12/23/2017,175,FALSE
+289,316,,738,451,Designed and deployed scalable backend services.,4/15/2010,FALSE,4/15/2015,230,TRUE
+290,28,,572,"3,89,361",Led DevOps efforts across multiple environments.,11-12-2018,FALSE,11-12-2022,41,TRUE
+291,241,,676,"66,384",Oversaw quality assurance and testing processes.,11/30/2013,TRUE,,107,TRUE
+292,311,,575,492,Led DevOps efforts across multiple environments.,6/14/2020,TRUE,,202,TRUE
+293,635,411,741,"4,01,198",Designed and deployed scalable backend services.,04-06-2018,TRUE,,,TRUE
+294,118,,872,79,Led DevOps efforts across multiple environments.,8/28/2012,TRUE,,938,FALSE
+295,789,223,998,125,Designed and deployed scalable backend services.,1/18/2011,FALSE,1/18/2012,,TRUE
+296,801,705,856,"326,82",Managed cross-functional agile teams.,8/30/2015,TRUE,,560,TRUE
+297,249,764,265,"181,78",Managed cross-functional agile teams.,12/13/2011,FALSE,12/13/2016,618,TRUE
+298,781,,141,"22,32,06,124",Designed and deployed scalable backend services.,12/24/2016,TRUE,,746,FALSE
+299,254,260,686,"137,74",Managed cross-functional agile teams.,12/31/2019,FALSE,12/31/2021,988,FALSE
+300,867,493,934,"1,92,70,385",Developed user-centric frontend applications.,12/23/2014,TRUE,,199,FALSE
+301,444,,556,"1,70,314",Developed user-centric frontend applications.,12/28/2019,TRUE,,10,TRUE
+302,413,,428,"4,44,88,138",Designed and deployed scalable backend services.,02-07-2020,FALSE,02-07-2021,712,TRUE
+303,934,627,829,307,Oversaw quality assurance and testing processes.,9/18/2013,TRUE,,872,TRUE
+304,970,234,167,213,Led DevOps efforts across multiple environments.,7/25/2015,FALSE,7/25/2020,,TRUE
+305,568,,706,"350,17",Designed and deployed scalable backend services.,10/24/2021,FALSE,10/24/2024,906,TRUE
+306,708,941,173,"3,82,323",Managed cross-functional agile teams.,02-05-2022,TRUE,,139,FALSE
+307,735,130,382,"9,80,461",Designed and deployed scalable backend services.,1/31/2022,TRUE,,344,FALSE
+308,810,,404,50,Oversaw quality assurance and testing processes.,5/21/2013,TRUE,,303,FALSE
+309,861,,848,"454,126,27",Designed and deployed scalable backend services.,03-09-2010,FALSE,03-09-2015,,FALSE
+310,686,,749,"2,38,122",Automated reporting and data visualization tasks.,11-08-2014,FALSE,11-08-2017,91,FALSE
+311,390,951,789,"4,99,460",Led DevOps efforts across multiple environments.,12/22/2013,TRUE,,719,TRUE
+312,109,423,427,"2,51,342",Managed cross-functional agile teams.,9/27/2013,FALSE,9/27/2014,126,FALSE
+313,933,,934,499,Oversaw quality assurance and testing processes.,10/26/2015,FALSE,10/26/2017,,TRUE
+314,396,,726,"313,8,54",Automated reporting and data visualization tasks.,9/28/2013,FALSE,9/28/2017,567,FALSE
+315,411,,43,"3,21,162",Led DevOps efforts across multiple environments.,1/24/2012,TRUE,,279,TRUE
+316,713,369,701,"3,07,200",Developed user-centric frontend applications.,4/21/2019,FALSE,4/21/2024,566,FALSE
+317,815,850,814,321,Oversaw quality assurance and testing processes.,10/17/2013,TRUE,,909,TRUE
+318,546,554,863,"24,79,392",Automated reporting and data visualization tasks.,6/23/2016,FALSE,6/23/2018,408,TRUE
+319,656,,761,348,Led DevOps efforts across multiple environments.,5/24/2012,TRUE,,,FALSE
+320,117,,678,"2,37,365",Developed user-centric frontend applications.,3/19/2013,FALSE,3/19/2018,634,TRUE
+321,114,117,480,220,Developed user-centric frontend applications.,07-04-2014,TRUE,,967,FALSE
+322,102,54,943,"3,81,306",Led DevOps efforts across multiple environments.,01-05-2018,TRUE,,,TRUE
+323,950,849,7,"3,95,48,441",Designed and deployed scalable backend services.,09-05-2022,FALSE,09-05-2027,760,TRUE
+324,596,,573,"43,92,06,476",Designed and deployed scalable backend services.,1/28/2011,TRUE,,220,FALSE
+325,683,754,512,"244,46",Oversaw quality assurance and testing processes.,06-06-2023,FALSE,06-06-2025,9,FALSE
+326,593,542,922,"3,13,72,149",Developed user-centric frontend applications.,11-11-2019,FALSE,11-11-2021,,FALSE
+327,18,303,869,"395,1,265",Led DevOps efforts across multiple environments.,2/25/2012,FALSE,2/25/2015,817,TRUE
+328,271,382,358,"3,85,290",Managed cross-functional agile teams.,5/20/2014,TRUE,,483,TRUE
+329,984,,64,"38,13,61,328",Managed cross-functional agile teams.,05-12-2015,FALSE,05-12-2017,873,TRUE
+330,541,,395,"23,31,25,212",Managed cross-functional agile teams.,08-03-2021,FALSE,08-03-2025,821,TRUE
+331,437,,498,"4,75,188",Led DevOps efforts across multiple environments.,9/17/2014,FALSE,9/17/2018,644,FALSE
+332,259,941,439,134,Automated reporting and data visualization tasks.,12/22/2015,FALSE,12/22/2019,,FALSE
+333,980,741,307,"18,54,49,249",Managed cross-functional agile teams.,5/26/2021,TRUE,,670,TRUE
+334,176,,357,"33,94,31,444",Managed cross-functional agile teams.,11-06-2022,FALSE,11-06-2027,923,FALSE
+335,898,,347,"494,66",Developed user-centric frontend applications.,10/19/2016,TRUE,,652,TRUE
+336,470,,186,16,Automated reporting and data visualization tasks.,3/19/2015,TRUE,,,FALSE
+337,592,246,286,155,Managed cross-functional agile teams.,6/18/2012,TRUE,,558,FALSE
+338,264,435,977,442,Oversaw quality assurance and testing processes.,01-01-2017,TRUE,,188,TRUE
+339,646,401,193,"21,44,35,461",Led DevOps efforts across multiple environments.,05-03-2014,TRUE,,600,TRUE
+340,177,648,276,"2,64,244",Designed and deployed scalable backend services.,12/28/2013,TRUE,,,TRUE
+341,588,,679,"28,34,14,113",Developed user-centric frontend applications.,06-10-2021,FALSE,06-10-2026,695,FALSE
+342,134,,99,"28,358,52",Automated reporting and data visualization tasks.,03-06-2010,FALSE,03-06-2012,943,FALSE
+343,868,959,61,447,Managed cross-functional agile teams.,3/28/2015,FALSE,3/28/2016,728,FALSE
+344,844,,986,"3,51,132",Led DevOps efforts across multiple environments.,12-04-2012,TRUE,,179,TRUE
+345,692,15,419,"14,24,42,425",Developed user-centric frontend applications.,2/26/2017,FALSE,2/26/2021,952,TRUE
+346,883,619,220,"23,62,63,185",Automated reporting and data visualization tasks.,11/16/2020,TRUE,,471,TRUE
+347,202,246,934,"22,02,77,442",Automated reporting and data visualization tasks.,12/14/2010,TRUE,,252,TRUE
+348,288,226,84,113,Automated reporting and data visualization tasks.,04-10-2015,FALSE,04-10-2017,626,FALSE
+349,908,,2,"61,130",Automated reporting and data visualization tasks.,7/23/2022,TRUE,,312,TRUE
+350,633,505,432,"4,92,499",Managed cross-functional agile teams.,9/16/2023,TRUE,,632,FALSE
+351,72,,874,"44,22,18,472",Led DevOps efforts across multiple environments.,11-08-2021,TRUE,,122,TRUE
+352,4,,902,"306,140,47",Automated reporting and data visualization tasks.,5/21/2016,TRUE,,180,FALSE
+353,25,790,92,"4,78,108",Managed cross-functional agile teams.,6/30/2022,FALSE,6/30/2024,607,FALSE
+354,668,,854,"2,449",Led DevOps efforts across multiple environments.,7/31/2015,TRUE,,737,TRUE
+355,631,412,94,"34,93,59,105",Developed user-centric frontend applications.,08-07-2021,FALSE,08-07-2022,880,TRUE
+356,671,,400,80,Oversaw quality assurance and testing processes.,06-12-2014,TRUE,,311,FALSE
+357,97,734,426,"53,213",Oversaw quality assurance and testing processes.,12/24/2016,FALSE,12/24/2020,,FALSE
+358,638,,117,391,Automated reporting and data visualization tasks.,7/25/2018,TRUE,,704,FALSE
+359,509,,389,205,Designed and deployed scalable backend services.,7/19/2019,FALSE,7/19/2024,181,TRUE
+360,342,286,768,"30,41,60,203",Oversaw quality assurance and testing processes.,8/22/2013,TRUE,,847,FALSE
+361,796,881,607,"162,58",Managed cross-functional agile teams.,02-07-2022,FALSE,02-07-2023,669,TRUE
+362,499,322,355,"301,89",Designed and deployed scalable backend services.,12/14/2018,TRUE,,,FALSE
+363,211,270,4,"7,32,91,243",Led DevOps efforts across multiple environments.,07-04-2011,TRUE,,,FALSE
+364,209,,317,225,Oversaw quality assurance and testing processes.,01-04-2021,FALSE,01-04-2024,205,TRUE
+365,668,430,254,461,Developed user-centric frontend applications.,10/20/2021,FALSE,10/20/2023,198,TRUE
+366,319,91,862,"1,03,187",Designed and deployed scalable backend services.,3/25/2022,FALSE,3/25/2026,744,FALSE
+367,249,191,230,"8,94,97,269",Developed user-centric frontend applications.,11/25/2019,FALSE,11/25/2022,,TRUE
+368,158,,871,102,Led DevOps efforts across multiple environments.,1/26/2019,TRUE,,,FALSE
+369,117,,66,"420,171,13",Designed and deployed scalable backend services.,08-04-2023,TRUE,,137,FALSE
+370,78,849,29,18,Led DevOps efforts across multiple environments.,05-08-2012,TRUE,,126,TRUE
+371,721,,893,"4,03,470",Automated reporting and data visualization tasks.,05-06-2018,TRUE,,851,TRUE
+372,666,,181,441,Led DevOps efforts across multiple environments.,02-12-2021,FALSE,02-12-2025,66,FALSE
+373,860,498,73,"4,81,215",Designed and deployed scalable backend services.,1/13/2011,FALSE,1/13/2013,164,TRUE
+374,554,,67,"407,53",Managed cross-functional agile teams.,2/24/2018,FALSE,2/24/2023,,FALSE
+375,969,643,630,12,Managed cross-functional agile teams.,2/26/2019,FALSE,2/26/2024,372,FALSE
+376,502,899,283,63,Oversaw quality assurance and testing processes.,01-09-2021,TRUE,,174,TRUE
+377,564,,208,"2,54,442",Developed user-centric frontend applications.,5/16/2022,FALSE,5/16/2023,71,TRUE
+378,823,,741,"402,50",Oversaw quality assurance and testing processes.,10/26/2015,FALSE,10/26/2016,480,TRUE
+379,152,769,525,290,Developed user-centric frontend applications.,01-09-2023,TRUE,,66,FALSE
+380,495,729,261,"44,54,77,392",Managed cross-functional agile teams.,09-11-2017,FALSE,09-11-2018,,TRUE
+381,566,,634,312,Designed and deployed scalable backend services.,09-04-2020,FALSE,09-04-2025,,TRUE
+382,918,360,917,"4,00,159",Automated reporting and data visualization tasks.,3/13/2010,FALSE,3/13/2013,968,FALSE
+383,73,333,845,333,Automated reporting and data visualization tasks.,7/13/2012,TRUE,,802,FALSE
+384,28,185,966,"96,413",Developed user-centric frontend applications.,06-06-2015,TRUE,,973,FALSE
+385,873,211,670,"1,63,449",Oversaw quality assurance and testing processes.,09-09-2021,FALSE,09-09-2024,,TRUE
+386,962,,744,"2,95,173",Designed and deployed scalable backend services.,2/27/2017,FALSE,2/27/2018,760,TRUE
+387,556,112,765,258,Managed cross-functional agile teams.,8/13/2012,TRUE,,35,TRUE
+388,39,57,570,"208,16",Automated reporting and data visualization tasks.,8/23/2016,FALSE,8/23/2017,348,FALSE
+389,735,887,434,"4,41,490",Oversaw quality assurance and testing processes.,1/25/2021,FALSE,1/25/2024,,FALSE
+390,147,,695,"289,374,65",Oversaw quality assurance and testing processes.,12/15/2020,FALSE,12/15/2021,576,TRUE
+391,6,568,655,58,Designed and deployed scalable backend services.,3/28/2021,TRUE,,,TRUE
+392,972,60,254,"4,97,45,141",Designed and deployed scalable backend services.,11-11-2012,FALSE,11-11-2014,570,FALSE
+393,652,270,761,"12,32,32,487",Oversaw quality assurance and testing processes.,11-03-2012,TRUE,,,FALSE
+394,182,264,183,"4,71,245",Designed and deployed scalable backend services.,02-11-2014,FALSE,02-11-2016,365,FALSE
+395,697,13,872,426,Led DevOps efforts across multiple environments.,10/29/2012,FALSE,10/29/2017,207,FALSE
+396,24,269,211,"45,496",Managed cross-functional agile teams.,11-08-2017,TRUE,,233,TRUE
+397,753,142,575,"411,262,88",Developed user-centric frontend applications.,8/20/2018,TRUE,,119,FALSE
+398,532,,292,"47,21,04,404",Managed cross-functional agile teams.,3/27/2019,TRUE,,318,TRUE
+399,576,4,205,"38,434,66",Designed and deployed scalable backend services.,8/24/2010,FALSE,8/24/2015,370,TRUE
+400,370,419,637,"4,19,435",Oversaw quality assurance and testing processes.,9/30/2010,FALSE,9/30/2013,424,FALSE
+401,286,709,115,6,Led DevOps efforts across multiple environments.,2/17/2023,TRUE,,34,TRUE
+402,421,999,72,"42,308",Designed and deployed scalable backend services.,9/21/2015,TRUE,,,FALSE
+403,247,,911,244,Oversaw quality assurance and testing processes.,03-03-2016,TRUE,,49,TRUE
+404,656,404,620,"2,13,445",Managed cross-functional agile teams.,9/24/2018,TRUE,,253,TRUE
+405,565,619,53,"4,09,362",Oversaw quality assurance and testing processes.,2/19/2016,TRUE,,640,TRUE
+406,565,822,502,"278,21",Managed cross-functional agile teams.,7/24/2011,FALSE,7/24/2015,682,TRUE
+407,261,,993,213,Developed user-centric frontend applications.,10-02-2016,FALSE,10-02-2017,506,TRUE
+408,449,592,170,"41,94,12,322",Automated reporting and data visualization tasks.,02-04-2022,TRUE,,217,TRUE
+409,414,510,536,"487,99",Led DevOps efforts across multiple environments.,10-08-2010,FALSE,10-08-2015,628,FALSE
+410,320,,734,400,Oversaw quality assurance and testing processes.,5/29/2021,TRUE,,743,FALSE
+411,334,643,671,"275,91",Led DevOps efforts across multiple environments.,10/13/2015,TRUE,,,FALSE
+412,921,,660,"21,43,58,443",Designed and deployed scalable backend services.,10/29/2016,FALSE,10/29/2017,334,TRUE
+413,3,,328,297,Automated reporting and data visualization tasks.,05-07-2018,TRUE,,203,FALSE
+414,960,,429,"240,64,52",Managed cross-functional agile teams.,01-01-2022,FALSE,01-01-2025,161,FALSE
+415,292,305,410,"10,32,38,427",Designed and deployed scalable backend services.,11/20/2012,TRUE,,960,TRUE
+416,80,711,967,190,Led DevOps efforts across multiple environments.,8/13/2023,FALSE,8/13/2024,47,FALSE
+417,957,,535,303,Developed user-centric frontend applications.,9/25/2010,TRUE,,,TRUE
+418,125,817,459,"42,97,380",Oversaw quality assurance and testing processes.,10-02-2010,TRUE,,,TRUE
+419,967,641,722,"2,56,183",Developed user-centric frontend applications.,9/30/2017,FALSE,9/30/2019,,FALSE
+420,557,955,765,"27,04,97,357",Developed user-centric frontend applications.,7/19/2022,TRUE,,403,FALSE
+421,137,157,116,"94,84,379",Automated reporting and data visualization tasks.,3/27/2015,FALSE,3/27/2018,742,FALSE
+422,55,,890,"47,81,178",Automated reporting and data visualization tasks.,2/16/2015,TRUE,,,FALSE
+423,148,,209,"409,25",Automated reporting and data visualization tasks.,11/21/2010,FALSE,11/21/2013,,TRUE
+424,361,,47,343,Designed and deployed scalable backend services.,10-03-2014,TRUE,,235,FALSE
+425,942,655,992,375,Oversaw quality assurance and testing processes.,08-01-2019,TRUE,,865,FALSE
+426,627,,131,"4,67,17,378",Managed cross-functional agile teams.,05-06-2014,FALSE,05-06-2015,806,TRUE
+427,739,807,788,141,Led DevOps efforts across multiple environments.,5/15/2016,TRUE,,142,TRUE
+428,890,866,24,"3,11,50,428",Oversaw quality assurance and testing processes.,10-05-2022,FALSE,10-05-2023,740,FALSE
+429,357,,703,"2,46,344",Managed cross-functional agile teams.,1/27/2010,FALSE,1/27/2012,,TRUE
+430,731,328,358,295,Automated reporting and data visualization tasks.,11/25/2016,TRUE,,633,TRUE
+431,714,570,250,"36,03,85,484",Oversaw quality assurance and testing processes.,12/19/2014,TRUE,,210,FALSE
+432,13,18,619,"1,24,154",Developed user-centric frontend applications.,9/29/2023,FALSE,9/29/2028,,TRUE
+433,923,281,510,115,Designed and deployed scalable backend services.,11-08-2014,TRUE,,736,FALSE
+434,919,,641,25,Managed cross-functional agile teams.,2/28/2016,FALSE,2/28/2021,990,FALSE
+435,960,794,187,"2,38,411",Led DevOps efforts across multiple environments.,8/19/2020,FALSE,8/19/2022,,TRUE
+436,194,,853,"7,31,73,336",Automated reporting and data visualization tasks.,08-08-2015,FALSE,08-08-2019,617,FALSE
+437,947,761,248,"2,51,56,150",Developed user-centric frontend applications.,6/23/2023,FALSE,6/23/2027,713,FALSE
+438,127,539,652,"37,11,41,403",Automated reporting and data visualization tasks.,7/15/2023,FALSE,7/15/2026,777,TRUE
+439,553,359,505,"30,43,71,316",Managed cross-functional agile teams.,10/26/2016,FALSE,10/26/2021,257,TRUE
+440,767,,685,237,Automated reporting and data visualization tasks.,11-08-2010,TRUE,,242,TRUE
+441,413,216,892,"455,419,63",Designed and deployed scalable backend services.,08-01-2018,FALSE,08-01-2020,523,TRUE
+442,560,989,228,"24,24,334",Automated reporting and data visualization tasks.,6/18/2019,TRUE,,529,TRUE
+443,14,,601,248,Developed user-centric frontend applications.,8/28/2014,TRUE,,571,FALSE
+444,936,848,870,"2,44,254",Developed user-centric frontend applications.,12-01-2017,TRUE,,822,TRUE
+445,658,187,130,"1,41,111",Automated reporting and data visualization tasks.,8/13/2017,FALSE,8/13/2022,623,FALSE
+446,852,582,759,"6,320",Designed and deployed scalable backend services.,4/30/2012,TRUE,,478,FALSE
+447,740,917,404,26,Developed user-centric frontend applications.,1/23/2020,FALSE,1/23/2023,468,TRUE
+448,455,,697,"2,38,436",Designed and deployed scalable backend services.,8/18/2018,FALSE,8/18/2020,714,TRUE
+449,711,756,976,"43,63,86,338",Oversaw quality assurance and testing processes.,8/30/2018,FALSE,8/30/2023,648,FALSE
+450,605,119,981,"80,484",Automated reporting and data visualization tasks.,6/28/2016,TRUE,,679,FALSE
+451,988,107,961,452,Automated reporting and data visualization tasks.,03-04-2020,FALSE,03-04-2024,875,FALSE
+452,325,523,153,"425,167,54",Automated reporting and data visualization tasks.,04-01-2020,FALSE,04-01-2025,762,TRUE
+453,404,797,730,268,Led DevOps efforts across multiple environments.,11/15/2015,TRUE,,919,FALSE
+454,697,513,351,340,Oversaw quality assurance and testing processes.,5/28/2012,TRUE,,65,FALSE
+455,381,,897,"22,380",Designed and deployed scalable backend services.,12/23/2019,TRUE,,5,TRUE
+456,411,,156,"260,50",Managed cross-functional agile teams.,11/22/2017,TRUE,,242,TRUE
+457,136,833,646,"2,72,23,480",Oversaw quality assurance and testing processes.,01-11-2020,TRUE,,884,FALSE
+458,286,,695,"2,98,499",Developed user-centric frontend applications.,02-12-2020,TRUE,,376,TRUE
+459,932,,820,"4,10,15,265",Managed cross-functional agile teams.,4/29/2010,FALSE,4/29/2012,209,TRUE
+460,894,508,678,"196,28",Developed user-centric frontend applications.,03-04-2022,TRUE,,122,FALSE
+461,525,,103,10,Designed and deployed scalable backend services.,1/24/2013,FALSE,1/24/2015,921,FALSE
+462,259,712,2,"455,498,44",Managed cross-functional agile teams.,07-06-2023,TRUE,,612,FALSE
+463,816,399,568,444,Automated reporting and data visualization tasks.,10-09-2010,TRUE,,495,TRUE
+464,648,362,638,494,Managed cross-functional agile teams.,6/30/2014,TRUE,,,FALSE
+465,116,888,865,"259,17",Developed user-centric frontend applications.,6/27/2020,TRUE,,131,FALSE
+466,775,913,525,190,Designed and deployed scalable backend services.,5/26/2016,TRUE,,807,TRUE
+467,326,618,771,"3,91,351",Led DevOps efforts across multiple environments.,1/23/2017,TRUE,,235,FALSE
+468,155,396,761,"12,44,99,273",Designed and deployed scalable backend services.,8/14/2018,FALSE,8/14/2022,429,TRUE
+469,452,25,823,372,Designed and deployed scalable backend services.,4/13/2012,TRUE,,,FALSE
+470,556,,301,439,Managed cross-functional agile teams.,9/24/2014,TRUE,,882,FALSE
+471,320,,362,"333,365,74",Developed user-centric frontend applications.,7/14/2023,FALSE,7/14/2025,794,TRUE
+472,58,273,551,"338,2",Designed and deployed scalable backend services.,3/28/2011,TRUE,,270,TRUE
+473,238,158,828,201,Designed and deployed scalable backend services.,7/16/2015,FALSE,7/16/2017,673,FALSE
+474,478,691,271,439,Led DevOps efforts across multiple environments.,02-11-2015,FALSE,02-11-2018,375,TRUE
+475,617,928,358,399,Managed cross-functional agile teams.,2/16/2021,FALSE,2/16/2022,92,FALSE
+476,580,,392,"3,99,403",Designed and deployed scalable backend services.,6/29/2016,FALSE,6/29/2021,236,FALSE
+477,653,983,528,"3,10,356",Led DevOps efforts across multiple environments.,08-02-2013,FALSE,08-02-2015,415,FALSE
+478,575,,998,"25,12,01,480",Oversaw quality assurance and testing processes.,8/24/2023,FALSE,8/24/2027,996,TRUE
+479,219,760,172,49,Developed user-centric frontend applications.,1/19/2016,FALSE,1/19/2021,,FALSE
+480,355,682,995,"42,45,343",Developed user-centric frontend applications.,7/13/2018,FALSE,7/13/2021,,TRUE
+481,541,905,798,"2,39,64,253",Oversaw quality assurance and testing processes.,10-08-2018,TRUE,,,FALSE
+482,448,291,55,"4,29,131",Led DevOps efforts across multiple environments.,6/20/2012,FALSE,6/20/2016,698,TRUE
+483,527,893,993,"434,274,10",Developed user-centric frontend applications.,05-05-2013,FALSE,05-05-2017,420,FALSE
+484,753,,507,333,Oversaw quality assurance and testing processes.,03-12-2017,TRUE,,118,TRUE
+485,666,,959,"19,274,52",Led DevOps efforts across multiple environments.,12-02-2023,TRUE,,869,TRUE
+486,997,656,275,"14,70,331",Designed and deployed scalable backend services.,11-04-2016,TRUE,,351,FALSE
+487,452,,632,"2,73,10,263",Managed cross-functional agile teams.,7/26/2013,FALSE,7/26/2017,832,TRUE
+488,463,227,514,"448,78",Led DevOps efforts across multiple environments.,2/17/2020,FALSE,2/17/2022,36,TRUE
+489,313,20,669,270,Designed and deployed scalable backend services.,02-03-2019,FALSE,02-03-2022,542,FALSE
+490,58,,958,"43,53,17,458",Oversaw quality assurance and testing processes.,6/30/2017,FALSE,6/30/2019,483,TRUE
+491,711,938,279,"93,453",Automated reporting and data visualization tasks.,1/31/2010,TRUE,,,FALSE
+492,558,,624,"424,386,41",Oversaw quality assurance and testing processes.,10-01-2014,FALSE,10-01-2017,660,FALSE
+493,460,,552,"73,219,42",Developed user-centric frontend applications.,3/25/2017,FALSE,3/25/2022,730,FALSE
+494,760,572,499,418,Managed cross-functional agile teams.,09-09-2014,TRUE,,992,FALSE
+495,154,450,598,"4,21,410",Automated reporting and data visualization tasks.,11/30/2013,FALSE,11/30/2014,915,TRUE
+496,108,827,838,"287,10,42",Oversaw quality assurance and testing processes.,9/28/2012,FALSE,9/28/2015,882,TRUE
+497,926,,249,"22,198",Designed and deployed scalable backend services.,2/18/2020,FALSE,2/18/2022,296,TRUE
+498,659,,802,"2,24,230",Led DevOps efforts across multiple environments.,06-04-2011,TRUE,,702,TRUE
+499,487,366,169,"3,78,175",Automated reporting and data visualization tasks.,06-03-2012,TRUE,,87,TRUE
+500,445,302,417,348,Designed and deployed scalable backend services.,1/27/2023,FALSE,1/27/2028,639,FALSE
+501,623,136,643,45,Managed cross-functional agile teams.,03-12-2011,TRUE,,,FALSE
+502,506,334,765,"42,33,27,472",Managed cross-functional agile teams.,9/20/2010,FALSE,9/20/2015,45,FALSE
+503,911,,559,"2,42,293",Led DevOps efforts across multiple environments.,06-01-2020,FALSE,06-01-2025,641,FALSE
+504,154,,129,396,Managed cross-functional agile teams.,02-07-2018,FALSE,02-07-2023,102,TRUE
+505,683,,368,"3,79,216",Developed user-centric frontend applications.,3/20/2012,FALSE,3/20/2015,817,TRUE
+506,959,484,455,"8,227",Managed cross-functional agile teams.,4/30/2010,TRUE,,870,TRUE
+507,137,260,266,"8,41,87,282",Designed and deployed scalable backend services.,07-08-2019,TRUE,,,TRUE
+508,849,499,186,"32,13,37,143",Automated reporting and data visualization tasks.,10/15/2018,TRUE,,701,FALSE
+509,231,313,712,"64,283",Managed cross-functional agile teams.,6/23/2015,FALSE,6/23/2020,778,TRUE
+510,450,,591,"33,84,20,232",Designed and deployed scalable backend services.,8/28/2020,TRUE,,,FALSE
+511,322,860,775,393,Managed cross-functional agile teams.,5/13/2010,TRUE,,531,TRUE
+512,213,,642,126,Designed and deployed scalable backend services.,10/14/2015,TRUE,,729,FALSE
+513,707,122,970,"26,14,48,487",Automated reporting and data visualization tasks.,02-12-2015,FALSE,02-12-2017,254,FALSE
+514,569,407,149,290,Oversaw quality assurance and testing processes.,11/27/2016,TRUE,,725,FALSE
+515,188,,313,"13,91,19,132",Oversaw quality assurance and testing processes.,02-01-2019,TRUE,,406,TRUE
+516,493,822,858,"20,04,52,395",Oversaw quality assurance and testing processes.,06-03-2018,FALSE,06-03-2021,447,FALSE
+517,802,157,718,"11,44,02,298",Led DevOps efforts across multiple environments.,07-06-2020,TRUE,,465,TRUE
+518,437,578,981,"32,28",Oversaw quality assurance and testing processes.,6/25/2011,FALSE,6/25/2013,,TRUE
+519,547,,619,"327,375,72",Designed and deployed scalable backend services.,9/16/2020,TRUE,,860,TRUE
+520,686,353,100,"3,43,125",Designed and deployed scalable backend services.,01-05-2012,FALSE,01-05-2017,652,FALSE
+521,466,553,833,"1,49,141",Automated reporting and data visualization tasks.,5/24/2017,FALSE,5/24/2020,607,TRUE
+522,47,58,963,"239,91",Managed cross-functional agile teams.,07-12-2013,FALSE,07-12-2015,,TRUE
+523,910,696,860,"223,83",Managed cross-functional agile teams.,4/16/2013,FALSE,4/16/2016,424,FALSE
+524,90,506,114,"3,46,237",Automated reporting and data visualization tasks.,3/15/2011,FALSE,3/15/2014,78,TRUE
+525,973,,883,"38,405",Led DevOps efforts across multiple environments.,01-11-2023,FALSE,01-11-2028,133,TRUE
+526,194,543,385,"2,43,98,142",Oversaw quality assurance and testing processes.,06-06-2013,FALSE,06-06-2015,488,TRUE
+527,28,232,501,"21,82,93,193",Led DevOps efforts across multiple environments.,7/18/2021,FALSE,7/18/2025,,TRUE
+528,292,162,921,237,Led DevOps efforts across multiple environments.,01-10-2011,TRUE,,520,FALSE
+529,623,,573,"2,46,144",Managed cross-functional agile teams.,09-09-2020,TRUE,,498,TRUE
+530,593,426,361,"27,67",Automated reporting and data visualization tasks.,10/16/2015,FALSE,10/16/2017,229,TRUE
+531,470,291,939,"4,74,261",Oversaw quality assurance and testing processes.,01-01-2020,TRUE,,996,FALSE
+532,37,480,221,112,Developed user-centric frontend applications.,1/21/2012,FALSE,1/21/2014,,TRUE
+533,296,,154,335,Managed cross-functional agile teams.,4/18/2012,FALSE,4/18/2017,,FALSE
+534,706,827,180,"4,09,108",Managed cross-functional agile teams.,07-04-2023,FALSE,07-04-2024,997,TRUE
+535,543,305,294,"1,37,232",Designed and deployed scalable backend services.,06-02-2023,TRUE,,231,FALSE
+536,410,,778,"3,90,84,415",Led DevOps efforts across multiple environments.,09-11-2017,FALSE,09-11-2021,322,TRUE
+537,483,332,861,491,Oversaw quality assurance and testing processes.,4/16/2012,FALSE,4/16/2016,819,TRUE
+538,785,512,226,"123,282,30",Automated reporting and data visualization tasks.,08-11-2013,FALSE,08-11-2018,614,FALSE
+539,293,655,438,"49,34",Designed and deployed scalable backend services.,1/23/2022,FALSE,1/23/2027,827,TRUE
+540,717,,359,"24,350",Oversaw quality assurance and testing processes.,2/24/2012,FALSE,2/24/2015,913,TRUE
+541,691,410,882,"2,76,131",Automated reporting and data visualization tasks.,2/28/2021,FALSE,2/28/2023,,FALSE
+542,730,486,950,"4,50,208",Managed cross-functional agile teams.,11-03-2019,FALSE,11-03-2024,524,FALSE
+543,364,,375,308,Automated reporting and data visualization tasks.,1/26/2020,FALSE,1/26/2022,452,TRUE
+544,825,621,946,"4,57,141",Managed cross-functional agile teams.,06-11-2021,TRUE,,,TRUE
+545,571,68,857,333,Led DevOps efforts across multiple environments.,01-07-2016,FALSE,01-07-2017,501,TRUE
+546,953,,782,"30,72,35,324",Developed user-centric frontend applications.,05-11-2016,FALSE,05-11-2020,,TRUE
+547,829,824,221,65,Managed cross-functional agile teams.,1/25/2014,TRUE,,380,TRUE
+548,584,222,162,"2,33,445",Led DevOps efforts across multiple environments.,06-01-2023,FALSE,06-01-2025,,TRUE
+549,249,834,174,248,Designed and deployed scalable backend services.,5/21/2018,TRUE,,,FALSE
+550,897,882,195,"16,44,76,356",Managed cross-functional agile teams.,12/27/2020,FALSE,12/27/2022,376,FALSE
+551,949,,498,"6,54,08,270",Automated reporting and data visualization tasks.,9/23/2023,FALSE,9/23/2027,,FALSE
+552,919,,579,114,Led DevOps efforts across multiple environments.,5/25/2017,TRUE,,993,FALSE
+553,750,,26,"5,00,160",Automated reporting and data visualization tasks.,7/27/2022,FALSE,7/27/2026,489,FALSE
+554,12,,730,"3,57,467",Oversaw quality assurance and testing processes.,12/14/2016,FALSE,12/14/2018,,TRUE
+555,406,,915,493,Led DevOps efforts across multiple environments.,7/30/2023,TRUE,,685,TRUE
+556,785,795,691,"2,40,484",Developed user-centric frontend applications.,2/24/2012,TRUE,,679,TRUE
+557,344,,571,"45,21,44,277",Managed cross-functional agile teams.,1/27/2012,TRUE,,553,TRUE
+558,324,916,653,"3,49,260",Designed and deployed scalable backend services.,12/17/2017,TRUE,,469,TRUE
+559,569,770,722,"30,72,31,248",Automated reporting and data visualization tasks.,08-01-2014,TRUE,,748,TRUE
+560,724,518,851,105,Designed and deployed scalable backend services.,07-09-2017,TRUE,,7,TRUE
+561,590,763,950,309,Oversaw quality assurance and testing processes.,04-01-2017,TRUE,,175,TRUE
+562,836,210,782,"38,14,73,225",Oversaw quality assurance and testing processes.,04-03-2020,FALSE,04-03-2022,,FALSE
+563,798,326,469,"85,326",Automated reporting and data visualization tasks.,1/23/2013,TRUE,,265,FALSE
+564,632,600,119,148,Oversaw quality assurance and testing processes.,09-03-2018,TRUE,,84,FALSE
+565,300,464,334,"2,77,37,254",Oversaw quality assurance and testing processes.,11/21/2017,FALSE,11/21/2018,375,TRUE
+566,223,333,952,270,Oversaw quality assurance and testing processes.,09-03-2011,FALSE,09-03-2014,996,FALSE
+567,464,,866,96,Automated reporting and data visualization tasks.,3/31/2021,TRUE,,676,FALSE
+568,820,558,979,"1,66,147",Automated reporting and data visualization tasks.,3/23/2013,TRUE,,753,FALSE
+569,657,,8,311,Designed and deployed scalable backend services.,01-10-2015,FALSE,01-10-2020,329,FALSE
+570,702,368,373,"26,33,87,191",Oversaw quality assurance and testing processes.,8/26/2012,TRUE,,10,TRUE
+571,65,395,249,"21,224",Oversaw quality assurance and testing processes.,1/13/2023,FALSE,1/13/2026,18,FALSE
+572,893,,140,"41,24,94,190",Developed user-centric frontend applications.,8/15/2023,TRUE,,646,TRUE
+573,80,467,372,474,Led DevOps efforts across multiple environments.,09-12-2021,TRUE,,166,TRUE
+574,610,,341,"269,118,30",Developed user-centric frontend applications.,06-01-2010,FALSE,06-01-2015,553,TRUE
+575,82,,449,"336,26",Designed and deployed scalable backend services.,06-11-2022,TRUE,,895,TRUE
+576,848,,109,"159,354,95",Automated reporting and data visualization tasks.,06-07-2016,TRUE,,204,TRUE
+577,507,955,658,"8,23,99,279",Led DevOps efforts across multiple environments.,05-08-2022,FALSE,05-08-2023,164,TRUE
+578,446,950,147,"10,416,95",Managed cross-functional agile teams.,01-06-2021,TRUE,,394,FALSE
+579,753,373,238,"48,22,82,159",Developed user-centric frontend applications.,9/15/2014,FALSE,9/15/2018,,TRUE
+580,706,276,667,"4,73,433",Automated reporting and data visualization tasks.,8/20/2011,TRUE,,802,FALSE
+581,885,940,666,86,Designed and deployed scalable backend services.,10/24/2021,TRUE,,832,FALSE
+582,886,399,900,"26,44,87,388",Developed user-centric frontend applications.,8/22/2012,TRUE,,505,TRUE
+583,88,209,801,61,Managed cross-functional agile teams.,8/23/2014,FALSE,8/23/2015,588,TRUE
+584,706,297,373,"4,71,181",Automated reporting and data visualization tasks.,7/28/2019,FALSE,7/28/2023,8,FALSE
+585,962,970,895,429,Automated reporting and data visualization tasks.,10/17/2019,TRUE,,770,TRUE
+586,63,88,213,"50,194",Led DevOps efforts across multiple environments.,6/14/2016,TRUE,,859,FALSE
+587,858,,422,"14,54,95,337",Designed and deployed scalable backend services.,12/24/2022,FALSE,12/24/2025,614,FALSE
+588,225,329,712,"30,32,36,128",Automated reporting and data visualization tasks.,1/16/2011,TRUE,,756,FALSE
+589,200,668,927,"42,24,81,444",Managed cross-functional agile teams.,9/16/2021,TRUE,,115,FALSE
+590,814,,720,427,Led DevOps efforts across multiple environments.,8/24/2020,TRUE,,693,TRUE
+591,129,13,642,"48,53,56,152",Oversaw quality assurance and testing processes.,5/28/2020,TRUE,,717,FALSE
+592,110,880,624,220,Developed user-centric frontend applications.,10-03-2010,TRUE,,185,FALSE
+593,666,809,199,"4,37,240",Automated reporting and data visualization tasks.,10/29/2019,TRUE,,464,TRUE
+594,878,26,570,"201,48",Managed cross-functional agile teams.,12/17/2014,TRUE,,246,FALSE
+595,141,,116,"212,90",Designed and deployed scalable backend services.,03-07-2018,FALSE,03-07-2019,848,TRUE
+596,128,243,195,"4,08,338",Led DevOps efforts across multiple environments.,03-07-2014,TRUE,,186,FALSE
+597,453,,460,"43,83,145",Oversaw quality assurance and testing processes.,7/21/2023,TRUE,,442,TRUE
+598,11,,53,"4,60,370",Developed user-centric frontend applications.,6/23/2011,FALSE,6/23/2016,846,FALSE
+599,649,779,220,"3,94,308",Automated reporting and data visualization tasks.,08-09-2012,TRUE,,465,FALSE
+600,66,,54,"180,88",Designed and deployed scalable backend services.,6/28/2015,FALSE,6/28/2019,197,TRUE
+601,462,211,39,"2,28,25,367",Oversaw quality assurance and testing processes.,12-08-2022,FALSE,12-08-2025,705,FALSE
+602,305,,251,278,Developed user-centric frontend applications.,10-03-2011,TRUE,,247,FALSE
+603,103,1,509,"46,22,421",Oversaw quality assurance and testing processes.,2/20/2016,TRUE,,797,FALSE
+604,45,571,826,"4,85,361",Oversaw quality assurance and testing processes.,03-04-2019,TRUE,,,FALSE
+605,548,177,281,"3,48,386",Managed cross-functional agile teams.,9/18/2014,FALSE,9/18/2019,959,FALSE
+606,998,,301,"449,422,6",Automated reporting and data visualization tasks.,2/27/2012,FALSE,2/27/2017,86,TRUE
+607,438,125,205,191,Developed user-centric frontend applications.,03-01-2020,TRUE,,,FALSE
+608,506,37,765,"145,178,75",Oversaw quality assurance and testing processes.,09-02-2019,FALSE,09-02-2021,6,TRUE
+609,665,279,679,"271,21",Developed user-centric frontend applications.,3/13/2018,FALSE,3/13/2020,,TRUE
+610,284,,89,365,Developed user-centric frontend applications.,7/22/2012,TRUE,,322,TRUE
+611,921,86,747,"3,56,146",Managed cross-functional agile teams.,11-05-2017,TRUE,,587,FALSE
+612,479,,590,"12,83,43,456",Oversaw quality assurance and testing processes.,8/14/2018,TRUE,,201,TRUE
+613,113,34,985,"2,21,211",Led DevOps efforts across multiple environments.,12-11-2019,FALSE,12-11-2024,595,TRUE
+614,975,,444,"283,50",Oversaw quality assurance and testing processes.,8/27/2016,FALSE,8/27/2018,68,TRUE
+615,340,452,807,310,Designed and deployed scalable backend services.,9/18/2017,FALSE,9/18/2019,120,FALSE
+616,433,,422,"2,67,93,487",Managed cross-functional agile teams.,3/14/2021,TRUE,,776,TRUE
+617,884,,584,423,Designed and deployed scalable backend services.,5/20/2017,TRUE,,698,TRUE
+618,208,,885,"1,59,294",Designed and deployed scalable backend services.,11-07-2013,FALSE,11-07-2015,583,FALSE
+619,67,,326,"3,64,425",Oversaw quality assurance and testing processes.,7/14/2013,FALSE,7/14/2015,,TRUE
+620,104,,357,"39,73,85,450",Led DevOps efforts across multiple environments.,10/16/2012,FALSE,10/16/2014,584,TRUE
+621,952,249,824,192,Automated reporting and data visualization tasks.,4/23/2017,FALSE,4/23/2021,600,TRUE
+622,73,725,230,"7,12,82,482",Managed cross-functional agile teams.,07-01-2016,TRUE,,281,TRUE
+623,817,50,276,"37,52,19,177",Designed and deployed scalable backend services.,11-06-2020,TRUE,,507,TRUE
+624,93,,829,"46,54,05,494",Oversaw quality assurance and testing processes.,09-06-2021,TRUE,,165,TRUE
+625,95,,994,243,Led DevOps efforts across multiple environments.,2/28/2012,FALSE,2/28/2017,903,TRUE
+626,583,283,135,"4,18,201",Led DevOps efforts across multiple environments.,11/22/2021,FALSE,11/22/2026,,TRUE
+627,390,777,957,"51,244",Managed cross-functional agile teams.,02-05-2012,FALSE,02-05-2014,910,TRUE
+628,731,662,509,"258,42",Led DevOps efforts across multiple environments.,2/14/2011,FALSE,2/14/2012,598,FALSE
+629,600,449,439,9,Led DevOps efforts across multiple environments.,12-09-2012,FALSE,12-09-2014,855,TRUE
+630,550,655,749,"26,33,47,266",Automated reporting and data visualization tasks.,11/20/2017,TRUE,,798,FALSE
+631,343,,662,339,Designed and deployed scalable backend services.,8/31/2010,TRUE,,168,TRUE
+632,277,,842,124,Automated reporting and data visualization tasks.,11/21/2022,FALSE,11/21/2025,676,TRUE
+633,351,,194,"2,13,364",Developed user-centric frontend applications.,02-03-2017,FALSE,02-03-2019,205,FALSE
+634,181,,316,"29,12,41,372",Designed and deployed scalable backend services.,3/29/2014,FALSE,3/29/2019,934,TRUE
+635,186,526,643,392,Oversaw quality assurance and testing processes.,05-09-2014,FALSE,05-09-2018,945,FALSE
+636,885,422,222,"19,61,09,319",Designed and deployed scalable backend services.,09-04-2019,TRUE,,975,TRUE
+637,850,640,90,"97,319",Oversaw quality assurance and testing processes.,10/19/2016,FALSE,10/19/2021,966,TRUE
+638,531,513,151,"4,15,270",Oversaw quality assurance and testing processes.,04-05-2020,TRUE,,,FALSE
+639,558,723,365,399,Led DevOps efforts across multiple environments.,8/31/2020,TRUE,,164,TRUE
+640,946,,950,65,Led DevOps efforts across multiple environments.,1/20/2021,FALSE,1/20/2026,582,FALSE
+641,268,452,123,150,Oversaw quality assurance and testing processes.,10-12-2016,FALSE,10-12-2020,208,TRUE
+642,651,123,450,"3,04,433",Developed user-centric frontend applications.,7/31/2019,FALSE,7/31/2024,82,TRUE
+643,908,,39,"24,54,48,362",Managed cross-functional agile teams.,5/19/2020,FALSE,5/19/2025,753,FALSE
+644,3,566,879,"244,41",Designed and deployed scalable backend services.,3/28/2020,TRUE,,,FALSE
+645,555,620,300,"30,43,83,500",Oversaw quality assurance and testing processes.,07-10-2022,FALSE,07-10-2027,614,TRUE
+646,185,,630,"11,93,24,249",Automated reporting and data visualization tasks.,05-01-2022,TRUE,,226,TRUE
+647,7,726,631,"12,54,29,105",Automated reporting and data visualization tasks.,07-05-2013,TRUE,,,FALSE
+648,250,530,177,104,Led DevOps efforts across multiple environments.,03-09-2022,FALSE,03-09-2025,231,TRUE
+649,665,973,889,43,Designed and deployed scalable backend services.,5/31/2013,TRUE,,527,FALSE
+650,751,79,57,"2,65,20,145",Led DevOps efforts across multiple environments.,05-12-2010,TRUE,,872,FALSE
+651,870,,825,"4,64,453",Designed and deployed scalable backend services.,12-01-2010,FALSE,12-01-2011,435,TRUE
+652,882,,269,"1,86,181",Designed and deployed scalable backend services.,9/24/2019,TRUE,,423,FALSE
+653,463,431,567,"10,200",Developed user-centric frontend applications.,10-02-2021,TRUE,,758,TRUE
+654,705,,248,"36,23,79,357",Led DevOps efforts across multiple environments.,06-07-2016,FALSE,06-07-2021,145,FALSE
+655,882,745,335,228,Automated reporting and data visualization tasks.,8/20/2023,FALSE,8/20/2027,642,TRUE
+656,410,,605,"12,81,29,325",Automated reporting and data visualization tasks.,06-05-2011,TRUE,,565,FALSE
+657,993,8,432,"45,247",Managed cross-functional agile teams.,12-10-2022,FALSE,12-10-2023,,FALSE
+658,830,579,727,"23,41,62,365",Developed user-centric frontend applications.,12/18/2011,TRUE,,600,TRUE
+659,233,584,644,"3,95,384",Developed user-centric frontend applications.,5/31/2020,TRUE,,,FALSE
+660,925,641,550,"7,01,87,411",Oversaw quality assurance and testing processes.,5/30/2010,FALSE,5/30/2014,743,TRUE
+661,431,378,701,46,Oversaw quality assurance and testing processes.,8/24/2010,TRUE,,666,FALSE
+662,577,,932,"3,83,125",Designed and deployed scalable backend services.,02-02-2017,TRUE,,493,TRUE
+663,365,688,757,"25,22,49,244",Managed cross-functional agile teams.,03-10-2016,TRUE,,150,TRUE
+664,698,,621,178,Automated reporting and data visualization tasks.,2/18/2011,TRUE,,781,TRUE
+665,743,904,773,437,Led DevOps efforts across multiple environments.,2/19/2017,FALSE,2/19/2020,510,FALSE
+666,984,150,880,"58,78,339",Automated reporting and data visualization tasks.,7/20/2022,FALSE,7/20/2027,111,FALSE
+667,361,358,527,170,Managed cross-functional agile teams.,1/13/2013,TRUE,,170,TRUE
+668,74,959,397,351,Led DevOps efforts across multiple environments.,7/30/2021,TRUE,,,TRUE
+669,911,104,183,"361,1,332",Designed and deployed scalable backend services.,09-06-2022,FALSE,09-06-2025,,TRUE
+670,227,679,308,"338,466,17",Led DevOps efforts across multiple environments.,8/26/2010,FALSE,8/26/2014,826,TRUE
+671,255,336,558,426,Managed cross-functional agile teams.,08-07-2012,TRUE,,405,TRUE
+672,15,,259,430,Designed and deployed scalable backend services.,9/13/2010,TRUE,,815,FALSE
+673,700,495,566,"59,183",Managed cross-functional agile teams.,8/24/2021,FALSE,8/24/2022,557,TRUE
+674,317,478,27,116,Led DevOps efforts across multiple environments.,10/25/2013,TRUE,,241,FALSE
+675,11,,971,"31,02,59,412",Developed user-centric frontend applications.,6/30/2019,TRUE,,943,FALSE
+676,546,,576,"40,100,19",Managed cross-functional agile teams.,03-08-2023,FALSE,03-08-2027,103,TRUE
+677,534,,783,"1,68,346",Managed cross-functional agile teams.,3/31/2013,FALSE,3/31/2018,946,TRUE
+678,17,,770,2,Oversaw quality assurance and testing processes.,6/30/2013,FALSE,6/30/2016,368,TRUE
+679,797,,607,440,Developed user-centric frontend applications.,09-08-2019,TRUE,,437,TRUE
+680,134,799,419,"34,11,17,425",Developed user-centric frontend applications.,01-08-2014,FALSE,01-08-2017,,FALSE
+681,139,679,375,405,Developed user-centric frontend applications.,03-08-2015,TRUE,,357,TRUE
+682,909,343,336,"144,90,79",Automated reporting and data visualization tasks.,10/17/2014,TRUE,,977,TRUE
+683,949,,179,"4,19,63,312",Developed user-centric frontend applications.,01-11-2015,TRUE,,461,FALSE
+684,522,,68,"4,286",Automated reporting and data visualization tasks.,10-12-2020,FALSE,10-12-2022,108,FALSE
+685,325,,791,"132,235,89",Designed and deployed scalable backend services.,12-01-2010,FALSE,12-01-2012,558,TRUE
+686,531,733,845,307,Managed cross-functional agile teams.,12-05-2022,TRUE,,211,TRUE
+687,509,,628,"9,281,85",Managed cross-functional agile teams.,7/14/2010,TRUE,,442,TRUE
+688,81,,728,"3,76,362",Developed user-centric frontend applications.,7/29/2023,FALSE,7/29/2025,422,FALSE
+689,362,735,336,"8,82,71,265",Oversaw quality assurance and testing processes.,10-07-2019,TRUE,,811,TRUE
+690,960,390,383,"6,93,34,240",Developed user-centric frontend applications.,10/24/2021,TRUE,,347,TRUE
+691,341,933,904,"37,93,86,190",Managed cross-functional agile teams.,08-09-2018,TRUE,,281,TRUE
+692,84,,359,"8,02,33,219",Automated reporting and data visualization tasks.,8/25/2022,FALSE,8/25/2024,447,TRUE
+693,604,,202,"1,09,130",Oversaw quality assurance and testing processes.,4/20/2023,FALSE,4/20/2026,891,TRUE
+694,439,358,547,"2,09,474",Automated reporting and data visualization tasks.,10/29/2010,TRUE,,370,FALSE
+695,6,413,284,"4,43,75,262",Developed user-centric frontend applications.,09-08-2021,TRUE,,85,TRUE
+696,728,,273,"2,72,77,241",Oversaw quality assurance and testing processes.,3/24/2012,TRUE,,44,TRUE
+697,479,,358,"3,73,391",Oversaw quality assurance and testing processes.,05-11-2017,TRUE,,,FALSE
+698,308,622,325,"33,80",Managed cross-functional agile teams.,12/16/2022,TRUE,,835,FALSE
+699,666,,490,"9,62,94,248",Automated reporting and data visualization tasks.,5/18/2012,TRUE,,664,TRUE
+700,777,1,213,383,Developed user-centric frontend applications.,7/16/2021,TRUE,,840,FALSE
+701,520,,273,"23,103",Led DevOps efforts across multiple environments.,5/18/2011,FALSE,5/18/2014,182,FALSE
+702,40,491,16,343,Managed cross-functional agile teams.,03-05-2023,FALSE,03-05-2026,819,FALSE
+703,540,113,304,"26,43,12,350",Developed user-centric frontend applications.,09-12-2012,TRUE,,825,TRUE
+704,112,,650,353,Designed and deployed scalable backend services.,12-04-2019,FALSE,12-04-2020,638,TRUE
+705,697,840,649,"1,37,203",Managed cross-functional agile teams.,08-12-2020,TRUE,,327,TRUE
+706,234,918,493,17,Managed cross-functional agile teams.,12/18/2019,FALSE,12/18/2024,216,TRUE
+707,532,552,993,"2,17,378",Led DevOps efforts across multiple environments.,5/20/2018,TRUE,,587,TRUE
+708,464,992,219,"207,227,33",Led DevOps efforts across multiple environments.,11-06-2010,FALSE,11-06-2011,632,FALSE
+709,641,672,501,"2,79,97,443",Managed cross-functional agile teams.,8/19/2012,FALSE,8/19/2014,997,FALSE
+710,40,987,395,7,Developed user-centric frontend applications.,7/22/2020,FALSE,7/22/2023,596,TRUE
+711,838,472,662,"32,191",Developed user-centric frontend applications.,6/28/2021,FALSE,6/28/2024,,FALSE
+712,721,811,987,374,Designed and deployed scalable backend services.,9/30/2011,FALSE,9/30/2016,751,TRUE
+713,209,202,962,486,Automated reporting and data visualization tasks.,07-12-2018,FALSE,07-12-2019,542,TRUE
+714,475,341,425,"87,38,86",Led DevOps efforts across multiple environments.,5/16/2010,FALSE,5/16/2014,695,FALSE
+715,540,307,421,249,Managed cross-functional agile teams.,08-02-2019,FALSE,08-02-2023,947,TRUE
+716,705,,558,"18,13,50,235",Managed cross-functional agile teams.,10/30/2023,FALSE,10/30/2025,481,TRUE
+717,963,329,244,"3,89,42,428",Managed cross-functional agile teams.,3/23/2019,TRUE,,891,TRUE
+718,83,624,652,"3,42,80,322",Automated reporting and data visualization tasks.,6/22/2014,FALSE,6/22/2015,250,FALSE
+719,473,,561,"1,89,186",Designed and deployed scalable backend services.,1/18/2012,FALSE,1/18/2013,886,TRUE
+720,975,,804,"2,16,137",Developed user-centric frontend applications.,2/17/2018,TRUE,,,FALSE
+721,503,,367,272,Led DevOps efforts across multiple environments.,10/18/2014,FALSE,10/18/2018,230,FALSE
+722,75,,56,"2,53,400",Managed cross-functional agile teams.,2/19/2022,FALSE,2/19/2024,978,FALSE
+723,623,501,215,"18,64,45,193",Developed user-centric frontend applications.,6/14/2023,FALSE,6/14/2024,,TRUE
+724,80,651,55,"4,00,278",Oversaw quality assurance and testing processes.,2/24/2015,FALSE,2/24/2019,,FALSE
+725,860,989,312,8,Led DevOps efforts across multiple environments.,1/31/2021,FALSE,1/31/2026,147,TRUE
+726,424,95,83,"15,03,87,500",Designed and deployed scalable backend services.,05-12-2016,FALSE,05-12-2017,481,FALSE
+727,835,175,249,"275,118,76",Managed cross-functional agile teams.,7/14/2011,FALSE,7/14/2012,410,FALSE
+728,955,674,122,"27,34,91,115",Automated reporting and data visualization tasks.,9/28/2021,TRUE,,697,TRUE
+729,669,924,196,"4,15,330",Designed and deployed scalable backend services.,1/21/2015,TRUE,,369,TRUE
+730,400,478,181,"94,260",Designed and deployed scalable backend services.,12/30/2023,TRUE,,699,TRUE
+731,320,226,570,361,Managed cross-functional agile teams.,01-11-2016,TRUE,,433,FALSE
+732,185,,84,216,Developed user-centric frontend applications.,6/23/2010,FALSE,6/23/2015,409,TRUE
+733,921,,704,"24,24,81,323",Automated reporting and data visualization tasks.,9/26/2016,TRUE,,926,FALSE
+734,944,,856,253,Automated reporting and data visualization tasks.,1/19/2010,TRUE,,711,FALSE
+735,112,925,18,129,Developed user-centric frontend applications.,08-02-2012,TRUE,,930,FALSE
+736,840,,663,31,Designed and deployed scalable backend services.,11/24/2021,TRUE,,607,FALSE
+737,904,,448,64,Managed cross-functional agile teams.,12/13/2019,TRUE,,,FALSE
+738,491,971,851,"2,12,368",Managed cross-functional agile teams.,2/16/2014,TRUE,,292,FALSE
+739,825,584,987,"8,11,19,154",Managed cross-functional agile teams.,04-07-2010,FALSE,04-07-2011,,TRUE
+740,840,851,427,"3,13,210",Automated reporting and data visualization tasks.,6/26/2013,FALSE,6/26/2015,426,TRUE
+741,160,38,875,"36,74,53,421",Designed and deployed scalable backend services.,11-12-2011,FALSE,11-12-2014,506,FALSE
+742,583,,160,360,Developed user-centric frontend applications.,11-08-2021,FALSE,11-08-2024,655,FALSE
+743,800,690,81,468,Managed cross-functional agile teams.,03-10-2018,FALSE,03-10-2023,256,FALSE
+744,627,38,961,19,Led DevOps efforts across multiple environments.,9/21/2017,FALSE,9/21/2020,460,FALSE
+745,484,31,186,"4,40,127",Developed user-centric frontend applications.,11-12-2017,FALSE,11-12-2021,739,FALSE
+746,577,,620,421,Oversaw quality assurance and testing processes.,10/22/2017,FALSE,10/22/2019,9,FALSE
+747,460,,373,274,Automated reporting and data visualization tasks.,10/25/2019,TRUE,,555,TRUE
+748,145,815,64,"464,95",Managed cross-functional agile teams.,2/16/2017,TRUE,,147,TRUE
+749,64,369,560,"2,84,490",Automated reporting and data visualization tasks.,3/15/2013,FALSE,3/15/2018,717,TRUE
+750,474,,332,"2,42,91,230",Designed and deployed scalable backend services.,9/28/2017,TRUE,,609,TRUE
+751,683,,831,"35,330",Oversaw quality assurance and testing processes.,06-11-2014,TRUE,,468,TRUE
+752,654,324,961,243,Oversaw quality assurance and testing processes.,7/25/2021,FALSE,7/25/2022,617,TRUE
+753,730,,148,"45,53,04,463",Designed and deployed scalable backend services.,08-03-2012,TRUE,,937,TRUE
+754,237,772,937,"2,61,203",Designed and deployed scalable backend services.,8/14/2014,FALSE,8/14/2018,325,TRUE
+755,626,411,85,"351,40",Managed cross-functional agile teams.,07-02-2020,FALSE,07-02-2023,271,TRUE
+756,91,912,887,"63,249",Automated reporting and data visualization tasks.,9/14/2014,TRUE,,421,FALSE
+757,657,,105,"139,263,82",Managed cross-functional agile teams.,08-09-2018,TRUE,,83,TRUE
+758,709,218,869,"3,11,201",Developed user-centric frontend applications.,3/21/2016,FALSE,3/21/2019,742,TRUE
+759,201,685,569,"4,63,10,337",Led DevOps efforts across multiple environments.,02-02-2019,TRUE,,584,TRUE
+760,211,228,267,"38,92,04,378",Automated reporting and data visualization tasks.,9/23/2022,FALSE,9/23/2026,906,TRUE
+761,94,716,866,3,Designed and deployed scalable backend services.,7/16/2018,FALSE,7/16/2022,984,TRUE
+762,670,,54,465,Led DevOps efforts across multiple environments.,11-09-2023,FALSE,11-09-2027,697,TRUE
+763,113,610,247,"50,364,32",Automated reporting and data visualization tasks.,08-08-2022,TRUE,,497,FALSE
+764,32,125,348,117,Led DevOps efforts across multiple environments.,06-02-2015,TRUE,,,TRUE
+765,570,,429,"175,104,13",Automated reporting and data visualization tasks.,7/13/2023,TRUE,,218,FALSE
+766,700,,939,"61,329",Managed cross-functional agile teams.,1/21/2023,FALSE,1/21/2024,695,FALSE
+767,199,914,625,"2,39,282",Managed cross-functional agile teams.,6/28/2020,FALSE,6/28/2021,600,FALSE
+768,19,,867,369,Designed and deployed scalable backend services.,6/19/2012,TRUE,,351,FALSE
+769,25,330,774,346,Oversaw quality assurance and testing processes.,05-12-2022,FALSE,05-12-2025,987,FALSE
+770,25,,157,"16,01,65,281",Oversaw quality assurance and testing processes.,02-09-2018,TRUE,,194,FALSE
+771,803,886,751,"84,310",Led DevOps efforts across multiple environments.,01-06-2021,TRUE,,33,FALSE
+772,164,,955,"9,22",Oversaw quality assurance and testing processes.,09-08-2019,TRUE,,755,TRUE
+773,634,557,163,"2,95,345",Oversaw quality assurance and testing processes.,05-02-2022,FALSE,05-02-2024,143,FALSE
+774,482,874,911,485,Managed cross-functional agile teams.,9/29/2017,TRUE,,369,FALSE
+775,189,39,550,112,Managed cross-functional agile teams.,12/14/2017,TRUE,,884,TRUE
+776,612,487,533,448,Oversaw quality assurance and testing processes.,3/21/2016,FALSE,3/21/2018,771,TRUE
+777,408,,298,346,Managed cross-functional agile teams.,01-10-2019,FALSE,01-10-2020,567,FALSE
+778,68,317,549,"1,15,77,391",Developed user-centric frontend applications.,06-06-2020,TRUE,,571,FALSE
+779,304,,987,"19,420",Led DevOps efforts across multiple environments.,2/29/2020,FALSE,2/28/2023,305,FALSE
+780,426,106,668,"1,78,153",Developed user-centric frontend applications.,2/13/2017,FALSE,2/13/2021,464,TRUE
+781,437,555,267,113,Led DevOps efforts across multiple environments.,12/14/2014,TRUE,,556,FALSE
+782,400,,243,32,Automated reporting and data visualization tasks.,2/22/2017,FALSE,2/22/2022,909,TRUE
+783,212,3,404,"17,63,09,167",Automated reporting and data visualization tasks.,1/13/2020,TRUE,,223,FALSE
+784,681,746,993,"36,31,46",Managed cross-functional agile teams.,7/23/2022,TRUE,,762,TRUE
+785,449,837,853,"39,31,51,395",Oversaw quality assurance and testing processes.,8/30/2014,TRUE,,,TRUE
+786,536,,692,"2,65,478",Oversaw quality assurance and testing processes.,11/19/2010,FALSE,11/19/2013,872,TRUE
+787,865,267,311,429,Developed user-centric frontend applications.,1/21/2023,FALSE,1/21/2027,700,FALSE
+788,627,232,784,168,Oversaw quality assurance and testing processes.,02-11-2013,TRUE,,708,FALSE
+789,912,415,528,"4,33,416",Designed and deployed scalable backend services.,08-04-2018,TRUE,,287,FALSE
+790,757,,748,"30,54,46,113",Managed cross-functional agile teams.,7/30/2016,FALSE,7/30/2019,717,TRUE
+791,886,599,252,194,Managed cross-functional agile teams.,12/17/2018,FALSE,12/17/2021,723,TRUE
+792,569,371,982,"4,84,418",Developed user-centric frontend applications.,10/30/2010,TRUE,,,FALSE
+793,609,447,332,"12,418",Oversaw quality assurance and testing processes.,1/31/2019,TRUE,,612,TRUE
+794,982,,614,"67,36",Automated reporting and data visualization tasks.,9/21/2017,FALSE,9/21/2019,,TRUE
+795,306,147,410,130,Designed and deployed scalable backend services.,08-07-2016,FALSE,08-07-2018,303,FALSE
+796,703,514,30,"2,48,412",Managed cross-functional agile teams.,5/24/2012,TRUE,,464,TRUE
+797,4,310,959,396,Designed and deployed scalable backend services.,01-10-2011,FALSE,01-10-2013,,FALSE
+798,722,,890,"21,82,8",Developed user-centric frontend applications.,03-02-2022,TRUE,,301,FALSE
+799,138,,972,"4,06,131",Developed user-centric frontend applications.,2/25/2020,TRUE,,,TRUE
+800,614,,566,44,Oversaw quality assurance and testing processes.,1/16/2022,TRUE,,679,FALSE
+801,977,,690,"275,195,91",Managed cross-functional agile teams.,10/22/2012,TRUE,,839,TRUE
+802,320,580,535,"360,151,59",Automated reporting and data visualization tasks.,05-06-2010,FALSE,05-06-2013,825,TRUE
+803,452,,126,"46,44,54,481",Oversaw quality assurance and testing processes.,10-12-2011,FALSE,10-12-2014,379,TRUE
+804,544,821,603,347,Oversaw quality assurance and testing processes.,12/14/2014,TRUE,,588,FALSE
+805,73,,907,"42,41,29,403",Oversaw quality assurance and testing processes.,1/25/2017,TRUE,,578,TRUE
+806,131,,736,192,Developed user-centric frontend applications.,5/28/2022,TRUE,,987,TRUE
+807,721,795,427,451,Designed and deployed scalable backend services.,01-11-2022,TRUE,,74,TRUE
+808,303,,833,"25,02,04,491",Developed user-centric frontend applications.,7/21/2023,FALSE,7/21/2026,976,TRUE
+809,750,42,951,"1,15,478",Managed cross-functional agile teams.,2/24/2012,FALSE,2/24/2017,277,FALSE
+810,869,,680,"3,15,241",Developed user-centric frontend applications.,8/23/2017,TRUE,,673,FALSE
+811,205,,739,"348,11",Developed user-centric frontend applications.,12/29/2010,TRUE,,,FALSE
+812,552,209,974,"56,302",Developed user-centric frontend applications.,11/19/2017,TRUE,,914,FALSE
+813,287,859,333,203,Designed and deployed scalable backend services.,09-09-2013,TRUE,,521,TRUE
+814,313,975,624,400,Designed and deployed scalable backend services.,12-07-2010,FALSE,12-07-2012,9,TRUE
+815,474,,412,"2,49,290",Developed user-centric frontend applications.,10/14/2010,TRUE,,868,FALSE
+816,882,,834,"3,23,255",Oversaw quality assurance and testing processes.,4/21/2014,FALSE,4/21/2015,552,FALSE
+817,491,493,182,467,Oversaw quality assurance and testing processes.,7/19/2018,FALSE,7/19/2022,942,TRUE
+818,872,779,801,"38,92,49,358",Developed user-centric frontend applications.,7/16/2017,TRUE,,557,FALSE
+819,154,206,676,309,Developed user-centric frontend applications.,12/26/2010,TRUE,,193,TRUE
+820,438,,87,128,Automated reporting and data visualization tasks.,03-02-2021,TRUE,,7,TRUE
+821,164,564,76,"1,92,468",Designed and deployed scalable backend services.,12/14/2010,TRUE,,,FALSE
+822,842,960,511,"13,94",Designed and deployed scalable backend services.,1/22/2020,TRUE,,229,FALSE
+823,268,576,504,56,Oversaw quality assurance and testing processes.,6/26/2018,TRUE,,477,TRUE
+824,556,498,80,"491,86",Developed user-centric frontend applications.,8/24/2017,TRUE,,415,TRUE
+825,810,825,435,302,Managed cross-functional agile teams.,7/27/2012,FALSE,7/27/2013,455,FALSE
+826,551,801,595,"130,480,7",Managed cross-functional agile teams.,06-05-2018,TRUE,,446,FALSE
+827,836,260,14,"1,08,374",Managed cross-functional agile teams.,02-07-2020,TRUE,,512,FALSE
+828,968,,383,"32,239",Automated reporting and data visualization tasks.,3/14/2021,FALSE,3/14/2026,476,TRUE
+829,80,,162,"4,09,422",Developed user-centric frontend applications.,09-01-2013,TRUE,,204,TRUE
+830,913,171,341,"2,50,451",Developed user-centric frontend applications.,5/24/2012,FALSE,5/24/2013,877,TRUE
+831,895,952,825,"11,33,06,207",Led DevOps efforts across multiple environments.,6/27/2013,FALSE,6/27/2016,889,FALSE
+832,551,59,965,"3,53,306",Developed user-centric frontend applications.,10-10-2012,TRUE,,33,FALSE
+833,582,,630,"4,23,34,373",Oversaw quality assurance and testing processes.,06-10-2013,FALSE,06-10-2016,923,FALSE
+834,407,,474,"198,93,6",Automated reporting and data visualization tasks.,10-06-2021,FALSE,10-06-2024,163,FALSE
+835,432,546,883,"48,01,92,378",Automated reporting and data visualization tasks.,10/29/2015,TRUE,,168,TRUE
+836,762,,2,56,Designed and deployed scalable backend services.,12/21/2018,FALSE,12/21/2023,811,FALSE
+837,847,897,852,"40,21,28,486",Automated reporting and data visualization tasks.,11/18/2010,TRUE,,764,TRUE
+838,843,,74,"4,45,161",Led DevOps efforts across multiple environments.,9/24/2018,FALSE,9/24/2022,19,TRUE
+839,534,,780,"2,45,168",Designed and deployed scalable backend services.,03-09-2010,TRUE,,633,FALSE
+840,727,,662,"46,385,84",Led DevOps efforts across multiple environments.,5/31/2020,TRUE,,79,TRUE
+841,773,865,832,"335,82",Developed user-centric frontend applications.,9/20/2018,FALSE,9/20/2019,238,TRUE
+842,530,545,905,405,Led DevOps efforts across multiple environments.,3/29/2011,FALSE,3/29/2013,312,FALSE
+843,471,,101,"3,99,449",Automated reporting and data visualization tasks.,11-09-2013,TRUE,,266,FALSE
+844,726,659,674,35,Managed cross-functional agile teams.,10/21/2016,TRUE,,729,TRUE
+845,119,,956,"194,2,369",Led DevOps efforts across multiple environments.,02-03-2021,TRUE,,682,TRUE
+846,716,,518,"1,99,265",Developed user-centric frontend applications.,10-11-2022,FALSE,10-11-2026,147,FALSE
+847,361,,472,370,Managed cross-functional agile teams.,2/26/2010,FALSE,2/26/2015,,FALSE
+848,807,,280,"3,03,259",Designed and deployed scalable backend services.,12-02-2012,FALSE,12-02-2013,505,TRUE
+849,654,225,356,"3,54,473",Led DevOps efforts across multiple environments.,1/16/2017,FALSE,1/16/2021,,FALSE
+850,956,367,688,"2,29,277",Developed user-centric frontend applications.,07-06-2015,FALSE,07-06-2019,268,TRUE
+851,565,,29,"452,352,66",Managed cross-functional agile teams.,3/29/2019,TRUE,,737,TRUE
+852,175,469,322,155,Oversaw quality assurance and testing processes.,08-07-2019,FALSE,08-07-2023,761,FALSE
+853,488,270,881,169,Developed user-centric frontend applications.,12-04-2019,FALSE,12-04-2024,61,TRUE
+854,698,,199,"1,58,247",Oversaw quality assurance and testing processes.,1/17/2010,TRUE,,504,TRUE
+855,918,,730,"1,08,56,314",Managed cross-functional agile teams.,5/20/2014,TRUE,,,TRUE
+856,302,759,523,"26,93,11,497",Developed user-centric frontend applications.,7/22/2012,FALSE,7/22/2015,55,TRUE
+857,539,104,115,"2,90,408",Designed and deployed scalable backend services.,1/16/2015,TRUE,,918,FALSE
+858,653,256,871,"3,02,20,227",Designed and deployed scalable backend services.,04-12-2018,TRUE,,519,TRUE
+859,175,429,334,127,Designed and deployed scalable backend services.,11/24/2015,FALSE,11/24/2017,289,FALSE
+860,859,297,916,92,Developed user-centric frontend applications.,4/26/2023,TRUE,,939,FALSE
+861,633,,152,"3,76,391",Automated reporting and data visualization tasks.,07-01-2018,FALSE,07-01-2020,,TRUE
+862,773,126,472,183,Developed user-centric frontend applications.,4/30/2011,TRUE,,654,FALSE
+863,994,,277,342,Oversaw quality assurance and testing processes.,3/18/2010,FALSE,3/18/2011,831,TRUE
+864,389,834,634,332,Automated reporting and data visualization tasks.,4/18/2023,FALSE,4/18/2028,767,FALSE
+865,881,197,457,499,Automated reporting and data visualization tasks.,5/21/2010,TRUE,,878,TRUE
+866,759,,414,69,Automated reporting and data visualization tasks.,9/28/2012,FALSE,9/28/2016,428,TRUE
+867,419,657,967,"83,222",Oversaw quality assurance and testing processes.,03-04-2021,TRUE,,647,TRUE
+868,791,458,948,87,Led DevOps efforts across multiple environments.,6/23/2016,FALSE,6/23/2021,699,FALSE
+869,18,,647,268,Managed cross-functional agile teams.,06-02-2023,FALSE,06-02-2025,29,FALSE
+870,496,3,745,"47,63,30,418",Automated reporting and data visualization tasks.,01-04-2014,TRUE,,86,TRUE
+871,121,338,306,"324,67,37",Automated reporting and data visualization tasks.,4/13/2013,FALSE,4/13/2018,472,FALSE
+872,3,800,618,"11,32,05,271",Oversaw quality assurance and testing processes.,3/29/2012,FALSE,3/29/2015,676,TRUE
+873,606,,235,"24,72,00,109",Designed and deployed scalable backend services.,5/27/2022,FALSE,5/27/2025,,TRUE
+874,928,,559,"44,42,21,352",Developed user-centric frontend applications.,05-04-2012,TRUE,,489,TRUE
+875,413,440,972,325,Led DevOps efforts across multiple environments.,04-11-2013,FALSE,04-11-2018,,TRUE
+876,176,446,454,"321,65",Designed and deployed scalable backend services.,04-09-2013,TRUE,,590,FALSE
+877,364,593,908,92,Led DevOps efforts across multiple environments.,6/24/2022,TRUE,,664,FALSE
+878,550,586,62,260,Oversaw quality assurance and testing processes.,10/29/2023,FALSE,10/29/2028,550,TRUE
+879,775,855,457,"40,61,60,186",Oversaw quality assurance and testing processes.,8/25/2016,FALSE,8/25/2020,156,FALSE
+880,517,367,447,"79,145",Developed user-centric frontend applications.,10-05-2023,TRUE,,709,TRUE
+881,736,516,907,40,Managed cross-functional agile teams.,01-02-2011,FALSE,01-02-2015,165,TRUE
+882,29,145,958,210,Developed user-centric frontend applications.,7/22/2019,TRUE,,13,FALSE
+883,736,,501,"4,46,233",Automated reporting and data visualization tasks.,1/25/2014,TRUE,,,TRUE
+884,216,841,246,388,Automated reporting and data visualization tasks.,4/22/2018,FALSE,4/22/2022,863,FALSE
+885,21,314,242,"1,92,84,385",Automated reporting and data visualization tasks.,12-02-2011,TRUE,,709,FALSE
+886,756,701,203,"6,01,77,258",Managed cross-functional agile teams.,8/20/2012,TRUE,,71,TRUE
+887,480,,912,295,Automated reporting and data visualization tasks.,02-08-2023,FALSE,02-08-2027,961,TRUE
+888,271,43,79,"27,22,16,372",Led DevOps efforts across multiple environments.,03-10-2019,TRUE,,,FALSE
+889,833,497,472,"1,97,105",Designed and deployed scalable backend services.,7/30/2018,TRUE,,963,TRUE
+890,156,184,680,"10,12,84,270",Automated reporting and data visualization tasks.,12/15/2023,FALSE,12/15/2026,282,TRUE
+891,287,,665,"26,64,35,262",Designed and deployed scalable backend services.,1/27/2011,TRUE,,255,TRUE
+892,763,387,74,"98,79,5",Automated reporting and data visualization tasks.,2/16/2021,FALSE,2/16/2024,78,TRUE
+893,824,971,132,306,Oversaw quality assurance and testing processes.,02-04-2022,TRUE,,398,FALSE
+894,370,309,648,"35,01,67,242",Automated reporting and data visualization tasks.,9/15/2018,TRUE,,831,FALSE
+895,273,842,550,"7,71,46,204",Automated reporting and data visualization tasks.,10/23/2017,FALSE,10/23/2020,643,TRUE
+896,830,,861,34,Oversaw quality assurance and testing processes.,03-12-2023,FALSE,03-12-2028,102,FALSE
+897,848,288,460,452,Managed cross-functional agile teams.,2/17/2015,TRUE,,,FALSE
+898,134,,325,"231,41,77",Led DevOps efforts across multiple environments.,11/30/2016,FALSE,11/30/2021,154,TRUE
+899,536,898,350,121,Managed cross-functional agile teams.,8/25/2019,TRUE,,37,FALSE
+900,928,697,809,"13,72,15,303",Designed and deployed scalable backend services.,04-10-2013,TRUE,,45,TRUE
+901,616,,423,"46,42,25,453",Managed cross-functional agile teams.,09-07-2011,TRUE,,600,FALSE
+902,931,,309,"3,62,193",Designed and deployed scalable backend services.,03-03-2017,FALSE,03-03-2018,807,TRUE
+903,958,912,92,"4,12,268",Automated reporting and data visualization tasks.,1/18/2020,FALSE,1/18/2023,210,FALSE
+904,630,695,170,"3,07,246",Developed user-centric frontend applications.,01-08-2018,FALSE,01-08-2021,534,FALSE
+905,868,950,318,277,Led DevOps efforts across multiple environments.,4/29/2017,FALSE,4/29/2020,28,TRUE
+906,246,567,819,"38,113",Developed user-centric frontend applications.,7/13/2021,TRUE,,,FALSE
+907,684,569,520,"2,80,483",Developed user-centric frontend applications.,5/22/2017,TRUE,,,TRUE
+908,523,135,491,"133,333,35",Designed and deployed scalable backend services.,3/17/2023,FALSE,3/17/2027,,TRUE
+909,50,552,577,"4,72,330",Developed user-centric frontend applications.,4/28/2013,TRUE,,414,FALSE
+910,880,,633,"4,22,289",Led DevOps efforts across multiple environments.,6/26/2021,FALSE,6/26/2024,42,FALSE
+911,979,671,57,361,Automated reporting and data visualization tasks.,10-10-2023,FALSE,10-10-2024,853,FALSE
+912,929,811,894,93,Designed and deployed scalable backend services.,07-08-2015,FALSE,07-08-2019,241,FALSE
+913,877,531,743,"48,91,91,234",Managed cross-functional agile teams.,05-11-2013,FALSE,05-11-2016,862,TRUE
+914,776,249,369,235,Automated reporting and data visualization tasks.,01-07-2012,FALSE,01-07-2016,691,FALSE
+915,886,88,517,"2,22,467",Developed user-centric frontend applications.,6/27/2018,TRUE,,656,TRUE
+916,374,394,899,101,Designed and deployed scalable backend services.,4/29/2018,TRUE,,905,TRUE
+917,764,264,526,"2,05,232",Designed and deployed scalable backend services.,2/27/2021,FALSE,2/27/2024,117,FALSE
+918,178,114,629,"1,66,160",Managed cross-functional agile teams.,02-06-2011,FALSE,02-06-2014,876,TRUE
+919,158,441,750,86,Led DevOps efforts across multiple environments.,02-03-2014,TRUE,,87,FALSE
+920,462,,647,"38,72,44,314",Developed user-centric frontend applications.,04-02-2013,TRUE,,38,TRUE
+921,8,215,69,"326,187,68",Oversaw quality assurance and testing processes.,3/19/2010,FALSE,3/19/2014,672,TRUE
+922,995,889,388,"1,44,209",Developed user-centric frontend applications.,12-03-2010,TRUE,,81,FALSE
+923,976,928,612,"12,61,22,295",Developed user-centric frontend applications.,11/15/2015,FALSE,11/15/2016,854,FALSE
+924,668,204,141,122,Automated reporting and data visualization tasks.,9/15/2017,TRUE,,176,FALSE
+925,274,,645,"4,66,325",Developed user-centric frontend applications.,01-05-2019,FALSE,01-05-2022,,FALSE
+926,932,,921,"8,37",Designed and deployed scalable backend services.,1/26/2020,TRUE,,785,TRUE
+927,615,806,731,"3,68,145",Developed user-centric frontend applications.,2/19/2013,FALSE,2/19/2017,,FALSE
+928,577,,812,"8,406",Developed user-centric frontend applications.,12-06-2012,TRUE,,826,FALSE
+929,716,,296,232,Automated reporting and data visualization tasks.,5/19/2023,TRUE,,901,FALSE
+930,50,745,464,436,Oversaw quality assurance and testing processes.,5/17/2019,FALSE,5/17/2020,165,FALSE
+931,14,397,144,273,Led DevOps efforts across multiple environments.,3/14/2015,TRUE,,897,FALSE
+932,428,159,993,"12,23,55,143",Managed cross-functional agile teams.,03-11-2023,FALSE,03-11-2026,68,TRUE
+933,213,,845,"28,41,72,457",Managed cross-functional agile teams.,9/25/2020,FALSE,9/25/2023,,TRUE
+934,751,544,272,"3,14,71,207",Led DevOps efforts across multiple environments.,2/22/2011,FALSE,2/22/2012,,FALSE
+935,755,198,13,"453,11",Oversaw quality assurance and testing processes.,11/22/2014,TRUE,,944,TRUE
+936,308,,620,75,Developed user-centric frontend applications.,03-07-2017,FALSE,03-07-2022,438,FALSE
+937,156,,294,"3,24,12,141",Developed user-centric frontend applications.,9/23/2016,TRUE,,232,TRUE
+938,537,88,104,"3,88,295",Automated reporting and data visualization tasks.,09-03-2017,FALSE,09-03-2021,806,TRUE
+939,518,125,502,"107,29",Led DevOps efforts across multiple environments.,08-06-2018,FALSE,08-06-2023,225,FALSE
+940,310,40,358,1,Oversaw quality assurance and testing processes.,12/29/2015,FALSE,12/29/2017,163,TRUE
+941,607,86,753,"11,04,86,296",Oversaw quality assurance and testing processes.,6/19/2022,FALSE,6/19/2026,766,TRUE
+942,708,,541,"16,03,49,359",Automated reporting and data visualization tasks.,5/22/2017,TRUE,,229,TRUE
+943,429,119,24,214,Oversaw quality assurance and testing processes.,4/18/2017,FALSE,4/18/2020,200,FALSE
+944,676,265,562,219,Led DevOps efforts across multiple environments.,3/21/2012,TRUE,,82,FALSE
+945,345,,383,"7,61,27,468",Designed and deployed scalable backend services.,9/25/2017,TRUE,,753,TRUE
+946,938,459,986,"3,16,396",Automated reporting and data visualization tasks.,7/13/2011,FALSE,7/13/2013,,TRUE
+947,658,,410,"356,53",Led DevOps efforts across multiple environments.,11-10-2018,TRUE,,707,TRUE
+948,809,,180,"1,36,417",Led DevOps efforts across multiple environments.,03-12-2017,TRUE,,,FALSE
+949,385,,574,"344,222,22",Oversaw quality assurance and testing processes.,11/16/2012,FALSE,11/16/2017,679,TRUE
+950,715,,121,175,Developed user-centric frontend applications.,05-10-2014,TRUE,,96,TRUE
+951,425,,303,"3,10,419",Oversaw quality assurance and testing processes.,1/16/2020,FALSE,1/16/2023,,TRUE
+952,10,,669,"43,34,94,130",Led DevOps efforts across multiple environments.,2/22/2011,TRUE,,497,FALSE
+953,440,400,260,"1,23,415",Designed and deployed scalable backend services.,12-09-2023,TRUE,,,FALSE
+954,419,161,818,450,Developed user-centric frontend applications.,4/21/2014,FALSE,4/21/2018,683,TRUE
+955,214,819,814,"17,73,08,499",Designed and deployed scalable backend services.,6/17/2018,FALSE,6/17/2023,754,FALSE
+956,959,,705,"4,18,445",Designed and deployed scalable backend services.,6/16/2015,TRUE,,,TRUE
+957,496,,905,"3,99,330",Automated reporting and data visualization tasks.,11-03-2016,FALSE,11-03-2020,362,TRUE
+958,752,431,887,141,Led DevOps efforts across multiple environments.,01-10-2020,TRUE,,,TRUE
+959,487,,452,"28,44,88,156",Led DevOps efforts across multiple environments.,8/21/2022,TRUE,,455,FALSE
+960,570,428,634,423,Led DevOps efforts across multiple environments.,07-07-2014,TRUE,,256,TRUE
+961,510,,153,86,Oversaw quality assurance and testing processes.,05-06-2017,FALSE,05-06-2020,222,FALSE
+962,404,520,770,"15,93,05,437",Managed cross-functional agile teams.,07-09-2010,TRUE,,618,FALSE
+963,403,368,914,"80,250",Designed and deployed scalable backend services.,5/20/2020,FALSE,5/20/2023,,TRUE
+964,302,721,833,"206,32",Managed cross-functional agile teams.,5/20/2012,TRUE,,551,FALSE
+965,940,657,310,"41,04,68,423",Automated reporting and data visualization tasks.,04-01-2016,TRUE,,968,FALSE
+966,776,,752,62,Developed user-centric frontend applications.,08-08-2014,TRUE,,866,TRUE
+967,720,846,80,"20,12,71,403",Led DevOps efforts across multiple environments.,7/23/2014,FALSE,7/23/2019,,FALSE
+968,768,773,511,240,Oversaw quality assurance and testing processes.,12/25/2016,TRUE,,399,FALSE
+969,215,231,819,"23,53,14,225",Oversaw quality assurance and testing processes.,1/30/2010,TRUE,,815,TRUE
+970,327,,471,"24,83,11,288",Oversaw quality assurance and testing processes.,12/17/2020,FALSE,12/17/2021,488,FALSE
+971,394,,177,"2,17,361",Oversaw quality assurance and testing processes.,8/28/2023,FALSE,8/28/2024,,FALSE
+972,566,933,265,"66,33,123",Oversaw quality assurance and testing processes.,11/17/2015,FALSE,11/17/2020,384,TRUE
+973,901,338,843,"32,64,91,312",Managed cross-functional agile teams.,02-03-2012,FALSE,02-03-2015,146,TRUE
+974,824,503,61,"32,61,35,158",Led DevOps efforts across multiple environments.,02-06-2015,TRUE,,344,FALSE
+975,862,786,488,390,Developed user-centric frontend applications.,06-09-2018,TRUE,,58,TRUE
+976,630,,81,358,Led DevOps efforts across multiple environments.,11-07-2018,TRUE,,811,TRUE
+977,377,749,780,"4,49,473",Designed and deployed scalable backend services.,2/13/2014,FALSE,2/13/2019,254,FALSE
+978,677,,362,82,Managed cross-functional agile teams.,12-06-2019,FALSE,12-06-2023,2,TRUE
+979,186,932,510,344,Managed cross-functional agile teams.,08-01-2021,TRUE,,814,TRUE
+980,471,376,529,492,Automated reporting and data visualization tasks.,4/19/2015,TRUE,,534,TRUE
+981,609,,563,"4,31,439",Oversaw quality assurance and testing processes.,11-07-2015,TRUE,,540,TRUE
+982,586,,972,498,Managed cross-functional agile teams.,12-02-2017,TRUE,,,FALSE
+983,273,,308,"61,63,110",Developed user-centric frontend applications.,04-12-2013,FALSE,04-12-2017,,FALSE
+984,758,,699,213,Automated reporting and data visualization tasks.,12/15/2023,TRUE,,343,TRUE
+985,28,,636,"1,71,241",Designed and deployed scalable backend services.,10/23/2014,TRUE,,443,FALSE
+986,133,,897,"152,12",Designed and deployed scalable backend services.,12/31/2017,TRUE,,,TRUE
+987,416,,625,"22,94,69,254",Designed and deployed scalable backend services.,01-03-2020,FALSE,01-03-2025,208,FALSE
+988,638,,798,"1,96,212",Managed cross-functional agile teams.,08-12-2021,FALSE,08-12-2025,,TRUE
+989,457,360,257,"37,61,39,403",Led DevOps efforts across multiple environments.,01-08-2014,FALSE,01-08-2017,349,TRUE
+990,323,,631,"4,89,292",Oversaw quality assurance and testing processes.,10/13/2023,FALSE,10/13/2028,463,FALSE
+991,922,425,971,"3,34,471",Oversaw quality assurance and testing processes.,12/31/2011,FALSE,12/31/2015,,FALSE
+992,459,,668,"4,76,288",Developed user-centric frontend applications.,08-09-2011,TRUE,,,FALSE
+993,652,,658,"403,193,12",Automated reporting and data visualization tasks.,8/15/2018,TRUE,,663,TRUE
+994,654,948,546,"22,82,46,338",Developed user-centric frontend applications.,10/25/2013,TRUE,,184,FALSE
+995,742,318,909,301,Developed user-centric frontend applications.,03-07-2020,FALSE,03-07-2025,191,TRUE
+996,994,746,658,51,Designed and deployed scalable backend services.,11-09-2012,FALSE,11-09-2015,719,TRUE
+997,121,,97,"27,64,14,152",Managed cross-functional agile teams.,2/19/2022,FALSE,2/19/2024,452,FALSE
+998,759,,945,"1,12,120",Developed user-centric frontend applications.,10/31/2010,TRUE,,813,FALSE
+999,685,500,30,"226,398,21",Designed and deployed scalable backend services.,1/18/2012,FALSE,1/18/2017,408,TRUE
+1000,581,15,317,489,Designed and deployed scalable backend services.,12/18/2013,FALSE,12/18/2017,181,FALSE

@@ -1,0 +1,1001 @@
+GTS_TRAINING_ID,GTS_TRAINING_NAME,GTS_TRAINING_DESCRIPTION,GTS_TRAINING_STATUS,GTS_TRAINING_FEES,GTS_TRAINING_DURATION,GTS_TRAINING_FEES_CURRENCY
+1,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,13883.72,2 months,NOK
+2,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,14808.09,12 months,BHD
+3,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,8643.32,12 months,HUF
+4,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,1214.09,3 months,UAH
+5,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,18969.57,4 months,EGP
+6,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7830.03,4 months,RON
+7,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,17132.29,2 months,EGP
+8,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,12691.3,6 months,ZAR
+9,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,3406.84,6 months,SAR
+10,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,19308.43,12 months,KWD
+11,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,5024.21,12 months,ZAR
+12,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,19992.18,4 months,ARS
+13,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,16904.56,12 months,EUR
+14,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,519.17,3 months,BGN
+15,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,17331.59,3 months,UAH
+16,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,15101.28,3 months,UAH
+17,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,537.51,3 months,VND
+18,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,1144.37,3 months,PEN
+19,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,12259.01,9 months,ILS
+20,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9448.82,3 months,PLN
+21,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,14667.91,12 months,BRL
+22,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,5597.7,2 months,CZK
+23,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,3528.82,9 months,QAR
+24,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,7462.95,2 months,UAH
+25,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,15964.38,9 months,SGD
+26,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,13012.88,6 months,LKR
+27,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,8283.81,4 months,ZAR
+28,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,633.83,12 months,KES
+29,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,18489.23,3 months,OMR
+30,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,5238.1,12 months,NZD
+31,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,3766.64,3 months,AED
+32,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,11724.42,12 months,PEN
+33,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,13070.76,6 months,NZD
+34,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,15785.17,6 months,BHD
+35,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,2763.81,12 months,UAH
+36,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4169.8,12 months,MXN
+37,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,5290.57,9 months,QAR
+38,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,3586.23,12 months,CLP
+39,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3287.38,2 months,BRL
+40,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,4483.22,12 months,HKD
+41,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,2382.85,2 months,MXN
+42,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,16500,3 months,ARS
+43,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,13311.6,9 months,IDR
+44,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,10739.94,9 months,BDT
+45,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,13599.84,6 months,NZD
+46,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,2223.66,3 months,IDR
+47,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,9081.75,3 months,EUR
+48,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,13553.12,6 months,CAD
+49,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,19476.75,12 months,SGD
+50,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,18542.91,12 months,RON
+51,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,18043.06,6 months,QAR
+52,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,18776.49,12 months,KES
+53,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,15688.06,12 months,JPY
+54,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,1557.72,6 months,MXN
+55,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,5419.82,6 months,KRW
+56,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,3254.01,3 months,PKR
+57,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,16508.3,2 months,PKR
+58,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,16348.33,12 months,BDT
+59,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,15843.68,4 months,PEN
+60,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,3433.05,3 months,KWD
+61,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9948.72,12 months,MXN
+62,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,4043.66,6 months,GBP
+63,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,1599.68,3 months,INR
+64,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,4191.03,2 months,BHD
+65,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,3728.65,4 months,NOK
+66,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,5603.95,6 months,PEN
+67,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,17350.8,2 months,SEK
+68,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,11884.31,12 months,KRW
+69,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,15945.39,12 months,CHF
+70,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,8565.29,4 months,USD
+71,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,5189.34,3 months,MXN
+72,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9609.68,4 months,INR
+73,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8982.29,2 months,KWD
+74,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,17071.43,4 months,CHF
+75,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,14278.47,4 months,KRW
+76,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,16850.47,12 months,CHF
+77,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,18308.88,9 months,ARS
+78,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,917.37,12 months,IDR
+79,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,5806.43,6 months,JPY
+80,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,9872.23,3 months,KWD
+81,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,5852.06,6 months,VND
+82,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,3346.88,9 months,CLP
+83,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,10497.59,3 months,CHF
+84,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,18658.41,3 months,KWD
+85,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,16791.3,6 months,MYR
+86,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,9732.07,3 months,EUR
+87,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,11433.86,12 months,PEN
+88,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,2834.04,6 months,MAD
+89,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,7678.04,3 months,JPY
+90,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,7660.59,9 months,KRW
+91,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,6008.54,9 months,PEN
+92,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,6816.37,4 months,LKR
+93,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,5667.43,3 months,TWD
+94,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1554.24,12 months,LKR
+95,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,18718.61,4 months,MXN
+96,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,7154.92,9 months,JPY
+97,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,17147.32,12 months,CZK
+98,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,12982.75,12 months,KWD
+99,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,2886.35,12 months,KRW
+100,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,19115.82,3 months,NOK
+101,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,2992.6,12 months,MYR
+102,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,3228.21,6 months,BDT
+103,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,859.7,12 months,BGN
+104,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,10367.96,3 months,KWD
+105,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,5080.33,2 months,BGN
+106,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,18211.89,12 months,PLN
+107,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,10939.72,2 months,VND
+108,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,16636.86,6 months,INR
+109,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,19880.22,2 months,SGD
+110,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,6839.11,3 months,INR
+111,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,17534.95,9 months,MYR
+112,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,2651.06,4 months,KRW
+113,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,15407.5,9 months,NZD
+114,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,12951.82,9 months,BGN
+115,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,5278.79,4 months,SGD
+116,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,9752.3,4 months,IDR
+117,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,17459.34,12 months,CNY
+118,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,15993.26,4 months,MAD
+119,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,898.27,3 months,SAR
+120,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,7499.98,6 months,LKR
+121,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,16056.2,2 months,EUR
+122,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,15934.32,2 months,SGD
+123,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,5998.09,12 months,HUF
+124,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,3406.9,6 months,KWD
+125,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,13672.53,4 months,ZAR
+126,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,12987.58,2 months,BGN
+127,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,2979.52,2 months,SEK
+128,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,7319.24,9 months,AUD
+129,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,3795.3,2 months,IDR
+130,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,2965.42,9 months,CNY
+131,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,2090.13,6 months,SAR
+132,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,1552.12,4 months,USD
+133,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,5508.75,12 months,MXN
+134,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,11086.17,9 months,INR
+135,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,8489.25,6 months,IDR
+136,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,19127.84,6 months,ARS
+137,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,1154.66,2 months,USD
+138,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9741.43,4 months,KRW
+139,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,10384.41,2 months,SEK
+140,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,13133,2 months,UAH
+141,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,9729.01,12 months,CHF
+142,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,4191.53,12 months,BRL
+143,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,8257.43,6 months,RUB
+144,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,10994.61,2 months,ARS
+145,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,14390.53,4 months,ZAR
+146,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,9518.11,2 months,SGD
+147,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,14420.13,9 months,TWD
+148,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,15231.73,4 months,TWD
+149,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,15820.08,4 months,CHF
+150,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,8391.83,6 months,GBP
+151,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,1226.4,2 months,RON
+152,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8584.45,6 months,PKR
+153,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,2635.55,4 months,MYR
+154,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,16807.07,9 months,PEN
+155,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,1951.24,2 months,KWD
+156,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15048.77,3 months,USD
+157,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,19389.75,4 months,CLP
+158,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,3075.59,9 months,NZD
+159,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,14889.82,12 months,RUB
+160,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,10999.71,12 months,KES
+161,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,1613.59,4 months,AED
+162,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,11055.04,9 months,NZD
+163,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,9684.79,6 months,JPY
+164,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,5744.27,6 months,KRW
+165,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,19107.13,6 months,VND
+166,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,1875.4,4 months,ZAR
+167,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,5224.08,4 months,BHD
+168,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,16235.46,2 months,PEN
+169,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,12063.55,4 months,TWD
+170,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,9453.93,9 months,DKK
+171,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,16020.15,2 months,NGN
+172,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,16137.38,4 months,TWD
+173,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9965.29,3 months,CAD
+174,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,11871.91,9 months,CHF
+175,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,5527.35,4 months,CLP
+176,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,15037.45,4 months,CHF
+177,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,18919.88,3 months,GBP
+178,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,15975.47,9 months,CNY
+179,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,18319.79,2 months,SAR
+180,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,1408.2,3 months,PEN
+181,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,19405.93,12 months,CAD
+182,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,3658.9,2 months,BRL
+183,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8922.14,3 months,INR
+184,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,5064.17,3 months,KES
+185,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,9666.28,12 months,HKD
+186,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8412.41,9 months,BDT
+187,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,16190.74,9 months,VND
+188,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,7883.35,9 months,NZD
+189,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,2743.36,12 months,CHF
+190,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,18172.52,2 months,TWD
+191,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,10174.34,6 months,ZAR
+192,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,10531.49,6 months,ILS
+193,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,4478.78,9 months,CHF
+194,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,2475.43,6 months,JPY
+195,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,4846.63,9 months,HKD
+196,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,8400.23,3 months,CHF
+197,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,1842.01,3 months,LKR
+198,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,8939.97,3 months,KWD
+199,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,3936,12 months,THB
+200,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,7277.55,12 months,COP
+201,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,19793.78,12 months,NZD
+202,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,7241.03,2 months,ARS
+203,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,7824.57,2 months,ARS
+204,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,11464.81,6 months,EGP
+205,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,10002.38,12 months,CHF
+206,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,18361.55,9 months,PKR
+207,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,3894.82,2 months,BHD
+208,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,18057.57,6 months,AUD
+209,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,8436.8,6 months,IDR
+210,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,19170.31,2 months,ILS
+211,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,10624.52,12 months,HUF
+212,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,12955.22,6 months,KRW
+213,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,11596.54,4 months,SGD
+214,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,10913.5,3 months,HKD
+215,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,859.95,9 months,PEN
+216,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,7699.31,6 months,PEN
+217,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,14502.57,12 months,RUB
+218,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,13022.67,3 months,MYR
+219,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,3493.61,6 months,PKR
+220,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,12122.31,6 months,ZAR
+221,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,6038.36,6 months,PLN
+222,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,3623.05,3 months,KRW
+223,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,9443.91,6 months,QAR
+224,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,6869.66,2 months,JPY
+225,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,2670.1,2 months,NOK
+226,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,3867,3 months,USD
+227,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,11953,2 months,HUF
+228,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,2037.34,9 months,ARS
+229,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,18774.95,2 months,PEN
+230,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,11743.73,2 months,DKK
+231,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1216.24,12 months,INR
+232,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,16557.66,2 months,THB
+233,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,11793.24,2 months,OMR
+234,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,1580.89,4 months,CAD
+235,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,10076.4,12 months,THB
+236,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,5511.27,3 months,NZD
+237,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,17257.86,3 months,SAR
+238,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,12995.64,2 months,MAD
+239,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,17874.96,12 months,MYR
+240,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,15513.65,6 months,PKR
+241,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,621.95,4 months,COP
+242,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,14261.18,4 months,LKR
+243,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,14509.48,6 months,SAR
+244,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,3887.03,12 months,SEK
+245,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,16351.52,12 months,KES
+246,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,519.86,4 months,IDR
+247,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,16865.48,12 months,BGN
+248,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,4952.47,6 months,BGN
+249,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,4601.69,3 months,PEN
+250,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,6995.6,9 months,AUD
+251,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,18382.6,3 months,THB
+252,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,12748.83,4 months,HKD
+253,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,17456.3,12 months,AUD
+254,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,13807.24,6 months,VND
+255,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,5593.17,3 months,OMR
+256,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,11518.9,6 months,KRW
+257,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7890.09,4 months,BRL
+258,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,16715.39,9 months,NZD
+259,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,16107.09,6 months,ZAR
+260,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,11590.52,9 months,VND
+261,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,12050.07,4 months,CZK
+262,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,6808.08,4 months,COP
+263,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,12099.93,4 months,RON
+264,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,15471.93,3 months,DKK
+265,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,14977.3,2 months,VND
+266,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,19873.62,12 months,DKK
+267,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,9912.72,3 months,EGP
+268,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,5623.69,2 months,USD
+269,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1287.09,4 months,HUF
+270,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,2798.73,9 months,PLN
+271,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3441.32,9 months,INR
+272,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,18580.47,12 months,RON
+273,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,17585.69,12 months,BGN
+274,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,9154.54,3 months,RON
+275,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,15101.47,6 months,AUD
+276,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8550.37,2 months,RUB
+277,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,8255.01,3 months,PEN
+278,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,2232.13,4 months,NGN
+279,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,10741.37,6 months,CZK
+280,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,12615.7,4 months,IDR
+281,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,8294.19,2 months,DKK
+282,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,4772.6,4 months,UAH
+283,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,15443.69,6 months,BDT
+284,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,15806.31,9 months,INR
+285,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,19790.85,6 months,EGP
+286,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,19429.87,12 months,KRW
+287,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,19172.43,4 months,LKR
+288,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,726.31,2 months,OMR
+289,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,14144.28,2 months,HKD
+290,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,2484.08,2 months,SEK
+291,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,4092.17,4 months,PEN
+292,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,2787.47,12 months,BGN
+293,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,19831.09,2 months,SAR
+294,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,8660.57,3 months,CNY
+295,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,6332.84,12 months,CNY
+296,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,16984.79,2 months,BGN
+297,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,12648.61,9 months,NZD
+298,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,11659.71,6 months,MXN
+299,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,13827.67,12 months,HKD
+300,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,18340.99,12 months,SEK
+301,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,12297.41,6 months,ILS
+302,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,18971.38,2 months,COP
+303,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,16164.72,6 months,ILS
+304,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,5232.8,12 months,EGP
+305,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,4966.22,6 months,CZK
+306,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,17091.54,4 months,RUB
+307,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,19146.93,2 months,HKD
+308,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,3083.85,12 months,PEN
+309,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,4349.6,12 months,USD
+310,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9444.94,2 months,INR
+311,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,6701.23,2 months,MAD
+312,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4378,12 months,MYR
+313,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,15219.28,4 months,AED
+314,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1762.02,3 months,SGD
+315,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,6912.19,6 months,NZD
+316,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,9909.74,12 months,AED
+317,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9421.57,6 months,HKD
+318,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,17039.55,2 months,ZAR
+319,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,10809.25,2 months,MAD
+320,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,2115.51,6 months,MYR
+321,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,12563.33,3 months,CNY
+322,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,10144.41,3 months,CZK
+323,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,5647.6,9 months,EGP
+324,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,677.14,4 months,RUB
+325,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,15638.24,9 months,CHF
+326,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,3520.22,4 months,PKR
+327,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,1156.72,4 months,KES
+328,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,17047.65,9 months,LKR
+329,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,15096.87,12 months,EGP
+330,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,8414.58,12 months,RUB
+331,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,4040.37,9 months,QAR
+332,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,4049.74,4 months,OMR
+333,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,13247.34,12 months,USD
+334,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,6716.11,2 months,AUD
+335,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,8475.92,3 months,CZK
+336,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,13783.59,12 months,OMR
+337,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,18566.38,12 months,HKD
+338,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,13388.16,2 months,RON
+339,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,13253.41,3 months,BDT
+340,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,11894.33,4 months,BHD
+341,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,19570.62,3 months,CZK
+342,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,12083.14,3 months,EGP
+343,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,5213.01,6 months,HKD
+344,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,11375.9,12 months,USD
+345,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,5754.61,4 months,TWD
+346,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9004.87,2 months,SGD
+347,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15252.76,9 months,EGP
+348,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,13820.77,4 months,NOK
+349,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,19034.01,4 months,QAR
+350,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,16976.79,4 months,TWD
+351,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,9543.96,12 months,ARS
+352,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,15714.94,9 months,NGN
+353,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,15406.42,6 months,SEK
+354,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,19781.31,12 months,BHD
+355,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7960.54,2 months,ZAR
+356,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,11820.39,6 months,EUR
+357,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,12202.86,9 months,CLP
+358,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,9487.84,6 months,LKR
+359,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,15823.72,9 months,INR
+360,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,4333.94,2 months,TWD
+361,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,14614,9 months,INR
+362,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,12528.6,4 months,SEK
+363,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4592.79,6 months,CHF
+364,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,8393.06,6 months,GBP
+365,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,15685.19,6 months,CHF
+366,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,4469.73,4 months,RON
+367,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,17919.34,6 months,TWD
+368,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,18818.24,2 months,NGN
+369,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,9897.78,2 months,BDT
+370,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,16381.88,4 months,KWD
+371,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,10976.84,4 months,PEN
+372,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,10670.77,2 months,HKD
+373,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,6860.82,4 months,AUD
+374,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,5780.98,9 months,CZK
+375,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,7937.84,3 months,IDR
+376,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,19896.73,6 months,AED
+377,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,3691.69,3 months,SGD
+378,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,10741.5,12 months,GBP
+379,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,18864.79,4 months,BGN
+380,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,15042.65,2 months,VND
+381,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,11274.82,9 months,KWD
+382,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,542.91,4 months,IDR
+383,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,6006.02,2 months,UAH
+384,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,7083.25,4 months,RUB
+385,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,3477.59,6 months,HKD
+386,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,7330.43,2 months,CNY
+387,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,6644.42,12 months,ARS
+388,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,14437.22,3 months,TWD
+389,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,8075.14,2 months,SGD
+390,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,2652.69,12 months,RON
+391,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,15373.32,6 months,MAD
+392,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,19285.07,12 months,BGN
+393,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,14346.12,6 months,KES
+394,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,12313.24,3 months,JPY
+395,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,4208.6,3 months,COP
+396,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9677.51,12 months,PKR
+397,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,9820.74,4 months,MXN
+398,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,1352.59,4 months,VND
+399,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,17692.93,2 months,KES
+400,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,9802.71,12 months,BRL
+401,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,17193.33,2 months,EUR
+402,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8765.15,9 months,ZAR
+403,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,6597.75,9 months,RON
+404,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,13480.35,4 months,KES
+405,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,9064.03,4 months,TWD
+406,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,18725.12,6 months,CHF
+407,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,10580.89,4 months,KWD
+408,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9584.61,6 months,CZK
+409,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,1860.5,12 months,NGN
+410,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,1361.64,4 months,QAR
+411,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,1049.8,9 months,AED
+412,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,4507.81,6 months,UAH
+413,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,8914.06,3 months,KWD
+414,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,15836.31,12 months,RON
+415,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,10437.63,9 months,MAD
+416,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,10440.76,9 months,USD
+417,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,920.37,3 months,KES
+418,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,19699.85,9 months,IDR
+419,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,15376.37,9 months,PKR
+420,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,1340.84,2 months,JPY
+421,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,12029.15,6 months,GBP
+422,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,11909.64,4 months,HKD
+423,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,15802.77,4 months,COP
+424,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,19507.34,12 months,HUF
+425,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,7421.43,6 months,MYR
+426,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,8142.99,3 months,RON
+427,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,17189.32,2 months,CHF
+428,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7521.8,6 months,TWD
+429,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,6340.59,4 months,HKD
+430,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,14923.89,3 months,THB
+431,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,7656.86,9 months,AUD
+432,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,7390.8,3 months,BDT
+433,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,10135.23,6 months,NZD
+434,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,5255.66,9 months,OMR
+435,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,13075.82,2 months,UAH
+436,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9277.68,6 months,EUR
+437,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,7556.57,6 months,QAR
+438,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,3802.91,4 months,ZAR
+439,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,19360.04,9 months,QAR
+440,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,10985.69,3 months,KRW
+441,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,740.08,3 months,JPY
+442,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,13826.13,2 months,VND
+443,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,19750.65,12 months,HUF
+444,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,16834.77,12 months,BHD
+445,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,14049.2,6 months,HUF
+446,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,2174.92,9 months,OMR
+447,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,3617.19,4 months,LKR
+448,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,17488.98,4 months,COP
+449,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,4097.53,12 months,NOK
+450,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,5543.63,4 months,INR
+451,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,7675.12,12 months,KRW
+452,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,845.53,3 months,BDT
+453,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,10861.7,12 months,CLP
+454,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,17814.77,2 months,PKR
+455,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,18283.94,12 months,KWD
+456,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,14308.12,2 months,HUF
+457,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1467.61,12 months,ZAR
+458,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,9527.14,3 months,PLN
+459,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,2033.73,3 months,BHD
+460,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8416.15,4 months,ILS
+461,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,2842.06,9 months,COP
+462,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,18641.58,9 months,JPY
+463,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,3331.48,3 months,JPY
+464,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,6032.43,12 months,RUB
+465,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,19886.44,6 months,CAD
+466,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,18936.42,6 months,EGP
+467,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,6613.05,12 months,JPY
+468,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,9945.53,3 months,PLN
+469,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,15543.43,2 months,THB
+470,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,2989.08,6 months,MAD
+471,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,2628.46,3 months,SAR
+472,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,7743.43,12 months,MXN
+473,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,9376.31,2 months,AED
+474,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,17614.13,3 months,EUR
+475,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,1344.51,4 months,PEN
+476,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,2044.42,9 months,PEN
+477,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,1431.99,2 months,EGP
+478,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,6013.68,6 months,RUB
+479,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,12365.93,12 months,ARS
+480,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,17449.47,3 months,NGN
+481,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,3991.69,12 months,KWD
+482,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,16114,9 months,THB
+483,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,11422.88,4 months,SEK
+484,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,12914.96,3 months,SEK
+485,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,3390.31,2 months,SAR
+486,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,8746.28,4 months,CLP
+487,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,1044.12,6 months,UAH
+488,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,12934.97,2 months,THB
+489,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,15168.32,6 months,SAR
+490,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,5879.15,4 months,SEK
+491,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,8600.94,6 months,EUR
+492,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,17466.93,2 months,BGN
+493,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1656.83,3 months,HUF
+494,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,9071.17,6 months,KES
+495,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,17348.47,12 months,NOK
+496,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,2580.22,6 months,AED
+497,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,2982.16,2 months,HUF
+498,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,13232.04,3 months,KES
+499,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,3025.2,9 months,CZK
+500,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,16227.42,2 months,IDR
+501,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,8585.77,2 months,CAD
+502,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,6882.83,12 months,BGN
+503,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,18988.03,3 months,HKD
+504,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7902.72,2 months,CAD
+505,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,4171.42,9 months,CLP
+506,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4549.45,12 months,BRL
+507,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,5195.3,12 months,BRL
+508,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8890.24,12 months,ARS
+509,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,14565.9,2 months,AED
+510,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,2998.03,9 months,ILS
+511,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,11663.31,12 months,AED
+512,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,16517.73,2 months,KWD
+513,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,3354.92,12 months,PLN
+514,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,19914.07,12 months,VND
+515,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,10916.89,6 months,SGD
+516,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,3126.71,3 months,EGP
+517,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,11781.11,6 months,PEN
+518,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,17667.36,2 months,INR
+519,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,13616.05,6 months,SEK
+520,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,14727.5,4 months,KWD
+521,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,14567.01,2 months,UAH
+522,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9525.98,6 months,SAR
+523,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,13170.45,12 months,EUR
+524,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,11339.52,12 months,HKD
+525,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,14090.46,9 months,LKR
+526,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,16619.21,9 months,BRL
+527,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,613.42,6 months,LKR
+528,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,11369.48,9 months,SEK
+529,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,11861.18,9 months,CZK
+530,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,16531.37,12 months,EUR
+531,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,9715.45,9 months,JPY
+532,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,2591.48,3 months,NOK
+533,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,5509.47,2 months,EUR
+534,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,13544.65,4 months,UAH
+535,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,10364.76,6 months,PKR
+536,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,5210.64,4 months,KRW
+537,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,4329.56,3 months,SAR
+538,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,8779.5,12 months,EUR
+539,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,19456.05,4 months,COP
+540,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,14682.78,6 months,MYR
+541,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,1556.76,9 months,AUD
+542,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,1040.92,6 months,SGD
+543,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,4692.48,2 months,KWD
+544,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,15772.96,2 months,CHF
+545,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,1040.98,9 months,PLN
+546,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,7523.52,4 months,THB
+547,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,3434.04,3 months,EUR
+548,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,17370.02,2 months,SEK
+549,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,2946.16,6 months,BGN
+550,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,3830.56,9 months,RON
+551,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,9763.06,9 months,LKR
+552,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,7481.7,4 months,CAD
+553,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,3524.09,3 months,MXN
+554,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,5666.39,9 months,CAD
+555,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,16796.43,9 months,NGN
+556,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,16696.19,2 months,RUB
+557,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3272.54,4 months,TWD
+558,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,6138.04,12 months,SGD
+559,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,838.99,12 months,AUD
+560,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,12611.01,12 months,GBP
+561,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,10800.98,9 months,BDT
+562,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,18735.53,2 months,COP
+563,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,18262.16,6 months,LKR
+564,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,16501.12,12 months,SEK
+565,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,15991.17,3 months,BHD
+566,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,14137.16,12 months,CLP
+567,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9921.37,2 months,BGN
+568,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,16387.33,2 months,QAR
+569,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,3634.26,3 months,PLN
+570,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,1277.06,3 months,CLP
+571,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,18499.42,3 months,LKR
+572,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,7760.13,6 months,KWD
+573,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,10271.14,9 months,DKK
+574,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,6043.26,2 months,ILS
+575,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,12472.39,12 months,NOK
+576,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,12820.27,4 months,OMR
+577,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,7531.64,12 months,MYR
+578,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,1252.93,6 months,SGD
+579,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,959.38,2 months,DKK
+580,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,2181.1,12 months,BGN
+581,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,12939.43,3 months,BDT
+582,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,6908.27,9 months,BGN
+583,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,9229.74,6 months,MAD
+584,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,18432.78,6 months,IDR
+585,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4994.44,12 months,SAR
+586,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,3856.3,6 months,JPY
+587,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,18590.98,2 months,QAR
+588,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,17275.04,4 months,GBP
+589,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,15461.16,12 months,EGP
+590,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9917.05,9 months,PEN
+591,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,699.77,6 months,CHF
+592,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3816.79,2 months,RUB
+593,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,11394.09,2 months,RUB
+594,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,16891.68,6 months,NZD
+595,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,8162.16,12 months,MAD
+596,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,9828.66,12 months,QAR
+597,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,6540.91,2 months,RON
+598,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,3042.72,6 months,PKR
+599,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,14156.95,12 months,MYR
+600,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,4467.77,6 months,RON
+601,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,13491.74,4 months,SGD
+602,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,6805.09,3 months,GBP
+603,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8485.86,3 months,EUR
+604,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,17168,2 months,BDT
+605,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,4656.9,9 months,HKD
+606,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,16160.38,3 months,PEN
+607,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,6900.45,4 months,AUD
+608,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8807.93,2 months,BDT
+609,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,17801.84,4 months,BDT
+610,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9545.98,3 months,ILS
+611,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,7857.94,9 months,AUD
+612,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,19513.79,9 months,BHD
+613,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,10870.93,4 months,CZK
+614,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,19132.39,6 months,ZAR
+615,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,7015.67,6 months,CAD
+616,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,16668,6 months,HKD
+617,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,1999.33,3 months,CLP
+618,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,14615.87,12 months,TWD
+619,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,3097.05,9 months,AED
+620,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,6550.1,6 months,MYR
+621,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,6242.78,6 months,AED
+622,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,3649.25,4 months,NGN
+623,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,1193.26,12 months,VND
+624,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,13292.22,3 months,KWD
+625,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,5813.18,2 months,PKR
+626,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,6478.76,6 months,SGD
+627,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,14381.91,2 months,PEN
+628,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,14371.66,6 months,RON
+629,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,7885.47,6 months,ARS
+630,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,3031.57,4 months,GBP
+631,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15863.04,4 months,CHF
+632,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,8213.41,3 months,BGN
+633,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,1305.34,3 months,AED
+634,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,3697.69,2 months,CLP
+635,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,12559.23,4 months,AED
+636,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,14379.15,12 months,SEK
+637,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,13565.71,3 months,CLP
+638,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,6868.3,2 months,QAR
+639,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,1322.82,4 months,DKK
+640,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,6017.24,4 months,BGN
+641,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,14495.86,4 months,NGN
+642,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,5698.74,2 months,HUF
+643,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,10639.32,6 months,PEN
+644,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,10600.93,12 months,PLN
+645,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,13702.71,2 months,PKR
+646,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,12802.44,12 months,INR
+647,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,7500.37,6 months,HKD
+648,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,14299.56,2 months,CAD
+649,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,18100.45,12 months,VND
+650,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,16689.75,3 months,DKK
+651,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,1488.32,12 months,TWD
+652,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8334.02,3 months,JPY
+653,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,14316.64,9 months,TWD
+654,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,17744.36,9 months,CZK
+655,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,13188.21,2 months,BGN
+656,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,15401.69,4 months,BHD
+657,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,6499.64,6 months,LKR
+658,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,1861.36,9 months,SEK
+659,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,13102.76,2 months,UAH
+660,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,16214.57,4 months,NGN
+661,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,3678.73,4 months,KES
+662,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,18615.45,9 months,SEK
+663,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,10805.48,4 months,THB
+664,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,3058.83,3 months,PLN
+665,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,1126.2,2 months,CHF
+666,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,4486.23,4 months,KES
+667,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,5386.05,12 months,ILS
+668,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,19709.82,9 months,MYR
+669,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,10960.47,4 months,GBP
+670,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,13677.88,12 months,KRW
+671,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,19343.1,6 months,DKK
+672,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,5373.19,4 months,MAD
+673,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,14660.69,12 months,CHF
+674,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,9870.21,6 months,QAR
+675,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,11730.17,9 months,UAH
+676,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,7963.37,4 months,SEK
+677,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,15308.67,3 months,EGP
+678,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,18785.19,3 months,CZK
+679,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,8084,6 months,SAR
+680,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,17147.36,2 months,PEN
+681,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,505.36,12 months,ILS
+682,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,2357.64,4 months,RUB
+683,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,12516.9,3 months,SEK
+684,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,13168.27,4 months,CLP
+685,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,3115.88,3 months,SGD
+686,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,3351.16,2 months,PKR
+687,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,8953.4,9 months,AED
+688,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,4669.35,12 months,IDR
+689,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,12775.12,12 months,AED
+690,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,5587.56,3 months,AED
+691,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,8983.5,9 months,RUB
+692,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,17507.17,9 months,BRL
+693,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,4839.11,3 months,KES
+694,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,2447.8,2 months,MXN
+695,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,549.35,3 months,LKR
+696,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,6639,12 months,COP
+697,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,942.61,9 months,PKR
+698,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,11288.72,2 months,RON
+699,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,3364.54,2 months,ILS
+700,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,16736.93,6 months,PKR
+701,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,19650.29,2 months,RUB
+702,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9219.88,4 months,CZK
+703,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,14069.44,6 months,NOK
+704,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,19756.59,3 months,BGN
+705,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,11523.53,4 months,KRW
+706,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,12690.31,3 months,KES
+707,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,13388.73,2 months,BRL
+708,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,15197.99,9 months,DKK
+709,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,9370.16,12 months,SAR
+710,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,2580.48,3 months,NGN
+711,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,10032.81,12 months,COP
+712,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,15140.07,2 months,PEN
+713,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,16321.8,12 months,DKK
+714,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,9859.68,9 months,AED
+715,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,2740.88,3 months,MXN
+716,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7283.16,2 months,AUD
+717,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9185.5,6 months,THB
+718,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,1841.24,4 months,NOK
+719,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,2621.2,3 months,OMR
+720,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,9124.55,12 months,PKR
+721,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,12391.02,4 months,DKK
+722,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,5728.44,3 months,JPY
+723,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,973.6,3 months,COP
+724,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,17665.8,12 months,INR
+725,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,19116.98,4 months,EUR
+726,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,12036.34,2 months,DKK
+727,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,6922.51,6 months,CLP
+728,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,15975.39,4 months,HKD
+729,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,3489.69,4 months,RUB
+730,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,7395.32,2 months,SAR
+731,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,10616.42,9 months,NZD
+732,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,11411.93,6 months,QAR
+733,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,4232,4 months,OMR
+734,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8574.17,6 months,ZAR
+735,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,14297.7,6 months,JPY
+736,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,7562.06,2 months,THB
+737,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,15073.62,9 months,KWD
+738,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,4092.17,4 months,OMR
+739,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,17432.84,2 months,EUR
+740,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,18234.19,9 months,JPY
+741,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,19487.78,9 months,TWD
+742,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,4262.66,4 months,MYR
+743,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,15354.66,12 months,THB
+744,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,4017.6,9 months,KES
+745,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,14401.95,6 months,TWD
+746,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,18740.18,4 months,BGN
+747,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,2058.03,6 months,USD
+748,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,17971.85,9 months,NOK
+749,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,6714.81,9 months,HKD
+750,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,6806.14,3 months,NGN
+751,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,10836.99,2 months,HKD
+752,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,15175.49,3 months,COP
+753,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,9556.88,9 months,CZK
+754,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,18092.39,2 months,PEN
+755,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,8219.37,12 months,LKR
+756,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,2191.26,6 months,CNY
+757,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,14815.16,12 months,LKR
+758,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9848.22,6 months,EGP
+759,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,10106.76,2 months,AUD
+760,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,11909.91,2 months,CZK
+761,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,19954.76,3 months,SEK
+762,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,14634.66,6 months,ZAR
+763,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,1362.72,4 months,MYR
+764,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,14306.58,4 months,USD
+765,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,16430.94,12 months,CNY
+766,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,3892.43,4 months,QAR
+767,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,15180.18,2 months,CLP
+768,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,17839.67,6 months,EUR
+769,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,1671.6,3 months,BDT
+770,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,1836.21,9 months,COP
+771,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,10434.94,4 months,COP
+772,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,4918.32,6 months,ARS
+773,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8627.34,12 months,BRL
+774,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,1986.55,6 months,EUR
+775,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,10682.39,9 months,DKK
+776,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,9242.63,9 months,LKR
+777,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,16497.18,3 months,NZD
+778,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,8388.37,9 months,CAD
+779,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,16544.27,4 months,PLN
+780,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,16924.63,2 months,MYR
+781,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,18321.72,9 months,RON
+782,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,4401.61,3 months,PKR
+783,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,8478.17,9 months,LKR
+784,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,2998.61,4 months,PLN
+785,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,13331.71,4 months,UAH
+786,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,17764.47,2 months,AED
+787,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,8099.94,3 months,BHD
+788,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,8446.24,2 months,KRW
+789,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,10430.37,4 months,SGD
+790,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,13773.28,12 months,IDR
+791,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,16908.49,3 months,ILS
+792,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,6248.77,3 months,MAD
+793,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,19067.11,3 months,KES
+794,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,4815.43,12 months,SEK
+795,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,3439.3,4 months,VND
+796,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,656.36,6 months,EUR
+797,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,2139.02,3 months,KRW
+798,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,14822.79,2 months,CAD
+799,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,4903.2,12 months,AED
+800,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,13574.14,3 months,EGP
+801,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,19608.93,2 months,QAR
+802,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,591.18,12 months,ARS
+803,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,7248.82,2 months,PEN
+804,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,19092.45,4 months,CAD
+805,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,14870.86,6 months,JPY
+806,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,5286.9,2 months,BHD
+807,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,15287.76,6 months,PKR
+808,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,5513.97,2 months,SAR
+809,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,8580.66,9 months,OMR
+810,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,17634.27,12 months,EUR
+811,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,13644.29,3 months,GBP
+812,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,19715.95,4 months,MYR
+813,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,6446.79,4 months,OMR
+814,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,13440.22,9 months,DKK
+815,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,7181.95,9 months,PEN
+816,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,12472.98,12 months,NZD
+817,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,12645.8,12 months,KES
+818,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,7997.68,2 months,KES
+819,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,9473.3,2 months,CLP
+820,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,17094.01,9 months,KRW
+821,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,11097.14,6 months,AUD
+822,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,17092.29,9 months,SAR
+823,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,18578.39,9 months,MAD
+824,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4926.9,6 months,EUR
+825,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,14356.87,3 months,UAH
+826,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,8307.88,9 months,MXN
+827,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,13385.01,4 months,ILS
+828,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9484.85,9 months,HUF
+829,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,557.02,6 months,EGP
+830,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,16529.42,3 months,MYR
+831,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,3088.64,12 months,IDR
+832,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,9588.87,2 months,KWD
+833,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,17053.78,3 months,DKK
+834,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,19912.7,4 months,BHD
+835,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,18219.54,9 months,OMR
+836,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,18375.17,3 months,MAD
+837,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,4227.7,2 months,GBP
+838,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,14390.16,9 months,EGP
+839,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,523.37,2 months,PEN
+840,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,4192.53,6 months,COP
+841,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,13293.32,4 months,MAD
+842,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,16098.53,3 months,JPY
+843,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,14013.52,4 months,PKR
+844,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,19193.39,3 months,KES
+845,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,11458.14,6 months,PLN
+846,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,4582.86,4 months,CLP
+847,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,10771.1,9 months,KES
+848,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,5736.35,4 months,SGD
+849,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,19646.5,4 months,BDT
+850,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,6218.06,3 months,EUR
+851,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,10206.56,2 months,THB
+852,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,3028.4,3 months,SAR
+853,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,9067.18,9 months,UAH
+854,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,6087.64,3 months,BDT
+855,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,8041.49,9 months,COP
+856,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,18589.25,12 months,EGP
+857,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,11743.66,2 months,GBP
+858,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,13561.34,3 months,CNY
+859,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,5383.31,4 months,BDT
+860,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,9829.35,4 months,BGN
+861,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,2278.12,3 months,EUR
+862,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,3130.64,6 months,USD
+863,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,4945.84,4 months,EUR
+864,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,12068.25,9 months,COP
+865,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,14678.83,9 months,CNY
+866,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,14568.13,6 months,INR
+867,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7536.62,3 months,RON
+868,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3234.94,6 months,BGN
+869,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,7411.71,9 months,HKD
+870,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15534.6,3 months,BGN
+871,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,8933.57,9 months,CAD
+872,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,6811.41,2 months,CZK
+873,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,10499.83,2 months,CAD
+874,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,1791.79,4 months,LKR
+875,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15805.31,9 months,MAD
+876,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,14049.27,9 months,VND
+877,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,6029.12,3 months,INR
+878,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,12763.4,4 months,CNY
+879,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,11878.83,12 months,BRL
+880,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,19125.82,6 months,LKR
+881,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15942.42,12 months,KRW
+882,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,18467.49,2 months,BDT
+883,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,17495.42,9 months,CNY
+884,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,15710.06,4 months,CAD
+885,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,15356.75,4 months,BDT
+886,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,15796.14,6 months,CZK
+887,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,7619.04,12 months,RUB
+888,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,19774.8,4 months,PEN
+889,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,15645.2,9 months,JPY
+890,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,17133.59,9 months,JPY
+891,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,11870.88,4 months,CZK
+892,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,18708.44,6 months,QAR
+893,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,14497.6,3 months,MAD
+894,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,952.6,4 months,OMR
+895,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,8865.81,12 months,KWD
+896,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,1997.72,6 months,CLP
+897,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,18538.23,2 months,COP
+898,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,8624.56,3 months,RON
+899,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,3513.7,2 months,SGD
+900,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,15098.74,3 months,INR
+901,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,12794.12,12 months,NZD
+902,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,10065.3,6 months,EGP
+903,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,14483.09,4 months,KRW
+904,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,9781.92,6 months,RON
+905,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,10706.42,12 months,EUR
+906,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,11502.6,3 months,UAH
+907,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,8498.97,2 months,PLN
+908,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,9271.08,9 months,MXN
+909,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,4540.72,6 months,CHF
+910,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,1752.55,3 months,PEN
+911,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,18276.7,9 months,HKD
+912,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,12491.47,3 months,CNY
+913,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,19457.98,9 months,BHD
+914,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,5822.22,12 months,KES
+915,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,7853.22,12 months,MXN
+916,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,8020.11,12 months,RON
+917,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,890.29,12 months,KWD
+918,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,16478.02,3 months,USD
+919,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,1387.39,2 months,THB
+920,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,1970.83,4 months,NGN
+921,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,16057.73,4 months,MAD
+922,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,13216.96,12 months,AUD
+923,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",TRUE,18526.85,6 months,ZAR
+924,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,8488.7,12 months,PLN
+925,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,6385.85,12 months,PLN
+926,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,12279.45,2 months,MXN
+927,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,14883.66,6 months,INR
+928,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,13367.74,3 months,BRL
+929,Digital Marketing Fundamentals,"Explore SEO, email marketing, and social media strategy.",FALSE,2804.92,4 months,UAH
+930,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,10406.46,3 months,HKD
+931,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,4134.26,4 months,IDR
+932,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,11197.87,4 months,AED
+933,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3513.67,2 months,KES
+934,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,9637.2,3 months,AED
+935,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,602.45,12 months,PLN
+936,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,4526.74,4 months,ARS
+937,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,10868.3,4 months,OMR
+938,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,13008.55,2 months,OMR
+939,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,11292.76,6 months,OMR
+940,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,8238.87,2 months,TWD
+941,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,15651.14,2 months,TWD
+942,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,4150.81,3 months,NZD
+943,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,10407.26,6 months,SEK
+944,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,19986.39,6 months,IDR
+945,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,1426.35,3 months,NZD
+946,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,1637.04,12 months,VND
+947,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,8638.91,12 months,NGN
+948,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,8240.41,6 months,COP
+949,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,9903.9,4 months,BGN
+950,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,6502.64,2 months,KRW
+951,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,13778.27,6 months,EUR
+952,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,19022.82,6 months,DKK
+953,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7481.72,4 months,PLN
+954,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8707.49,9 months,CNY
+955,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,13734.11,6 months,OMR
+956,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,2710.09,4 months,TWD
+957,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,5511.32,6 months,INR
+958,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,12934.05,9 months,GBP
+959,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,9219.26,6 months,TWD
+960,Python for AI & ML,Build AI models and machine learning applications using Python.,TRUE,9784.41,12 months,JPY
+961,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,3425.77,6 months,PEN
+962,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,6959.43,2 months,PKR
+963,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,19550.98,4 months,CAD
+964,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,3625.05,6 months,THB
+965,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,14566.29,6 months,RON
+966,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,13648.7,6 months,PLN
+967,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,18861.2,12 months,EGP
+968,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,3281.85,3 months,PEN
+969,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,12039.09,3 months,CZK
+970,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,FALSE,10504.75,3 months,CZK
+971,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,17245.74,4 months,HKD
+972,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",TRUE,5118.15,9 months,HKD
+973,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",FALSE,17685.29,4 months,DKK
+974,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,4137.32,2 months,KWD
+975,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,17417.85,12 months,AED
+976,Python for AI & ML,Build AI models and machine learning applications using Python.,FALSE,18256.55,4 months,SEK
+977,Full Stack Web Development,Learn to build full web applications using frontend and backend technologies.,TRUE,3550.41,2 months,INR
+978,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,FALSE,5394.18,9 months,HUF
+979,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,18874.1,12 months,UAH
+980,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,17117.74,4 months,OMR
+981,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,8441.59,6 months,PLN
+982,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",FALSE,6519.33,12 months,EUR
+983,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,10966.6,6 months,NGN
+984,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,7682.2,4 months,JPY
+985,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,13169.43,2 months,LKR
+986,Data Science Bootcamp,"Learn Python, machine learning, and data analysis to build a career in data science.",FALSE,2171.3,6 months,PKR
+987,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,14864.53,6 months,TWD
+988,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,12805.35,9 months,THB
+989,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",FALSE,19540.07,6 months,VND
+990,Web Development Essentials,"Master HTML, CSS, and JavaScript to build responsive websites.",TRUE,15696.35,4 months,SEK
+991,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,12342.6,4 months,COP
+992,Communication & Soft Skills,"Enhance workplace communication, presentation, and collaboration skills.",TRUE,9825.05,3 months,MAD
+993,SQL for Beginners,Start writing SQL queries to manage and analyze databases.,TRUE,682.52,2 months,ZAR
+994,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,9882.76,6 months,THB
+995,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,6748.83,9 months,USD
+996,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",FALSE,4916.52,9 months,KWD
+997,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,TRUE,15972.66,3 months,KWD
+998,Advanced Excel for Analysts,"Level up your Excel skills with pivot tables, formulas, and automation.",TRUE,18270.5,2 months,BHD
+999,Cybersecurity Foundations,Understand cyber threats and how to protect networks and data.,FALSE,6050.37,6 months,MAD
+1000,Cloud Computing with AWS,"Get hands-on with AWS services like EC2, S3, and Lambda.",TRUE,3296.62,12 months,TWD

@@ -1,0 +1,1001 @@
+GTS_USER_ADDRESS_ID,GTS_USER_ID,GTS_ADDRESS_TYPE,GTS_USER_ADDRESS_LINE_1,GTS_USER_ADDRESS_LINE_2,GTS_USER_ADDRESS_LINE_3,GTS_CITY_ID,GTS_STATE_ID,GTS_COUNTRY_ID,GTS_USER_PIN_CODE
+1,51,Temporary,10 Paget Parkway,,Apt 1662,473,,619,36-047
+2,19,Permanent,050 Hoepker Pass,Chive,4th Floor,,270,956,B4H
+3,23,Temporary,69531 Steensland Park,Carey,Suite 25,,3,,
+4,913,Temporary,8905 Eagan Point,Acker,Room 1588,,,459,752-0923
+5,39,Temporary,064 Schmedeman Plaza,Scoville,Apt 327,,,31,49010 CEDEX 01
+6,442,Permanent,60260 Continental Terrace,Lakewood Gardens,,322,,450,42242
+7,385,Temporary,38 Center Circle,,Room 1510,615,,289,
+8,106,Temporary,14173 Forest Center,,,314,,291,
+9,858,Permanent,8062 Kings Hill,Morningstar,,678,253,383,
+10,150,Temporary,895 Mcbride Way,Debs,Room 1585,672,459,,
+11,118,Permanent,18 Loeprich Trail,Petterle,,207,,183,
+12,916,Permanent,577 Fordem Pass,,,,836,954,4640
+13,927,Permanent,37435 Hoffman Park,,3rd Floor,,619,,49140-000
+14,595,Temporary,7 Basil Pass,Mesta,,249,,,47894
+15,967,Temporary,5296 Starling Pass,,,,,158,
+16,709,Temporary,86836 Stuart Parkway,,5th Floor,,,291,
+17,605,Permanent,6 Badeau Point,,,595,,,40596
+18,697,Temporary,1 Kennedy Avenue,,Apt 411,325,710,475,
+19,952,Permanent,6197 Bobwhite Junction,Carey,7th Floor,22,,580,
+20,864,Temporary,7 Hermina Pass,,Suite 83,548,,186,83087
+21,913,Temporary,290 Straubel Circle,,7th Floor,129,422,401,
+22,509,Permanent,4 Summit Street,Myrtle,,,602,21,
+23,581,Temporary,05 Fair Oaks Pass,,Suite 57,369,573,27,52109 CEDEX
+24,506,Permanent,918 Center Junction,,Room 1901,539,,,29220
+25,310,Permanent,9564 Pankratz Circle,,1st Floor,,189,,
+26,791,Permanent,54796 Southridge Plaza,Milwaukee,,,389,300,58701
+27,841,Temporary,9 Oak Pass,,Suite 27,173,423,,
+28,514,Permanent,7320 Washington Lane,,Suite 38,,298,456,
+29,320,Permanent,89 Killdeer Way,Little Fleur,,,,529,18480-000
+30,549,Permanent,4 Vidon Crossing,,,,962,,
+31,753,Temporary,96 Elmside Road,,Apt 1018,,,933,
+32,682,Permanent,5 Barnett Drive,Corry,,,590,,
+33,951,Temporary,6 Declaration Trail,,,,162,619,
+34,196,Temporary,0118 Morning Avenue,Kensington,,754,831,,
+35,360,Permanent,66 Northport Alley,Glendale,Suite 23,851,279,393,
+36,708,Temporary,71907 Gulseth Pass,,10th Floor,,830,,
+37,381,Permanent,1 Red Cloud Trail,Quincy,,705,,332,T4S
+38,18,Temporary,907 Columbus Point,,,,958,215,
+39,62,Permanent,95 Milwaukee Street,,Room 1394,,217,,2007
+40,735,Permanent,14 Swallow Pass,Huxley,,636,323,468,
+41,60,Temporary,91 Village Center,Buell,19th Floor,,992,401,4415-092
+42,701,Permanent,8 Charing Cross Drive,Kennedy,12th Floor,183,,,76630-000
+43,624,Permanent,532 Reinke Point,Mayfield,Apt 1960,584,,,739 51
+44,611,Temporary,055 Annamark Drive,,PO Box 91685,,,22,
+45,397,Permanent,0 Merrick Point,Rutledge,,231,128,856,8604
+46,215,Permanent,398 North Trail,Summer Ridge,Apt 631,665,,705,47-232
+47,707,Permanent,258 Ludington Terrace,Prentice,Apt 122,,340,318,
+48,383,Temporary,7805 Amoth Lane,Fallview,Suite 42,207,432,,
+49,936,Permanent,43 Claremont Street,,Apt 1475,,71,743,
+50,230,Permanent,927 Hazelcrest Hill,,,,,82,
+51,562,Permanent,071 Tennessee Junction,,,,,415,9880-324
+52,821,Temporary,64 Menomonie Parkway,,,,889,582,5510
+53,929,Temporary,4 Russell Point,Warner,,,352,846,2624
+54,742,Permanent,82 Rowland Street,,Apt 1731,,509,,
+55,479,Temporary,99 5th Pass,,Suite 71,,,,
+56,721,Temporary,75965 New Castle Street,Bunting,14th Floor,,722,,48-100
+57,43,Permanent,08201 Lighthouse Bay Crossing,Bay,Suite 13,,418,587,8242
+58,473,Permanent,75716 Maryland Trail,West,Room 396,679,,,
+59,50,Permanent,0081 Dawn Road,Melrose,Suite 9,196,,,
+60,596,Permanent,5 Forest Run Center,Surrey,Room 1026,,43,639,
+61,640,Temporary,69 Lien Crossing,Rutledge,,,440,,2810
+62,404,Permanent,39002 Fairfield Hill,,14th Floor,28,,492,
+63,729,Temporary,218 Declaration Place,Del Sol,PO Box 3997,,,,34320
+64,842,Temporary,7 Golden Leaf Court,,,,367,,762 91
+65,12,Permanent,93 South Street,Bunting,,719,498,812,661 31
+66,244,Permanent,829 Gateway Lane,,,369,,63,
+67,98,Permanent,955 Commercial Plaza,,Suite 94,,350,,
+68,395,Temporary,24199 Goodland Place,,6th Floor,90,353,891,52848
+69,599,Permanent,18 Graedel Trail,Pawling,Apt 634,636,760,839,78-650
+70,703,Permanent,90742 2nd Hill,,Suite 21,262,,852,
+71,938,Temporary,9 Claremont Parkway,Leroy,,148,,13,
+72,150,Permanent,17 Moose Crossing,Hoard,12th Floor,,102,689,1630
+73,652,Permanent,38 Crowley Park,Donald,,33,136,,87-148
+74,780,Permanent,267 Coolidge Place,Golf,,,,,
+75,110,Temporary,6 Rusk Alley,,Room 1334,544,539,,
+76,318,Permanent,99 Delladonna Point,Sloan,1st Floor,243,75,982,
+77,225,Permanent,60 Dahle Trail,Dapin,12th Floor,833,653,469,
+78,164,Permanent,9 Clemons Crossing,1st,Suite 16,708,291,123,6547
+79,442,Temporary,1893 Mayer Alley,Beilfuss,,185,,,
+80,822,Permanent,450 Fisk Lane,,,,491,966,950-3345
+81,575,Permanent,839 Golf Course Street,,,259,,,57-343
+82,904,Temporary,2 Susan Circle,Raven,10th Floor,,,,
+83,585,Temporary,44719 Delladonna Park,Anniversary,,615,391,960,
+84,855,Temporary,3 Toban Park,Brentwood,,,800,846,
+85,471,Temporary,3 Namekagon Avenue,Vahlen,,,42,,
+86,378,Temporary,5179 Killdeer Pass,,Room 69,15,493,433,8045
+87,692,Temporary,70 Scofield Plaza,Anthes,Room 1222,,6,528,925-0373
+88,874,Temporary,33 American Road,,10th Floor,825,479,535,
+89,103,Temporary,51312 Del Sol Place,Charing Cross,Suite 24,,,44,296 24
+90,794,Permanent,001 Golden Leaf Lane,Dexter,Apt 714,,,346,8138
+91,636,Temporary,5219 Memorial Plaza,Fieldstone,1st Floor,80,326,721,7250
+92,871,Permanent,97071 Portage Alley,,PO Box 73137,672,,,32-064
+93,44,Permanent,428 Corry Drive,Armistice,,,38,46,
+94,458,Permanent,57314 2nd Hill,Morning,Apt 789,,756,875,2505
+95,416,Permanent,692 Aberg Street,Stang,,,755,561,
+96,808,Temporary,95 Crownhardt Junction,Mccormick,,,,,
+97,717,Temporary,6 High Crossing Way,West,Suite 44,779,571,,
+98,612,Temporary,806 Carioca Way,David,PO Box 28567,447,781,266,
+99,610,Permanent,6 Moulton Lane,Novick,,281,568,169,
+100,212,Temporary,87 Killdeer Drive,,,966,240,13,2655-034
+101,585,Permanent,855 Golf Course Park,,9th Floor,1000,,,
+102,845,Temporary,6552 Hoepker Place,Quincy,PO Box 13836,,96,,4840-080
+103,455,Temporary,28820 Little Fleur Trail,Arrowood,Suite 17,,567,,2655-469
+104,901,Temporary,25836 Lukken Road,Sachs,,,871,718,
+105,320,Permanent,91790 Eliot Road,Mifflin,Apt 33,722,,,423638
+106,951,Temporary,3876 Gina Alley,Lake View,Apt 31,,,72,28-230
+107,517,Temporary,60679 Bowman Park,Eastlawn,,863,598,948,
+108,726,Permanent,47359 Fallview Place,,PO Box 88471,401,,810,
+109,502,Permanent,3445 Bartillon Way,,Room 1096,,553,,413-0033
+110,471,Permanent,88 Carpenter Way,Jackson,PO Box 54754,,783,,
+111,996,Temporary,502 Shoshone Way,Nancy,PO Box 31997,326,21,598,181353
+112,871,Permanent,88545 Corscot Parkway,Hudson,Apt 496,195,122,570,
+113,596,Permanent,654 Oneill Parkway,Norway Maple,Apt 510,,,547,680 01
+114,112,Temporary,94 Knutson Alley,Morning,Apt 1613,,,309,2714
+115,555,Temporary,2111 Express Way,Porter,,249,,143,10840
+116,122,Temporary,9 4th Way,Ridgeway,Room 644,357,,637,
+117,486,Temporary,9140 Fairfield Street,,,146,76,,6550
+118,336,Temporary,75469 Twin Pines Way,Harper,PO Box 52693,902,738,,R21
+119,895,Temporary,496 Golden Leaf Hill,,Room 1762,404,,935,125 71
+120,77,Permanent,727 Hagan Pass,,,,,,95061 CEDEX 1
+121,917,Permanent,62733 Riverside Road,Pepper Wood,,,,839,571 01
+122,360,Temporary,183 Summerview Plaza,,20th Floor,,,,
+123,704,Permanent,0 Cottonwood Road,,9th Floor,649,980,135,30001
+124,554,Temporary,48 Mallard Junction,,5th Floor,647,830,,92959 CEDEX
+125,363,Permanent,8989 Porter Crossing,,Suite 52,431,663,607,GL54
+126,724,Permanent,8438 Hooker Road,,,922,179,349,
+127,97,Temporary,8 Pleasure Plaza,Burning Wood,,,,380,2430
+128,869,Permanent,287 Dryden Center,,,5,,828,901993
+129,3,Permanent,49270 Mesta Parkway,Mccormick,,,,,621 75
+130,650,Permanent,148 Nevada Way,Graedel,PO Box 22794,490,972,943,67029 CEDEX 1
+131,26,Temporary,8131 Kingsford Plaza,Northwestern,,804,,,442519
+132,394,Permanent,7210 4th Pass,Linden,Suite 96,7,588,,
+133,86,Temporary,6039 Thackeray Street,Dryden,,497,467,157,13690-000
+134,131,Temporary,23231 Farragut Alley,Barnett,,,434,,633216
+135,545,Temporary,31976 Hanover Junction,,Apt 1015,,,,
+136,222,Permanent,9 Utah Terrace,Westend,,,168,341,762008
+137,463,Temporary,3 Mariners Cove Hill,Nevada,Apt 1748,,682,324,
+138,804,Permanent,244 Hermina Park,,,604,976,61,17
+139,500,Temporary,3 Merrick Place,Rieder,PO Box 11508,945,659,643,
+140,532,Temporary,630 Drewry Park,,Apt 340,666,8,829,
+141,886,Permanent,66 Schurz Trail,,,483,,450,33080 CEDEX
+142,441,Permanent,63 1st Parkway,Dixon,,,,310,366606
+143,110,Temporary,1 Wayridge Place,Prentice,,,107,779,
+144,968,Temporary,1157 Hollow Ridge Terrace,,Apt 497,,701,362,
+145,468,Permanent,186 Spohn Hill,Pearson,,381,518,769,
+146,175,Temporary,76685 Acker Street,Armistice,,824,,575,30910 CEDEX 2
+147,636,Permanent,40291 Dwight Street,Fieldstone,,959,,481,293 93
+148,485,Temporary,5 Old Gate Point,,Suite 44,814,,885,
+149,259,Temporary,915 Village Court,,,,,,93883 CEDEX
+150,609,Temporary,09769 Eastwood Drive,,,35,871,,
+151,142,Temporary,03978 Golf Course Pass,Butterfield,Suite 58,,397,827,
+152,624,Temporary,428 Del Sol Center,,Apt 1692,,779,85,
+153,945,Permanent,9147 Sachs Hill,,Apt 60,434,223,607,J0N
+154,896,Permanent,06 Pepper Wood Park,Namekagon,,97,119,,347460
+155,215,Temporary,245 John Wall Place,,Suite 3,399,491,584,
+156,964,Permanent,53541 Fairfield Plaza,Fallview,,,,336,2550-523
+157,641,Temporary,485 Valley Edge Road,,,170,801,,
+158,922,Temporary,6 Maple Wood Center,,Room 1343,534,,977,
+159,773,Temporary,22406 8th Plaza,Orin,PO Box 45893,,,,47239
+160,900,Permanent,42975 Marquette Way,,,571,199,848,71109 CEDEX
+161,907,Temporary,75901 Mockingbird Street,,15th Floor,,,68,378 81
+162,9,Temporary,67368 Cordelia Drive,Cambridge,PO Box 78184,,921,830,
+163,152,Permanent,92009 Lake View Crossing,,Apt 1413,,926,,
+164,20,Permanent,291 Artisan Avenue,Northview,Suite 51,280,800,62,9800-026
+165,809,Permanent,014 Oak Trail,Autumn Leaf,,,62,,659540
+166,781,Permanent,546 Gina Trail,Gateway,Room 1317,,760,,
+167,658,Permanent,6 Basil Road,Twin Pines,Apt 823,935,,303,L8P
+168,827,Permanent,0746 Debs Drive,,,506,,911,
+169,756,Temporary,53902 Bonner Parkway,,,,319,,8800-303
+170,316,Temporary,96217 Homewood Parkway,Sommers,,485,597,89,
+171,652,Temporary,1565 Mosinee Hill,Mendota,Apt 274,473,320,763,3712
+172,754,Permanent,7732 Trailsway Junction,,,514,845,,357919
+173,121,Temporary,81198 Blackbird Court,Monica,PO Box 94005,782,,,
+174,143,Permanent,832 Holmberg Street,,PO Box 600,,,434,46620
+175,588,Permanent,237 Rieder Center,,,504,314,41,259-1220
+176,908,Temporary,495 Hanson Parkway,Mccormick,,,58,128,
+177,440,Temporary,981 Colorado Drive,,,814,,,
+178,344,Temporary,80429 Melvin Plaza,Transport,Room 68,,508,399,
+179,2,Temporary,15154 Jenna Park,Westport,,35,498,,
+180,771,Permanent,2 Lake View Alley,,,,,555,35487
+181,293,Permanent,517 Montana Place,Northridge,13th Floor,,939,212,
+182,53,Permanent,153 Mendota Drive,Straubel,Suite 94,108,,,2712
+183,698,Permanent,60106 Amoth Trail,,PO Box 63241,257,,631,
+184,145,Permanent,21 Darwin Avenue,,Suite 80,70,230,163,
+185,642,Permanent,425 Forest Run Terrace,Gerald,Apt 707,932,4,631,
+186,954,Permanent,29487 Village Junction,,PO Box 11642,,362,,08550-000
+187,204,Permanent,6 Bartillon Junction,,Suite 33,29,902,837,3586
+188,474,Permanent,7 Summerview Park,Claremont,Suite 68,,622,,
+189,293,Temporary,602 Merchant Parkway,,,940,,,5029
+190,201,Temporary,869 Loftsgordon Park,Donald,Room 1569,,829,,
+191,108,Temporary,18 Debs Park,Duke,PO Box 69739,505,,,76240-000
+192,995,Permanent,8 Kenwood Park,Hollow Ridge,PO Box 7863,498,171,,
+193,20,Permanent,058 Di Loreto Parkway,Sundown,,185,594,,
+194,97,Temporary,47929 Bobwhite Center,Muir,,,,968,4960-010
+195,63,Permanent,4 Crest Line Street,Express,PO Box 51485,,406,266,
+196,35,Temporary,35 Steensland Alley,Oak Valley,Room 1374,,,,
+197,625,Temporary,786 Kinsman Street,,,,,,
+198,970,Temporary,23 Novick Circle,,,,152,659,
+199,675,Temporary,7579 Sutherland Park,,,419,458,886,
+200,257,Permanent,84 Comanche Terrace,,PO Box 62950,323,500,,301259
+201,719,Temporary,0323 Namekagon Pass,,,674,257,,
+202,740,Permanent,0491 Little Fleur Junction,Elmside,PO Box 10494,,683,808,
+203,48,Temporary,770 Haas Crossing,John Wall,PO Box 37012,,639,,
+204,59,Temporary,1588 Truax Plaza,Novick,,413,,43,197720
+205,349,Permanent,859 Springview Center,,,318,875,,396130
+206,952,Temporary,8 Pine View Crossing,,,177,609,80,
+207,32,Permanent,2 Mendota Plaza,Helena,,856,,572,47897
+208,714,Permanent,5 Westend Hill,Packers,,793,662,,3130-199
+209,880,Temporary,224 Rowland Parkway,Forest Run,Suite 39,,941,,
+210,787,Temporary,89852 Armistice Park,,Apt 1621,203,703,980,83953 CEDEX
+211,667,Permanent,61 Caliangt Junction,,,202,753,,
+212,458,Permanent,4 Vera Plaza,Tony,PO Box 55071,416,470,546,
+213,539,Permanent,4 Norway Maple Pass,,,187,14,571,1933
+214,637,Temporary,19 Fallview Court,,PO Box 64341,410,,,
+215,781,Temporary,55012 Duke Plaza,Monica,PO Box 86340,743,927,196,806 36
+216,502,Permanent,31342 Waxwing Pass,Schmedeman,,604,,785,
+217,170,Permanent,66600 Shelley Pass,,Apt 1278,,957,136,
+218,198,Temporary,75 Huxley Plaza,Arizona,Suite 51,,,,
+219,21,Permanent,1938 3rd Point,Sheridan,Suite 9,,,54,
+220,110,Temporary,7 Bayside Point,,,,618,42,45860-000
+221,399,Permanent,9 Goodland Crossing,Rockefeller,Room 853,,,969,
+222,363,Permanent,356 Red Cloud Drive,,Suite 29,965,136,445,
+223,220,Permanent,7480 Boyd Center,,PO Box 55297,76,204,403,
+224,46,Temporary,3137 Trailsway Hill,Thompson,Room 1155,8,,,
+225,955,Permanent,844 Debra Park,,,400,977,805,
+226,584,Permanent,84 Burrows Junction,,,589,,789,
+227,403,Temporary,50 Bonner Junction,Vermont,Apt 1135,281,30,,
+228,578,Permanent,13435 Brown Park,,,215,317,,601964
+229,861,Temporary,869 Boyd Avenue,,,,,138,
+230,469,Temporary,6978 Eagan Point,Oxford,Room 1587,186,,784,5450
+231,804,Permanent,03927 Talmadge Way,Bashford,PO Box 30325,803,4,,618548
+232,368,Permanent,604 Swallow Parkway,Tennyson,PO Box 1075,,,,
+233,260,Temporary,922 Bonner Pass,,Suite 11,334,970,,
+234,809,Permanent,92 Gulseth Junction,La Follette,Room 1215,727,409,,435 43
+235,64,Temporary,61537 Commercial Court,,Apt 419,,,310,V9B
+236,393,Permanent,96 Truax Avenue,,,702,9,985,
+237,499,Temporary,74210 Northport Parkway,Kenwood,Apt 488,877,,87,6276
+238,957,Permanent,620 Scoville Way,,,,,52,
+239,162,Temporary,965 Boyd Pass,Amoth,3rd Floor,549,879,901,63600
+240,125,Temporary,69484 Bartillon Park,Del Sol,Apt 279,429,,,361624
+241,158,Temporary,1 Bay Junction,,,253,22,904,36205
+242,345,Permanent,24782 Little Fleur Plaza,Maple Wood,,,,,
+243,559,Temporary,17 Heath Drive,,18th Floor,243,364,58,37130-000
+244,22,Permanent,04794 Lindbergh Road,,,397,,842,4015
+245,674,Permanent,22 Arrowood Plaza,Merry,,,130,856,
+246,920,Permanent,8945 Namekagon Crossing,Reinke,Room 1418,,,,
+247,385,Permanent,884 Fremont Terrace,,PO Box 82497,378,202,,3040-426
+248,507,Temporary,1048 Eagan Street,,Suite 69,511,954,,2422
+249,774,Permanent,8111 Dottie Point,,9th Floor,,965,387,4149
+250,350,Permanent,8 Reindahl Circle,Hoffman,,,366,,
+251,851,Temporary,3291 Schmedeman Hill,Schlimgen,Apt 1675,,,669,6344
+252,396,Permanent,41 Crownhardt Terrace,Independence,Apt 45,,778,570,
+253,609,Temporary,82 Summit Avenue,Hoffman,Room 1599,,46,608,171205
+254,404,Permanent,372 Hovde Street,Menomonie,,663,178,251,
+255,750,Permanent,8774 Schlimgen Parkway,,,609,566,289,
+256,835,Permanent,9122 Debra Park,Eastwood,Room 1193,,353,,
+257,629,Permanent,1658 Center Crossing,Sachs,13th Floor,123,,,43610
+258,565,Permanent,8 Ridge Oak Court,Pearson,,294,,306,
+259,149,Permanent,806 Fallview Court,Farragut,10th Floor,984,,480,
+260,580,Permanent,724 Carberry Park,,Apt 1751,,,130,94009 CEDEX
+261,672,Temporary,0 Roxbury Junction,Cherokee,Apt 998,48,505,239,
+262,516,Permanent,7 Ilene Circle,,,543,687,,174 44
+263,982,Temporary,809 2nd Junction,Mallory,,,43,,2950-577
+264,359,Permanent,02 Huxley Pass,,Room 103,688,,68,
+265,556,Temporary,1 Hovde Crossing,Sycamore,,,,785,
+266,75,Permanent,9 Myrtle Avenue,Coolidge,Suite 14,699,819,377,44430
+267,973,Temporary,4 Northridge Street,Cambridge,Suite 90,,819,,538 03
+268,450,Permanent,08618 Karstens Avenue,,Suite 27,,854,,
+269,347,Temporary,2 Oneill Junction,Merchant,Apt 381,,737,505,601340
+270,412,Permanent,7879 Kipling Drive,Fair Oaks,,,,,
+271,683,Permanent,9 Reinke Trail,,Apt 1138,558,405,,5104
+272,62,Temporary,940 Holy Cross Junction,Forster,PO Box 52320,,,426,
+273,661,Permanent,8877 Grim Terrace,Springs,,,585,81,44220-000
+274,965,Temporary,9 Kingsford Plaza,,Suite 77,,263,716,92825
+275,188,Permanent,072 Onsgard Lane,Surrey,2nd Floor,,684,,20960
+276,838,Temporary,2 Miller Trail,,13th Floor,901,,339,77109 CEDEX
+277,680,Temporary,19285 Shelley Alley,Cordelia,5th Floor,397,,,
+278,935,Permanent,83 6th Court,Hoard,,,56,205,886-0112
+279,347,Permanent,019 Veith Court,Oneill,20th Floor,582,,780,690-1115
+280,767,Temporary,7 Graceland Crossing,Merchant,,704,681,,42301
+281,952,Temporary,5073 La Follette Hill,,,,753,,407-0176
+282,978,Permanent,28705 New Castle Alley,,Apt 1645,,451,640,
+283,82,Temporary,12415 Sullivan Park,Fairview,,170,,483,47500-000
+284,418,Permanent,17048 Chive Way,,6th Floor,745,491,,1236
+285,99,Permanent,7 Carpenter Avenue,,Suite 66,,695,,
+286,723,Temporary,1166 3rd Drive,Pawling,,970,352,88,4839
+287,924,Temporary,2222 Shelley Point,,,,4,,A85
+288,129,Permanent,4 Carberry Avenue,Transport,PO Box 47088,243,289,58,31110
+289,864,Permanent,50 Onsgard Way,Upham,Room 528,376,932,576,5223
+290,542,Permanent,6 Bellgrove Hill,,Suite 56,,369,145,66-500
+291,924,Temporary,6 Rieder Place,,,,911,,736-0089
+292,934,Permanent,478 Pearson Plaza,,,978,,,
+293,155,Temporary,0 Buena Vista Center,,6th Floor,,,,8970
+294,114,Permanent,85 Brentwood Way,,15th Floor,,,,
+295,573,Temporary,7 Pond Lane,Memorial,,94,382,207,13930-000
+296,815,Permanent,0 Del Sol Parkway,Bultman,Room 1986,,,,
+297,269,Temporary,1337 Sheridan Way,Melvin,Room 1193,594,253,14,3776
+298,354,Permanent,4 Sloan Road,Katie,PO Box 31592,,675,212,3885-705
+299,432,Permanent,1 Beilfuss Drive,Crest Line,PO Box 65408,589,648,18,
+300,63,Temporary,78815 Dapin Junction,New Castle,,,874,654,
+301,906,Temporary,46451 Calypso Park,,,404,867,385,33405
+302,798,Permanent,5094 Texas Park,,,138,,,2705-137
+303,470,Temporary,6778 Surrey Alley,Summerview,Apt 1356,,470,461,39820
+304,980,Permanent,0443 Autumn Leaf Way,Westridge,Apt 1717,,906,945,4620-023
+305,953,Temporary,40681 Waywood Circle,Loomis,Suite 56,,199,46,30250
+306,149,Temporary,51492 Messerschmidt Court,Maple Wood,Suite 6,492,,436,368328
+307,789,Permanent,52483 Del Sol Circle,Lillian,Apt 153,,,626,12400-000
+308,986,Permanent,1 Artisan Court,,,212,,801,
+309,19,Permanent,09750 Charing Cross Terrace,Sommers,,,315,671,
+310,521,Temporary,226 Thompson Crossing,Coleman,Apt 422,,893,496,
+311,479,Permanent,591 Duke Pass,Miller,Suite 31,,307,,
+312,994,Permanent,357 Lyons Street,Schurz,Suite 25,531,634,,
+313,103,Temporary,3361 Monterey Place,Kings,,610,,,5603
+314,553,Permanent,38 Texas Park,,PO Box 56935,408,,603,63-910
+315,53,Permanent,9 Thompson Junction,,PO Box 60225,,114,41,
+316,109,Temporary,10 Rusk Alley,,3rd Floor,,,347,
+317,95,Permanent,9032 Rowland Crossing,Sloan,,,,,
+318,821,Permanent,3 Fairview Lane,Sherman,,,,,
+319,717,Temporary,4 Maple Wood Center,Becker,,321,230,,84120
+320,536,Permanent,32 Crowley Terrace,Village Green,PO Box 24015,,434,297,77493
+321,131,Temporary,41 Arapahoe Street,,7th Floor,,455,243,99730-000
+322,418,Permanent,2 Ludington Street,Riverside,10th Floor,821,,837,
+323,485,Temporary,8 Spenser Hill,Hagan,Room 1720,,293,144,
+324,44,Permanent,6359 Coleman Parkway,Jenna,Suite 55,508,,11,
+325,985,Permanent,13 Summerview Plaza,Loomis,,484,,803,2808
+326,419,Temporary,415 Mcguire Park,Daystar,PO Box 26168,207,,523,5060-016
+327,497,Permanent,22 Gale Trail,Melvin,Apt 912,,520,220,
+328,562,Temporary,6 Eastwood Point,Burning Wood,,74,545,,
+329,857,Permanent,988 Arrowood Way,,,,36,904,
+330,879,Temporary,4912 Charing Cross Crossing,,PO Box 3213,,725,894,739 41
+331,253,Permanent,206 Ruskin Alley,,Apt 661,326,,,
+332,58,Temporary,8859 Cascade Plaza,,PO Box 40912,,38,292,50251
+333,401,Permanent,517 Everett Road,Parkside,15th Floor,181,313,,1656
+334,934,Permanent,9 Lillian Circle,,Suite 89,,588,897,
+335,168,Permanent,9 Dunning Circle,,,163,434,,87-321
+336,895,Permanent,2191 Carioca Circle,Cottonwood,,143,992,,1433
+337,869,Permanent,54 Hayes Street,Stoughton,Apt 1421,502,119,,20005
+338,612,Temporary,87 Hoffman Plaza,,,442,343,,96922
+339,263,Temporary,80424 Blackbird Alley,Sherman,,123,279,336,
+340,531,Temporary,570 Summit Court,John Wall,,492,290,413,69670-000
+341,154,Temporary,77336 Darwin Way,,,637,894,,22130
+342,198,Temporary,30068 Lerdahl Street,,Apt 5,,895,413,7743
+343,519,Permanent,255 Luster Parkway,Oak Valley,,31,712,195,
+344,21,Temporary,9 5th Circle,Toban,,,939,,810
+345,475,Temporary,2 Miller Lane,,,,804,825,51216
+346,140,Permanent,36 Bluejay Circle,,Room 31,595,864,,
+347,505,Permanent,92 Moland Center,Mandrake,,503,30,85,
+348,226,Permanent,4343 Jana Crossing,,,103,543,63,T1J
+349,784,Temporary,0 Ryan Park,Cherokee,,582,,,9223
+350,40,Temporary,019 Crest Line Trail,Bay,Apt 1254,880,,326,
+351,265,Temporary,6448 Red Cloud Hill,,Apt 1197,893,107,,801 84
+352,457,Permanent,464 Sugar Road,,,695,78,347,
+353,438,Permanent,83 Sunbrook Crossing,,,,,884,
+354,138,Temporary,201 Mariners Cove Junction,Hermina,Room 624,495,,391,75270 CEDEX 06
+355,282,Temporary,7932 Schiller Hill,Main,,974,91,,391964
+356,940,Temporary,10321 Hauk Road,Maryland,,74,,,42604 CEDEX
+357,552,Temporary,3481 Fieldstone Road,Oneill,11th Floor,544,945,808,
+358,849,Temporary,68 Mockingbird Lane,Riverside,,,988,898,
+359,316,Permanent,86 Melrose Place,Glendale,,282,263,420,
+360,437,Permanent,260 Fairfield Hill,Myrtle,6th Floor,2,687,,606657
+361,206,Temporary,21049 Algoma Place,Ronald Regan,,,779,200,692 24
+362,696,Temporary,38 Mosinee Point,,Apt 1801,92,71,211,984-0075
+363,206,Temporary,8142 Roxbury Pass,,PO Box 33361,,568,964,
+364,59,Temporary,62 Clyde Gallagher Terrace,Grasskamp,PO Box 79972,,,422,
+365,322,Permanent,84487 Valley Edge Trail,Buena Vista,,358,286,,94622
+366,269,Permanent,080 Dwight Plaza,Morrow,,462,292,486,
+367,344,Temporary,276 Bay Avenue,Sullivan,Apt 1181,544,993,,
+368,802,Temporary,90 Mendota Terrace,Park Meadow,,546,,5,
+369,524,Temporary,31 Fulton Street,,Apt 1506,,,,
+370,860,Temporary,03 Sheridan Court,Shelley,,101,,,3015
+371,49,Temporary,055 Alpine Street,,Suite 9,342,,611,66999
+372,326,Temporary,36047 Transport Plaza,Morningstar,,203,,,06-302
+373,452,Permanent,6503 Lien Hill,,,534,,,
+374,862,Permanent,6 Beilfuss Center,Fairview,PO Box 87559,257,339,,
+375,418,Permanent,4 Debs Place,Fairfield,5th Floor,,,172,1154
+376,522,Permanent,26 Bay Way,Crowley,Apt 1944,407,306,131,63-460
+377,205,Temporary,3 Sugar Drive,,Suite 51,,,261,V1R
+378,616,Temporary,34 Declaration Crossing,Bartelt,16th Floor,841,,553,
+379,744,Temporary,22050 Meadow Ridge Street,Melody,PO Box 81987,809,657,810,
+380,576,Permanent,35 Messerschmidt Road,,Room 730,,238,751,
+381,336,Temporary,60000 Ludington Trail,Beilfuss,,,757,746,
+382,620,Temporary,76 Onsgard Hill,Paget,PO Box 38644,964,,,94129 CEDEX
+383,702,Permanent,0157 6th Alley,Texas,Suite 25,101,308,,
+384,644,Temporary,92952 Drewry Hill,Prentice,,543,310,226,85500-000
+385,751,Temporary,6476 Fremont Street,Talisman,,464,865,147,
+386,63,Temporary,900 Clemons Junction,Texas,5th Floor,377,138,531,
+387,523,Temporary,7189 Amoth Street,Weeping Birch,,425,,975,
+388,530,Temporary,6388 Mariners Cove Place,,,,546,,
+389,623,Permanent,8 Sage Center,,PO Box 98366,85,,,
+390,257,Temporary,87984 John Wall Center,Old Gate,,672,,142,58-240
+391,620,Permanent,8 Washington Lane,Clemons,Suite 2,,,,
+392,709,Temporary,5930 Jana Alley,Brickson Park,,601,795,634,16-101
+393,151,Temporary,86459 Rigney Pass,,Suite 46,,938,,34-735
+394,110,Temporary,761 Dovetail Junction,John Wall,,,607,125,
+395,572,Temporary,4908 Kropf Road,Macpherson,Suite 4,801,581,85,
+396,309,Permanent,290 Lakeland Parkway,Hovde,Room 352,343,,,
+397,426,Permanent,934 Basil Way,,Room 727,311,457,629,
+398,413,Permanent,39 Muir Avenue,Anhalt,,198,346,153,62700-000
+399,645,Permanent,4608 Old Shore Drive,4th,Suite 80,908,,628,
+400,294,Permanent,87 Warbler Crossing,Parkside,,,,,8701
+401,372,Temporary,67 Burrows Center,,14th Floor,621,248,535,3228
+402,823,Permanent,4947 Magdeline Way,,PO Box 72892,,513,,
+403,586,Permanent,081 Kenwood Center,Moulton,Room 1656,,435,,
+404,166,Temporary,75483 Corscot Park,,Room 663,774,690,576,
+405,179,Permanent,632 Grasskamp Junction,Shoshone,,325,652,891,
+406,133,Temporary,7527 Thackeray Alley,Manley,,89,821,272,188360
+407,532,Temporary,69964 Old Shore Alley,Talisman,PO Box 3365,340,859,,88750-000
+408,607,Temporary,331 Lawn Point,,Suite 21,730,444,,
+409,432,Temporary,4 Carpenter Street,,,205,,,L-8374
+410,390,Permanent,01 Dovetail Lane,,PO Box 34590,727,,,68200-000
+411,272,Temporary,52699 Warrior Drive,,,49,,,
+412,142,Permanent,657 Stone Corner Pass,,Suite 55,758,639,885,
+413,133,Temporary,955 Ludington Lane,Mandrake,,,,291,J0R
+414,425,Permanent,7730 Riverside Court,,Apt 1637,495,161,329,
+415,353,Permanent,3 5th Crossing,Petterle,7th Floor,,,,
+416,421,Temporary,41 Ryan Place,,6th Floor,259,431,,
+417,522,Permanent,26875 Old Shore Center,,Room 1568,,932,,7207
+418,717,Temporary,240 Dunning Avenue,Drewry,,306,826,738,
+419,665,Temporary,54 Continental Lane,American,Suite 67,427,,752,309
+420,298,Temporary,69 Fisk Way,Norway Maple,Suite 31,377,446,486,
+421,754,Permanent,95 Granby Avenue,,,556,,,
+422,350,Permanent,52827 Dorton Point,Bonner,Suite 6,525,,789,899-2421
+423,623,Permanent,0066 Sutteridge Way,Warner,Apt 1687,296,315,976,
+424,564,Temporary,90419 Mendota Way,Westerfield,,,366,431,
+425,397,Temporary,55 Carberry Avenue,Oak,Suite 70,197,,154,
+426,93,Permanent,5 American Ash Trail,,14th Floor,124,641,,75250-000
+427,655,Permanent,008 Utah Terrace,Vahlen,,243,112,,37-120
+428,631,Permanent,520 Acker Drive,Grayhawk,,,486,,190018
+429,156,Temporary,05945 Kedzie Plaza,Hoard,,754,,,2408
+430,476,Permanent,47332 Lakewood Gardens Lane,Mccormick,,331,,917,646604
+431,641,Permanent,67 Elmside Circle,,PO Box 88845,909,337,843,
+432,618,Permanent,01984 Lighthouse Bay Circle,Briar Crest,,877,103,,
+433,580,Temporary,52 Riverside Plaza,Golden Leaf,6th Floor,341,491,,19001
+434,492,Temporary,566 Butternut Trail,Duke,Suite 89,,290,880,
+435,998,Permanent,9 Grayhawk Avenue,,Room 1285,,276,75,353810
+436,278,Permanent,4 Dorton Drive,Acker,Room 925,,240,,
+437,934,Permanent,25502 Troy Alley,,,28,,,34-730
+438,416,Permanent,9 Melby Crossing,Saint Paul,,890,,522,188855
+439,580,Temporary,8631 Fordem Point,Declaration,,,203,,
+440,745,Permanent,3435 Pepper Wood Crossing,,Apt 285,295,,932,
+441,933,Temporary,075 Annamark Street,Hooker,PO Box 57894,780,,894,67039 CEDEX 2
+442,184,Temporary,70 Shoshone Trail,,,,811,64,854019
+443,860,Permanent,93 Orin Pass,Manitowish,,507,,594,431783
+444,176,Permanent,88 Kedzie Avenue,,Room 1363,295,,295,
+445,604,Temporary,5 Wayridge Drive,,Room 1055,537,825,,68100
+446,502,Permanent,0662 Sullivan Trail,Larry,Apt 285,,,242,
+447,135,Temporary,7 Ohio Lane,Shoshone,Room 172,77,465,,
+448,531,Temporary,210 Daystar Street,,,501,,320,
+449,16,Temporary,90500 Marcy Pass,,,,,173,371 23
+450,282,Permanent,130 Bay Terrace,,,,877,197,503-0232
+451,328,Permanent,4416 Esch Drive,Birchwood,,400,,676,1045
+452,336,Temporary,036 Sunfield Road,,7th Floor,604,,426,
+453,967,Temporary,4 Glendale Avenue,,,,118,,
+454,296,Temporary,104 Clove Plaza,Westend,,219,,257,6109
+455,389,Temporary,77564 Crownhardt Drive,Upham,Room 1563,348,362,402,
+456,807,Permanent,22617 Tony Terrace,Sycamore,,523,749,498,
+457,926,Permanent,5 Buena Vista Road,Scofield,Apt 270,22,,,40894
+458,472,Permanent,93564 Badeau Street,Charing Cross,,,629,406,
+459,921,Temporary,4 Briar Crest Park,Monica,Room 506,,,,76600-000
+460,279,Permanent,752 Fordem Pass,Crownhardt,2nd Floor,777,,,7037
+461,43,Temporary,22619 Birchwood Place,Randy,Suite 45,,759,,
+462,203,Permanent,45 Kings Street,,,,629,364,8542
+463,3,Permanent,6 Talisman Street,Linden,,,809,964,
+464,753,Permanent,12395 New Castle Street,,Apt 1079,908,,27,10740
+465,617,Temporary,4837 Blaine Drive,,Room 139,492,791,620,
+466,658,Permanent,4 Hazelcrest Alley,Golf View,,,341,,2316
+467,125,Permanent,3354 Westridge Drive,,Apt 455,386,93,,
+468,484,Temporary,405 Clemons Terrace,Cottonwood,9th Floor,173,879,929,9330
+469,268,Temporary,9963 Chive Lane,,Apt 1598,537,360,852,
+470,224,Temporary,46 Comanche Trail,Randy,PO Box 32632,826,496,,8416
+471,364,Permanent,6842 Glendale Pass,,Suite 28,113,708,908,91199 CEDEX
+472,935,Temporary,93 Reindahl Alley,Dennis,Room 249,,,634,
+473,923,Temporary,7045 Pierstorff Trail,,PO Box 67000,,,,63143
+474,98,Permanent,59 Lillian Pass,Farragut,,,,,
+475,922,Temporary,99661 South Center,4th,PO Box 44938,797,,930,
+476,623,Temporary,95801 Mitchell Way,Gina,,10,1000,951,2435
+477,690,Permanent,12140 Jackson Circle,,PO Box 5551,51,63,,73179
+478,124,Temporary,95785 Garrison Parkway,,Room 951,,,439,6203
+479,219,Temporary,272 Butternut Road,Grayhawk,PO Box 90822,933,,,4100
+480,824,Permanent,1601 Buhler Drive,Ruskin,,,767,165,57847
+481,488,Permanent,0631 Canary Hill,Mayfield,Room 1915,934,,966,
+482,586,Permanent,7 Nobel Avenue,,15th Floor,420,596,162,
+483,172,Permanent,7 Upham Pass,Farwell,2nd Floor,685,,386,N2E
+484,520,Permanent,9 Village Circle,Briar Crest,,243,320,,
+485,331,Permanent,720 Vera Plaza,8th,,993,,,56140
+486,536,Permanent,7309 Thierer Alley,Merrick,4th Floor,,98,,347252
+487,102,Permanent,4 Kenwood Center,,Room 1233,715,,,
+488,163,Permanent,38311 Hauk Circle,,,529,389,,146 40
+489,210,Permanent,93 Schlimgen Parkway,,,,866,316,414-0055
+490,725,Permanent,477 Morningstar Way,Nobel,,616,,848,98-354
+491,330,Temporary,2 Arrowood Place,Talisman,,,61,622,
+492,445,Temporary,3124 Northport Circle,Packers,1st Floor,500,,441,
+493,228,Temporary,98 Monument Parkway,,Suite 98,,,,45710-000
+494,576,Temporary,49 Lakewood Hill,Barby,PO Box 28342,820,216,,
+495,452,Temporary,7533 Jay Circle,Loftsgordon,Suite 65,,,429,
+496,602,Permanent,7060 Superior Avenue,Banding,,453,,271,633104
+497,705,Permanent,6004 Sloan Junction,Burrows,,715,,230,
+498,872,Temporary,23728 Mesta Road,,,,,136,
+499,575,Permanent,8566 Dennis Avenue,,10th Floor,822,,820,
+500,907,Temporary,68 Grasskamp Road,Coleman,,287,454,,
+501,974,Temporary,70 Havey Road,,PO Box 66098,998,448,799,
+502,479,Temporary,15 Montana Center,,10th Floor,133,,607,
+503,188,Temporary,63 Dahle Terrace,,Apt 1630,,,207,72-110
+504,303,Permanent,462 Porter Hill,Gina,Suite 17,,,467,421-0522
+505,908,Permanent,142 Pearson Circle,,,327,633,24,
+506,782,Temporary,73984 Stone Corner Way,Vidon,Room 1628,743,400,795,18120-000
+507,885,Permanent,16 Dixon Street,Coleman,,543,,,MD-6242
+508,296,Permanent,745 Meadow Valley Circle,Garrison,,,,,93150
+509,418,Permanent,44 Transport Alley,,1st Floor,93,497,,1310
+510,25,Permanent,8140 Derek Court,,Room 1415,372,685,,L5W
+511,872,Permanent,43 Esker Avenue,Independence,Suite 47,269,367,189,312 36
+512,246,Permanent,2259 Welch Way,Stephen,Apt 32,453,,,398 51
+513,666,Temporary,74339 Dahle Alley,,,,,,47140
+514,798,Temporary,6735 Raven Circle,Corben,,,,391,
+515,215,Temporary,68 Straubel Street,,Suite 25,61,,446,
+516,803,Temporary,1 Pleasure Road,,Suite 42,101,,445,
+517,782,Permanent,431 Glendale Place,,,,,983,9334
+518,841,Temporary,65 Rigney Plaza,,16th Floor,245,,574,70183
+519,291,Temporary,9952 Becker Alley,Dovetail,Apt 362,,620,734,
+520,292,Permanent,82363 Scott Terrace,,Apt 516,879,840,,
+521,842,Permanent,4342 Buell Plaza,Lukken,PO Box 29423,,371,,531 85
+522,239,Permanent,90847 Arkansas Crossing,Lerdahl,,965,,848,37-120
+523,153,Temporary,5 Northwestern Drive,Continental,,506,886,585,4600-641
+524,978,Temporary,12733 Sutteridge Way,Kedzie,PO Box 65385,173,969,3,2435-127
+525,352,Temporary,4886 Dakota Center,Calypso,PO Box 40557,84,,737,
+526,464,Temporary,114 Longview Point,Mesta,,96,,,
+527,301,Temporary,31562 Grasskamp Court,,PO Box 32943,344,,796,
+528,545,Permanent,0447 Bunting Center,,PO Box 55214,,487,84,
+529,761,Permanent,58521 Eliot Drive,,Room 155,,,980,
+530,629,Permanent,275 Glacier Hill Pass,,PO Box 32563,,648,298,
+531,478,Temporary,1 Fairview Way,,Apt 1164,,474,355,507-0901
+532,224,Temporary,3291 Tennyson Way,Harbort,,902,,573,533 22
+533,107,Temporary,08298 Luster Circle,Granby,17th Floor,577,,801,
+534,461,Temporary,1803 Lawn Hill,,,844,,946,V7R
+535,208,Temporary,0 Forster Hill,Valley Edge,Room 971,,,602,84950-000
+536,221,Permanent,4660 Onsgard Place,,,119,,715,
+537,246,Permanent,0 Erie Circle,,15th Floor,,,,AD400
+538,354,Temporary,409 Helena Circle,,,907,747,,654 68
+539,278,Temporary,93480 Cottonwood Lane,Harper,17th Floor,585,821,708,652238
+540,626,Permanent,493 Transport Way,,,960,,,12120-000
+541,894,Permanent,0 Dennis Trail,Hooker,,,,967,
+542,185,Permanent,02262 Dottie Court,,PO Box 23788,43,,984,
+543,148,Permanent,60 Ohio Parkway,Pond,,,266,907,2421
+544,988,Permanent,7 Twin Pines Street,,,,883,682,
+545,615,Temporary,2 Randy Terrace,Anthes,,,232,,
+546,103,Temporary,691 3rd Alley,,PO Box 69109,,,389,77-141
+547,683,Permanent,30 Roth Pass,,,,669,,
+548,323,Permanent,6 Norway Maple Court,Elmside,,,,,
+549,312,Temporary,95 Burning Wood Street,Ronald Regan,Apt 1422,,,402,
+550,295,Permanent,5765 Texas Lane,Sutteridge,Apt 106,638,689,341,V9C
+551,470,Permanent,1346 Northfield Lane,Prairie Rose,Apt 1076,216,452,849,
+552,149,Permanent,2232 North Crossing,Carberry,PO Box 31253,348,509,646,
+553,822,Permanent,3 Marquette Junction,Pawling,12th Floor,586,,560,
+554,814,Permanent,4 Erie Trail,Bellgrove,Room 979,301,340,,57124
+555,139,Permanent,8150 Haas Center,,Room 1442,390,,,
+556,565,Temporary,30410 Packers Terrace,Welch,PO Box 59895,92,,,4215
+557,694,Permanent,8 Northfield Pass,Clyde Gallagher,,,,727,06500-000
+558,251,Permanent,4919 Service Point,Summit,Room 32,,,234,667 01
+559,697,Permanent,5 Prairie Rose Street,,,716,140,362,
+560,745,Temporary,8649 Butterfield Avenue,Hagan,,770,221,,40591
+561,860,Permanent,8 Del Sol Street,,,,,202,3070-063
+562,486,Temporary,6 Dryden Park,,1st Floor,38,,,2975-005
+563,111,Permanent,66 Quincy Lane,Acker,Room 1116,850,252,965,
+564,574,Temporary,443 Lukken Way,Fisk,,,,435,
+565,394,Temporary,6 Eastlawn Hill,Washington,1st Floor,558,333,,252 31
+566,806,Permanent,502 Ilene Lane,Ludington,Apt 1767,245,373,,
+567,81,Temporary,52 Susan Avenue,Schurz,Suite 70,576,,,
+568,444,Temporary,748 Northwestern Parkway,Forest Dale,2nd Floor,750,824,,
+569,831,Permanent,5585 Summerview Way,,,,431,763,
+570,245,Temporary,43088 Boyd Drive,,Apt 1487,411,,967,96-130
+571,783,Permanent,6418 Straubel Street,Drewry,,324,529,981,
+572,641,Temporary,08 Havey Point,Miller,Room 673,,846,568,40-401
+573,449,Permanent,87 Bobwhite Lane,,,572,701,518,815 24
+574,225,Permanent,3 Dwight Court,Moulton,,,8,,
+575,337,Permanent,89 Towne Circle,Northridge,Suite 70,,,,DL10
+576,409,Permanent,398 Ryan Junction,,,7,108,777,
+577,791,Temporary,6824 Bay Park,Northview,Room 752,,6,318,
+578,924,Permanent,37076 Michigan Junction,Main,PO Box 45203,118,156,983,61150
+579,857,Permanent,20 Bayside Road,Nevada,PO Box 39717,766,,704,442591
+580,161,Temporary,8928 Michigan Road,Shopko,,864,348,58,
+581,881,Permanent,9 Hauk Park,,,262,,856,10109
+582,825,Permanent,29168 Lillian Point,Oriole,,,213,,17031
+583,480,Permanent,886 Transport Place,Gale,,104,823,,
+584,184,Permanent,595 Roxbury Avenue,Hagan,Apt 1709,836,89,,7029
+585,306,Permanent,79109 Mitchell Parkway,Helena,,471,911,,655770
+586,915,Permanent,9958 Lunder Avenue,,,709,,115,55108
+587,369,Temporary,81167 Harper Lane,Glendale,,528,,,
+588,514,Permanent,39 Carioca Parkway,Stephen,,106,,,13990-000
+589,232,Temporary,3905 Kropf Avenue,,,788,,358,
+590,912,Temporary,68118 Dixon Plaza,,,,902,598,
+591,223,Permanent,404 Dovetail Center,Arizona,,709,273,612,
+592,671,Permanent,4 Everett Plaza,Jackson,Room 1409,394,881,623,
+593,345,Temporary,9 Sunfield Junction,Commercial,Suite 39,906,,128,64-800
+594,835,Temporary,02 Longview Plaza,,,450,354,,
+595,142,Permanent,40 Sage Avenue,Mcguire,Suite 25,239,,745,78820-000
+596,467,Temporary,9652 Rieder Crossing,,,331,,,55468
+597,8,Permanent,823 Forest Run Pass,,5th Floor,717,,170,95852
+598,687,Permanent,2715 Texas Place,Declaration,,255,,632,
+599,767,Permanent,0972 Stone Corner Avenue,,,,576,644,2005
+600,248,Temporary,545 Knutson Hill,,Suite 57,801,235,,75044
+601,141,Temporary,3175 Lighthouse Bay Avenue,Glendale,16th Floor,592,672,163,
+602,79,Temporary,82449 Cambridge Parkway,,,244,982,,
+603,586,Temporary,74 Birchwood Crossing,Bay,,,803,,84042 CEDEX 9
+604,757,Temporary,4 Ohio Avenue,Monterey,PO Box 49832,760,143,985,352272
+605,83,Permanent,97 Montana Lane,Carioca,,158,,8,
+606,383,Temporary,05565 New Castle Hill,Aberg,,713,,138,13540
+607,77,Temporary,1294 Darwin Point,Gale,Room 1320,598,,,86201
+608,366,Permanent,4 Raven Circle,,Suite 97,932,703,,95520-000
+609,791,Permanent,9 American Drive,Maple,19th Floor,,816,155,
+610,487,Permanent,4197 Northport Crossing,Mcguire,,313,906,988,1477
+611,263,Temporary,3 Cardinal Circle,Corry,Apt 1129,693,582,523,
+612,969,Temporary,93809 Utah Road,,PO Box 20472,,,669,
+613,324,Permanent,2 Jackson Road,,Room 1491,,971,722,729-3222
+614,48,Temporary,47324 Jenifer Road,Reinke,Room 852,606,,372,130
+615,719,Permanent,6 Melvin Way,Lighthouse Bay,,329,,111,75250-000
+616,791,Temporary,392 Sommers Street,,,124,,,5760
+617,163,Temporary,71518 Waxwing Road,,Room 1595,,,106,K2C
+618,277,Permanent,70 Bellgrove Place,,PO Box 65465,,,772,
+619,245,Permanent,62184 Elmside Place,Prairie Rose,,443,,,3905
+620,357,Permanent,70 Pleasure Street,Claremont,PO Box 92924,,409,315,
+621,408,Permanent,105 Barby Point,Alpine,,,699,,
+622,64,Permanent,9 Eagle Crest Terrace,,PO Box 11193,788,871,,186660
+623,25,Temporary,3 Browning Trail,Union,Apt 1138,43,673,,53234
+624,345,Temporary,4628 Sachs Lane,Stuart,,,902,,
+625,855,Temporary,084 Thierer Center,Walton,2nd Floor,438,796,210,311-2426
+626,826,Permanent,7262 Dwight Plaza,Oak Valley,,374,,558,13425 CEDEX 12
+627,849,Temporary,7849 Dunning Junction,,10th Floor,156,626,595,665 33
+628,301,Temporary,07 Merrick Point,,,863,169,449,17126
+629,486,Temporary,59761 Lakewood Gardens Street,Debra,,234,,,7250
+630,216,Temporary,37680 Merchant Alley,Riverside,Apt 1016,151,949,485,6307
+631,311,Permanent,3 Cordelia Terrace,Straubel,15th Floor,986,142,509,12400-000
+632,484,Permanent,583 West Crossing,,PO Box 5677,,621,,00-458
+633,138,Temporary,0349 Forster Parkway,Blaine,,,406,702,H62
+634,938,Temporary,25181 Monica Court,,7th Floor,258,,,
+635,569,Temporary,13895 Arizona Street,,Room 1292,943,247,840,2600
+636,492,Temporary,9 Fordem Point,,Apt 1760,876,482,,675 55
+637,9,Temporary,046 Pepper Wood Parkway,Pepper Wood,,857,,939,95720-000
+638,293,Permanent,3081 Porter Parkway,Forest Dale,Room 1746,555,,249,171658
+639,316,Permanent,09647 Dapin Road,Crownhardt,Apt 1252,526,780,,
+640,631,Permanent,332 Burrows Hill,Sheridan,,359,,215,
+641,308,Temporary,5 Barnett Circle,,,310,542,,
+642,75,Permanent,0 Oneill Crossing,,7th Floor,368,,186,
+643,246,Temporary,7 Dryden Junction,,Suite 17,,756,781,238460
+644,414,Permanent,4 Anhalt Lane,,PO Box 52111,,,,628517
+645,594,Temporary,1 Meadow Valley Park,,,,676,,68-208
+646,820,Temporary,7158 Badeau Plaza,Eliot,Suite 15,682,,211,5419
+647,958,Temporary,0 Lerdahl Way,Waxwing,Apt 273,,272,343,99001
+648,706,Permanent,6328 Surrey Crossing,Maple,Room 779,450,,,696 13
+649,111,Permanent,4957 North Pass,,,,590,,
+650,347,Permanent,3655 Fallview Pass,Westend,,782,195,512,
+651,595,Temporary,50138 Aberg Trail,Kipling,,838,888,,
+652,546,Permanent,13674 Waxwing Park,,,606,400,,
+653,709,Temporary,83862 Eagan Center,,Room 1534,,219,,23454
+654,937,Permanent,55878 Haas Lane,Onsgard,18th Floor,695,,,
+655,20,Temporary,50 Maywood Road,Corry,,,815,841,
+656,973,Temporary,42 Columbus Alley,Maple,Suite 52,810,318,,
+657,390,Temporary,27 Dayton Park,,,634,,,6132
+658,866,Temporary,7848 Steensland Drive,,Suite 64,264,,873,2152
+659,999,Permanent,7 American Street,Norway Maple,Suite 23,,133,332,
+660,909,Permanent,21056 Donald Terrace,Sunfield,,,265,530,7203
+661,566,Temporary,078 Crowley Lane,Colorado,,,944,889,353567
+662,368,Permanent,54180 Logan Hill,,20th Floor,346,,958,
+663,46,Permanent,1 Norway Maple Trail,Manitowish,,,169,482,
+664,948,Permanent,9 Barby Plaza,Meadow Vale,Suite 16,,650,617,512 24
+665,596,Permanent,5 Killdeer Park,Debra,12th Floor,229,,,92691 CEDEX
+666,621,Permanent,288 Ryan Street,,Apt 1311,,264,,L-5659
+667,784,Permanent,4122 Kennedy Street,Jackson,Room 1551,885,393,,
+668,390,Permanent,3 Hollow Ridge Court,,Apt 1779,179,261,278,3004
+669,728,Permanent,8825 Garrison Road,,,753,955,,
+670,649,Permanent,0 Stang Street,Lerdahl,PO Box 44406,,354,950,
+671,960,Permanent,26 Dapin Way,Iowa,5th Floor,276,,775,6010
+672,949,Temporary,6818 Graceland Lane,,PO Box 77277,280,214,398,
+673,96,Permanent,8 Moose Trail,,16th Floor,,,,
+674,95,Temporary,0 Thackeray Way,,,296,56,554,
+675,964,Permanent,284 Swallow Hill,,,442,648,552,854019
+676,870,Permanent,45 Buell Center,Comanche,,,,848,89-400
+677,134,Temporary,2510 Anderson Point,,PO Box 13195,223,434,,8104
+678,812,Temporary,674 American Drive,Trailsway,Suite 34,,,173,
+679,500,Permanent,750 Russell Alley,Dixon,4th Floor,,998,606,
+680,181,Permanent,9161 Delladonna Lane,,Apt 672,254,,237,
+681,360,Permanent,33 Hauk Trail,,Room 1364,233,770,277,49250
+682,722,Temporary,9943 Di Loreto Park,,PO Box 3302,75,,,
+683,19,Temporary,925 Logan Street,Sullivan,Suite 10,117,,,87-811
+684,975,Temporary,82 Weeping Birch Terrace,,Apt 1679,807,,19,16130
+685,975,Temporary,6733 Melvin Way,Mccormick,20th Floor,505,509,559,
+686,662,Permanent,6 Reinke Hill,Charing Cross,Suite 86,,783,,
+687,401,Temporary,9 Lawn Court,Thompson,,921,445,,P24
+688,240,Temporary,3 Lillian Drive,Larry,Suite 45,,551,157,735 33
+689,276,Permanent,4851 Springs Parkway,Katie,,,132,536,
+690,824,Temporary,5776 Portage Terrace,Quincy,Apt 1959,,583,490,
+691,527,Permanent,51618 Hayes Avenue,Mayfield,Suite 95,,,457,63301
+692,129,Permanent,54022 Redwing Hill,Sachtjen,14th Floor,,,248,91893 CEDEX
+693,197,Permanent,8 Waywood Place,Superior,PO Box 38381,,,,
+694,401,Permanent,3402 Morning Trail,,Apt 1714,123,32,,73009 CEDEX
+695,173,Temporary,76276 Warrior Crossing,,,,,,8520
+696,90,Permanent,3 Laurel Crossing,Spenser,,642,235,164,2712
+697,384,Permanent,0 Hanover Point,Village,8th Floor,883,630,,
+698,711,Temporary,96 Express Park,6th,,769,722,112,
+699,979,Permanent,78 Banding Trail,,,951,373,824,
+700,592,Permanent,2 Briar Crest Avenue,,PO Box 80510,,318,210,347320
+701,187,Permanent,10 Superior Court,,,,578,164,
+702,621,Temporary,8153 Oxford Hill,Washington,Suite 48,,876,,
+703,150,Permanent,55 Pennsylvania Trail,Johnson,PO Box 85816,,892,636,8204
+704,390,Temporary,32519 Hollow Ridge Crossing,Morning,,422,115,954,357247
+705,259,Temporary,658 Gateway Terrace,,Apt 1878,,475,505,735 81
+706,132,Temporary,5 Hansons Street,Basil,Apt 698,253,344,809,174 49
+707,496,Permanent,73 Marquette Parkway,,Apt 1184,,241,316,1400
+708,277,Temporary,1791 Knutson Center,,,,,991,
+709,157,Permanent,223 Trailsway Terrace,Thierer,,,,345,
+710,999,Temporary,77 Sloan Trail,,,679,487,388,96930-000
+711,345,Temporary,38 Dawn Center,,20th Floor,63,993,,
+712,697,Temporary,70 Hagan Terrace,Roth,,555,578,,16-303
+713,302,Permanent,472 Golf Terrace,,Apt 1141,353,52,200,80000
+714,376,Temporary,21658 Farragut Street,,Apt 1472,,982,824,2287
+715,843,Temporary,47541 Artisan Hill,,Apt 39,,619,,37217
+716,870,Permanent,826 Bartillon Circle,,,321,571,10,
+717,631,Temporary,9335 Loftsgordon Plaza,Gerald,,917,,3,7015
+718,308,Temporary,88 Russell Center,La Follette,1st Floor,,,763,
+719,617,Permanent,83151 Utah Road,Northfield,,500,415,563,
+720,135,Permanent,14564 Park Meadow Pass,Monterey,,935,91,799,
+721,55,Temporary,4 Butterfield Court,Lien,Suite 81,,585,329,L74
+722,979,Permanent,577 Manufacturers Hill,,,,,,735517
+723,190,Permanent,54 Union Street,Forest Run,Room 1615,432,,,
+724,493,Permanent,926 Glendale Lane,Larry,PO Box 52065,,259,,9715
+725,963,Permanent,619 Morrow Crossing,Continental,7th Floor,92,,180,
+726,743,Temporary,40 Mockingbird Way,Bashford,20th Floor,,492,,
+727,342,Permanent,6 Dovetail Avenue,,Room 92,290,,842,37-511
+728,681,Temporary,90 Russell Junction,Village Green,,322,213,,57418
+729,900,Permanent,96 Homewood Alley,Onsgard,20th Floor,523,163,13,6242
+730,942,Permanent,1 Independence Point,,Room 1882,838,715,650,95809 CEDEX
+731,793,Permanent,823 Warrior Alley,Tennessee,,650,596,,
+732,512,Permanent,399 Oriole Circle,Lyons,15th Floor,603,112,,30001
+733,893,Permanent,334 Hollow Ridge Terrace,Jay,Room 1468,204,737,,2070-510
+734,159,Temporary,43 Meadow Valley Crossing,Scofield,Room 467,,425,424,919-0222
+735,277,Permanent,04 Rigney Parkway,Merry,Room 519,677,8,,
+736,143,Temporary,25 Longview Point,Artisan,Room 366,469,316,229,R3P
+737,356,Permanent,99392 Everett Crossing,,Room 266,667,,,
+738,755,Permanent,04552 David Way,Bowman,PO Box 78203,463,,247,49390-000
+739,501,Permanent,0 Washington Parkway,,,,573,,
+740,269,Temporary,167 Maryland Place,Anzinger,Room 972,536,194,,164200
+741,661,Temporary,504 Shasta Parkway,,PO Box 10329,145,,,80045
+742,604,Permanent,035 Di Loreto Street,Hoffman,,,145,644,4620-207
+743,588,Temporary,137 Coleman Street,,Suite 49,722,565,,679 71
+744,513,Temporary,2787 Garrison Drive,,,807,778,,
+745,633,Permanent,47 Spaight Road,Lukken,,,784,470,82-230
+746,794,Temporary,12853 Superior Circle,,,,,,65215-000
+747,232,Temporary,712 Blaine Crossing,Toban,Suite 34,821,100,12,424 31
+748,570,Permanent,12854 Service Crossing,Arrowood,2nd Floor,434,961,,441 38
+749,945,Temporary,5 La Follette Plaza,Golf,16th Floor,773,256,,S7W
+750,899,Permanent,8 Autumn Leaf Drive,,,34,,,
+751,143,Permanent,29 Scoville Lane,,,892,230,,58000-000
+752,954,Permanent,1788 Thackeray Circle,Schiller,2nd Floor,,239,146,57-201
+753,6,Temporary,394 Waywood Hill,,,,374,300,81720
+754,299,Temporary,86852 Schurz Point,,5th Floor,,473,629,
+755,495,Permanent,503 Cambridge Street,Sachs,Room 1007,,484,,
+756,709,Temporary,2346 Oneill Hill,Lakewood,PO Box 86984,30,,,8326
+757,306,Temporary,3392 Barnett Place,,Apt 258,622,194,,
+758,929,Temporary,93 Lake View Hill,Forest Dale,Suite 21,1,832,,
+759,924,Permanent,2 Ridgeview Plaza,,Suite 39,,,855,5806
+760,809,Temporary,838 2nd Avenue,,18th Floor,990,,61,45345-000
+761,455,Permanent,5 Forest Junction,Pierstorff,14th Floor,,,,
+762,498,Temporary,26 Emmet Street,Westridge,,,439,330,
+763,228,Permanent,66 Summerview Avenue,,Room 717,,545,,655266
+764,53,Permanent,288 Springs Road,Granby,12th Floor,,211,350,
+765,173,Temporary,6 Hazelcrest Circle,,Suite 89,563,,,
+766,280,Temporary,5 Lukken Hill,,,637,116,75,
+767,83,Permanent,92343 Sunbrook Trail,Mcguire,Room 1796,,,,15604
+768,633,Permanent,18 Commercial Road,,Room 326,917,,,
+769,379,Temporary,26797 Darwin Hill,3rd,Apt 1852,175,,424,
+770,969,Temporary,36396 Manufacturers Avenue,,Apt 1555,260,831,703,
+771,410,Temporary,73300 Grayhawk Avenue,Gale,PO Box 98461,,,,186304
+772,564,Permanent,11704 Myrtle Trail,,,,470,110,5414
+773,455,Permanent,77266 Bunting Junction,Ruskin,,,,761,
+774,630,Temporary,64472 Glendale Trail,Claremont,,,596,799,
+775,464,Temporary,53183 Buell Avenue,Dovetail,,898,637,614,
+776,592,Permanent,0039 Randy Hill,Scoville,15th Floor,317,,305,
+777,775,Temporary,2773 Straubel Place,,Suite 6,925,619,64,1765
+778,472,Temporary,697 Corscot Street,Garrison,Room 842,683,,,
+779,762,Temporary,5 Columbus Court,Brentwood,6th Floor,899,30,,
+780,806,Temporary,91332 Prairieview Trail,Elgar,Apt 1200,,,185,33647
+781,897,Permanent,902 Buell Center,,11th Floor,,,,
+782,183,Temporary,8195 Sachtjen Parkway,,,567,,,
+783,470,Permanent,2329 Springview Drive,,,630,722,,38009 CEDEX 1
+784,289,Temporary,7318 Morrow Hill,Valley Edge,,916,,803,1074
+785,118,Permanent,61 Granby Lane,Nova,PO Box 45184,,243,,
+786,24,Permanent,1971 Steensland Way,,Room 841,,242,,35290
+787,729,Permanent,48494 Cody Center,,Room 1719,,,624,
+788,543,Permanent,340 Loomis Park,,Suite 69,66,,812,1440
+789,300,Temporary,9 Anzinger Plaza,Pankratz,Room 1918,,,592,162160
+790,235,Permanent,3 Corry Place,Twin Pines,Suite 62,841,188,,
+791,35,Permanent,2290 Debra Center,,Apt 1738,,,860,
+792,597,Temporary,3 Del Sol Way,,,,104,768,
+793,601,Temporary,08 Scoville Hill,,Suite 51,305,746,633,75390 CEDEX 08
+794,426,Permanent,50 Magdeline Alley,Quincy,,,,,42-660
+795,403,Temporary,9 Lakewood Plaza,Michigan,,,,,
+796,428,Temporary,69624 Hudson Park,,,,923,328,
+797,607,Permanent,78160 Sunfield Point,Waxwing,PO Box 60513,423,,,8536
+798,323,Temporary,1786 Bluestem Avenue,,,,626,467,11630-000
+799,575,Permanent,38 Utah Junction,Bowman,PO Box 18684,,444,769,
+800,615,Temporary,75624 Dennis Point,Harbort,,,,230,
+801,202,Permanent,04619 Leroy Drive,Crescent Oaks,,,912,,
+802,342,Permanent,1777 Bluestem Point,,Suite 56,762,597,839,952-1203
+803,784,Permanent,82 Pierstorff Crossing,,,,643,493,618630
+804,725,Permanent,44 High Crossing Trail,,Suite 38,475,893,307,
+805,95,Temporary,29016 South Drive,,Apt 527,,,,
+806,697,Temporary,123 4th Hill,,,516,240,243,93300-000
+807,524,Permanent,728 Monterey Center,Brickson Park,11th Floor,,85,,
+808,897,Temporary,2366 Bartillon Park,Scofield,PO Box 29170,663,479,,G8B
+809,903,Permanent,6947 Claremont Crossing,,PO Box 86469,,215,845,
+810,977,Temporary,6522 Heffernan Circle,,Apt 81,,,,2840-137
+811,269,Permanent,22 Meadow Vale Court,,,,,71,
+812,304,Permanent,4202 Grover Crossing,Boyd,,304,,,
+813,442,Temporary,1 Esker Drive,Straubel,Room 1368,737,298,844,182 57
+814,39,Permanent,785 Bartelt Terrace,,PO Box 56480,,957,,6443
+815,145,Permanent,80871 Susan Alley,,3rd Floor,88,115,264,
+816,908,Temporary,5701 Calypso Terrace,Mosinee,Suite 27,595,,,
+817,905,Permanent,8686 Morning Court,,Suite 61,,284,1000,311
+818,674,Temporary,34190 Old Gate Road,,,293,322,4,787 01
+819,630,Permanent,0358 Cambridge Park,Buena Vista,,,406,,4650-752
+820,357,Permanent,73899 Clove Way,Schlimgen,,,80,644,
+821,302,Temporary,7 Forest Run Lane,,Suite 29,462,,,
+822,66,Permanent,3080 Melody Plaza,Memorial,,694,,998,05-280
+823,629,Temporary,885 Manufacturers Road,,PO Box 90265,,,,
+824,688,Permanent,898 Messerschmidt Junction,Haas,Room 1936,888,243,181,
+825,305,Permanent,9 Golden Leaf Park,Kedzie,,476,161,,
+826,350,Temporary,0 Cardinal Place,Thompson,8th Floor,,,255,3813
+827,128,Temporary,9244 Heffernan Circle,Welch,,582,,526,188659
+828,785,Permanent,4395 Loftsgordon Road,,,223,100,,13617 CEDEX 1
+829,283,Permanent,6776 Melrose Drive,Dwight,,,967,75,
+830,727,Permanent,2371 Grayhawk Court,,PO Box 84817,53,656,948,
+831,29,Temporary,11 Blaine Park,,20th Floor,,49,,
+832,116,Permanent,61 Nevada Pass,Eliot,PO Box 53778,718,,48,
+833,644,Permanent,36015 Dakota Point,,,545,702,453,
+834,395,Permanent,54 Nobel Circle,,PO Box 71409,,,,28205 CEDEX
+835,484,Temporary,47299 Dovetail Street,,Suite 60,,,350,G7K
+836,890,Permanent,3128 Lyons Street,,Room 1168,772,34,,
+837,823,Temporary,887 Macpherson Lane,Hovde,Suite 21,,,372,
+838,527,Permanent,378 Golden Leaf Hill,Bobwhite,,,629,,
+839,620,Temporary,8718 Texas Place,,Suite 89,999,,650,
+840,542,Temporary,6239 Myrtle Road,,,,,313,356 04
+841,33,Permanent,9708 Elgar Alley,,PO Box 84866,879,,855,
+842,492,Permanent,50 Lakewood Gardens Pass,Jana,Apt 195,,732,,
+843,486,Permanent,137 Gale Hill,Continental,17th Floor,511,300,,79200-000
+844,162,Permanent,3 Mosinee Junction,,,608,987,,
+845,229,Temporary,0 Brown Park,Sachtjen,,,,,75623 CEDEX 13
+846,605,Permanent,0533 Lotheville Drive,Oxford,,,,,2755-013
+847,196,Permanent,86 Charing Cross Circle,,1st Floor,632,,,665081
+848,868,Permanent,1829 Eggendart Parkway,Victoria,18th Floor,33,705,,
+849,946,Temporary,5 Westport Road,Ryan,Suite 80,526,687,652,
+850,561,Permanent,29717 Pleasure Terrace,Mifflin,Suite 60,258,134,269,
+851,977,Permanent,1 Bowman Circle,Starling,Suite 68,,61,15,88600
+852,665,Temporary,4 Algoma Drive,,,466,,,
+853,386,Temporary,9731 Mayer Terrace,,Apt 1002,,382,520,
+854,894,Temporary,75477 Basil Park,,18th Floor,169,,902,51264
+855,897,Temporary,14 Susan Alley,,5th Floor,284,403,276,5212
+856,325,Permanent,6 Forest Run Center,,Apt 952,,619,29,
+857,768,Permanent,815 Vera Center,Mifflin,Room 26,931,161,330,789-0250
+858,393,Temporary,944 Washington Court,,,7,,,417 71
+859,370,Permanent,78 Garrison Point,Cascade,,,,701,
+860,315,Permanent,250 Lighthouse Bay Street,,,,,300,
+861,41,Permanent,33 Iowa Way,Fairfield,,,,340,8722
+862,232,Permanent,96844 Grim Place,,,,568,950,
+863,919,Temporary,0789 Scofield Trail,Waubesa,,261,589,,
+864,557,Temporary,0 Ramsey Circle,Butternut,8th Floor,512,390,,63-505
+865,512,Permanent,0812 Stephen Place,Towne,,995,,400,798 26
+866,429,Permanent,822 Village Terrace,Mallard,,758,679,275,595-0814
+867,116,Temporary,09 6th Point,Gerald,Suite 38,397,,,
+868,669,Temporary,9 Northview Point,Superior,PO Box 52802,468,127,660,444008
+869,174,Temporary,2328 Toban Drive,Sheridan,17th Floor,343,666,577,T4V
+870,382,Permanent,4 Bluejay Court,Ruskin,,,,912,
+871,262,Permanent,0355 Ryan Center,Annamark,,,187,,
+872,578,Permanent,9 Dryden Street,,,383,248,462,186445
+873,303,Permanent,6 Grasskamp Place,Elmside,,966,213,753,4607
+874,923,Permanent,4 Calypso Trail,Kensington,Apt 821,,540,325,4610-475
+875,445,Temporary,169 Sheridan Park,Steensland,,323,366,,
+876,298,Temporary,22394 Hovde Alley,,PO Box 19930,,780,244,
+877,144,Permanent,2 Eggendart Drive,Prairieview,,,953,,
+878,714,Permanent,44 Sheridan Junction,Vernon,Apt 1412,202,199,266,
+879,279,Permanent,23554 Cottonwood Road,,PO Box 5266,,,969,1699
+880,722,Temporary,7187 Randy Plaza,Elka,,,32,,
+881,720,Temporary,5592 Del Mar Point,Hayes,,870,443,,
+882,982,Permanent,8 Helena Road,Buell,,,306,,
+883,930,Temporary,78188 Bobwhite Court,,,646,,,
+884,58,Temporary,9 Holmberg Road,Fairfield,Room 111,,108,,9803
+885,232,Permanent,3 Barby Terrace,Transport,Room 322,154,,,9017
+886,187,Permanent,67 Brown Lane,,Suite 44,83,354,,
+887,51,Temporary,080 Jackson Plaza,Pawling,,542,584,,4527
+888,866,Permanent,9241 Gulseth Place,Anderson,,243,409,,
+889,567,Permanent,15 8th Street,West,,809,,348,5330
+890,922,Permanent,3 Talisman Hill,Hauk,Suite 3,660,,462,
+891,544,Permanent,000 Main Drive,Linden,Suite 91,14,,740,1091
+892,75,Temporary,1438 Bunting Terrace,Dennis,PO Box 36660,199,,476,
+893,193,Temporary,676 Marquette Street,Raven,,,253,,
+894,365,Temporary,14 Stephen Place,Marcy,Suite 13,685,,,
+895,212,Permanent,89 Debs Center,,Room 1846,891,,,
+896,139,Permanent,37 Messerschmidt Lane,,PO Box 90279,816,,12,
+897,130,Temporary,88 Old Shore Pass,,PO Box 8499,483,690,,
+898,889,Permanent,09 Artisan Way,Northview,PO Box 80599,385,,,
+899,763,Temporary,34879 Eastlawn Pass,Derek,20th Floor,153,860,644,
+900,781,Temporary,3 Transport Pass,Melody,,,,,593 35
+901,344,Temporary,92931 Shelley Place,,Suite 11,43,,709,10508
+902,24,Permanent,53 Nova Street,,,344,,949,2120-185
+903,919,Permanent,69285 Killdeer Point,,9th Floor,402,,,2351
+904,444,Permanent,44 6th Terrace,Hollow Ridge,,,116,258,
+905,637,Temporary,06679 Maryland Road,Arkansas,,660,414,,84878 CEDEX
+906,329,Permanent,04166 Columbus Point,,,,390,715,
+907,990,Permanent,92 Grasskamp Center,Petterle,,651,,544,
+908,491,Temporary,21946 Clyde Gallagher Terrace,,,189,,,
+909,565,Permanent,3507 Bluejay Street,Fordem,,222,,,
+910,872,Temporary,651 Bunker Hill Court,,,198,,304,
+911,667,Permanent,46374 Golf View Trail,Walton,Room 43,558,1000,447,83320-000
+912,587,Temporary,2012 Monica Road,,PO Box 5679,,,,413545
+913,995,Permanent,54 Sunfield Court,,Apt 911,295,,,
+914,143,Temporary,493 Mallard Place,Vernon,Suite 95,,,386,623036
+915,886,Temporary,040 Eastlawn Way,Summerview,,786,427,730,93742
+916,151,Temporary,846 Sunnyside Plaza,Morrow,,416,,475,798 12
+917,821,Temporary,87987 International Avenue,Rutledge,8th Floor,,,891,
+918,556,Permanent,1 Haas Park,Sauthoff,,,,,
+919,274,Temporary,88 Dorton Junction,,Room 751,925,941,617,601554
+920,950,Temporary,14166 Dapin Crossing,Springview,Apt 467,,140,,
+921,585,Temporary,07846 Monica Center,,,775,,726,1173
+922,886,Permanent,1 Fairview Junction,Sugar,,937,,,
+923,468,Permanent,9821 Bartelt Avenue,,,,,946,
+924,547,Temporary,14842 Fordem Crossing,Springs,Room 1274,763,,753,
+925,101,Permanent,979 Lyons Crossing,Meadow Ridge,,,,,31407
+926,483,Permanent,7638 Kim Plaza,Thackeray,Suite 6,561,,647,
+927,459,Temporary,18092 Towne Way,,Suite 98,,,406,38796
+928,870,Permanent,7 Merry Parkway,,Suite 74,843,111,,
+929,30,Temporary,74572 Darwin Place,,,,187,,
+930,393,Temporary,231 Fuller Terrace,,15th Floor,220,744,64,142507
+931,190,Permanent,18820 Declaration Park,,,327,,497,691 73
+932,975,Permanent,9 Cardinal Way,,,155,166,277,
+933,431,Temporary,803 Macpherson Circle,Valley Edge,14th Floor,889,415,517,215807
+934,923,Temporary,5 Longview Park,,Suite 62,363,,970,
+935,446,Temporary,258 Mayer Road,Pennsylvania,,957,,771,
+936,811,Permanent,48654 Jay Pass,Nancy,,397,186,813,
+937,641,Temporary,8419 Di Loreto Road,Kennedy,Room 1050,,,405,818 31
+938,768,Permanent,8 Northwestern Circle,Monument,,,,374,
+939,739,Permanent,030 Dwight Lane,Truax,Room 1344,352,487,,357367
+940,38,Permanent,57 Swallow Drive,Ludington,,,298,717,91424 CEDEX
+941,974,Permanent,10 Bashford Place,Bay,1st Floor,,411,981,
+942,277,Temporary,60 Columbus Trail,,,,,587,
+943,114,Temporary,23335 Bartillon Point,Harper,,103,,64,
+944,490,Temporary,40 Mcbride Junction,Talisman,Room 857,,38,,7104
+945,598,Permanent,8 Badeau Junction,,Apt 1138,137,372,,763 32
+946,344,Temporary,4 Bluestem Point,Granby,,331,893,,83120
+947,230,Permanent,915 Heffernan Point,Petterle,,,394,,
+948,735,Temporary,6231 Pankratz Lane,Anzinger,,707,656,90,
+949,434,Permanent,8 American Ash Lane,Blackbird,,,879,458,P31
+950,707,Permanent,923 Mayer Circle,,,,,,
+951,319,Temporary,975 Arkansas Point,,Suite 17,,527,174,687587
+952,235,Permanent,39346 1st Parkway,Main,,791,,380,
+953,174,Temporary,04311 Hanover Terrace,,,372,777,498,69601
+954,207,Permanent,16 Eastlawn Alley,Fulton,PO Box 33976,,,,
+955,911,Temporary,4 Hanson Point,Carey,,,,957,
+956,256,Temporary,07645 Canary Avenue,Sage,Room 696,,,,
+957,222,Permanent,68 Scott Crossing,Havey,Room 22,257,,415,75075 CEDEX 02
+958,538,Temporary,22 Hoard Point,Sloan,Apt 1331,217,84,357,665709
+959,794,Permanent,33 Esker Parkway,,PO Box 54251,648,317,639,368324
+960,793,Temporary,644 Larry Street,Anthes,Suite 25,450,,,89-525
+961,46,Permanent,0006 Fieldstone Court,Donald,PO Box 55853,969,508,,
+962,388,Permanent,969 Waywood Way,Oxford,,400,899,672,
+963,464,Permanent,3254 Buhler Terrace,,15th Floor,349,,,44933 CEDEX 9
+964,79,Permanent,35 Valley Edge Pass,,,,869,294,75038 CEDEX 01
+965,226,Permanent,79780 International Point,Mifflin,,,203,,772 30
+966,3,Temporary,473 Sommers Circle,,,876,26,334,7900-234
+967,22,Temporary,3 Portage Pass,Havey,Apt 1424,76,,,64178-000
+968,446,Temporary,77 Prairie Rose Hill,Bluejay,,335,755,611,62823-000
+969,415,Temporary,78439 Sunfield Terrace,,Suite 45,,,,
+970,53,Permanent,7 Morrow Junction,,PO Box 15250,654,495,,25508
+971,448,Permanent,866 Buell Way,,,324,200,,8657
+972,447,Permanent,320 Graceland Way,Westport,Apt 874,,562,441,
+973,901,Permanent,7895 Summerview Plaza,Caliangt,,,943,,4610-695
+974,727,Temporary,4 Amoth Center,Clemons,,667,,,
+975,966,Permanent,112 Jackson Court,Park Meadow,Apt 1758,153,,,2970-841
+976,258,Permanent,74 Manitowish Lane,Colorado,12th Floor,334,,,76598
+977,695,Permanent,40 Ridge Oak Point,Manufacturers,Suite 93,,188,,427920
+978,439,Permanent,13632 Maple Court,,,833,945,26,
+979,190,Temporary,6 6th Avenue,Maple,Suite 27,,662,,9614
+980,530,Temporary,6341 Kingsford Avenue,Cambridge,,,,,
+981,102,Permanent,0164 Nova Hill,Calypso,PO Box 98903,,911,,6529
+982,193,Permanent,2362 Gateway Avenue,Carberry,PO Box 59700,,15,,
+983,792,Permanent,5 Green Park,,1st Floor,866,608,353,44430
+984,111,Permanent,25146 Ryan Lane,Summerview,PO Box 84901,40,,696,58-562
+985,986,Temporary,52 West Avenue,Little Fleur,Apt 936,405,962,235,58255-000
+986,161,Permanent,64200 Arkansas Avenue,,Apt 1514,,669,252,
+987,294,Permanent,82 Pearson Crossing,Scofield,PO Box 41470,213,838,573,4514
+988,252,Temporary,8 Green Ridge Circle,Quincy,,998,667,281,
+989,932,Permanent,86 Trailsway Lane,,,165,28,,172 29
+990,218,Permanent,52483 Graceland Circle,Holmberg,2nd Floor,,356,,249406
+991,735,Temporary,229 Granby Pass,Sunbrook,Suite 40,,143,169,
+992,230,Temporary,835 Judy Point,,Suite 74,982,144,,6711
+993,518,Permanent,44 Prairie Rose Lane,Novick,PO Box 33892,,458,860,
+994,935,Permanent,76 Lerdahl Pass,,Apt 1513,578,205,726,
+995,353,Temporary,4347 Kingsford Road,Logan,Apt 1057,,544,831,LE15
+996,399,Permanent,6898 Meadow Vale Street,,,403,195,902,591 46
+997,215,Temporary,557 Porter Hill,Maywood,Suite 47,458,,561,96110
+998,833,Temporary,9 Cherokee Court,,,154,844,,666679
+999,953,Temporary,57 Transport Street,8th,Room 869,897,,197,
+1000,677,Temporary,23716 Cascade Court,,,,165,20,88778

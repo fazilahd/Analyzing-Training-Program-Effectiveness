@@ -1,0 +1,1001 @@
+GTS_JOB_TITLE_ID,GTS_JOB_TITLE_NAME,GTS_JOB_TITLE_DESCRIPTION,GTS_JOB_TITLE_STATUS
+1,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+2,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+3,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+4,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+5,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+6,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+7,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+8,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+9,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+10,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+11,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+12,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+13,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+14,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+15,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+16,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+17,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+18,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+19,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+20,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+21,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+22,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+23,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+24,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+25,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+26,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+27,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+28,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+29,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+30,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+31,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+32,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+33,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+34,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+35,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+36,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+37,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+38,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+39,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+40,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+41,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+42,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+43,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+44,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+45,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+46,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+47,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+48,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+49,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+50,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+51,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+52,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+53,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+54,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+55,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+56,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+57,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+58,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+59,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+60,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+61,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+62,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+63,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+64,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+65,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+66,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+67,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+68,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+69,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+70,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+71,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+72,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+73,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+74,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+75,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+76,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+77,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+78,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+79,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+80,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+81,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+82,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+83,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+84,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+85,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+86,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+87,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+88,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+89,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+90,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+91,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+92,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+93,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+94,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+95,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+96,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+97,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+98,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+99,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+100,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+101,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+102,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+103,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+104,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+105,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+106,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+107,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+108,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+109,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+110,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+111,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+112,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+113,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+114,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+115,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+116,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+117,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+118,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+119,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+120,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+121,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+122,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+123,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+124,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+125,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+126,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+127,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+128,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+129,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+130,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+131,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+132,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+133,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+134,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+135,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+136,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+137,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+138,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+139,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+140,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+141,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+142,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+143,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+144,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+145,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+146,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+147,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+148,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+149,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+150,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+151,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+152,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+153,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+154,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+155,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+156,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+157,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+158,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+159,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+160,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+161,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+162,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+163,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+164,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+165,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+166,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+167,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+168,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+169,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+170,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+171,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+172,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+173,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+174,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+175,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+176,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+177,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+178,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+179,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+180,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+181,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+182,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+183,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+184,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+185,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+186,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+187,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+188,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+189,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+190,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+191,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+192,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+193,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+194,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+195,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+196,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+197,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+198,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+199,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+200,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+201,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+202,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+203,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+204,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+205,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+206,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+207,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+208,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+209,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+210,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+211,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+212,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+213,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+214,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+215,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+216,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+217,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+218,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+219,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+220,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+221,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+222,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+223,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+224,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+225,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+226,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+227,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+228,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+229,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+230,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+231,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+232,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+233,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+234,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+235,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+236,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+237,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+238,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+239,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+240,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+241,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+242,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+243,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+244,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+245,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+246,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+247,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+248,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+249,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+250,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+251,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+252,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+253,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+254,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+255,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+256,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+257,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+258,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+259,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+260,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+261,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+262,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+263,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+264,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+265,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+266,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+267,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+268,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+269,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+270,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+271,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+272,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+273,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+274,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+275,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+276,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+277,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+278,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+279,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+280,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+281,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+282,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+283,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+284,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+285,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+286,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+287,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+288,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+289,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+290,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+291,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+292,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+293,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+294,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+295,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+296,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+297,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+298,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+299,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+300,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+301,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+302,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+303,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+304,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+305,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+306,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+307,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+308,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+309,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+310,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+311,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+312,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+313,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+314,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+315,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+316,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+317,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+318,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+319,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+320,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+321,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+322,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+323,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+324,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+325,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+326,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+327,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+328,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+329,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+330,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+331,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+332,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+333,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+334,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+335,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+336,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+337,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+338,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+339,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+340,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+341,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+342,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+343,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+344,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+345,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+346,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+347,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+348,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+349,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+350,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+351,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+352,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+353,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+354,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+355,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+356,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+357,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+358,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+359,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+360,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+361,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+362,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+363,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+364,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+365,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+366,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+367,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+368,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+369,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+370,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+371,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+372,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+373,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+374,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+375,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+376,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+377,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+378,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+379,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+380,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+381,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+382,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+383,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+384,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+385,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+386,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+387,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+388,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+389,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+390,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+391,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+392,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+393,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+394,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+395,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+396,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+397,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+398,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+399,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+400,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+401,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+402,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+403,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+404,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+405,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+406,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+407,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+408,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+409,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+410,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+411,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+412,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+413,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+414,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+415,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+416,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+417,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+418,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+419,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+420,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+421,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+422,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+423,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+424,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+425,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+426,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+427,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+428,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+429,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+430,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+431,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+432,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+433,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+434,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+435,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+436,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+437,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+438,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+439,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+440,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+441,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+442,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+443,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+444,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+445,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+446,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+447,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+448,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+449,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+450,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+451,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+452,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+453,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+454,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+455,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+456,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+457,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+458,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+459,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+460,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+461,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+462,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+463,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+464,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+465,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+466,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+467,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+468,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+469,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+470,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+471,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+472,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+473,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+474,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+475,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+476,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+477,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+478,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+479,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+480,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+481,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+482,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+483,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+484,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+485,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+486,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+487,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+488,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+489,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+490,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+491,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+492,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+493,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+494,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+495,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+496,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+497,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+498,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+499,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+500,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+501,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+502,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+503,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+504,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+505,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+506,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+507,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+508,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+509,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+510,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+511,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+512,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+513,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+514,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+515,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+516,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+517,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+518,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+519,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+520,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+521,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+522,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+523,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+524,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+525,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+526,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+527,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+528,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+529,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+530,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+531,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+532,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+533,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+534,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+535,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+536,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+537,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+538,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+539,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+540,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+541,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+542,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+543,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+544,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+545,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+546,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+547,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+548,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+549,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+550,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+551,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+552,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+553,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+554,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+555,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+556,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+557,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+558,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+559,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+560,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+561,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+562,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+563,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+564,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+565,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+566,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+567,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+568,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+569,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+570,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+571,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+572,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+573,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+574,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+575,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+576,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+577,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+578,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+579,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+580,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+581,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+582,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+583,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+584,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+585,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+586,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+587,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+588,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+589,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+590,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+591,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+592,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+593,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+594,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+595,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+596,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+597,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+598,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+599,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+600,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+601,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+602,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+603,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+604,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+605,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+606,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+607,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+608,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+609,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+610,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+611,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+612,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+613,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+614,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+615,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+616,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+617,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+618,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+619,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+620,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+621,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+622,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+623,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+624,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+625,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+626,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+627,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+628,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+629,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+630,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+631,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+632,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+633,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+634,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+635,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+636,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+637,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+638,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+639,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+640,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+641,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+642,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+643,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+644,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+645,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+646,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+647,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+648,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+649,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+650,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+651,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+652,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+653,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+654,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+655,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+656,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+657,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+658,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+659,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+660,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+661,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+662,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+663,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+664,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+665,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+666,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+667,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+668,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+669,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+670,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+671,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+672,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+673,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+674,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+675,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+676,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+677,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+678,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+679,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+680,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+681,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+682,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+683,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+684,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+685,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+686,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+687,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+688,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+689,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+690,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+691,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+692,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+693,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+694,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+695,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+696,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+697,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+698,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+699,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+700,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+701,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+702,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+703,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+704,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+705,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+706,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+707,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+708,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+709,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+710,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+711,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+712,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+713,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+714,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+715,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+716,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+717,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+718,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+719,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+720,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+721,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+722,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+723,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+724,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+725,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+726,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+727,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+728,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+729,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+730,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+731,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+732,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+733,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+734,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+735,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+736,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+737,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+738,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+739,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+740,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+741,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+742,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+743,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+744,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+745,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+746,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+747,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+748,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+749,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+750,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+751,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+752,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+753,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+754,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+755,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+756,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+757,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+758,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+759,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+760,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+761,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+762,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+763,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+764,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+765,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+766,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+767,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+768,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+769,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+770,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+771,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+772,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+773,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+774,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+775,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+776,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+777,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+778,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+779,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+780,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+781,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+782,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+783,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+784,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+785,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+786,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+787,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+788,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+789,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+790,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+791,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+792,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+793,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+794,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+795,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+796,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+797,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+798,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+799,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+800,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+801,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+802,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+803,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+804,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+805,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+806,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+807,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+808,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+809,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+810,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+811,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+812,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+813,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+814,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+815,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+816,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+817,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+818,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+819,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+820,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+821,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+822,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+823,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+824,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+825,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+826,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+827,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+828,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+829,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+830,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+831,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+832,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+833,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+834,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+835,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+836,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+837,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+838,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+839,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+840,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+841,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+842,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+843,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+844,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+845,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+846,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+847,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+848,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+849,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+850,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+851,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+852,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+853,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+854,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+855,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+856,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+857,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+858,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+859,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+860,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+861,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+862,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+863,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+864,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+865,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+866,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+867,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+868,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+869,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+870,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+871,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+872,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+873,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+874,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+875,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+876,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+877,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+878,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+879,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+880,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+881,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+882,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+883,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+884,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+885,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+886,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+887,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+888,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+889,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+890,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+891,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+892,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+893,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+894,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+895,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+896,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+897,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+898,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+899,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+900,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+901,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+902,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+903,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+904,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+905,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+906,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+907,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+908,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+909,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+910,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+911,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+912,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+913,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+914,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+915,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+916,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",FALSE
+917,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+918,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+919,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,FALSE
+920,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",TRUE
+921,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+922,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+923,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+924,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+925,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+926,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+927,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+928,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+929,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+930,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+931,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+932,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+933,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+934,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",TRUE
+935,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+936,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+937,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+938,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+939,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+940,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+941,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",FALSE
+942,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+943,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+944,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+945,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+946,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+947,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+948,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+949,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+950,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+951,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+952,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+953,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+954,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+955,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+956,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+957,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+958,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+959,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+960,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+961,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",TRUE
+962,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+963,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+964,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",FALSE
+965,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",TRUE
+966,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+967,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+968,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+969,Digital Marketing Specialist,"Plans, implements, and analyzes marketing campaigns across digital platforms to drive growth.",TRUE
+970,Product Manager,Defines and oversees the development of a product from concept to launch.,FALSE
+971,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",TRUE
+972,Project Manager,"Manages project timelines, resources, and budgets to ensure successful project delivery.",FALSE
+973,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+974,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+975,Software Engineer,"Responsible for designing, developing, and maintaining software applications.",FALSE
+976,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+977,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,TRUE
+978,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+979,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",TRUE
+980,Data Scientist,Analyzes and interprets complex data to provide insights and support decision-making.,TRUE
+981,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,TRUE
+982,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+983,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+984,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+985,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+986,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,FALSE
+987,Product Manager,Defines and oversees the development of a product from concept to launch.,TRUE
+988,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+989,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,TRUE
+990,Machine Learning Engineer,Develops algorithms and models to enable machines to learn from data and make predictions.,FALSE
+991,Sales Manager,"Oversees the sales department, develops sales strategies, and ensures revenue targets are met.",FALSE
+992,Web Developer,"Designs and develops websites and web applications, focusing on both the front-end and back-end.",TRUE
+993,UI/UX Designer,"Designs the user interface and experience of digital products, focusing on user-centric design.",FALSE
+994,Content Writer,"Creates and writes content for websites, blogs, and other digital platforms to engage the audience.",TRUE
+995,Cybersecurity Specialist,Protects an organisations information systems from cyber threats and attacks.,TRUE
+996,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE
+997,Database Administrator,"Manages and maintains databases, ensuring their performance, integrity, and security.",FALSE
+998,Cloud Architect,Designs and manages cloud computing architecture for organizations to ensure scalability and security.,FALSE
+999,System Administrator,"Responsible for managing and maintaining IT systems and networks, ensuring their reliability and security.",FALSE
+1000,Business Analyst,Works with stakeholders to gather and analyze business requirements and propose solutions.,FALSE

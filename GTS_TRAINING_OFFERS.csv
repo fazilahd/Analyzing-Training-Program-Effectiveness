@@ -1,0 +1,1001 @@
+GTS_TRAINING_OFFER_ID,GTS_TRAINING_OFFER_POSTED_BY_ID,GTS_TRAINING_ID,GTS_TRAINER_ID,GTS_TRAINING_OFFER_STATUS,GTS_TRAINING_OFFER_START_DATE,GTS_TRAINING_OFFER_END_DATE,GTS_TRAINING_OFFER_TYPE,GTS_TRAINING_OFFER_MEDIUM,GTS_TRAINING_CENTER_ID,GTS_TRAINER_COUNTRY_CODE,GTS_TRAINER_CONTACT_NUMBER,GTS_TRAINING_OFFER_PREREQUISITE,GTS_TRAINING_VIDEO_ID
+1,429,522,94,TRUE,06-07-2020,08-06-2020,Part-time,Hybrid,43,185,8030820782,Bachelor's degree in a relevant field,313
+2,374,12,503,FALSE,5/17/2020,7/16/2020,Self-paced,Online,35,92,8509127629,Interest in cybersecurity,51
+3,745,74,277,FALSE,06-06-2020,08-05-2020,Self-paced,Offline,78,63,9455778436,CSS,446
+4,419,701,246,FALSE,05-10-2020,07-09-2020,Part-time,Hybrid,63,195,8458986931,Prior experience with Excel or spreadsheets,865
+5,117,6,55,TRUE,1/29/2020,3/29/2020,Full-time,Offline,16,115,9224952888,Experience in project coordination,680
+6,221,297,659,TRUE,06-11-2020,08-10-2020,Self-paced,Online,7,170,7325946878,Interest in cybersecurity,957
+7,814,55,654,FALSE,02-08-2020,04-08-2020,Full-time,Hybrid,95,180,7885897375,Strong communication skills,946
+8,901,618,734,TRUE,4/14/2020,6/13/2020,Self-paced,Offline,82,200,9704957516,Familiarity with cloud tools,798
+9,821,351,307,TRUE,01-03-2020,03-03-2020,Full-time,Offline,99,232,9993104728,Basic programming knowledge,100
+10,892,679,686,TRUE,3/27/2020,5/26/2020,Full-time,Online,64,210,7020920016,Comfortable with remote collaboration tools,294
+11,766,557,225,TRUE,06-05-2020,08-04-2020,Full-time,Hybrid,68,12,8777467894,Portfolio of design projects (for UI/UX),431
+12,796,618,490,FALSE,01-02-2020,03-02-2020,Full-time,Offline,55,235,9977692936,Portfolio of design projects (for UI/UX),12
+13,422,678,565,TRUE,2/29/2020,4/29/2020,Full-time,Online,1,160,9110485376,Experience in project coordination,210
+14,391,184,261,TRUE,5/16/2020,7/15/2020,Self-paced,Online,44,13,7799157836,Completion of Intro to Python course,966
+15,389,63,956,FALSE,4/17/2020,6/16/2020,Part-time,Offline,21,247,9569341551,Portfolio of design projects (for UI/UX),902
+16,475,668,226,TRUE,03-02-2020,05-01-2020,Full-time,Online,31,59,6917715797,CSS,914
+17,68,162,90,TRUE,5/30/2020,7/29/2020,Full-time,Online,18,169,6587061869,Completion of Intro to Python course,781
+18,80,760,764,TRUE,1/27/2020,3/27/2020,Full-time,Online,90,23,8150509401,Familiarity with cloud tools,94
+19,348,376,844,FALSE,2/17/2020,4/17/2020,Part-time,Hybrid,26,166,7098011723,Previous coursework in networking fundamentals,34
+20,510,943,374,TRUE,5/26/2020,7/25/2020,Self-paced,Online,66,160,6433087872,Prior experience with Excel or spreadsheets,765
+21,658,671,845,TRUE,6/28/2020,8/27/2020,Part-time,Hybrid,8,124,7810871315,Experience in project coordination,790
+22,728,412,524,FALSE,3/13/2020,05-12-2020,Self-paced,Online,53,106,9781734976,Prior experience with Excel or spreadsheets,724
+23,397,930,877,TRUE,2/27/2020,4/27/2020,Full-time,Hybrid,28,186,8862285681,Experience in project coordination,163
+24,884,529,956,FALSE,02-09-2020,04-09-2020,Full-time,Online,76,126,8085198637,Bachelor's degree in a relevant field,707
+25,54,559,794,FALSE,6/15/2020,8/14/2020,Part-time,Hybrid,96,70,7301492437,Understanding of data structures and algorithms,329
+26,992,409,806,TRUE,3/20/2020,5/19/2020,Full-time,Hybrid,55,166,6070421074,Strong communication skills,179
+27,571,52,813,TRUE,6/16/2020,8/15/2020,Self-paced,Offline,68,42,6898256832,Bachelor's degree in a relevant field,740
+28,97,465,690,FALSE,06-05-2020,08-04-2020,Part-time,Online,61,231,8399808487,Passion for tech and innovation,693
+29,150,418,813,FALSE,5/15/2020,7/14/2020,Full-time,Offline,65,16,9968707989,Strong communication skills,133
+30,383,708,13,TRUE,06-10-2020,08-09-2020,Full-time,Online,28,170,6014179515,Passion for tech and innovation,790
+31,633,199,151,FALSE,4/13/2020,06-12-2020,Self-paced,Online,39,212,8240185412,Awareness of marketing strategies,86
+32,672,665,724,TRUE,3/18/2020,5/17/2020,Full-time,Online,84,230,6202501423,Familiarity with Agile or Scrum methodologies,278
+33,169,913,368,FALSE,04-05-2020,06-04-2020,Full-time,Hybrid,32,117,9171959036,Portfolio of design projects (for UI/UX),211
+34,3,812,707,TRUE,06-07-2020,08-06-2020,Self-paced,Hybrid,29,188,7168155889,and JavaScript,655
+35,356,141,688,FALSE,03-06-2020,05-05-2020,Self-paced,Offline,8,25,7540926420,Exposure to databases and SQL,538
+36,686,655,142,TRUE,03-04-2020,05-03-2020,Self-paced,Offline,52,228,7125468229,Prior experience with Excel or spreadsheets,99
+37,588,234,707,FALSE,6/25/2020,8/24/2020,Self-paced,Offline,22,179,7805130514,Familiarity with cloud tools,159
+38,523,516,929,FALSE,03-09-2020,05-08-2020,Full-time,Hybrid,77,172,6540835591,Previous coursework in networking fundamentals,701
+39,926,274,410,TRUE,05-08-2020,07-07-2020,Full-time,Offline,80,40,9723546986,No prerequisites required,712
+40,483,567,638,FALSE,05-05-2020,07-04-2020,Part-time,Hybrid,17,93,7666052620,Basic understanding of machine learning concepts,906
+41,543,215,596,TRUE,02-04-2020,04-04-2020,Part-time,Hybrid,98,26,7042625089,Comfortable with remote collaboration tools,132
+42,159,937,627,FALSE,5/18/2020,7/17/2020,Self-paced,Offline,55,213,7255095472,Previous coursework in networking fundamentals,238
+43,938,575,269,FALSE,05-05-2020,07-04-2020,Full-time,Offline,90,56,8352752355,Completion of Intro to Python course,674
+44,914,446,3,FALSE,3/30/2020,5/29/2020,Full-time,Online,93,34,9870872796,Completion of Intro to Python course,158
+45,129,933,969,FALSE,4/15/2020,6/14/2020,Part-time,Online,35,227,8068113875,CSS,593
+46,788,932,300,FALSE,06-05-2020,08-04-2020,Full-time,Online,78,9,7836056831,Willingness to learn new technologies,386
+47,604,460,632,TRUE,06-08-2020,08-07-2020,Self-paced,Offline,63,248,9198556268,Exposure to databases and SQL,647
+48,169,859,320,FALSE,6/15/2020,8/14/2020,Self-paced,Hybrid,11,87,8741358778,and JavaScript,578
+49,104,567,365,FALSE,3/13/2020,05-12-2020,Full-time,Offline,88,36,7737887177,Bachelor's degree in a relevant field,787
+50,774,147,607,TRUE,05-12-2020,07-11-2020,Self-paced,Hybrid,21,119,7630607692,Willingness to learn new technologies,72
+51,27,620,448,TRUE,2/19/2020,4/19/2020,Full-time,Online,39,137,7259935123,Passion for tech and innovation,410
+52,473,289,973,TRUE,5/27/2020,7/26/2020,Full-time,Online,87,64,7436354472,Exposure to databases and SQL,593
+53,297,944,722,FALSE,3/15/2020,5/14/2020,Self-paced,Hybrid,12,198,9664786390,No prerequisites required,708
+54,531,530,55,TRUE,6/19/2020,8/18/2020,Part-time,Online,83,213,9944751763,Awareness of marketing strategies,481
+55,984,457,712,TRUE,4/26/2020,6/25/2020,Self-paced,Offline,41,183,6617569225,Understanding of data structures and algorithms,74
+56,847,981,861,TRUE,01-12-2020,03-12-2020,Part-time,Offline,1,121,6598514866,Interest in cybersecurity,253
+57,754,676,832,FALSE,01-11-2020,03-11-2020,Full-time,Online,78,53,7550769462,Bachelor's degree in a relevant field,178
+58,691,244,77,TRUE,6/29/2020,8/28/2020,Full-time,Online,32,126,7496372836,Experience in project coordination,268
+59,701,222,143,TRUE,6/28/2020,8/27/2020,Part-time,Offline,26,113,7060311518,Familiarity with Agile or Scrum methodologies,78
+60,437,953,557,TRUE,4/22/2020,6/21/2020,Part-time,Online,20,8,9999955478,Knowledge of HTML,49
+61,565,73,870,FALSE,3/14/2020,5/13/2020,Part-time,Online,18,7,9424423952,CSS,857
+62,12,94,990,FALSE,04-12-2020,06-11-2020,Part-time,Online,86,203,7662534860,Familiarity with Agile or Scrum methodologies,555
+63,458,287,184,FALSE,1/19/2020,3/19/2020,Part-time,Online,60,80,9869041300,Passion for tech and innovation,664
+64,424,103,776,FALSE,5/27/2020,7/26/2020,Part-time,Hybrid,19,1,8267054060,and JavaScript,470
+65,238,361,525,TRUE,4/30/2020,6/29/2020,Part-time,Offline,15,78,6803994615,Portfolio of design projects (for UI/UX),431
+66,37,913,801,TRUE,1/25/2020,3/25/2020,Part-time,Offline,52,55,9972904367,Knowledge of HTML,944
+67,312,612,230,FALSE,06-02-2020,08-01-2020,Self-paced,Hybrid,34,204,7449527061,Prior experience with Excel or spreadsheets,864
+68,462,629,796,FALSE,4/25/2020,6/24/2020,Part-time,Hybrid,80,219,7422049752,Comfortable with remote collaboration tools,782
+69,641,706,719,TRUE,4/30/2020,6/29/2020,Part-time,Online,21,161,6921600247,Experience in project coordination,227
+70,693,98,743,TRUE,04-01-2020,5/31/2020,Full-time,Hybrid,98,32,9323140601,Previous coursework in networking fundamentals,760
+71,14,406,454,TRUE,3/29/2020,5/28/2020,Part-time,Offline,3,91,6054741487,Awareness of marketing strategies,97
+72,788,846,870,TRUE,6/25/2020,8/24/2020,Full-time,Online,61,7,7058815321,Previous coursework in networking fundamentals,916
+73,835,604,292,TRUE,05-11-2020,07-10-2020,Self-paced,Hybrid,98,140,6098430079,Strong communication skills,770
+74,632,918,655,TRUE,06-09-2020,08-08-2020,Part-time,Offline,17,186,9210397473,Exposure to databases and SQL,472
+75,34,788,64,FALSE,01-03-2020,03-03-2020,Part-time,Online,60,192,6322531568,Willingness to learn new technologies,527
+76,899,323,328,FALSE,01-07-2020,03-07-2020,Full-time,Online,16,151,6270989512,Previous coursework in networking fundamentals,506
+77,470,313,562,FALSE,01-05-2020,03-05-2020,Full-time,Hybrid,60,214,7038079788,CSS,542
+78,795,262,113,TRUE,4/22/2020,6/21/2020,Part-time,Hybrid,100,86,6260605442,CSS,940
+79,636,920,757,FALSE,05-12-2020,07-11-2020,Self-paced,Offline,5,166,6624518274,No prerequisites required,583
+80,972,51,894,FALSE,3/20/2020,5/19/2020,Self-paced,Online,68,237,9776021514,Bachelor's degree in a relevant field,685
+81,598,567,842,FALSE,1/19/2020,3/19/2020,Full-time,Offline,81,110,8333232234,Portfolio of design projects (for UI/UX),452
+82,71,722,997,FALSE,06-01-2020,7/31/2020,Full-time,Online,38,21,8411917792,Strong communication skills,785
+83,550,733,379,TRUE,3/19/2020,5/18/2020,Full-time,Hybrid,8,51,8841283038,Familiarity with Agile or Scrum methodologies,861
+84,962,175,335,FALSE,6/19/2020,8/18/2020,Part-time,Offline,71,7,9988356850,Familiarity with cloud tools,789
+85,775,286,287,TRUE,02-03-2020,04-03-2020,Full-time,Offline,22,120,7147033851,Willingness to learn new technologies,174
+86,628,836,628,TRUE,04-02-2020,06-01-2020,Full-time,Hybrid,2,187,9849994992,Completion of Intro to Python course,777
+87,908,531,476,FALSE,04-12-2020,06-11-2020,Part-time,Hybrid,66,94,6336161266,and JavaScript,810
+88,524,757,29,TRUE,1/14/2020,3/14/2020,Self-paced,Offline,16,104,7075566379,Familiarity with cloud tools,780
+89,323,233,1,FALSE,1/14/2020,3/14/2020,Self-paced,Online,72,64,9513362064,Familiarity with cloud tools,365
+90,419,110,363,FALSE,5/14/2020,7/13/2020,Self-paced,Hybrid,25,108,8761908743,Exposure to databases and SQL,117
+91,852,562,878,TRUE,5/24/2020,7/23/2020,Part-time,Offline,13,210,8551653233,Portfolio of design projects (for UI/UX),481
+92,956,723,141,FALSE,01-03-2020,03-03-2020,Self-paced,Online,46,188,9592253055,Basic understanding of machine learning concepts,75
+93,285,594,988,FALSE,06-05-2020,08-04-2020,Self-paced,Hybrid,31,10,9826435928,No prerequisites required,469
+94,223,337,631,TRUE,1/18/2020,3/18/2020,Full-time,Online,26,61,7960453622,Completion of Intro to Python course,331
+95,358,269,369,FALSE,5/18/2020,7/17/2020,Part-time,Hybrid,69,221,9429385369,Interest in cybersecurity,91
+96,374,962,166,TRUE,4/14/2020,6/13/2020,Self-paced,Online,87,178,9314315569,Willingness to learn new technologies,968
+97,321,369,584,FALSE,5/13/2020,07-12-2020,Part-time,Offline,35,245,9400648723,Experience in project coordination,621
+98,291,753,457,FALSE,1/27/2020,3/27/2020,Full-time,Hybrid,91,202,9365672465,Basic understanding of machine learning concepts,504
+99,824,124,903,FALSE,04-01-2020,5/31/2020,Self-paced,Hybrid,23,166,6970224194,Willingness to learn new technologies,948
+100,928,692,899,TRUE,02-03-2020,04-03-2020,Part-time,Offline,54,106,8229563259,Portfolio of design projects (for UI/UX),780
+101,60,892,37,FALSE,4/30/2020,6/29/2020,Full-time,Online,30,133,8717088005,Familiarity with cloud tools,666
+102,454,481,392,TRUE,6/19/2020,8/18/2020,Part-time,Hybrid,80,238,6369426537,Strong communication skills,990
+103,1000,572,896,FALSE,3/31/2020,5/30/2020,Part-time,Hybrid,8,92,8734734021,Previous coursework in networking fundamentals,426
+104,508,895,108,FALSE,4/21/2020,6/20/2020,Full-time,Online,55,8,9351516971,Understanding of data structures and algorithms,349
+105,859,250,227,FALSE,03-12-2020,05-11-2020,Self-paced,Hybrid,45,1,6073415556,Experience in project coordination,2
+106,948,669,367,FALSE,02-11-2020,04-11-2020,Part-time,Hybrid,14,138,7526194732,Basic programming knowledge,107
+107,752,202,16,FALSE,4/24/2020,6/23/2020,Full-time,Hybrid,80,215,6562456136,Understanding of data structures and algorithms,173
+108,629,787,957,TRUE,05-01-2020,6/30/2020,Part-time,Online,29,87,9368634254,Experience in project coordination,592
+109,623,56,520,FALSE,3/19/2020,5/18/2020,Full-time,Hybrid,73,212,7804894005,Understanding of data structures and algorithms,83
+110,635,196,900,TRUE,03-09-2020,05-08-2020,Full-time,Online,46,250,9518553465,Willingness to learn new technologies,561
+111,335,744,702,TRUE,2/19/2020,4/19/2020,Part-time,Online,89,66,8119589549,and JavaScript,570
+112,44,511,710,FALSE,3/20/2020,5/19/2020,Self-paced,Hybrid,13,161,7253160024,Bachelor's degree in a relevant field,559
+113,702,435,478,TRUE,3/27/2020,5/26/2020,Part-time,Hybrid,30,132,6486389249,Bachelor's degree in a relevant field,911
+114,46,948,592,TRUE,01-09-2020,03-09-2020,Part-time,Hybrid,34,217,9007381913,Bachelor's degree in a relevant field,420
+115,29,355,45,TRUE,6/28/2020,8/27/2020,Self-paced,Online,49,182,6998579102,Familiarity with Agile or Scrum methodologies,983
+116,559,396,863,TRUE,2/23/2020,4/23/2020,Full-time,Offline,77,94,6738215657,and JavaScript,108
+117,278,953,345,FALSE,03-02-2020,05-01-2020,Part-time,Online,6,73,9757209631,No prerequisites required,629
+118,340,364,519,TRUE,1/22/2020,3/22/2020,Full-time,Online,35,236,8997622472,Comfortable with remote collaboration tools,350
+119,633,82,671,TRUE,04-05-2020,06-04-2020,Full-time,Online,51,190,6954599677,Passion for tech and innovation,393
+120,116,465,185,TRUE,03-04-2020,05-03-2020,Full-time,Hybrid,93,174,6681862514,Portfolio of design projects (for UI/UX),571
+121,329,912,668,FALSE,05-11-2020,07-10-2020,Self-paced,Offline,90,25,9730762286,Strong communication skills,806
+122,489,706,574,TRUE,1/27/2020,3/27/2020,Self-paced,Offline,27,235,6330865284,Understanding of data structures and algorithms,326
+123,41,603,596,FALSE,04-10-2020,06-09-2020,Part-time,Hybrid,75,210,9496191417,and JavaScript,98
+124,903,581,33,TRUE,4/14/2020,6/13/2020,Self-paced,Hybrid,96,114,7050328210,Passion for tech and innovation,547
+125,450,627,928,TRUE,6/25/2020,8/24/2020,Full-time,Online,48,119,6920553080,Bachelor's degree in a relevant field,762
+126,399,454,228,FALSE,2/26/2020,4/26/2020,Full-time,Offline,12,78,6877725459,Strong communication skills,437
+127,74,286,951,FALSE,04-01-2020,5/31/2020,Self-paced,Hybrid,11,171,7411767350,Interest in cybersecurity,656
+128,413,427,415,FALSE,1/25/2020,3/25/2020,Full-time,Hybrid,51,79,8214745607,Exposure to databases and SQL,629
+129,576,404,163,TRUE,4/14/2020,6/13/2020,Part-time,Online,25,65,6182163048,Understanding of data structures and algorithms,139
+130,614,722,28,TRUE,3/30/2020,5/29/2020,Part-time,Online,44,246,8106818306,Prior experience with Excel or spreadsheets,609
+131,125,815,547,TRUE,2/22/2020,4/22/2020,Self-paced,Hybrid,82,12,6277743888,Exposure to databases and SQL,876
+132,420,459,829,FALSE,2/29/2020,4/29/2020,Part-time,Online,55,20,8558440063,Prior experience with Excel or spreadsheets,855
+133,741,763,103,TRUE,3/14/2020,5/13/2020,Part-time,Offline,98,59,8231105346,CSS,991
+134,990,197,858,TRUE,04-12-2020,06-11-2020,Full-time,Offline,1,179,9612649084,Experience in project coordination,452
+135,217,874,831,TRUE,2/25/2020,4/25/2020,Full-time,Offline,96,162,6617619699,Completion of Intro to Python course,67
+136,43,44,128,TRUE,02-08-2020,04-08-2020,Part-time,Online,46,185,7678618648,Strong communication skills,758
+137,388,726,869,TRUE,2/18/2020,4/18/2020,Full-time,Offline,96,121,6511143939,Completion of Intro to Python course,811
+138,159,745,741,FALSE,06-03-2020,08-02-2020,Self-paced,Hybrid,88,48,6911742547,Strong communication skills,511
+139,107,852,784,FALSE,03-10-2020,05-09-2020,Self-paced,Offline,49,204,9667601679,Portfolio of design projects (for UI/UX),693
+140,786,874,98,FALSE,2/20/2020,4/20/2020,Full-time,Hybrid,89,214,7560323492,Previous coursework in networking fundamentals,436
+141,966,557,161,FALSE,2/27/2020,4/27/2020,Full-time,Online,64,248,7319795656,Experience in project coordination,39
+142,81,150,330,TRUE,5/18/2020,7/17/2020,Full-time,Hybrid,69,194,7584054040,Willingness to learn new technologies,951
+143,135,434,156,FALSE,02-02-2020,04-02-2020,Part-time,Offline,59,18,6898321733,Strong communication skills,427
+144,7,932,11,FALSE,5/18/2020,7/17/2020,Self-paced,Hybrid,39,50,7435640753,Portfolio of design projects (for UI/UX),755
+145,78,699,131,TRUE,02-05-2020,04-05-2020,Self-paced,Hybrid,95,194,8420567581,Awareness of marketing strategies,198
+146,933,60,516,FALSE,6/18/2020,8/17/2020,Self-paced,Hybrid,36,128,9199135573,Prior experience with Excel or spreadsheets,835
+147,537,654,75,TRUE,2/25/2020,4/25/2020,Part-time,Online,4,166,8933697590,Familiarity with Agile or Scrum methodologies,377
+148,990,438,703,FALSE,1/13/2020,3/13/2020,Self-paced,Offline,37,86,7007016083,Familiarity with cloud tools,503
+149,447,991,672,TRUE,2/13/2020,4/13/2020,Part-time,Hybrid,97,87,9920018114,Passion for tech and innovation,816
+150,523,952,475,FALSE,3/23/2020,5/22/2020,Part-time,Online,77,12,9298315559,and JavaScript,602
+151,992,774,929,TRUE,4/15/2020,6/14/2020,Full-time,Hybrid,79,67,6919497565,Previous coursework in networking fundamentals,226
+152,873,995,292,TRUE,05-11-2020,07-10-2020,Part-time,Hybrid,84,175,6157236384,CSS,662
+153,690,386,260,TRUE,01-09-2020,03-09-2020,Self-paced,Hybrid,28,114,6071712753,Portfolio of design projects (for UI/UX),504
+154,979,564,566,TRUE,04-11-2020,06-10-2020,Self-paced,Hybrid,41,173,6989378461,Completion of Intro to Python course,74
+155,92,809,264,FALSE,04-09-2020,06-08-2020,Part-time,Online,5,186,8834645084,Strong communication skills,557
+156,506,255,285,FALSE,3/20/2020,5/19/2020,Full-time,Offline,42,71,7779219094,Awareness of marketing strategies,265
+157,887,759,901,FALSE,2/23/2020,4/23/2020,Self-paced,Online,6,20,7812835563,Comfortable with remote collaboration tools,448
+158,494,444,644,FALSE,01-02-2020,03-02-2020,Part-time,Hybrid,93,216,6394304200,Prior experience with Excel or spreadsheets,152
+159,867,641,167,TRUE,3/15/2020,5/14/2020,Self-paced,Offline,28,182,9195685870,Understanding of data structures and algorithms,912
+160,487,540,181,TRUE,3/18/2020,5/17/2020,Part-time,Online,92,207,9777741485,Knowledge of HTML,650
+161,238,368,795,TRUE,4/14/2020,6/13/2020,Full-time,Online,9,179,7634021736,No prerequisites required,301
+162,329,569,783,FALSE,6/28/2020,8/27/2020,Self-paced,Online,42,212,8451418745,Familiarity with Agile or Scrum methodologies,302
+163,741,130,472,FALSE,4/20/2020,6/19/2020,Part-time,Online,58,88,7623286867,Experience in project coordination,554
+164,848,244,946,FALSE,03-11-2020,05-10-2020,Self-paced,Hybrid,13,15,9959758020,Awareness of marketing strategies,117
+165,79,581,894,FALSE,01-09-2020,03-09-2020,Full-time,Hybrid,78,92,6569257792,Knowledge of HTML,215
+166,870,185,419,TRUE,6/29/2020,8/28/2020,Full-time,Hybrid,43,128,6754245784,Previous coursework in networking fundamentals,155
+167,781,634,557,FALSE,6/18/2020,8/17/2020,Part-time,Offline,68,237,8577061385,Previous coursework in networking fundamentals,809
+168,426,732,406,FALSE,3/31/2020,5/30/2020,Part-time,Online,22,204,7112763120,Familiarity with Agile or Scrum methodologies,729
+169,613,210,803,TRUE,4/24/2020,6/23/2020,Full-time,Online,75,210,9644403858,Awareness of marketing strategies,82
+170,419,8,445,FALSE,3/28/2020,5/27/2020,Full-time,Offline,2,241,7735806438,Familiarity with cloud tools,708
+171,862,435,543,TRUE,3/16/2020,5/15/2020,Self-paced,Offline,34,76,6136115351,CSS,90
+172,755,832,637,FALSE,02-01-2020,04-01-2020,Self-paced,Offline,20,201,8652407256,Portfolio of design projects (for UI/UX),666
+173,90,785,534,TRUE,6/23/2020,8/22/2020,Self-paced,Online,86,113,7234761548,Portfolio of design projects (for UI/UX),916
+174,392,845,247,TRUE,04-08-2020,06-07-2020,Part-time,Hybrid,33,213,9430850571,CSS,565
+175,270,507,715,FALSE,01-10-2020,03-10-2020,Part-time,Online,77,242,7274799700,Exposure to databases and SQL,519
+176,308,6,497,TRUE,4/24/2020,6/23/2020,Part-time,Online,55,214,9503826501,Knowledge of HTML,95
+177,780,733,254,FALSE,05-01-2020,6/30/2020,Part-time,Offline,83,3,8893564014,Basic understanding of machine learning concepts,824
+178,925,897,968,TRUE,6/19/2020,8/18/2020,Full-time,Online,57,204,6633957175,Completion of Intro to Python course,989
+179,305,923,325,TRUE,2/17/2020,4/17/2020,Full-time,Online,30,82,9461779465,Awareness of marketing strategies,673
+180,756,415,437,FALSE,6/21/2020,8/20/2020,Part-time,Offline,87,9,8155366979,Prior experience with Excel or spreadsheets,645
+181,15,899,573,FALSE,03-10-2020,05-09-2020,Self-paced,Offline,5,57,6080898517,Completion of Intro to Python course,835
+182,198,734,526,TRUE,04-07-2020,06-06-2020,Full-time,Online,11,224,8410259165,Understanding of data structures and algorithms,336
+183,745,781,292,FALSE,05-01-2020,6/30/2020,Self-paced,Offline,30,125,8548392675,Prior experience with Excel or spreadsheets,144
+184,396,201,248,FALSE,4/28/2020,6/27/2020,Full-time,Offline,45,224,9183235235,Prior experience with Excel or spreadsheets,596
+185,231,718,755,FALSE,01-08-2020,03-08-2020,Self-paced,Hybrid,72,187,6415161841,Bachelor's degree in a relevant field,17
+186,832,562,550,TRUE,01-05-2020,03-05-2020,Self-paced,Hybrid,1,170,7869492150,Prior experience with Excel or spreadsheets,958
+187,139,857,314,FALSE,3/26/2020,5/25/2020,Part-time,Hybrid,85,236,7118683037,Exposure to databases and SQL,740
+188,641,96,954,FALSE,06-05-2020,08-04-2020,Part-time,Hybrid,29,205,9987617431,Comfortable with remote collaboration tools,45
+189,303,335,657,TRUE,4/17/2020,6/16/2020,Self-paced,Online,56,17,8340284329,No prerequisites required,830
+190,999,352,975,FALSE,4/25/2020,6/24/2020,Self-paced,Hybrid,23,187,9633606431,Willingness to learn new technologies,613
+191,36,8,863,TRUE,04-02-2020,06-01-2020,Part-time,Hybrid,32,233,8802069396,Completion of Intro to Python course,775
+192,54,64,848,TRUE,3/19/2020,5/18/2020,Full-time,Online,46,5,7896713298,Familiarity with cloud tools,449
+193,101,597,513,FALSE,06-05-2020,08-04-2020,Full-time,Offline,13,224,6653129810,Awareness of marketing strategies,748
+194,253,488,937,TRUE,3/15/2020,5/14/2020,Self-paced,Hybrid,59,172,7645411674,Passion for tech and innovation,83
+195,664,541,738,FALSE,2/14/2020,4/14/2020,Full-time,Offline,33,99,7634414528,Prior experience with Excel or spreadsheets,172
+196,794,277,906,FALSE,01-04-2020,03-04-2020,Full-time,Offline,60,122,9457363187,Familiarity with Agile or Scrum methodologies,916
+197,41,466,908,TRUE,5/17/2020,7/16/2020,Self-paced,Hybrid,23,214,9578682391,Awareness of marketing strategies,743
+198,996,336,318,TRUE,3/27/2020,5/26/2020,Self-paced,Hybrid,21,83,8929722029,Passion for tech and innovation,880
+199,877,248,983,FALSE,5/16/2020,7/15/2020,Full-time,Hybrid,35,216,9292250548,Bachelor's degree in a relevant field,359
+200,981,77,807,FALSE,3/20/2020,5/19/2020,Full-time,Hybrid,57,140,8706205808,Prior experience with Excel or spreadsheets,131
+201,86,501,263,FALSE,03-02-2020,05-01-2020,Full-time,Hybrid,41,3,6327696745,Awareness of marketing strategies,607
+202,925,184,350,FALSE,5/14/2020,7/13/2020,Full-time,Online,6,137,9630593761,Comfortable with remote collaboration tools,819
+203,274,196,922,FALSE,2/29/2020,4/29/2020,Self-paced,Online,11,91,7599924315,Knowledge of HTML,666
+204,239,762,300,FALSE,3/13/2020,05-12-2020,Full-time,Offline,41,63,9991543396,Awareness of marketing strategies,29
+205,536,351,639,TRUE,01-06-2020,03-06-2020,Full-time,Online,94,235,7890978024,CSS,231
+206,771,118,117,FALSE,1/16/2020,3/16/2020,Self-paced,Offline,19,200,7615194536,Strong communication skills,600
+207,761,665,612,FALSE,5/17/2020,7/16/2020,Self-paced,Online,6,48,8948050006,Strong communication skills,737
+208,878,450,347,TRUE,4/27/2020,6/26/2020,Full-time,Hybrid,38,209,8318058710,Strong communication skills,794
+209,357,896,776,FALSE,06-10-2020,08-09-2020,Part-time,Online,33,49,6253473527,Willingness to learn new technologies,63
+210,876,385,577,TRUE,06-10-2020,08-09-2020,Self-paced,Hybrid,93,194,7827340570,Familiarity with cloud tools,18
+211,638,445,801,TRUE,04-09-2020,06-08-2020,Full-time,Offline,22,217,8025225723,Portfolio of design projects (for UI/UX),859
+212,405,527,889,FALSE,6/21/2020,8/20/2020,Part-time,Hybrid,71,155,9353502752,Experience in project coordination,911
+213,979,292,206,TRUE,1/13/2020,3/13/2020,Self-paced,Online,45,101,6521164188,Comfortable with remote collaboration tools,920
+214,553,307,462,FALSE,02-01-2020,04-01-2020,Self-paced,Online,100,248,6910666102,Awareness of marketing strategies,855
+215,472,283,906,FALSE,5/27/2020,7/26/2020,Full-time,Online,47,45,7897348193,Familiarity with Agile or Scrum methodologies,981
+216,2,344,789,TRUE,06-08-2020,08-07-2020,Full-time,Offline,49,58,7565758483,and JavaScript,418
+217,297,858,611,FALSE,02-12-2020,04-12-2020,Self-paced,Offline,61,131,7047491891,Strong communication skills,60
+218,731,379,276,FALSE,06-09-2020,08-08-2020,Full-time,Offline,78,22,6403512538,Understanding of data structures and algorithms,211
+219,155,446,471,TRUE,5/24/2020,7/23/2020,Full-time,Offline,21,62,8725166108,Familiarity with cloud tools,170
+220,826,434,700,TRUE,03-07-2020,05-06-2020,Self-paced,Offline,33,159,9393532802,Interest in cybersecurity,25
+221,946,678,521,TRUE,6/22/2020,8/21/2020,Self-paced,Online,71,148,7669206623,Bachelor's degree in a relevant field,64
+222,716,864,103,FALSE,3/21/2020,5/20/2020,Self-paced,Hybrid,19,18,7150169119,Portfolio of design projects (for UI/UX),535
+223,405,922,123,FALSE,1/15/2020,3/15/2020,Self-paced,Hybrid,3,247,8550036586,Passion for tech and innovation,303
+224,791,491,372,TRUE,6/24/2020,8/23/2020,Full-time,Hybrid,57,152,7428408923,Completion of Intro to Python course,38
+225,807,398,448,TRUE,3/18/2020,5/17/2020,Self-paced,Online,25,178,7365343858,No prerequisites required,854
+226,248,738,661,TRUE,4/16/2020,6/15/2020,Self-paced,Online,68,90,7445588114,Interest in cybersecurity,406
+227,884,918,376,TRUE,2/22/2020,4/22/2020,Self-paced,Offline,73,173,7659474755,Comfortable with remote collaboration tools,452
+228,637,769,780,FALSE,3/19/2020,5/18/2020,Full-time,Offline,91,92,7730942667,Portfolio of design projects (for UI/UX),437
+229,375,693,276,TRUE,6/18/2020,8/17/2020,Full-time,Hybrid,93,31,7356034984,Familiarity with cloud tools,463
+230,245,400,244,FALSE,02-04-2020,04-04-2020,Full-time,Hybrid,76,245,6390224698,CSS,400
+231,549,751,320,FALSE,3/17/2020,5/16/2020,Full-time,Hybrid,68,116,9695474611,Comfortable with remote collaboration tools,268
+232,418,409,175,TRUE,5/24/2020,7/23/2020,Full-time,Offline,74,18,7027755133,Comfortable with remote collaboration tools,349
+233,967,502,191,FALSE,03-04-2020,05-03-2020,Part-time,Online,62,3,6854645345,Understanding of data structures and algorithms,970
+234,967,643,59,FALSE,1/27/2020,3/27/2020,Self-paced,Hybrid,49,17,6738428030,Portfolio of design projects (for UI/UX),441
+235,446,8,766,TRUE,04-05-2020,06-04-2020,Full-time,Offline,61,186,9189397892,Bachelor's degree in a relevant field,187
+236,419,187,484,TRUE,6/27/2020,8/26/2020,Full-time,Hybrid,33,184,8416449692,Basic programming knowledge,654
+237,630,218,589,FALSE,1/15/2020,3/15/2020,Self-paced,Offline,57,12,8280671061,Comfortable with remote collaboration tools,437
+238,823,337,2,FALSE,01-07-2020,03-07-2020,Full-time,Online,58,142,7740489684,Understanding of data structures and algorithms,311
+239,687,721,633,TRUE,2/27/2020,4/27/2020,Self-paced,Online,91,230,7981074132,Familiarity with Agile or Scrum methodologies,254
+240,282,259,112,TRUE,03-05-2020,05-04-2020,Self-paced,Online,91,138,7012153507,Willingness to learn new technologies,537
+241,447,14,750,TRUE,3/28/2020,5/27/2020,Full-time,Online,41,223,6647152874,Experience in project coordination,677
+242,750,898,904,TRUE,6/28/2020,8/27/2020,Part-time,Hybrid,51,220,6622013225,Passion for tech and innovation,272
+243,879,670,97,FALSE,02-02-2020,04-02-2020,Self-paced,Hybrid,81,226,9286302668,Basic understanding of machine learning concepts,95
+244,942,949,354,TRUE,2/24/2020,4/24/2020,Part-time,Offline,59,19,9529825965,Understanding of data structures and algorithms,305
+245,825,719,962,FALSE,05-04-2020,07-03-2020,Part-time,Online,15,138,8686730995,Prior experience with Excel or spreadsheets,293
+246,940,534,257,TRUE,5/23/2020,7/22/2020,Part-time,Offline,99,227,9001445994,Exposure to databases and SQL,806
+247,50,979,665,FALSE,06-04-2020,08-03-2020,Full-time,Hybrid,68,110,7469850096,Bachelor's degree in a relevant field,911
+248,758,343,417,FALSE,1/24/2020,3/24/2020,Full-time,Online,12,194,7345056142,Understanding of data structures and algorithms,450
+249,862,277,234,TRUE,03-09-2020,05-08-2020,Self-paced,Hybrid,27,119,7308826089,CSS,907
+250,957,734,666,FALSE,1/20/2020,3/20/2020,Part-time,Online,87,24,8762322153,Portfolio of design projects (for UI/UX),185
+251,227,375,711,FALSE,2/28/2020,4/28/2020,Self-paced,Online,65,175,7748968780,Experience in project coordination,36
+252,495,436,102,FALSE,2/19/2020,4/19/2020,Part-time,Online,6,245,8443188584,No prerequisites required,326
+253,683,582,390,TRUE,3/24/2020,5/23/2020,Self-paced,Hybrid,9,246,7808208314,Awareness of marketing strategies,688
+254,471,407,373,TRUE,02-03-2020,04-03-2020,Part-time,Offline,16,46,9392149263,Previous coursework in networking fundamentals,217
+255,549,161,678,TRUE,6/18/2020,8/17/2020,Full-time,Offline,3,26,6857867580,Bachelor's degree in a relevant field,267
+256,899,537,759,TRUE,6/19/2020,8/18/2020,Part-time,Hybrid,78,228,7483737037,Strong communication skills,768
+257,401,679,632,FALSE,01-08-2020,03-08-2020,Full-time,Hybrid,71,97,8793456466,Completion of Intro to Python course,213
+258,892,71,301,TRUE,2/28/2020,4/28/2020,Part-time,Offline,74,166,8384444085,Prior experience with Excel or spreadsheets,919
+259,554,505,844,TRUE,5/17/2020,7/16/2020,Full-time,Offline,92,234,8237559403,Strong communication skills,273
+260,401,287,267,FALSE,01-02-2020,03-02-2020,Full-time,Online,29,185,7680613352,Willingness to learn new technologies,495
+261,950,649,466,TRUE,03-02-2020,05-01-2020,Full-time,Offline,64,29,6019019037,Exposure to databases and SQL,574
+262,519,198,204,FALSE,2/19/2020,4/19/2020,Part-time,Offline,80,103,6740788693,Familiarity with cloud tools,816
+263,976,935,474,TRUE,5/27/2020,7/26/2020,Full-time,Hybrid,16,151,6861968822,Basic programming knowledge,892
+264,438,97,846,TRUE,01-09-2020,03-09-2020,Part-time,Online,3,220,6426692969,Familiarity with cloud tools,417
+265,358,560,162,TRUE,04-09-2020,06-08-2020,Part-time,Hybrid,4,187,9611616414,Basic understanding of machine learning concepts,492
+266,704,576,735,FALSE,4/13/2020,06-12-2020,Self-paced,Hybrid,69,233,8165987374,Bachelor's degree in a relevant field,767
+267,234,810,225,TRUE,1/26/2020,3/26/2020,Full-time,Hybrid,89,199,9251249131,Completion of Intro to Python course,686
+268,657,113,803,TRUE,5/16/2020,7/15/2020,Self-paced,Offline,42,187,6275191636,Understanding of data structures and algorithms,666
+269,619,879,779,FALSE,04-09-2020,06-08-2020,Self-paced,Online,56,107,6252402127,Familiarity with cloud tools,567
+270,796,720,67,FALSE,6/14/2020,8/13/2020,Self-paced,Online,76,178,6171903535,Familiarity with Agile or Scrum methodologies,973
+271,835,529,144,FALSE,2/19/2020,4/19/2020,Full-time,Hybrid,96,144,9502028734,Interest in cybersecurity,198
+272,52,506,414,FALSE,3/20/2020,5/19/2020,Full-time,Hybrid,44,234,7842016110,Willingness to learn new technologies,400
+273,632,3,260,TRUE,6/26/2020,8/25/2020,Self-paced,Online,22,201,8729429011,Willingness to learn new technologies,677
+274,492,898,429,FALSE,1/30/2020,3/30/2020,Part-time,Online,7,75,7398437827,Comfortable with remote collaboration tools,240
+275,878,426,132,TRUE,3/29/2020,5/28/2020,Self-paced,Online,43,111,8365764352,Passion for tech and innovation,394
+276,619,69,376,TRUE,2/18/2020,4/18/2020,Self-paced,Offline,91,88,6486822888,Strong communication skills,686
+277,633,353,216,TRUE,02-11-2020,04-11-2020,Self-paced,Hybrid,60,122,8949841481,Familiarity with Agile or Scrum methodologies,326
+278,10,600,712,TRUE,5/14/2020,7/13/2020,Self-paced,Online,34,54,6852543695,Comfortable with remote collaboration tools,912
+279,186,586,594,TRUE,1/23/2020,3/23/2020,Full-time,Offline,57,162,8775412318,Awareness of marketing strategies,127
+280,388,727,188,TRUE,03-02-2020,05-01-2020,Full-time,Hybrid,38,3,6171232599,Familiarity with Agile or Scrum methodologies,210
+281,789,582,22,TRUE,5/24/2020,7/23/2020,Part-time,Online,78,83,6869106548,CSS,964
+282,483,982,28,TRUE,6/27/2020,8/26/2020,Part-time,Online,89,104,9985241639,Portfolio of design projects (for UI/UX),701
+283,725,691,760,TRUE,2/28/2020,4/28/2020,Self-paced,Online,29,204,6281970742,Interest in cybersecurity,845
+284,177,166,387,FALSE,05-07-2020,07-06-2020,Part-time,Online,43,223,6966947095,Prior experience with Excel or spreadsheets,584
+285,761,634,798,TRUE,2/21/2020,4/21/2020,Self-paced,Hybrid,100,116,9219224455,No prerequisites required,456
+286,744,298,645,TRUE,06-01-2020,7/31/2020,Self-paced,Online,65,84,7702620662,Familiarity with Agile or Scrum methodologies,518
+287,450,785,741,TRUE,03-01-2020,4/30/2020,Self-paced,Online,63,20,6068044235,Prior experience with Excel or spreadsheets,388
+288,877,359,624,TRUE,3/24/2020,5/23/2020,Full-time,Hybrid,47,168,9994630282,Previous coursework in networking fundamentals,688
+289,905,141,241,TRUE,6/24/2020,8/23/2020,Part-time,Online,33,201,6748603616,Familiarity with cloud tools,833
+290,286,952,515,FALSE,03-02-2020,05-01-2020,Self-paced,Online,19,7,8328383291,Comfortable with remote collaboration tools,215
+291,526,981,670,TRUE,06-04-2020,08-03-2020,Part-time,Offline,60,147,6959264699,Prior experience with Excel or spreadsheets,401
+292,994,650,177,FALSE,3/14/2020,5/13/2020,Self-paced,Offline,41,246,9968076563,Basic understanding of machine learning concepts,514
+293,895,427,785,FALSE,4/16/2020,6/15/2020,Full-time,Hybrid,96,247,8678226256,No prerequisites required,231
+294,570,513,402,TRUE,05-04-2020,07-03-2020,Part-time,Offline,1,136,6942075434,Interest in cybersecurity,250
+295,917,78,205,FALSE,06-11-2020,08-10-2020,Part-time,Offline,94,76,6507009940,and JavaScript,854
+296,824,450,385,TRUE,02-03-2020,04-03-2020,Full-time,Hybrid,100,180,8133304407,Comfortable with remote collaboration tools,175
+297,4,994,163,TRUE,01-02-2020,03-02-2020,Full-time,Offline,30,179,9074792097,and JavaScript,247
+298,234,434,873,TRUE,4/26/2020,6/25/2020,Self-paced,Hybrid,73,153,8903168690,CSS,395
+299,220,780,134,FALSE,6/13/2020,08-12-2020,Self-paced,Offline,31,122,8964786667,Strong communication skills,114
+300,759,223,110,TRUE,01-01-2020,03-01-2020,Part-time,Online,39,155,7348639669,Willingness to learn new technologies,976
+301,558,144,264,TRUE,3/24/2020,5/23/2020,Part-time,Hybrid,97,2,6116772577,Experience in project coordination,929
+302,50,594,505,TRUE,3/22/2020,5/21/2020,Self-paced,Offline,81,186,7610589629,Passion for tech and innovation,286
+303,139,586,488,FALSE,6/14/2020,8/13/2020,Self-paced,Offline,49,26,7003959434,Familiarity with Agile or Scrum methodologies,412
+304,369,21,130,FALSE,1/27/2020,3/27/2020,Part-time,Offline,68,88,6141517360,Exposure to databases and SQL,947
+305,355,283,835,TRUE,6/29/2020,8/28/2020,Part-time,Offline,23,17,7174930835,Knowledge of HTML,706
+306,239,876,817,FALSE,4/24/2020,6/23/2020,Self-paced,Hybrid,59,37,7102576721,Basic programming knowledge,702
+307,911,484,490,FALSE,03-10-2020,05-09-2020,Part-time,Hybrid,36,183,6893602030,Portfolio of design projects (for UI/UX),571
+308,807,408,376,FALSE,5/21/2020,7/20/2020,Part-time,Online,83,162,8395953632,and JavaScript,145
+309,360,678,396,TRUE,2/23/2020,4/23/2020,Full-time,Online,10,242,8603429840,Familiarity with Agile or Scrum methodologies,926
+310,460,840,738,FALSE,1/20/2020,3/20/2020,Self-paced,Hybrid,35,80,9992314609,Experience in project coordination,262
+311,681,503,779,TRUE,4/30/2020,6/29/2020,Self-paced,Offline,88,15,9708750531,Interest in cybersecurity,802
+312,823,782,385,FALSE,2/15/2020,4/15/2020,Self-paced,Online,25,230,6999588876,Understanding of data structures and algorithms,622
+313,524,326,719,TRUE,1/23/2020,3/23/2020,Self-paced,Offline,20,81,6042965829,Portfolio of design projects (for UI/UX),287
+314,3,518,427,TRUE,3/28/2020,5/27/2020,Full-time,Hybrid,69,243,7378103615,Basic understanding of machine learning concepts,316
+315,27,566,797,TRUE,02-11-2020,04-11-2020,Full-time,Offline,39,158,6562108395,Completion of Intro to Python course,378
+316,152,388,140,FALSE,5/14/2020,7/13/2020,Self-paced,Hybrid,79,210,6759093931,Interest in cybersecurity,523
+317,695,53,259,FALSE,4/20/2020,6/19/2020,Part-time,Hybrid,45,34,6550393201,Basic programming knowledge,572
+318,10,790,714,FALSE,05-10-2020,07-09-2020,Self-paced,Hybrid,94,207,6584838483,Strong communication skills,456
+319,207,803,657,FALSE,03-09-2020,05-08-2020,Full-time,Offline,85,194,7949262757,Basic understanding of machine learning concepts,941
+320,853,259,448,FALSE,01-09-2020,03-09-2020,Self-paced,Offline,85,39,6218626060,Prior experience with Excel or spreadsheets,862
+321,954,874,199,TRUE,6/15/2020,8/14/2020,Full-time,Online,37,180,7708724086,Bachelor's degree in a relevant field,907
+322,741,830,509,TRUE,2/25/2020,4/25/2020,Full-time,Offline,88,38,7614145172,Understanding of data structures and algorithms,5
+323,865,701,868,TRUE,04-02-2020,06-01-2020,Part-time,Online,36,15,7362814122,Knowledge of HTML,798
+324,896,806,254,FALSE,5/21/2020,7/20/2020,Full-time,Online,70,26,6404617979,Experience in project coordination,788
+325,598,897,384,TRUE,05-03-2020,07-02-2020,Part-time,Online,62,93,6158119535,No prerequisites required,145
+326,614,225,972,TRUE,1/18/2020,3/18/2020,Part-time,Online,32,83,9919766926,Comfortable with remote collaboration tools,248
+327,964,800,897,TRUE,4/21/2020,6/20/2020,Self-paced,Online,81,95,6322216245,Familiarity with cloud tools,800
+328,378,513,377,FALSE,3/15/2020,5/14/2020,Part-time,Online,78,147,8796470365,Passion for tech and innovation,481
+329,111,818,665,FALSE,02-02-2020,04-02-2020,Self-paced,Offline,66,232,7909385771,Portfolio of design projects (for UI/UX),31
+330,490,455,722,FALSE,1/29/2020,3/29/2020,Part-time,Offline,86,215,6377446581,Familiarity with cloud tools,414
+331,532,12,56,TRUE,3/26/2020,5/25/2020,Part-time,Offline,84,47,8764868731,Willingness to learn new technologies,302
+332,476,901,69,TRUE,2/23/2020,4/23/2020,Self-paced,Hybrid,25,96,6053850589,Strong communication skills,917
+333,611,819,452,FALSE,1/18/2020,3/18/2020,Self-paced,Offline,28,9,9366289615,and JavaScript,255
+334,114,830,791,FALSE,3/30/2020,5/29/2020,Part-time,Online,16,6,6295220911,Previous coursework in networking fundamentals,989
+335,380,407,9,FALSE,02-11-2020,04-11-2020,Self-paced,Online,41,176,9494387136,and JavaScript,341
+336,990,417,323,TRUE,3/15/2020,5/14/2020,Part-time,Online,87,48,6003022933,Passion for tech and innovation,97
+337,678,153,8,TRUE,1/16/2020,3/16/2020,Full-time,Hybrid,44,148,9580428154,Basic understanding of machine learning concepts,355
+338,253,275,974,FALSE,4/26/2020,6/25/2020,Self-paced,Offline,16,154,7711620148,No prerequisites required,46
+339,850,942,992,FALSE,4/18/2020,6/17/2020,Self-paced,Online,4,76,8595695423,CSS,344
+340,778,22,716,TRUE,06-11-2020,08-10-2020,Part-time,Hybrid,34,60,9119320642,Awareness of marketing strategies,242
+341,581,9,344,FALSE,2/18/2020,4/18/2020,Part-time,Online,1,25,9821939537,Previous coursework in networking fundamentals,651
+342,342,135,789,TRUE,2/29/2020,4/29/2020,Full-time,Online,38,89,6253042023,Passion for tech and innovation,527
+343,755,161,810,TRUE,3/15/2020,5/14/2020,Full-time,Offline,78,209,8453386739,No prerequisites required,389
+344,506,26,409,FALSE,02-02-2020,04-02-2020,Full-time,Hybrid,41,179,8115532662,Passion for tech and innovation,639
+345,159,988,403,TRUE,05-05-2020,07-04-2020,Self-paced,Hybrid,55,241,7956261082,Bachelor's degree in a relevant field,4
+346,310,782,893,FALSE,1/30/2020,3/30/2020,Full-time,Online,66,102,6822503937,Portfolio of design projects (for UI/UX),621
+347,511,49,268,TRUE,6/18/2020,8/17/2020,Self-paced,Online,42,96,8671816189,Familiarity with Agile or Scrum methodologies,974
+348,38,919,626,TRUE,1/25/2020,3/25/2020,Part-time,Offline,49,19,9864971482,Experience in project coordination,5
+349,237,298,22,FALSE,01-02-2020,03-02-2020,Full-time,Online,15,201,8701962780,Interest in cybersecurity,60
+350,659,10,321,TRUE,05-04-2020,07-03-2020,Part-time,Hybrid,74,183,9740870457,Basic programming knowledge,231
+351,317,146,999,FALSE,2/20/2020,4/20/2020,Part-time,Hybrid,55,220,9805793159,Understanding of data structures and algorithms,292
+352,885,436,703,FALSE,1/23/2020,3/23/2020,Self-paced,Hybrid,22,7,9729669586,Familiarity with cloud tools,18
+353,784,870,621,FALSE,3/18/2020,5/17/2020,Part-time,Hybrid,19,207,7701179825,and JavaScript,715
+354,22,832,262,FALSE,3/20/2020,5/19/2020,Self-paced,Hybrid,12,30,8044244550,Awareness of marketing strategies,859
+355,912,170,784,FALSE,6/20/2020,8/19/2020,Part-time,Hybrid,28,238,8724201576,Prior experience with Excel or spreadsheets,864
+356,114,391,950,FALSE,01-09-2020,03-09-2020,Full-time,Offline,22,242,6344585223,Portfolio of design projects (for UI/UX),784
+357,669,800,432,TRUE,1/28/2020,3/28/2020,Self-paced,Online,47,197,8911452060,and JavaScript,433
+358,592,486,313,TRUE,4/14/2020,6/13/2020,Full-time,Offline,20,151,6165202044,Exposure to databases and SQL,443
+359,314,795,385,TRUE,06-08-2020,08-07-2020,Self-paced,Offline,36,178,6331189159,Awareness of marketing strategies,352
+360,502,553,257,TRUE,05-07-2020,07-06-2020,Self-paced,Offline,40,58,7290262831,Knowledge of HTML,254
+361,201,646,954,TRUE,2/25/2020,4/25/2020,Self-paced,Online,63,246,6302666709,CSS,506
+362,672,24,919,FALSE,3/28/2020,5/27/2020,Self-paced,Hybrid,57,73,8756420478,Familiarity with Agile or Scrum methodologies,795
+363,310,160,84,FALSE,01-06-2020,03-06-2020,Part-time,Hybrid,42,124,6483801680,Portfolio of design projects (for UI/UX),196
+364,906,972,540,TRUE,01-12-2020,03-12-2020,Self-paced,Offline,55,229,6217251655,Familiarity with Agile or Scrum methodologies,190
+365,151,267,725,TRUE,01-01-2020,03-01-2020,Part-time,Online,9,62,9039398061,Previous coursework in networking fundamentals,134
+366,443,97,479,FALSE,4/19/2020,6/18/2020,Self-paced,Offline,42,237,7896819632,Experience in project coordination,276
+367,39,328,768,TRUE,06-11-2020,08-10-2020,Full-time,Online,91,118,7336447111,Willingness to learn new technologies,140
+368,663,108,608,TRUE,6/24/2020,8/23/2020,Full-time,Hybrid,51,163,9639375640,Basic understanding of machine learning concepts,639
+369,814,643,19,FALSE,4/30/2020,6/29/2020,Self-paced,Offline,92,59,9927017755,Basic programming knowledge,436
+370,118,789,482,TRUE,4/25/2020,6/24/2020,Part-time,Online,62,68,9670294882,CSS,711
+371,592,314,971,TRUE,1/20/2020,3/20/2020,Self-paced,Hybrid,97,11,7975337749,Familiarity with Agile or Scrum methodologies,357
+372,441,964,288,FALSE,5/17/2020,7/16/2020,Self-paced,Offline,75,1,6554517587,Strong communication skills,717
+373,91,853,395,TRUE,01-05-2020,03-05-2020,Self-paced,Hybrid,89,93,9486385250,Understanding of data structures and algorithms,139
+374,56,665,250,FALSE,4/19/2020,6/18/2020,Self-paced,Hybrid,54,108,6550969969,Basic understanding of machine learning concepts,647
+375,509,469,853,FALSE,1/17/2020,3/17/2020,Full-time,Offline,69,100,6359943095,Experience in project coordination,819
+376,220,595,135,TRUE,04-05-2020,06-04-2020,Part-time,Hybrid,86,68,8737794297,Willingness to learn new technologies,271
+377,914,449,294,TRUE,03-04-2020,05-03-2020,Part-time,Online,45,87,6447467056,Comfortable with remote collaboration tools,434
+378,673,854,685,TRUE,05-06-2020,07-05-2020,Self-paced,Hybrid,63,207,8783968497,Passion for tech and innovation,681
+379,521,496,83,TRUE,2/21/2020,4/21/2020,Part-time,Hybrid,27,116,7287761465,Passion for tech and innovation,167
+380,718,355,295,FALSE,3/19/2020,5/18/2020,Full-time,Online,19,48,8414036343,Passion for tech and innovation,749
+381,138,154,362,FALSE,4/22/2020,6/21/2020,Self-paced,Offline,81,222,8580707432,Interest in cybersecurity,303
+382,400,676,214,FALSE,04-09-2020,06-08-2020,Full-time,Hybrid,12,125,8028011040,Familiarity with cloud tools,952
+383,639,425,231,TRUE,05-09-2020,07-08-2020,Full-time,Hybrid,31,42,9650603870,Knowledge of HTML,589
+384,476,701,847,FALSE,2/29/2020,4/29/2020,Full-time,Online,4,133,9294758512,Bachelor's degree in a relevant field,555
+385,332,348,607,FALSE,4/23/2020,6/22/2020,Full-time,Online,1,77,6927365153,Passion for tech and innovation,105
+386,930,376,605,FALSE,06-04-2020,08-03-2020,Self-paced,Offline,87,231,8649531917,Completion of Intro to Python course,270
+387,448,279,888,FALSE,4/29/2020,6/28/2020,Self-paced,Hybrid,7,2,8712700928,Interest in cybersecurity,577
+388,425,924,294,TRUE,6/29/2020,8/28/2020,Part-time,Hybrid,3,156,6361008544,Awareness of marketing strategies,637
+389,653,639,206,FALSE,01-05-2020,03-05-2020,Part-time,Offline,25,2,6033239212,No prerequisites required,21
+390,31,385,957,FALSE,03-09-2020,05-08-2020,Self-paced,Online,100,114,9657530777,Experience in project coordination,260
+391,815,517,109,FALSE,04-12-2020,06-11-2020,Part-time,Online,27,4,9217478955,Experience in project coordination,381
+392,9,897,300,FALSE,2/29/2020,4/29/2020,Part-time,Hybrid,47,154,6787509457,No prerequisites required,501
+393,417,204,363,TRUE,3/21/2020,5/20/2020,Self-paced,Hybrid,16,215,6808103972,Familiarity with cloud tools,97
+394,948,178,66,FALSE,5/31/2020,7/30/2020,Full-time,Hybrid,95,210,8105761519,No prerequisites required,977
+395,790,701,821,TRUE,5/23/2020,7/22/2020,Self-paced,Hybrid,83,89,7828612869,Familiarity with Agile or Scrum methodologies,542
+396,603,799,529,TRUE,05-08-2020,07-07-2020,Part-time,Offline,33,107,9998807211,Prior experience with Excel or spreadsheets,302
+397,615,876,435,FALSE,1/20/2020,3/20/2020,Full-time,Online,17,192,8858983824,Passion for tech and innovation,707
+398,492,596,960,TRUE,4/20/2020,6/19/2020,Self-paced,Offline,21,129,7968381843,Willingness to learn new technologies,487
+399,952,844,900,FALSE,2/13/2020,4/13/2020,Full-time,Online,65,23,6857682136,Basic programming knowledge,147
+400,780,880,37,TRUE,02-06-2020,04-06-2020,Part-time,Hybrid,87,238,9743399657,Portfolio of design projects (for UI/UX),521
+401,5,412,272,TRUE,3/14/2020,5/13/2020,Self-paced,Hybrid,25,210,9789743181,Willingness to learn new technologies,559
+402,443,970,60,FALSE,03-04-2020,05-03-2020,Full-time,Hybrid,94,86,7012103431,Strong communication skills,574
+403,703,643,593,FALSE,3/19/2020,5/18/2020,Self-paced,Online,76,184,6380262447,Completion of Intro to Python course,980
+404,692,234,475,TRUE,06-01-2020,7/31/2020,Full-time,Online,95,129,9465561811,CSS,812
+405,131,954,592,FALSE,6/14/2020,8/13/2020,Part-time,Offline,14,210,8080177764,Previous coursework in networking fundamentals,453
+406,270,287,174,TRUE,5/25/2020,7/24/2020,Full-time,Online,67,229,8874531975,CSS,789
+407,195,232,393,FALSE,5/27/2020,7/26/2020,Full-time,Online,68,191,8079041363,Comfortable with remote collaboration tools,184
+408,89,731,46,FALSE,2/13/2020,4/13/2020,Self-paced,Offline,32,112,7519181896,Basic understanding of machine learning concepts,858
+409,959,843,604,FALSE,01-12-2020,03-12-2020,Part-time,Online,71,171,9086762844,Interest in cybersecurity,971
+410,812,951,537,TRUE,5/30/2020,7/29/2020,Full-time,Offline,32,250,8439048025,and JavaScript,98
+411,760,181,210,TRUE,1/28/2020,3/28/2020,Self-paced,Offline,98,193,9935545580,Interest in cybersecurity,952
+412,231,203,439,TRUE,02-01-2020,04-01-2020,Part-time,Hybrid,18,162,9871851512,Awareness of marketing strategies,938
+413,564,478,405,TRUE,5/16/2020,7/15/2020,Self-paced,Online,22,3,7579537818,Awareness of marketing strategies,16
+414,33,775,253,TRUE,2/26/2020,4/26/2020,Self-paced,Hybrid,83,249,7374360018,No prerequisites required,136
+415,994,846,972,TRUE,2/18/2020,4/18/2020,Part-time,Hybrid,31,39,6141129249,Prior experience with Excel or spreadsheets,440
+416,319,146,489,TRUE,05-05-2020,07-04-2020,Self-paced,Hybrid,65,16,6668873561,Strong communication skills,732
+417,248,997,98,FALSE,05-10-2020,07-09-2020,Part-time,Hybrid,96,67,8568194065,Experience in project coordination,294
+418,100,69,274,FALSE,02-02-2020,04-02-2020,Full-time,Online,63,15,8348134397,Previous coursework in networking fundamentals,376
+419,871,761,55,TRUE,03-12-2020,05-11-2020,Part-time,Online,66,45,9189452478,Familiarity with Agile or Scrum methodologies,18
+420,861,497,422,TRUE,6/19/2020,8/18/2020,Full-time,Online,85,107,7249506459,Prior experience with Excel or spreadsheets,938
+421,235,565,159,TRUE,04-04-2020,06-03-2020,Full-time,Offline,96,105,8152071029,Familiarity with Agile or Scrum methodologies,723
+422,342,566,425,TRUE,1/17/2020,3/17/2020,Full-time,Hybrid,97,85,6968244983,Interest in cybersecurity,570
+423,279,640,997,FALSE,5/27/2020,7/26/2020,Part-time,Online,39,138,6775276633,Comfortable with remote collaboration tools,26
+424,512,149,848,TRUE,1/14/2020,3/14/2020,Part-time,Offline,41,205,8406379760,Willingness to learn new technologies,469
+425,617,231,562,FALSE,4/24/2020,6/23/2020,Self-paced,Online,8,99,6617501521,Completion of Intro to Python course,487
+426,792,424,394,TRUE,02-05-2020,04-05-2020,Self-paced,Hybrid,82,46,9386506366,Interest in cybersecurity,950
+427,977,889,706,TRUE,5/21/2020,7/20/2020,Self-paced,Offline,17,55,8801770576,Basic understanding of machine learning concepts,137
+428,252,11,754,FALSE,03-12-2020,05-11-2020,Full-time,Hybrid,66,245,9739218555,and JavaScript,838
+429,386,487,819,TRUE,1/13/2020,3/13/2020,Full-time,Hybrid,58,49,9776861418,Interest in cybersecurity,612
+430,124,727,982,TRUE,1/14/2020,3/14/2020,Part-time,Offline,5,229,9627546444,Understanding of data structures and algorithms,160
+431,247,356,317,FALSE,02-01-2020,04-01-2020,Part-time,Offline,3,158,7644459510,Previous coursework in networking fundamentals,148
+432,359,732,341,TRUE,01-03-2020,03-03-2020,Self-paced,Online,51,247,9041694584,Prior experience with Excel or spreadsheets,306
+433,708,404,658,FALSE,06-03-2020,08-02-2020,Self-paced,Hybrid,55,99,8563795711,Comfortable with remote collaboration tools,375
+434,652,539,279,FALSE,5/16/2020,7/15/2020,Part-time,Hybrid,69,81,8071641906,Familiarity with cloud tools,388
+435,381,256,874,FALSE,6/17/2020,8/16/2020,Self-paced,Hybrid,82,161,6399491747,CSS,319
+436,578,334,224,FALSE,05-08-2020,07-07-2020,Part-time,Hybrid,16,93,6927614764,Interest in cybersecurity,527
+437,902,205,943,TRUE,06-08-2020,08-07-2020,Self-paced,Offline,10,23,6818265133,Exposure to databases and SQL,225
+438,230,209,619,FALSE,06-09-2020,08-08-2020,Full-time,Hybrid,11,175,6225993870,Strong communication skills,250
+439,136,294,915,FALSE,06-07-2020,08-06-2020,Part-time,Offline,99,76,9196334546,Completion of Intro to Python course,513
+440,362,177,907,FALSE,2/24/2020,4/24/2020,Full-time,Hybrid,52,242,9909207557,Comfortable with remote collaboration tools,397
+441,643,956,917,FALSE,3/17/2020,5/16/2020,Full-time,Offline,3,73,9111165395,Portfolio of design projects (for UI/UX),250
+442,359,609,135,TRUE,2/28/2020,4/28/2020,Self-paced,Online,20,114,7748286380,Understanding of data structures and algorithms,219
+443,729,956,286,TRUE,1/18/2020,3/18/2020,Self-paced,Hybrid,7,197,9958690923,Familiarity with cloud tools,343
+444,291,41,967,TRUE,5/24/2020,7/23/2020,Part-time,Online,62,164,8275470009,Experience in project coordination,897
+445,70,637,512,FALSE,4/24/2020,6/23/2020,Part-time,Offline,75,47,8492606159,Familiarity with cloud tools,374
+446,254,128,242,TRUE,3/28/2020,5/27/2020,Self-paced,Offline,62,32,6030532698,Familiarity with Agile or Scrum methodologies,591
+447,549,548,366,TRUE,03-10-2020,05-09-2020,Part-time,Hybrid,75,40,9981518136,Exposure to databases and SQL,562
+448,722,860,226,TRUE,6/16/2020,8/15/2020,Self-paced,Online,71,235,7599953568,Prior experience with Excel or spreadsheets,249
+449,669,596,881,TRUE,2/19/2020,4/19/2020,Self-paced,Hybrid,49,30,8578047464,Completion of Intro to Python course,237
+450,804,124,2,FALSE,01-10-2020,03-10-2020,Full-time,Hybrid,97,195,7612795718,Basic understanding of machine learning concepts,431
+451,898,316,870,TRUE,03-07-2020,05-06-2020,Self-paced,Offline,36,105,8356043046,Passion for tech and innovation,591
+452,340,858,489,FALSE,2/17/2020,4/17/2020,Part-time,Offline,16,69,8482704441,Familiarity with cloud tools,771
+453,509,125,244,TRUE,6/29/2020,8/28/2020,Self-paced,Online,43,35,8433080209,Knowledge of HTML,411
+454,413,509,141,FALSE,1/31/2020,3/31/2020,Part-time,Offline,35,111,6649804153,Exposure to databases and SQL,205
+455,369,765,976,FALSE,4/16/2020,6/15/2020,Full-time,Online,40,228,7278931964,Basic understanding of machine learning concepts,784
+456,584,371,689,FALSE,3/17/2020,5/16/2020,Self-paced,Online,53,230,8370170878,No prerequisites required,474
+457,682,485,996,FALSE,1/16/2020,3/16/2020,Full-time,Hybrid,6,9,6797340367,Portfolio of design projects (for UI/UX),863
+458,753,908,158,TRUE,6/17/2020,8/16/2020,Part-time,Offline,100,151,9935293308,Comfortable with remote collaboration tools,800
+459,395,431,255,TRUE,2/18/2020,4/18/2020,Full-time,Offline,86,103,7373330206,CSS,918
+460,325,62,288,FALSE,6/22/2020,8/21/2020,Self-paced,Offline,82,217,7005249133,CSS,334
+461,856,340,650,FALSE,1/18/2020,3/18/2020,Self-paced,Hybrid,61,140,7926406777,Portfolio of design projects (for UI/UX),493
+462,63,216,195,FALSE,5/18/2020,7/17/2020,Self-paced,Hybrid,15,1,7327265838,Understanding of data structures and algorithms,723
+463,602,889,340,FALSE,2/13/2020,4/13/2020,Part-time,Hybrid,82,28,7461670242,CSS,488
+464,694,133,575,FALSE,05-04-2020,07-03-2020,Part-time,Online,48,28,6745925695,Basic understanding of machine learning concepts,262
+465,931,71,628,FALSE,5/26/2020,7/25/2020,Full-time,Hybrid,57,169,8364757323,CSS,411
+466,391,242,95,FALSE,02-03-2020,04-03-2020,Part-time,Online,75,37,9895939438,Experience in project coordination,502
+467,451,68,616,TRUE,4/23/2020,6/22/2020,Self-paced,Online,73,130,9672991100,Willingness to learn new technologies,45
+468,99,369,526,TRUE,2/20/2020,4/20/2020,Full-time,Offline,76,81,8171600618,Basic understanding of machine learning concepts,381
+469,48,2,192,FALSE,4/26/2020,6/25/2020,Part-time,Offline,87,250,7637512303,Awareness of marketing strategies,355
+470,286,991,286,FALSE,01-11-2020,03-11-2020,Full-time,Offline,35,125,8916276783,Exposure to databases and SQL,76
+471,264,971,960,FALSE,1/30/2020,3/30/2020,Part-time,Online,35,115,9343620690,Completion of Intro to Python course,609
+472,303,84,798,FALSE,5/16/2020,7/15/2020,Part-time,Offline,47,21,6841692874,Understanding of data structures and algorithms,235
+473,437,850,6,FALSE,3/17/2020,5/16/2020,Full-time,Offline,36,17,8073294950,Prior experience with Excel or spreadsheets,466
+474,441,769,665,TRUE,5/15/2020,7/14/2020,Part-time,Offline,6,209,7620690760,Portfolio of design projects (for UI/UX),354
+475,617,270,872,FALSE,3/20/2020,5/19/2020,Self-paced,Online,46,166,6882400860,Completion of Intro to Python course,743
+476,944,43,206,FALSE,6/13/2020,08-12-2020,Self-paced,Online,71,205,7589252839,Interest in cybersecurity,657
+477,255,408,927,FALSE,6/25/2020,8/24/2020,Full-time,Offline,63,66,6486399277,Willingness to learn new technologies,835
+478,894,198,15,FALSE,1/19/2020,3/19/2020,Part-time,Online,2,207,8578555516,Knowledge of HTML,892
+479,861,903,848,TRUE,1/24/2020,3/24/2020,Part-time,Online,25,192,7661883202,Understanding of data structures and algorithms,931
+480,971,427,469,TRUE,06-10-2020,08-09-2020,Full-time,Online,48,156,9788956331,Prior experience with Excel or spreadsheets,306
+481,257,862,320,TRUE,4/15/2020,6/14/2020,Self-paced,Offline,67,209,7968234475,Basic understanding of machine learning concepts,5
+482,724,535,471,TRUE,03-10-2020,05-09-2020,Part-time,Offline,89,33,7162715099,Portfolio of design projects (for UI/UX),635
+483,759,7,434,FALSE,06-02-2020,08-01-2020,Part-time,Offline,7,220,8978369880,Knowledge of HTML,672
+484,829,927,95,FALSE,06-10-2020,08-09-2020,Self-paced,Hybrid,98,32,6741390904,Exposure to databases and SQL,150
+485,996,460,472,FALSE,6/16/2020,8/15/2020,Full-time,Offline,13,248,8601635815,Basic programming knowledge,516
+486,539,450,883,TRUE,6/28/2020,8/27/2020,Full-time,Offline,87,197,6130756095,Understanding of data structures and algorithms,949
+487,551,85,120,TRUE,4/15/2020,6/14/2020,Self-paced,Online,57,183,8727069374,Completion of Intro to Python course,932
+488,847,459,57,TRUE,6/17/2020,8/16/2020,Full-time,Hybrid,50,74,9484986493,Portfolio of design projects (for UI/UX),766
+489,858,73,476,TRUE,6/20/2020,8/19/2020,Self-paced,Online,100,68,9956501177,Strong communication skills,809
+490,580,22,79,FALSE,4/14/2020,6/13/2020,Self-paced,Online,74,232,9747868905,Previous coursework in networking fundamentals,870
+491,997,658,896,TRUE,5/23/2020,7/22/2020,Self-paced,Hybrid,30,237,6504189543,Prior experience with Excel or spreadsheets,16
+492,81,358,505,FALSE,03-10-2020,05-09-2020,Self-paced,Online,91,223,7957240032,Familiarity with Agile or Scrum methodologies,95
+493,84,165,684,TRUE,6/24/2020,8/23/2020,Part-time,Online,15,205,7717416425,Previous coursework in networking fundamentals,421
+494,510,216,95,FALSE,3/18/2020,5/17/2020,Part-time,Hybrid,10,218,9192675208,Portfolio of design projects (for UI/UX),915
+495,435,449,476,FALSE,05-04-2020,07-03-2020,Full-time,Hybrid,84,13,7222959390,Prior experience with Excel or spreadsheets,614
+496,979,456,505,FALSE,2/26/2020,4/26/2020,Full-time,Online,84,157,8318583153,Awareness of marketing strategies,874
+497,61,312,655,TRUE,1/24/2020,3/24/2020,Part-time,Hybrid,3,24,9937924156,Familiarity with cloud tools,571
+498,98,987,881,TRUE,6/21/2020,8/20/2020,Self-paced,Hybrid,60,123,8021151358,Awareness of marketing strategies,972
+499,861,519,330,TRUE,4/14/2020,6/13/2020,Self-paced,Offline,6,105,9067299015,Strong communication skills,890
+500,557,930,414,FALSE,02-10-2020,04-10-2020,Self-paced,Hybrid,84,126,8665451663,Exposure to databases and SQL,672
+501,346,150,917,TRUE,6/18/2020,8/17/2020,Self-paced,Offline,9,205,9557233919,Awareness of marketing strategies,197
+502,951,985,227,FALSE,1/22/2020,3/22/2020,Part-time,Online,5,100,6739646513,Exposure to databases and SQL,649
+503,509,155,989,TRUE,1/22/2020,3/22/2020,Part-time,Hybrid,57,103,6184423248,Exposure to databases and SQL,559
+504,813,594,80,FALSE,04-08-2020,06-07-2020,Full-time,Online,45,50,8859195244,Familiarity with cloud tools,168
+505,726,397,367,FALSE,2/13/2020,4/13/2020,Full-time,Offline,20,97,7732473436,Bachelor's degree in a relevant field,815
+506,835,227,885,FALSE,1/22/2020,3/22/2020,Self-paced,Offline,76,184,8404056785,Portfolio of design projects (for UI/UX),455
+507,125,529,528,FALSE,04-04-2020,06-03-2020,Full-time,Online,82,169,7602101827,Prior experience with Excel or spreadsheets,229
+508,463,340,202,TRUE,3/28/2020,5/27/2020,Self-paced,Online,100,223,9293302878,Awareness of marketing strategies,437
+509,120,323,761,FALSE,4/14/2020,6/13/2020,Self-paced,Hybrid,82,194,7431643118,Comfortable with remote collaboration tools,472
+510,253,898,929,FALSE,05-03-2020,07-02-2020,Full-time,Online,83,34,8732855179,Interest in cybersecurity,609
+511,920,638,666,FALSE,04-05-2020,06-04-2020,Self-paced,Offline,14,91,8304558851,Exposure to databases and SQL,604
+512,526,310,401,FALSE,2/16/2020,4/16/2020,Full-time,Offline,76,125,9968639609,Interest in cybersecurity,952
+513,66,757,929,FALSE,4/28/2020,6/27/2020,Part-time,Online,54,83,7581061246,Exposure to databases and SQL,247
+514,434,518,80,TRUE,4/26/2020,6/25/2020,Full-time,Online,36,67,7013160024,Familiarity with cloud tools,90
+515,71,605,464,FALSE,3/31/2020,5/30/2020,Full-time,Hybrid,97,206,6183367235,Awareness of marketing strategies,511
+516,740,239,488,FALSE,4/26/2020,6/25/2020,Full-time,Online,51,81,7943201576,Previous coursework in networking fundamentals,481
+517,5,849,190,TRUE,2/26/2020,4/26/2020,Part-time,Offline,21,72,9119136006,Completion of Intro to Python course,966
+518,137,774,264,TRUE,6/13/2020,08-12-2020,Part-time,Online,1,3,9793085525,No prerequisites required,940
+519,222,542,1000,TRUE,03-12-2020,05-11-2020,Full-time,Online,15,229,7971243492,Strong communication skills,805
+520,404,282,474,FALSE,05-08-2020,07-07-2020,Part-time,Hybrid,44,216,7009321224,Familiarity with cloud tools,656
+521,816,881,866,FALSE,3/19/2020,5/18/2020,Full-time,Hybrid,24,135,8810820908,Familiarity with cloud tools,643
+522,722,814,11,FALSE,3/19/2020,5/18/2020,Part-time,Offline,51,202,8242106721,Exposure to databases and SQL,116
+523,246,581,73,TRUE,6/29/2020,8/28/2020,Full-time,Hybrid,37,249,8223102285,and JavaScript,537
+524,791,45,10,FALSE,2/28/2020,4/28/2020,Part-time,Hybrid,21,165,6925860908,Passion for tech and innovation,916
+525,957,544,275,FALSE,05-10-2020,07-09-2020,Full-time,Offline,36,157,8893849243,Basic understanding of machine learning concepts,389
+526,493,475,534,TRUE,03-03-2020,05-02-2020,Self-paced,Offline,58,246,9954935754,Bachelor's degree in a relevant field,733
+527,34,158,808,TRUE,6/24/2020,8/23/2020,Part-time,Online,47,103,9012473351,Knowledge of HTML,703
+528,58,262,54,TRUE,4/22/2020,6/21/2020,Part-time,Online,81,199,7348843945,Strong communication skills,161
+529,941,182,744,FALSE,06-03-2020,08-02-2020,Part-time,Hybrid,3,162,9559199860,Experience in project coordination,161
+530,112,762,228,TRUE,2/29/2020,4/29/2020,Full-time,Hybrid,34,37,9568038882,Experience in project coordination,841
+531,842,561,787,FALSE,2/25/2020,4/25/2020,Self-paced,Hybrid,51,182,6389607873,Basic programming knowledge,494
+532,371,829,404,TRUE,02-07-2020,04-07-2020,Part-time,Online,79,188,8678189076,Familiarity with cloud tools,469
+533,861,553,934,FALSE,01-02-2020,03-02-2020,Full-time,Online,11,161,6904461862,Completion of Intro to Python course,207
+534,570,497,529,FALSE,2/25/2020,4/25/2020,Self-paced,Hybrid,15,178,7397701955,Knowledge of HTML,538
+535,34,972,759,TRUE,3/29/2020,5/28/2020,Self-paced,Offline,34,140,8541540416,No prerequisites required,129
+536,936,769,807,TRUE,4/29/2020,6/28/2020,Part-time,Hybrid,18,58,8940317670,Passion for tech and innovation,140
+537,439,500,15,FALSE,05-04-2020,07-03-2020,Self-paced,Hybrid,79,204,7620007098,Awareness of marketing strategies,126
+538,800,964,125,FALSE,3/25/2020,5/24/2020,Full-time,Hybrid,6,47,9684490809,Comfortable with remote collaboration tools,736
+539,862,660,975,TRUE,06-11-2020,08-10-2020,Part-time,Online,49,192,7252966364,Knowledge of HTML,773
+540,10,788,219,TRUE,5/24/2020,7/23/2020,Full-time,Offline,28,172,7178060567,Experience in project coordination,638
+541,3,780,65,TRUE,3/31/2020,5/30/2020,Part-time,Hybrid,73,47,8732151945,Basic understanding of machine learning concepts,175
+542,18,981,151,TRUE,01-07-2020,03-07-2020,Self-paced,Hybrid,38,210,7911552807,Familiarity with Agile or Scrum methodologies,273
+543,872,51,299,TRUE,06-04-2020,08-03-2020,Full-time,Hybrid,60,228,9589580273,Familiarity with Agile or Scrum methodologies,211
+544,507,97,852,FALSE,5/19/2020,7/18/2020,Self-paced,Online,45,207,7907511070,Bachelor's degree in a relevant field,66
+545,26,88,247,FALSE,4/17/2020,6/16/2020,Self-paced,Hybrid,97,185,7143160722,Familiarity with cloud tools,462
+546,63,98,861,FALSE,06-08-2020,08-07-2020,Part-time,Online,37,90,8795329615,Interest in cybersecurity,488
+547,654,675,82,FALSE,2/19/2020,4/19/2020,Full-time,Offline,39,182,7236096308,Familiarity with cloud tools,180
+548,575,353,849,TRUE,2/18/2020,4/18/2020,Self-paced,Offline,93,85,9309413489,Comfortable with remote collaboration tools,53
+549,929,761,338,TRUE,2/18/2020,4/18/2020,Part-time,Hybrid,57,182,8422272779,Exposure to databases and SQL,330
+550,985,55,863,TRUE,6/19/2020,8/18/2020,Self-paced,Online,99,27,9527436552,Passion for tech and innovation,630
+551,741,500,136,FALSE,01-11-2020,03-11-2020,Full-time,Hybrid,67,74,7941145475,Basic understanding of machine learning concepts,510
+552,881,571,168,FALSE,01-10-2020,03-10-2020,Part-time,Hybrid,59,165,6403612954,Comfortable with remote collaboration tools,744
+553,775,497,669,TRUE,01-12-2020,03-12-2020,Self-paced,Hybrid,50,180,6069118545,Completion of Intro to Python course,404
+554,499,42,969,FALSE,2/15/2020,4/15/2020,Part-time,Online,11,198,7937587062,Strong communication skills,185
+555,763,5,977,FALSE,03-11-2020,05-10-2020,Part-time,Offline,25,14,8252809409,Awareness of marketing strategies,449
+556,3,647,358,TRUE,06-08-2020,08-07-2020,Part-time,Hybrid,61,133,7211635340,Prior experience with Excel or spreadsheets,725
+557,485,883,461,TRUE,04-11-2020,06-10-2020,Full-time,Offline,9,118,6570143808,Awareness of marketing strategies,770
+558,385,978,863,FALSE,03-03-2020,05-02-2020,Part-time,Hybrid,89,141,8500454852,Prior experience with Excel or spreadsheets,990
+559,533,32,157,TRUE,2/23/2020,4/23/2020,Self-paced,Hybrid,30,24,9003734263,Bachelor's degree in a relevant field,512
+560,483,9,995,TRUE,2/16/2020,4/16/2020,Full-time,Hybrid,31,55,6082545232,Knowledge of HTML,610
+561,93,328,612,FALSE,04-08-2020,06-07-2020,Self-paced,Hybrid,21,178,9545403070,Portfolio of design projects (for UI/UX),908
+562,962,327,347,FALSE,04-07-2020,06-06-2020,Full-time,Hybrid,48,216,7054049435,Comfortable with remote collaboration tools,598
+563,879,998,458,FALSE,5/15/2020,7/14/2020,Self-paced,Online,83,53,9430025351,Passion for tech and innovation,686
+564,142,126,740,FALSE,5/25/2020,7/24/2020,Part-time,Hybrid,79,2,8417215491,Familiarity with cloud tools,524
+565,184,389,687,FALSE,3/20/2020,5/19/2020,Part-time,Online,22,243,7119137811,Basic understanding of machine learning concepts,986
+566,465,470,313,TRUE,3/21/2020,5/20/2020,Full-time,Offline,100,87,8795842873,Basic understanding of machine learning concepts,53
+567,858,131,478,FALSE,02-04-2020,04-04-2020,Part-time,Offline,94,19,8809220739,Exposure to databases and SQL,120
+568,116,720,406,FALSE,5/25/2020,7/24/2020,Full-time,Online,92,115,7805567560,Experience in project coordination,971
+569,440,727,327,FALSE,2/29/2020,4/29/2020,Full-time,Hybrid,100,238,8472502254,Strong communication skills,476
+570,238,527,685,FALSE,04-09-2020,06-08-2020,Self-paced,Hybrid,65,129,9427431107,Understanding of data structures and algorithms,53
+571,465,173,381,FALSE,04-09-2020,06-08-2020,Part-time,Online,3,74,6312949875,and JavaScript,104
+572,671,35,89,FALSE,1/16/2020,3/16/2020,Part-time,Online,20,152,8897918876,Familiarity with cloud tools,563
+573,55,654,400,TRUE,01-06-2020,03-06-2020,Self-paced,Hybrid,56,217,8764664293,Exposure to databases and SQL,498
+574,353,982,572,TRUE,06-09-2020,08-08-2020,Part-time,Hybrid,19,123,8582043887,Familiarity with cloud tools,346
+575,900,428,982,TRUE,2/22/2020,4/22/2020,Full-time,Hybrid,90,98,6599980478,Willingness to learn new technologies,68
+576,186,799,482,FALSE,6/27/2020,8/26/2020,Part-time,Hybrid,93,184,6906700505,Willingness to learn new technologies,949
+577,812,730,719,FALSE,3/30/2020,5/29/2020,Self-paced,Online,54,52,9973646444,Experience in project coordination,948
+578,186,921,674,TRUE,4/18/2020,6/17/2020,Full-time,Hybrid,83,97,7954901215,Experience in project coordination,955
+579,101,852,621,TRUE,4/21/2020,6/20/2020,Part-time,Offline,36,146,8190528305,Willingness to learn new technologies,158
+580,212,922,557,FALSE,4/17/2020,6/16/2020,Self-paced,Hybrid,42,182,9754555001,Familiarity with cloud tools,473
+581,785,548,461,FALSE,6/29/2020,8/28/2020,Part-time,Hybrid,5,167,7249864777,CSS,266
+582,175,484,476,FALSE,01-07-2020,03-07-2020,Part-time,Offline,10,5,7240522573,Understanding of data structures and algorithms,736
+583,836,575,189,TRUE,02-08-2020,04-08-2020,Part-time,Online,20,205,9329212009,Exposure to databases and SQL,622
+584,360,872,197,TRUE,2/22/2020,4/22/2020,Self-paced,Hybrid,93,3,7957381447,Understanding of data structures and algorithms,354
+585,610,902,288,FALSE,1/21/2020,3/21/2020,Full-time,Online,16,12,6127814763,Completion of Intro to Python course,475
+586,12,830,439,TRUE,4/27/2020,6/26/2020,Self-paced,Online,81,210,7038544219,Portfolio of design projects (for UI/UX),771
+587,460,786,586,TRUE,03-05-2020,05-04-2020,Self-paced,Hybrid,4,219,7972028059,and JavaScript,214
+588,529,957,73,TRUE,4/17/2020,6/16/2020,Self-paced,Offline,76,165,9950535459,Exposure to databases and SQL,117
+589,340,425,974,FALSE,5/16/2020,7/15/2020,Part-time,Online,1,113,8980609066,Interest in cybersecurity,946
+590,148,764,113,TRUE,3/27/2020,5/26/2020,Part-time,Offline,1,130,7349654417,Portfolio of design projects (for UI/UX),665
+591,55,916,143,FALSE,5/20/2020,7/19/2020,Self-paced,Online,71,176,6068902055,Comfortable with remote collaboration tools,955
+592,859,23,134,FALSE,6/23/2020,8/22/2020,Self-paced,Online,34,237,7834053821,Portfolio of design projects (for UI/UX),885
+593,159,993,591,FALSE,6/17/2020,8/16/2020,Self-paced,Offline,40,238,6896423208,No prerequisites required,577
+594,727,234,441,TRUE,4/27/2020,6/26/2020,Part-time,Online,57,103,7852792653,Knowledge of HTML,453
+595,453,901,915,FALSE,2/21/2020,4/21/2020,Self-paced,Offline,39,26,8549971570,Previous coursework in networking fundamentals,930
+596,889,125,626,FALSE,06-06-2020,08-05-2020,Full-time,Hybrid,31,84,7833404140,Strong communication skills,441
+597,704,723,629,TRUE,4/29/2020,6/28/2020,Part-time,Hybrid,50,161,7004806197,No prerequisites required,895
+598,128,857,309,TRUE,3/20/2020,5/19/2020,Self-paced,Hybrid,96,200,7245433813,Previous coursework in networking fundamentals,477
+599,368,318,595,TRUE,03-02-2020,05-01-2020,Self-paced,Hybrid,42,82,8928964911,Familiarity with Agile or Scrum methodologies,174
+600,455,309,862,FALSE,1/17/2020,3/17/2020,Self-paced,Offline,77,121,7893785896,Bachelor's degree in a relevant field,540
+601,994,134,746,TRUE,5/19/2020,7/18/2020,Full-time,Hybrid,91,233,6402460642,Previous coursework in networking fundamentals,609
+602,176,630,548,FALSE,5/28/2020,7/27/2020,Full-time,Hybrid,62,165,6989188287,Experience in project coordination,487
+603,426,117,366,TRUE,2/26/2020,4/26/2020,Full-time,Hybrid,65,65,9610308232,Passion for tech and innovation,800
+604,969,340,126,FALSE,5/31/2020,7/30/2020,Full-time,Offline,61,244,7699109644,Comfortable with remote collaboration tools,207
+605,870,541,91,FALSE,2/25/2020,4/25/2020,Part-time,Online,90,100,6869094780,No prerequisites required,949
+606,110,446,365,TRUE,02-09-2020,04-09-2020,Part-time,Hybrid,50,228,9313053659,Completion of Intro to Python course,615
+607,572,371,533,FALSE,05-05-2020,07-04-2020,Self-paced,Offline,16,77,8702855590,Comfortable with remote collaboration tools,754
+608,706,131,845,TRUE,2/28/2020,4/28/2020,Part-time,Offline,90,123,8820923246,Previous coursework in networking fundamentals,528
+609,771,302,155,TRUE,6/27/2020,8/26/2020,Self-paced,Offline,20,35,6691961636,Awareness of marketing strategies,220
+610,614,24,373,TRUE,1/13/2020,3/13/2020,Part-time,Online,98,164,6189399408,Completion of Intro to Python course,135
+611,631,151,70,TRUE,3/17/2020,5/16/2020,Self-paced,Hybrid,28,177,6149436373,CSS,952
+612,53,721,985,TRUE,1/20/2020,3/20/2020,Self-paced,Hybrid,92,206,7184590061,Passion for tech and innovation,566
+613,882,819,935,FALSE,4/30/2020,6/29/2020,Self-paced,Hybrid,77,115,6443924154,Portfolio of design projects (for UI/UX),859
+614,668,227,850,TRUE,04-05-2020,06-04-2020,Self-paced,Online,36,110,9689704898,Comfortable with remote collaboration tools,56
+615,883,404,293,FALSE,04-01-2020,5/31/2020,Part-time,Offline,78,27,9412787858,CSS,671
+616,434,208,628,FALSE,3/20/2020,5/19/2020,Full-time,Offline,73,59,7864452839,Strong communication skills,348
+617,382,445,52,TRUE,02-10-2020,04-10-2020,Part-time,Offline,47,173,9866863931,Completion of Intro to Python course,686
+618,698,878,809,FALSE,06-06-2020,08-05-2020,Self-paced,Online,13,92,6349765811,Bachelor's degree in a relevant field,996
+619,454,438,868,TRUE,04-11-2020,06-10-2020,Self-paced,Hybrid,6,178,6866043908,Willingness to learn new technologies,709
+620,283,29,144,FALSE,6/19/2020,8/18/2020,Self-paced,Hybrid,9,167,6179409166,Prior experience with Excel or spreadsheets,572
+621,93,106,290,FALSE,1/21/2020,3/21/2020,Part-time,Hybrid,9,123,8461246641,Exposure to databases and SQL,591
+622,998,224,934,TRUE,1/13/2020,3/13/2020,Full-time,Hybrid,85,25,7008160994,Prior experience with Excel or spreadsheets,358
+623,908,322,642,FALSE,04-07-2020,06-06-2020,Self-paced,Hybrid,66,14,6673407495,No prerequisites required,504
+624,534,495,910,FALSE,04-05-2020,06-04-2020,Self-paced,Hybrid,65,34,7818155837,Willingness to learn new technologies,373
+625,304,160,303,FALSE,5/31/2020,7/30/2020,Full-time,Hybrid,60,61,6431005349,Willingness to learn new technologies,258
+626,229,724,391,TRUE,1/17/2020,3/17/2020,Self-paced,Hybrid,29,148,9163158006,Passion for tech and innovation,931
+627,415,210,919,FALSE,2/28/2020,4/28/2020,Full-time,Hybrid,71,225,9757252388,Bachelor's degree in a relevant field,736
+628,73,907,651,TRUE,5/24/2020,7/23/2020,Full-time,Offline,61,165,9585670660,Strong communication skills,779
+629,646,772,395,FALSE,4/15/2020,6/14/2020,Full-time,Offline,76,74,9439718206,Familiarity with cloud tools,11
+630,522,992,627,TRUE,6/16/2020,8/15/2020,Full-time,Online,50,207,9069908959,Basic programming knowledge,901
+631,667,850,724,FALSE,1/29/2020,3/29/2020,Part-time,Hybrid,10,123,6909659151,Familiarity with cloud tools,649
+632,452,180,153,FALSE,5/14/2020,7/13/2020,Self-paced,Hybrid,14,17,6237333802,Previous coursework in networking fundamentals,190
+633,559,607,485,FALSE,1/31/2020,3/31/2020,Full-time,Offline,17,209,9321381700,Basic programming knowledge,196
+634,695,263,567,TRUE,4/13/2020,06-12-2020,Full-time,Online,49,84,7532054861,Completion of Intro to Python course,532
+635,326,418,653,FALSE,05-11-2020,07-10-2020,Part-time,Online,25,48,6827689726,Comfortable with remote collaboration tools,877
+636,547,194,360,TRUE,3/27/2020,5/26/2020,Full-time,Offline,87,201,6957112009,CSS,98
+637,816,590,334,TRUE,06-12-2020,08-11-2020,Part-time,Hybrid,24,218,8687505883,Comfortable with remote collaboration tools,662
+638,409,472,687,FALSE,1/28/2020,3/28/2020,Part-time,Hybrid,84,196,7025632225,Knowledge of HTML,15
+639,851,596,281,TRUE,6/23/2020,8/22/2020,Part-time,Online,42,206,9959360402,Previous coursework in networking fundamentals,855
+640,803,83,322,FALSE,1/28/2020,3/28/2020,Part-time,Offline,23,178,8028670697,Familiarity with cloud tools,194
+641,694,527,578,FALSE,5/30/2020,7/29/2020,Self-paced,Hybrid,33,231,6745357869,Familiarity with Agile or Scrum methodologies,874
+642,318,841,852,FALSE,02-02-2020,04-02-2020,Self-paced,Offline,47,204,6200744785,CSS,659
+643,182,38,619,TRUE,4/23/2020,6/22/2020,Full-time,Online,61,42,9821492047,Willingness to learn new technologies,229
+644,114,163,988,FALSE,1/25/2020,3/25/2020,Self-paced,Hybrid,59,143,9604479187,Familiarity with Agile or Scrum methodologies,655
+645,761,364,771,FALSE,6/28/2020,8/27/2020,Part-time,Online,96,29,9869405265,Familiarity with Agile or Scrum methodologies,695
+646,619,124,166,FALSE,4/13/2020,06-12-2020,Self-paced,Offline,86,18,6103840389,Bachelor's degree in a relevant field,814
+647,357,120,239,FALSE,5/14/2020,7/13/2020,Self-paced,Online,75,16,9377384121,and JavaScript,209
+648,494,217,212,TRUE,4/19/2020,6/18/2020,Part-time,Online,8,30,7857001761,Familiarity with Agile or Scrum methodologies,140
+649,912,203,858,FALSE,2/24/2020,4/24/2020,Full-time,Online,21,51,8616396776,Prior experience with Excel or spreadsheets,511
+650,241,249,947,FALSE,06-06-2020,08-05-2020,Self-paced,Hybrid,15,21,9164791300,Familiarity with Agile or Scrum methodologies,944
+651,270,256,992,TRUE,4/13/2020,06-12-2020,Self-paced,Online,90,185,6671150356,Strong communication skills,28
+652,236,66,11,FALSE,5/30/2020,7/29/2020,Part-time,Online,14,250,9839361865,Willingness to learn new technologies,959
+653,728,482,177,FALSE,3/29/2020,5/28/2020,Full-time,Online,33,233,7195509338,Bachelor's degree in a relevant field,799
+654,146,44,922,TRUE,1/19/2020,3/19/2020,Self-paced,Online,69,101,6529574332,Completion of Intro to Python course,521
+655,528,847,475,FALSE,05-09-2020,07-08-2020,Part-time,Online,87,178,8385007290,Strong communication skills,339
+656,44,832,301,FALSE,5/26/2020,7/25/2020,Full-time,Hybrid,18,166,8860551322,Familiarity with cloud tools,263
+657,895,72,863,TRUE,2/14/2020,4/14/2020,Self-paced,Offline,21,245,6147504178,Portfolio of design projects (for UI/UX),71
+658,867,198,637,TRUE,4/13/2020,06-12-2020,Full-time,Online,14,212,6618953933,Willingness to learn new technologies,928
+659,384,247,942,TRUE,4/19/2020,6/18/2020,Part-time,Online,30,75,8179175051,No prerequisites required,7
+660,240,86,866,TRUE,02-02-2020,04-02-2020,Part-time,Hybrid,23,148,7936452724,Willingness to learn new technologies,732
+661,500,528,910,FALSE,6/20/2020,8/19/2020,Part-time,Hybrid,78,147,8687284281,Knowledge of HTML,150
+662,792,805,257,FALSE,2/19/2020,4/19/2020,Full-time,Offline,14,119,6328783497,Portfolio of design projects (for UI/UX),460
+663,572,71,255,FALSE,4/14/2020,6/13/2020,Self-paced,Hybrid,61,118,8289347754,Passion for tech and innovation,396
+664,773,316,899,TRUE,04-03-2020,06-02-2020,Self-paced,Offline,63,250,7460605625,Basic programming knowledge,657
+665,759,226,397,FALSE,4/20/2020,6/19/2020,Full-time,Hybrid,95,50,6957911751,Understanding of data structures and algorithms,964
+666,139,699,312,FALSE,01-05-2020,03-05-2020,Full-time,Hybrid,40,57,6157979341,CSS,188
+667,83,629,796,FALSE,06-01-2020,7/31/2020,Full-time,Offline,77,171,9576096296,Exposure to databases and SQL,638
+668,882,475,465,TRUE,5/17/2020,7/16/2020,Part-time,Online,46,185,8406629689,Strong communication skills,632
+669,22,512,490,TRUE,1/21/2020,3/21/2020,Full-time,Hybrid,92,230,6591742770,Willingness to learn new technologies,227
+670,248,872,988,FALSE,6/24/2020,8/23/2020,Self-paced,Offline,11,117,6655382946,Basic understanding of machine learning concepts,710
+671,803,638,421,FALSE,02-12-2020,04-12-2020,Self-paced,Offline,7,243,9482735160,Exposure to databases and SQL,683
+672,522,936,466,FALSE,06-11-2020,08-10-2020,Full-time,Online,44,103,8102971465,Exposure to databases and SQL,237
+673,133,537,899,TRUE,6/18/2020,8/17/2020,Full-time,Offline,98,61,7221973805,and JavaScript,928
+674,458,218,525,FALSE,05-01-2020,6/30/2020,Full-time,Hybrid,55,245,8029068564,Basic programming knowledge,185
+675,825,107,115,FALSE,06-10-2020,08-09-2020,Full-time,Online,64,161,6098721338,Interest in cybersecurity,228
+676,494,66,996,TRUE,3/21/2020,5/20/2020,Full-time,Online,91,152,6796315325,Completion of Intro to Python course,985
+677,894,568,680,FALSE,01-05-2020,03-05-2020,Part-time,Online,57,137,7490920401,Basic understanding of machine learning concepts,893
+678,542,506,858,FALSE,4/24/2020,6/23/2020,Part-time,Online,6,151,6876647975,Understanding of data structures and algorithms,815
+679,942,489,171,TRUE,06-02-2020,08-01-2020,Self-paced,Online,25,191,9550947868,No prerequisites required,70
+680,127,923,711,TRUE,06-06-2020,08-05-2020,Full-time,Hybrid,10,243,6805994891,and JavaScript,566
+681,668,551,280,TRUE,04-10-2020,06-09-2020,Part-time,Online,24,25,6104548205,Previous coursework in networking fundamentals,106
+682,50,895,350,FALSE,1/19/2020,3/19/2020,Part-time,Offline,82,20,8010913986,Passion for tech and innovation,619
+683,768,478,224,TRUE,2/13/2020,4/13/2020,Self-paced,Hybrid,38,237,9724088197,Strong communication skills,536
+684,775,336,552,TRUE,2/28/2020,4/28/2020,Full-time,Offline,5,218,8236667426,CSS,603
+685,613,90,879,FALSE,06-11-2020,08-10-2020,Full-time,Hybrid,71,134,9993810387,Bachelor's degree in a relevant field,865
+686,873,820,273,FALSE,1/18/2020,3/18/2020,Full-time,Hybrid,28,37,9128309573,Interest in cybersecurity,327
+687,744,157,917,TRUE,4/23/2020,6/22/2020,Self-paced,Offline,67,57,7338053389,CSS,814
+688,449,888,238,TRUE,03-10-2020,05-09-2020,Part-time,Hybrid,18,242,6624298455,Experience in project coordination,548
+689,770,65,6,TRUE,03-09-2020,05-08-2020,Self-paced,Hybrid,68,124,7980681856,Basic programming knowledge,307
+690,859,853,422,TRUE,3/13/2020,05-12-2020,Self-paced,Online,76,185,8801736721,Exposure to databases and SQL,693
+691,399,804,741,FALSE,1/22/2020,3/22/2020,Self-paced,Hybrid,36,239,8250535250,Willingness to learn new technologies,194
+692,952,898,644,TRUE,05-10-2020,07-09-2020,Part-time,Online,45,160,7883702067,Prior experience with Excel or spreadsheets,741
+693,100,77,565,TRUE,1/13/2020,3/13/2020,Part-time,Online,65,31,9749253310,Basic programming knowledge,360
+694,388,165,667,TRUE,02-03-2020,04-03-2020,Part-time,Offline,1,244,7037136182,Familiarity with Agile or Scrum methodologies,20
+695,169,676,299,TRUE,05-11-2020,07-10-2020,Part-time,Offline,85,15,8253980708,Completion of Intro to Python course,948
+696,218,863,385,TRUE,06-05-2020,08-04-2020,Self-paced,Hybrid,87,210,7158009136,CSS,82
+697,798,420,959,TRUE,03-10-2020,05-09-2020,Full-time,Offline,68,142,6970165580,Completion of Intro to Python course,842
+698,680,738,534,TRUE,06-05-2020,08-04-2020,Full-time,Hybrid,53,223,9929382341,Bachelor's degree in a relevant field,287
+699,264,128,130,TRUE,02-05-2020,04-05-2020,Full-time,Hybrid,16,104,7456818906,Understanding of data structures and algorithms,736
+700,991,537,528,TRUE,2/22/2020,4/22/2020,Part-time,Offline,5,226,7602029754,Understanding of data structures and algorithms,40
+701,305,135,97,TRUE,05-09-2020,07-08-2020,Full-time,Offline,17,234,8786601699,Experience in project coordination,997
+702,619,882,693,FALSE,2/18/2020,4/18/2020,Full-time,Online,17,30,6598875111,Strong communication skills,594
+703,419,176,575,FALSE,3/21/2020,5/20/2020,Part-time,Offline,44,117,7469740437,Willingness to learn new technologies,334
+704,363,245,655,TRUE,6/24/2020,8/23/2020,Self-paced,Hybrid,53,227,6109868868,Awareness of marketing strategies,508
+705,185,121,47,TRUE,03-11-2020,05-10-2020,Part-time,Offline,21,19,8199550835,Prior experience with Excel or spreadsheets,17
+706,360,782,653,TRUE,2/28/2020,4/28/2020,Part-time,Offline,62,62,6034450440,CSS,428
+707,801,218,564,FALSE,2/15/2020,4/15/2020,Self-paced,Offline,5,15,6297225866,Knowledge of HTML,377
+708,743,390,359,TRUE,1/24/2020,3/24/2020,Self-paced,Online,20,180,6398265214,Strong communication skills,836
+709,184,326,480,TRUE,3/15/2020,5/14/2020,Self-paced,Hybrid,33,7,6443617172,Familiarity with Agile or Scrum methodologies,813
+710,334,989,668,TRUE,2/29/2020,4/29/2020,Full-time,Hybrid,54,34,8588565721,Interest in cybersecurity,663
+711,622,320,774,TRUE,6/20/2020,8/19/2020,Part-time,Offline,45,27,6883313031,Familiarity with Agile or Scrum methodologies,883
+712,437,8,797,TRUE,2/22/2020,4/22/2020,Self-paced,Hybrid,82,83,8477841338,Experience in project coordination,460
+713,968,892,519,FALSE,2/24/2020,4/24/2020,Full-time,Online,19,57,9136459213,Passion for tech and innovation,79
+714,897,677,509,FALSE,5/25/2020,7/24/2020,Part-time,Online,33,54,9486290852,Basic programming knowledge,828
+715,139,268,895,FALSE,2/25/2020,4/25/2020,Part-time,Offline,70,50,7814590681,Bachelor's degree in a relevant field,673
+716,129,249,980,FALSE,2/13/2020,4/13/2020,Part-time,Hybrid,2,73,6760130489,Interest in cybersecurity,384
+717,555,18,800,TRUE,1/19/2020,3/19/2020,Full-time,Online,79,175,6524500176,Willingness to learn new technologies,517
+718,259,581,450,TRUE,4/17/2020,6/16/2020,Full-time,Offline,98,196,6143941510,Strong communication skills,634
+719,828,500,205,FALSE,1/29/2020,3/29/2020,Full-time,Hybrid,66,21,7077092212,Interest in cybersecurity,316
+720,788,988,374,TRUE,01-05-2020,03-05-2020,Full-time,Hybrid,12,195,6343954813,Strong communication skills,544
+721,259,197,235,FALSE,2/16/2020,4/16/2020,Self-paced,Hybrid,15,102,9615066299,Awareness of marketing strategies,412
+722,503,693,718,TRUE,3/30/2020,5/29/2020,Part-time,Online,79,190,6676469055,Portfolio of design projects (for UI/UX),825
+723,533,922,728,FALSE,6/16/2020,8/15/2020,Full-time,Hybrid,20,242,7553598751,Prior experience with Excel or spreadsheets,347
+724,509,454,289,TRUE,1/29/2020,3/29/2020,Self-paced,Hybrid,29,187,8762243394,CSS,447
+725,695,715,212,TRUE,5/26/2020,7/25/2020,Full-time,Online,40,75,6432892841,Familiarity with cloud tools,641
+726,257,928,115,FALSE,1/14/2020,3/14/2020,Part-time,Hybrid,31,81,9312807365,CSS,524
+727,93,923,648,TRUE,04-07-2020,06-06-2020,Self-paced,Online,36,223,9202322730,Familiarity with cloud tools,223
+728,33,52,144,FALSE,05-09-2020,07-08-2020,Part-time,Online,88,67,9415845527,Familiarity with cloud tools,635
+729,38,578,531,TRUE,06-12-2020,08-11-2020,Part-time,Online,10,177,8080217055,Prior experience with Excel or spreadsheets,943
+730,341,440,92,TRUE,4/14/2020,6/13/2020,Part-time,Offline,19,216,8678323611,No prerequisites required,649
+731,580,487,260,FALSE,05-11-2020,07-10-2020,Full-time,Offline,29,170,7695726685,Basic understanding of machine learning concepts,413
+732,393,40,425,FALSE,04-01-2020,5/31/2020,Full-time,Offline,35,95,8030536667,Familiarity with cloud tools,247
+733,131,521,759,FALSE,6/18/2020,8/17/2020,Self-paced,Online,65,47,7460991563,Familiarity with Agile or Scrum methodologies,676
+734,882,85,83,FALSE,01-09-2020,03-09-2020,Part-time,Offline,28,17,7000049671,Familiarity with Agile or Scrum methodologies,22
+735,202,678,924,FALSE,05-11-2020,07-10-2020,Part-time,Online,41,214,7370422963,Experience in project coordination,441
+736,974,164,263,TRUE,05-03-2020,07-02-2020,Self-paced,Hybrid,98,143,6774099538,Basic programming knowledge,305
+737,698,298,891,TRUE,6/14/2020,8/13/2020,Part-time,Hybrid,61,99,8701362020,Familiarity with cloud tools,183
+738,735,550,83,FALSE,04-05-2020,06-04-2020,Full-time,Offline,23,59,7506688983,Familiarity with cloud tools,284
+739,562,427,244,FALSE,04-05-2020,06-04-2020,Self-paced,Hybrid,25,227,9994391081,Basic understanding of machine learning concepts,299
+740,720,168,379,TRUE,6/20/2020,8/19/2020,Full-time,Hybrid,68,77,8253848735,Portfolio of design projects (for UI/UX),539
+741,293,325,719,FALSE,6/19/2020,8/18/2020,Part-time,Online,59,84,8136542086,Interest in cybersecurity,628
+742,23,131,714,FALSE,2/21/2020,4/21/2020,Self-paced,Offline,37,139,9246994111,Basic understanding of machine learning concepts,684
+743,230,648,245,TRUE,3/26/2020,5/25/2020,Full-time,Offline,36,184,9497222991,Basic understanding of machine learning concepts,770
+744,5,113,118,FALSE,3/21/2020,5/20/2020,Part-time,Online,88,55,8388541240,Completion of Intro to Python course,430
+745,346,444,98,FALSE,3/20/2020,5/19/2020,Self-paced,Offline,82,61,7322579006,Understanding of data structures and algorithms,914
+746,137,608,887,TRUE,06-05-2020,08-04-2020,Self-paced,Offline,22,172,6422968742,Prior experience with Excel or spreadsheets,507
+747,488,591,209,FALSE,5/30/2020,7/29/2020,Full-time,Online,11,135,7963658627,No prerequisites required,384
+748,994,714,374,FALSE,5/23/2020,7/22/2020,Part-time,Hybrid,46,28,6734529812,Basic programming knowledge,372
+749,678,398,537,TRUE,6/14/2020,8/13/2020,Self-paced,Hybrid,53,192,6238352439,Prior experience with Excel or spreadsheets,894
+750,509,759,854,TRUE,4/19/2020,6/18/2020,Part-time,Hybrid,44,92,7276137445,Knowledge of HTML,374
+751,27,637,271,FALSE,04-06-2020,06-05-2020,Self-paced,Hybrid,93,134,9921648230,Experience in project coordination,558
+752,630,1,998,FALSE,1/13/2020,3/13/2020,Full-time,Hybrid,33,180,8102201063,Bachelor's degree in a relevant field,49
+753,502,185,604,TRUE,03-06-2020,05-05-2020,Full-time,Online,8,153,7573615835,Completion of Intro to Python course,927
+754,4,633,383,FALSE,4/28/2020,6/27/2020,Full-time,Hybrid,28,37,7491162193,Understanding of data structures and algorithms,63
+755,110,41,760,TRUE,03-11-2020,05-10-2020,Self-paced,Offline,2,133,6513636534,Awareness of marketing strategies,136
+756,676,555,22,FALSE,4/25/2020,6/24/2020,Full-time,Hybrid,70,161,9330755969,Bachelor's degree in a relevant field,412
+757,493,907,653,FALSE,5/17/2020,7/16/2020,Part-time,Hybrid,46,111,8616734664,Prior experience with Excel or spreadsheets,953
+758,876,243,997,FALSE,05-11-2020,07-10-2020,Self-paced,Offline,74,222,7290852370,Completion of Intro to Python course,279
+759,488,16,525,FALSE,1/30/2020,3/30/2020,Self-paced,Online,75,14,7334338174,Familiarity with Agile or Scrum methodologies,934
+760,260,244,365,TRUE,02-10-2020,04-10-2020,Self-paced,Online,33,62,6899462685,Strong communication skills,501
+761,190,227,271,FALSE,05-09-2020,07-08-2020,Full-time,Online,71,243,8511748278,Basic understanding of machine learning concepts,843
+762,384,454,44,TRUE,4/26/2020,6/25/2020,Part-time,Hybrid,60,156,8445543067,Familiarity with cloud tools,467
+763,766,115,832,TRUE,5/24/2020,7/23/2020,Part-time,Hybrid,88,112,6504983612,Awareness of marketing strategies,369
+764,842,612,372,FALSE,1/13/2020,3/13/2020,Full-time,Online,24,157,9576300673,Strong communication skills,372
+765,307,311,74,TRUE,02-09-2020,04-09-2020,Part-time,Online,51,172,9074494232,Passion for tech and innovation,274
+766,615,19,763,FALSE,1/13/2020,3/13/2020,Part-time,Online,81,218,9723562454,CSS,28
+767,861,863,385,FALSE,3/13/2020,05-12-2020,Part-time,Online,7,242,9048854735,Familiarity with Agile or Scrum methodologies,517
+768,47,404,816,FALSE,3/18/2020,5/17/2020,Full-time,Hybrid,61,94,7058862592,Familiarity with cloud tools,599
+769,122,339,37,TRUE,02-09-2020,04-09-2020,Part-time,Hybrid,2,65,8148171063,Portfolio of design projects (for UI/UX),760
+770,190,259,81,TRUE,2/24/2020,4/24/2020,Part-time,Hybrid,6,77,7567058540,Familiarity with cloud tools,856
+771,707,551,990,FALSE,2/28/2020,4/28/2020,Part-time,Offline,84,113,9454216328,Basic programming knowledge,330
+772,332,193,245,FALSE,3/28/2020,5/27/2020,Self-paced,Hybrid,17,114,8735591849,Previous coursework in networking fundamentals,499
+773,171,950,192,TRUE,02-09-2020,04-09-2020,Self-paced,Offline,24,81,8569008737,No prerequisites required,639
+774,2,564,414,FALSE,5/14/2020,7/13/2020,Part-time,Offline,28,193,8985112972,Familiarity with Agile or Scrum methodologies,167
+775,476,846,678,FALSE,06-05-2020,08-04-2020,Full-time,Offline,91,68,6005226939,Interest in cybersecurity,452
+776,658,171,788,FALSE,05-03-2020,07-02-2020,Part-time,Online,78,161,7070989046,Bachelor's degree in a relevant field,815
+777,193,230,617,FALSE,2/15/2020,4/15/2020,Full-time,Offline,97,74,7385573827,Strong communication skills,433
+778,710,618,118,TRUE,4/17/2020,6/16/2020,Full-time,Hybrid,7,6,6782132204,Understanding of data structures and algorithms,137
+779,470,179,765,FALSE,06-07-2020,08-06-2020,Full-time,Offline,65,95,7235867617,Bachelor's degree in a relevant field,297
+780,820,319,142,TRUE,05-05-2020,07-04-2020,Part-time,Online,77,7,8015663642,Basic programming knowledge,1000
+781,293,685,967,TRUE,5/27/2020,7/26/2020,Self-paced,Offline,62,19,7068378488,Strong communication skills,896
+782,29,564,402,FALSE,02-05-2020,04-05-2020,Part-time,Hybrid,63,134,9335923521,Bachelor's degree in a relevant field,110
+783,286,353,375,TRUE,01-01-2020,03-01-2020,Part-time,Hybrid,1,170,6540731010,Willingness to learn new technologies,931
+784,284,305,260,TRUE,02-01-2020,04-01-2020,Full-time,Offline,80,151,8490881170,Understanding of data structures and algorithms,378
+785,578,449,436,TRUE,1/14/2020,3/14/2020,Self-paced,Hybrid,64,175,8459246619,Interest in cybersecurity,167
+786,928,580,782,TRUE,5/17/2020,7/16/2020,Self-paced,Hybrid,59,36,8195775932,Portfolio of design projects (for UI/UX),81
+787,762,571,872,TRUE,01-04-2020,03-04-2020,Full-time,Hybrid,55,211,8645435804,Knowledge of HTML,663
+788,185,255,946,TRUE,2/26/2020,4/26/2020,Full-time,Offline,17,16,8784562078,Familiarity with Agile or Scrum methodologies,685
+789,815,394,71,TRUE,01-10-2020,03-10-2020,Self-paced,Hybrid,67,247,6497977800,and JavaScript,867
+790,322,592,162,FALSE,6/17/2020,8/16/2020,Part-time,Online,67,212,9818460287,Completion of Intro to Python course,203
+791,213,270,46,TRUE,6/22/2020,8/21/2020,Self-paced,Offline,20,203,8610795657,Awareness of marketing strategies,90
+792,660,447,856,FALSE,06-09-2020,08-08-2020,Part-time,Offline,60,21,7491530169,Portfolio of design projects (for UI/UX),137
+793,166,48,194,TRUE,02-06-2020,04-06-2020,Self-paced,Offline,34,178,8988291189,Completion of Intro to Python course,659
+794,923,26,901,FALSE,5/29/2020,7/28/2020,Full-time,Online,80,145,7542750953,Familiarity with cloud tools,962
+795,78,529,121,FALSE,01-07-2020,03-07-2020,Self-paced,Hybrid,9,230,6253160999,Comfortable with remote collaboration tools,852
+796,700,806,949,TRUE,3/25/2020,5/24/2020,Full-time,Offline,44,92,6039016798,Completion of Intro to Python course,574
+797,646,143,87,TRUE,4/13/2020,06-12-2020,Full-time,Offline,4,16,6477430312,Knowledge of HTML,261
+798,645,609,292,FALSE,5/28/2020,7/27/2020,Full-time,Online,14,57,9975390776,Understanding of data structures and algorithms,911
+799,165,537,768,FALSE,4/27/2020,6/26/2020,Self-paced,Offline,3,72,9992121679,Passion for tech and innovation,797
+800,342,157,157,FALSE,04-12-2020,06-11-2020,Full-time,Hybrid,91,69,9950647080,Knowledge of HTML,930
+801,675,596,455,FALSE,03-08-2020,05-07-2020,Self-paced,Hybrid,58,171,8125344527,Bachelor's degree in a relevant field,663
+802,798,396,336,FALSE,1/22/2020,3/22/2020,Self-paced,Hybrid,7,127,6422752689,Awareness of marketing strategies,849
+803,889,760,823,FALSE,4/24/2020,6/23/2020,Part-time,Hybrid,73,111,8867927800,No prerequisites required,433
+804,412,256,373,FALSE,01-11-2020,03-11-2020,Part-time,Online,36,32,6813425977,Understanding of data structures and algorithms,850
+805,664,501,290,TRUE,3/24/2020,5/23/2020,Part-time,Online,51,65,6020189341,No prerequisites required,937
+806,876,274,60,TRUE,03-09-2020,05-08-2020,Part-time,Hybrid,13,1,9989251163,Basic understanding of machine learning concepts,704
+807,61,12,941,TRUE,4/16/2020,6/15/2020,Part-time,Online,61,27,7429133461,and JavaScript,755
+808,222,981,434,TRUE,05-12-2020,07-11-2020,Part-time,Hybrid,42,16,6203331425,Understanding of data structures and algorithms,207
+809,211,67,592,FALSE,4/17/2020,6/16/2020,Full-time,Online,50,58,9704282712,Bachelor's degree in a relevant field,272
+810,33,831,45,TRUE,5/18/2020,7/17/2020,Part-time,Offline,43,141,6051342721,Experience in project coordination,418
+811,383,411,548,FALSE,01-12-2020,03-12-2020,Full-time,Online,46,10,6200649382,Understanding of data structures and algorithms,568
+812,716,901,486,TRUE,02-11-2020,04-11-2020,Self-paced,Offline,5,122,9056582637,Basic understanding of machine learning concepts,892
+813,92,952,228,FALSE,4/30/2020,6/29/2020,Part-time,Online,96,46,7041040639,Experience in project coordination,854
+814,880,779,442,FALSE,2/23/2020,4/23/2020,Full-time,Offline,92,245,7547656032,Portfolio of design projects (for UI/UX),604
+815,354,93,56,FALSE,4/30/2020,6/29/2020,Full-time,Online,91,19,6240159816,Strong communication skills,213
+816,241,484,914,TRUE,3/18/2020,5/17/2020,Part-time,Online,50,160,7586669751,Previous coursework in networking fundamentals,334
+817,770,798,189,TRUE,6/14/2020,8/13/2020,Full-time,Offline,17,248,7496906404,Bachelor's degree in a relevant field,404
+818,752,411,999,TRUE,01-10-2020,03-10-2020,Full-time,Online,46,195,9620052386,Basic programming knowledge,661
+819,362,736,676,TRUE,01-03-2020,03-03-2020,Self-paced,Online,2,209,9236298925,and JavaScript,119
+820,514,565,346,FALSE,6/27/2020,8/26/2020,Part-time,Offline,64,196,6598969959,Interest in cybersecurity,666
+821,930,771,143,FALSE,2/29/2020,4/29/2020,Part-time,Online,58,197,8394940227,Previous coursework in networking fundamentals,188
+822,516,743,923,FALSE,5/28/2020,7/27/2020,Self-paced,Hybrid,73,45,8346386098,and JavaScript,703
+823,213,583,182,TRUE,2/22/2020,4/22/2020,Part-time,Offline,89,56,8339736322,Portfolio of design projects (for UI/UX),93
+824,509,628,116,TRUE,4/28/2020,6/27/2020,Full-time,Offline,14,152,9633850849,Familiarity with cloud tools,789
+825,132,665,608,FALSE,02-02-2020,04-02-2020,Self-paced,Online,51,80,9519854307,Bachelor's degree in a relevant field,570
+826,626,548,574,TRUE,4/24/2020,6/23/2020,Full-time,Online,76,3,9777130564,No prerequisites required,457
+827,938,980,883,FALSE,05-03-2020,07-02-2020,Self-paced,Online,57,223,9668739925,Knowledge of HTML,387
+828,312,663,76,TRUE,06-09-2020,08-08-2020,Self-paced,Online,13,94,8822184538,Willingness to learn new technologies,564
+829,328,314,984,FALSE,1/25/2020,3/25/2020,Self-paced,Online,86,134,8599518880,Familiarity with Agile or Scrum methodologies,947
+830,485,163,620,TRUE,01-08-2020,03-08-2020,Part-time,Offline,37,183,6425932728,Basic programming knowledge,984
+831,974,700,684,TRUE,03-08-2020,05-07-2020,Self-paced,Hybrid,9,84,9446291083,Portfolio of design projects (for UI/UX),180
+832,424,376,406,TRUE,5/29/2020,7/28/2020,Full-time,Hybrid,95,67,9592197863,Familiarity with cloud tools,286
+833,565,941,990,TRUE,3/24/2020,5/23/2020,Part-time,Offline,85,204,9114606258,Passion for tech and innovation,361
+834,905,65,389,FALSE,06-02-2020,08-01-2020,Part-time,Offline,4,114,6525634761,Awareness of marketing strategies,583
+835,829,762,100,FALSE,02-12-2020,04-12-2020,Self-paced,Offline,66,148,9746419345,Understanding of data structures and algorithms,928
+836,849,2,637,FALSE,03-04-2020,05-03-2020,Full-time,Hybrid,96,154,9687465574,Familiarity with Agile or Scrum methodologies,1
+837,575,35,854,TRUE,3/21/2020,5/20/2020,Self-paced,Hybrid,84,247,8987562132,Prior experience with Excel or spreadsheets,728
+838,389,692,816,TRUE,02-05-2020,04-05-2020,Full-time,Offline,66,112,7254445872,Prior experience with Excel or spreadsheets,550
+839,490,728,787,FALSE,05-05-2020,07-04-2020,Part-time,Hybrid,94,128,8864572830,and JavaScript,655
+840,831,519,896,FALSE,06-07-2020,08-06-2020,Part-time,Online,52,130,9985546395,Knowledge of HTML,243
+841,615,982,358,TRUE,01-07-2020,03-07-2020,Full-time,Hybrid,52,86,8207871058,Comfortable with remote collaboration tools,824
+842,501,221,45,FALSE,01-10-2020,03-10-2020,Self-paced,Hybrid,76,92,8825496505,Familiarity with Agile or Scrum methodologies,426
+843,185,673,928,FALSE,2/24/2020,4/24/2020,Self-paced,Hybrid,45,32,6387644969,Awareness of marketing strategies,825
+844,755,980,139,TRUE,04-05-2020,06-04-2020,Self-paced,Hybrid,65,14,8563484009,Strong communication skills,6
+845,252,766,639,FALSE,1/19/2020,3/19/2020,Self-paced,Online,47,143,9011305727,Basic understanding of machine learning concepts,919
+846,200,300,528,TRUE,2/15/2020,4/15/2020,Self-paced,Hybrid,6,56,6503236969,Comfortable with remote collaboration tools,595
+847,16,938,305,TRUE,03-09-2020,05-08-2020,Part-time,Online,79,15,7927517673,No prerequisites required,292
+848,770,60,201,FALSE,01-11-2020,03-11-2020,Full-time,Online,96,211,6832926242,Passion for tech and innovation,645
+849,214,45,888,TRUE,1/25/2020,3/25/2020,Full-time,Hybrid,84,235,6648939221,Bachelor's degree in a relevant field,570
+850,7,564,797,FALSE,05-01-2020,6/30/2020,Part-time,Offline,11,40,7945694231,Awareness of marketing strategies,661
+851,813,58,79,TRUE,4/27/2020,6/26/2020,Self-paced,Offline,1,202,7411773596,Portfolio of design projects (for UI/UX),943
+852,238,121,311,TRUE,1/22/2020,3/22/2020,Part-time,Online,74,144,8491217802,Familiarity with cloud tools,797
+853,113,827,93,FALSE,3/26/2020,5/25/2020,Part-time,Offline,85,247,8634432863,Prior experience with Excel or spreadsheets,40
+854,625,935,584,TRUE,2/28/2020,4/28/2020,Full-time,Hybrid,8,97,9383722043,Understanding of data structures and algorithms,267
+855,883,874,378,FALSE,06-07-2020,08-06-2020,Part-time,Online,9,17,8683969828,Strong communication skills,860
+856,115,527,441,FALSE,04-04-2020,06-03-2020,Part-time,Online,59,223,8501551997,Strong communication skills,992
+857,526,3,837,TRUE,1/16/2020,3/16/2020,Full-time,Online,76,214,7360940843,Comfortable with remote collaboration tools,544
+858,556,580,540,TRUE,6/29/2020,8/28/2020,Part-time,Hybrid,84,10,8702238799,and JavaScript,582
+859,415,371,18,TRUE,2/14/2020,4/14/2020,Full-time,Offline,45,32,7035020029,Understanding of data structures and algorithms,136
+860,45,323,64,FALSE,4/24/2020,6/23/2020,Full-time,Online,77,176,8494146130,Strong communication skills,659
+861,446,810,918,FALSE,01-07-2020,03-07-2020,Self-paced,Offline,42,125,7711270419,Familiarity with cloud tools,400
+862,814,425,242,FALSE,01-09-2020,03-09-2020,Full-time,Offline,72,229,8306968719,Comfortable with remote collaboration tools,578
+863,626,284,265,TRUE,01-03-2020,03-03-2020,Part-time,Hybrid,95,226,8544040353,Bachelor's degree in a relevant field,562
+864,288,21,52,FALSE,02-10-2020,04-10-2020,Full-time,Online,18,167,7649802080,Familiarity with cloud tools,516
+865,219,10,457,TRUE,5/15/2020,7/14/2020,Self-paced,Online,68,131,6733255765,Knowledge of HTML,19
+866,272,963,18,FALSE,1/26/2020,3/26/2020,Full-time,Online,5,44,7454515626,and JavaScript,606
+867,776,814,197,FALSE,5/25/2020,7/24/2020,Part-time,Hybrid,69,19,9197143372,Previous coursework in networking fundamentals,463
+868,484,236,658,FALSE,06-09-2020,08-08-2020,Full-time,Offline,71,157,8604414449,Understanding of data structures and algorithms,314
+869,89,847,45,FALSE,01-04-2020,03-04-2020,Self-paced,Hybrid,11,183,6457654673,Prior experience with Excel or spreadsheets,461
+870,656,379,787,TRUE,1/31/2020,3/31/2020,Self-paced,Hybrid,17,185,7798212947,Awareness of marketing strategies,926
+871,547,407,266,TRUE,6/17/2020,8/16/2020,Part-time,Online,70,127,8653115416,Willingness to learn new technologies,23
+872,740,738,321,FALSE,3/14/2020,5/13/2020,Self-paced,Online,86,136,9294390605,Familiarity with Agile or Scrum methodologies,170
+873,118,344,884,TRUE,2/21/2020,4/21/2020,Self-paced,Hybrid,62,125,9266358539,Previous coursework in networking fundamentals,425
+874,811,232,252,FALSE,1/23/2020,3/23/2020,Self-paced,Hybrid,37,101,9546771693,CSS,677
+875,288,803,202,FALSE,6/17/2020,8/16/2020,Part-time,Offline,52,178,9619905276,Interest in cybersecurity,561
+876,143,806,608,TRUE,05-12-2020,07-11-2020,Full-time,Offline,66,3,8123554562,CSS,895
+877,405,441,164,FALSE,3/18/2020,5/17/2020,Self-paced,Hybrid,16,82,6817652042,Familiarity with Agile or Scrum methodologies,955
+878,327,418,104,TRUE,06-04-2020,08-03-2020,Part-time,Online,87,93,6565166988,Portfolio of design projects (for UI/UX),812
+879,374,914,962,FALSE,2/27/2020,4/27/2020,Full-time,Online,35,162,7691246178,Awareness of marketing strategies,110
+880,905,53,417,TRUE,2/18/2020,4/18/2020,Self-paced,Hybrid,31,13,7653948930,Understanding of data structures and algorithms,227
+881,991,256,404,TRUE,03-09-2020,05-08-2020,Full-time,Hybrid,50,19,8873341371,CSS,769
+882,138,62,525,FALSE,06-03-2020,08-02-2020,Self-paced,Offline,78,126,7012749168,Strong communication skills,154
+883,125,347,183,FALSE,01-01-2020,03-01-2020,Part-time,Offline,71,32,6840191579,Familiarity with Agile or Scrum methodologies,145
+884,379,138,775,TRUE,05-04-2020,07-03-2020,Full-time,Online,93,239,7797220127,Basic programming knowledge,49
+885,86,188,156,FALSE,1/27/2020,3/27/2020,Part-time,Hybrid,53,47,8033702057,Awareness of marketing strategies,318
+886,137,883,922,TRUE,02-08-2020,04-08-2020,Part-time,Offline,7,83,6844608711,Bachelor's degree in a relevant field,502
+887,398,730,166,TRUE,02-09-2020,04-09-2020,Self-paced,Offline,96,149,9679541842,Passion for tech and innovation,389
+888,798,563,14,FALSE,03-03-2020,05-02-2020,Full-time,Offline,68,205,9281134204,Prior experience with Excel or spreadsheets,796
+889,296,220,748,FALSE,3/25/2020,5/24/2020,Full-time,Offline,59,207,8258236683,and JavaScript,346
+890,576,748,596,FALSE,1/24/2020,3/24/2020,Full-time,Offline,58,187,6630083854,Prior experience with Excel or spreadsheets,936
+891,595,788,611,TRUE,4/24/2020,6/23/2020,Part-time,Online,57,1,8269611370,Comfortable with remote collaboration tools,98
+892,984,394,582,TRUE,4/19/2020,6/18/2020,Part-time,Hybrid,4,14,7808151043,No prerequisites required,29
+893,629,733,648,FALSE,01-01-2020,03-01-2020,Full-time,Online,60,132,7125938472,Awareness of marketing strategies,743
+894,801,250,922,FALSE,6/13/2020,08-12-2020,Full-time,Offline,99,137,8808607363,and JavaScript,547
+895,971,628,55,TRUE,01-12-2020,03-12-2020,Full-time,Online,36,31,8750351895,Familiarity with Agile or Scrum methodologies,416
+896,968,996,472,FALSE,4/28/2020,6/27/2020,Self-paced,Online,85,144,7504276096,Comfortable with remote collaboration tools,349
+897,241,497,662,TRUE,6/23/2020,8/22/2020,Part-time,Offline,26,80,7916414043,Awareness of marketing strategies,994
+898,37,424,271,TRUE,04-03-2020,06-02-2020,Full-time,Hybrid,88,214,9893510668,Experience in project coordination,970
+899,196,557,262,FALSE,1/26/2020,3/26/2020,Part-time,Hybrid,84,199,9388631550,Familiarity with Agile or Scrum methodologies,653
+900,902,688,71,FALSE,3/28/2020,5/27/2020,Part-time,Hybrid,42,116,9824244536,Bachelor's degree in a relevant field,831
+901,803,687,322,FALSE,04-04-2020,06-03-2020,Self-paced,Online,94,81,7879685518,No prerequisites required,297
+902,654,8,484,TRUE,5/29/2020,7/28/2020,Self-paced,Offline,99,243,9485443828,Completion of Intro to Python course,113
+903,582,813,926,TRUE,1/30/2020,3/30/2020,Full-time,Hybrid,70,69,6833190748,Portfolio of design projects (for UI/UX),997
+904,129,338,589,FALSE,5/31/2020,7/30/2020,Self-paced,Hybrid,31,204,7260897147,Understanding of data structures and algorithms,535
+905,580,820,198,TRUE,5/20/2020,7/19/2020,Part-time,Online,75,248,8713418754,Basic programming knowledge,412
+906,225,308,40,TRUE,6/14/2020,8/13/2020,Part-time,Offline,27,44,7124927854,Awareness of marketing strategies,576
+907,30,631,729,FALSE,04-01-2020,5/31/2020,Self-paced,Offline,20,231,8552369778,Exposure to databases and SQL,998
+908,526,48,664,TRUE,3/15/2020,5/14/2020,Full-time,Offline,89,132,7158349089,Previous coursework in networking fundamentals,591
+909,133,226,821,FALSE,03-10-2020,05-09-2020,Part-time,Hybrid,64,30,6564905867,Strong communication skills,5
+910,791,798,765,FALSE,1/24/2020,3/24/2020,Self-paced,Offline,67,136,6305610934,Prior experience with Excel or spreadsheets,338
+911,444,374,632,TRUE,03-03-2020,05-02-2020,Part-time,Offline,5,209,9547324604,Awareness of marketing strategies,268
+912,301,520,557,FALSE,06-11-2020,08-10-2020,Full-time,Online,45,115,7322409500,Basic programming knowledge,121
+913,555,236,997,TRUE,01-06-2020,03-06-2020,Part-time,Offline,18,218,9119743117,Basic programming knowledge,893
+914,167,306,156,TRUE,05-08-2020,07-07-2020,Full-time,Offline,76,137,7973127112,Awareness of marketing strategies,626
+915,955,20,956,FALSE,2/20/2020,4/20/2020,Part-time,Hybrid,67,235,7031733923,Understanding of data structures and algorithms,2
+916,672,351,755,FALSE,5/16/2020,7/15/2020,Self-paced,Online,71,157,9937518031,Knowledge of HTML,238
+917,616,267,566,TRUE,4/16/2020,6/15/2020,Part-time,Hybrid,48,68,9332606725,Completion of Intro to Python course,689
+918,563,102,474,FALSE,04-11-2020,06-10-2020,Self-paced,Online,53,110,9228804287,CSS,386
+919,426,853,757,FALSE,6/23/2020,8/22/2020,Full-time,Hybrid,53,73,8268642830,CSS,829
+920,52,565,461,TRUE,04-01-2020,5/31/2020,Self-paced,Hybrid,70,242,8952301100,Strong communication skills,96
+921,808,293,759,FALSE,5/29/2020,7/28/2020,Self-paced,Hybrid,5,155,8627422279,Experience in project coordination,855
+922,160,960,591,FALSE,03-12-2020,05-11-2020,Full-time,Offline,40,27,9566143490,Familiarity with cloud tools,57
+923,64,751,678,TRUE,02-05-2020,04-05-2020,Full-time,Offline,96,243,7876321322,Comfortable with remote collaboration tools,748
+924,340,916,473,TRUE,3/21/2020,5/20/2020,Self-paced,Hybrid,3,204,9945250099,Strong communication skills,996
+925,722,203,544,FALSE,5/27/2020,7/26/2020,Part-time,Hybrid,5,21,7252455275,No prerequisites required,605
+926,636,252,201,FALSE,5/14/2020,7/13/2020,Part-time,Offline,71,146,6445496210,Passion for tech and innovation,753
+927,294,806,702,FALSE,2/24/2020,4/24/2020,Full-time,Offline,5,209,8959208256,Understanding of data structures and algorithms,927
+928,801,117,219,FALSE,2/19/2020,4/19/2020,Self-paced,Online,49,97,8688421850,Exposure to databases and SQL,507
+929,275,282,289,TRUE,06-06-2020,08-05-2020,Full-time,Hybrid,46,88,7002560068,Completion of Intro to Python course,607
+930,425,264,775,FALSE,1/23/2020,3/23/2020,Full-time,Hybrid,40,49,8703823309,Understanding of data structures and algorithms,821
+931,290,777,241,TRUE,3/22/2020,5/21/2020,Full-time,Offline,18,114,6971878792,Awareness of marketing strategies,899
+932,538,201,204,FALSE,02-02-2020,04-02-2020,Self-paced,Offline,92,126,8252574138,No prerequisites required,194
+933,940,14,446,TRUE,2/17/2020,4/17/2020,Full-time,Hybrid,80,16,6134064247,Exposure to databases and SQL,113
+934,180,869,384,TRUE,4/28/2020,6/27/2020,Part-time,Online,93,136,6735740320,Interest in cybersecurity,112
+935,724,246,414,FALSE,3/29/2020,5/28/2020,Full-time,Online,54,44,9676797265,Strong communication skills,181
+936,276,954,608,TRUE,01-11-2020,03-11-2020,Self-paced,Offline,24,216,8585291494,Prior experience with Excel or spreadsheets,860
+937,95,490,719,TRUE,06-02-2020,08-01-2020,Self-paced,Hybrid,70,181,7170725380,Prior experience with Excel or spreadsheets,353
+938,74,919,706,TRUE,05-05-2020,07-04-2020,Part-time,Online,43,176,9874619785,Completion of Intro to Python course,541
+939,68,821,124,TRUE,3/15/2020,5/14/2020,Self-paced,Offline,69,77,6859131664,Previous coursework in networking fundamentals,702
+940,557,395,133,TRUE,3/13/2020,05-12-2020,Full-time,Hybrid,75,240,7264099077,Knowledge of HTML,483
+941,678,624,642,TRUE,06-09-2020,08-08-2020,Part-time,Online,51,138,6902360724,Familiarity with Agile or Scrum methodologies,354
+942,253,944,787,FALSE,1/20/2020,3/20/2020,Full-time,Offline,66,35,8325769157,Familiarity with cloud tools,809
+943,833,786,135,FALSE,5/16/2020,7/15/2020,Part-time,Offline,78,142,9096049727,Passion for tech and innovation,640
+944,859,655,736,TRUE,05-02-2020,07-01-2020,Full-time,Online,92,13,9216520797,Previous coursework in networking fundamentals,690
+945,280,158,792,FALSE,3/19/2020,5/18/2020,Full-time,Hybrid,25,73,9725699147,Bachelor's degree in a relevant field,632
+946,837,681,448,TRUE,03-09-2020,05-08-2020,Part-time,Offline,96,163,6578468931,No prerequisites required,108
+947,869,17,497,TRUE,6/20/2020,8/19/2020,Self-paced,Offline,26,81,9467055342,Understanding of data structures and algorithms,962
+948,610,954,934,FALSE,04-07-2020,06-06-2020,Full-time,Hybrid,37,35,6870847039,and JavaScript,868
+949,109,873,511,FALSE,3/17/2020,5/16/2020,Part-time,Offline,68,171,6477080977,Awareness of marketing strategies,275
+950,498,185,978,TRUE,3/30/2020,5/29/2020,Part-time,Online,53,165,6193505074,Strong communication skills,653
+951,243,602,605,TRUE,4/15/2020,6/14/2020,Self-paced,Online,30,240,8319533015,No prerequisites required,597
+952,7,674,912,FALSE,3/27/2020,5/26/2020,Self-paced,Online,14,249,8132438741,Previous coursework in networking fundamentals,497
+953,333,16,26,FALSE,04-06-2020,06-05-2020,Full-time,Hybrid,88,59,6087080516,No prerequisites required,15
+954,708,771,969,TRUE,3/28/2020,5/27/2020,Full-time,Offline,54,218,7309098419,Strong communication skills,691
+955,749,803,369,TRUE,5/24/2020,7/23/2020,Full-time,Offline,74,125,6689804464,Knowledge of HTML,995
+956,617,555,997,TRUE,1/28/2020,3/28/2020,Self-paced,Offline,73,95,8665085623,Basic understanding of machine learning concepts,185
+957,690,813,364,FALSE,06-09-2020,08-08-2020,Self-paced,Hybrid,82,119,8723573417,Understanding of data structures and algorithms,147
+958,325,634,351,TRUE,1/23/2020,3/23/2020,Self-paced,Offline,22,41,8775905833,Completion of Intro to Python course,720
+959,928,355,243,TRUE,4/27/2020,6/26/2020,Full-time,Offline,33,191,6717400305,Passion for tech and innovation,720
+960,306,357,912,FALSE,5/15/2020,7/14/2020,Full-time,Offline,88,51,7883731712,Interest in cybersecurity,271
+961,227,856,13,FALSE,1/27/2020,3/27/2020,Part-time,Hybrid,20,34,7799893328,Passion for tech and innovation,381
+962,866,689,90,TRUE,2/13/2020,4/13/2020,Part-time,Hybrid,27,241,8767604668,Completion of Intro to Python course,525
+963,998,156,87,TRUE,3/23/2020,5/22/2020,Self-paced,Offline,11,61,7899495857,Comfortable with remote collaboration tools,990
+964,361,707,871,TRUE,5/25/2020,7/24/2020,Self-paced,Offline,62,34,9251606661,Knowledge of HTML,618
+965,170,538,52,TRUE,02-06-2020,04-06-2020,Full-time,Hybrid,44,206,6585350073,Previous coursework in networking fundamentals,725
+966,989,306,364,FALSE,2/22/2020,4/22/2020,Part-time,Offline,64,5,7374041142,Bachelor's degree in a relevant field,241
+967,593,547,861,FALSE,03-01-2020,4/30/2020,Full-time,Hybrid,92,212,8059159099,Basic programming knowledge,681
+968,819,221,862,TRUE,6/23/2020,8/22/2020,Part-time,Online,9,123,9398732210,Comfortable with remote collaboration tools,546
+969,545,991,651,TRUE,02-05-2020,04-05-2020,Self-paced,Offline,45,197,8795775659,Awareness of marketing strategies,840
+970,386,588,258,TRUE,5/18/2020,7/17/2020,Self-paced,Hybrid,65,30,7423256830,Strong communication skills,498
+971,563,955,790,FALSE,4/21/2020,6/20/2020,Full-time,Hybrid,75,163,6102402427,Comfortable with remote collaboration tools,121
+972,95,670,863,TRUE,4/27/2020,6/26/2020,Part-time,Hybrid,79,111,7663953895,Willingness to learn new technologies,71
+973,902,857,645,FALSE,05-12-2020,07-11-2020,Part-time,Online,70,60,7253521883,Portfolio of design projects (for UI/UX),224
+974,473,658,253,TRUE,3/15/2020,5/14/2020,Full-time,Offline,49,61,6611696101,Awareness of marketing strategies,179
+975,376,655,384,TRUE,4/21/2020,6/20/2020,Self-paced,Hybrid,5,96,6722069398,Understanding of data structures and algorithms,25
+976,342,413,451,FALSE,3/25/2020,5/24/2020,Self-paced,Online,90,216,7109420459,Bachelor's degree in a relevant field,408
+977,122,620,711,FALSE,02-04-2020,04-04-2020,Part-time,Online,80,158,7325890358,Understanding of data structures and algorithms,430
+978,989,284,48,FALSE,2/28/2020,4/28/2020,Self-paced,Hybrid,76,160,7751916982,Comfortable with remote collaboration tools,428
+979,476,889,627,TRUE,1/27/2020,3/27/2020,Part-time,Offline,55,170,8401339394,Comfortable with remote collaboration tools,693
+980,14,463,356,FALSE,03-05-2020,05-04-2020,Self-paced,Hybrid,58,198,9209402453,CSS,44
+981,596,465,205,TRUE,03-11-2020,05-10-2020,Part-time,Online,77,195,9278588904,Willingness to learn new technologies,115
+982,911,415,342,TRUE,5/15/2020,7/14/2020,Self-paced,Offline,93,143,7288748889,Previous coursework in networking fundamentals,414
+983,483,747,904,TRUE,06-12-2020,08-11-2020,Part-time,Offline,45,108,8201586781,Familiarity with Agile or Scrum methodologies,835
+984,745,640,125,FALSE,2/24/2020,4/24/2020,Part-time,Online,39,201,9588145428,and JavaScript,154
+985,387,414,304,TRUE,5/16/2020,7/15/2020,Part-time,Online,94,116,7923158951,Familiarity with Agile or Scrum methodologies,922
+986,76,117,947,FALSE,02-08-2020,04-08-2020,Self-paced,Hybrid,19,31,6796690472,CSS,534
+987,602,879,218,FALSE,5/28/2020,7/27/2020,Full-time,Offline,68,8,6582209618,Bachelor's degree in a relevant field,600
+988,153,846,881,TRUE,05-12-2020,07-11-2020,Full-time,Hybrid,28,87,7254487333,Familiarity with Agile or Scrum methodologies,134
+989,821,37,271,TRUE,3/19/2020,5/18/2020,Self-paced,Offline,19,180,9822075521,Prior experience with Excel or spreadsheets,273
+990,97,270,554,TRUE,05-08-2020,07-07-2020,Self-paced,Online,66,120,7892874787,Previous coursework in networking fundamentals,919
+991,977,567,993,TRUE,05-02-2020,07-01-2020,Part-time,Online,71,107,7126743923,Basic programming knowledge,122
+992,811,579,418,FALSE,04-10-2020,06-09-2020,Self-paced,Offline,46,199,8764028257,Awareness of marketing strategies,391
+993,366,313,784,TRUE,06-03-2020,08-02-2020,Part-time,Offline,14,71,8146196289,and JavaScript,995
+994,70,144,942,TRUE,1/20/2020,3/20/2020,Self-paced,Offline,35,31,7588157073,Experience in project coordination,537
+995,286,71,479,FALSE,05-09-2020,07-08-2020,Full-time,Hybrid,41,97,8190580003,Basic understanding of machine learning concepts,556
+996,479,994,368,TRUE,4/19/2020,6/18/2020,Part-time,Online,50,121,8673398331,Knowledge of HTML,735
+997,946,830,456,FALSE,3/13/2020,05-12-2020,Self-paced,Online,68,144,7629531304,Bachelor's degree in a relevant field,706
+998,590,957,728,FALSE,05-02-2020,07-01-2020,Part-time,Online,79,141,7757604275,Basic understanding of machine learning concepts,732
+999,16,403,222,FALSE,2/22/2020,4/22/2020,Part-time,Hybrid,98,191,9588946650,Interest in cybersecurity,670
+1000,164,721,305,TRUE,04-06-2020,06-05-2020,Self-paced,Online,66,10,8402268309,Passion for tech and innovation,371

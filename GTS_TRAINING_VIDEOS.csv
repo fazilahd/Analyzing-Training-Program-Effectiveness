@@ -1,0 +1,1001 @@
+GTS_TRAINING_VIDEO_ID,GTS_TRAINING_VIDEO_NAME,GTS_TRAINING_VIDEO_DESCRIPTION,GTS_TRAINING_VIDEO_PATH,GTS_TRAINING_VIDEO_UPLOADED_DATE,GTS_TRAINING_VIDEO_IS_ACTIVE
+1,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-07-2024,FALSE
+2,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,09-03-2024,TRUE
+3,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/25/2025,TRUE
+4,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/20/2025,TRUE
+5,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/21/2024,FALSE
+6,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,3/16/2025,FALSE
+7,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,12-11-2024,TRUE
+8,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,09-03-2024,FALSE
+9,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/21/2024,FALSE
+10,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/15/2024,FALSE
+11,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12-08-2024,FALSE
+12,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/16/2024,TRUE
+13,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,4/15/2025,FALSE
+14,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,10-11-2024,TRUE
+15,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,02-04-2025,FALSE
+16,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,1/27/2025,TRUE
+17,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/13/2024,TRUE
+18,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/23/2024,TRUE
+19,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,8/21/2024,TRUE
+20,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/13/2025,TRUE
+21,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/17/2024,TRUE
+22,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11/28/2024,FALSE
+23,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/13/2025,FALSE
+24,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,8/22/2024,FALSE
+25,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,05-07-2024,TRUE
+26,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,7/26/2024,FALSE
+27,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12-02-2024,TRUE
+28,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/15/2024,TRUE
+29,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/28/2024,TRUE
+30,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10/25/2024,TRUE
+31,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,08-02-2024,TRUE
+32,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-01-2025,FALSE
+33,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-12-2024,FALSE
+34,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11-06-2024,FALSE
+35,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,9/13/2024,TRUE
+36,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/20/2025,TRUE
+37,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-01-2025,FALSE
+38,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,08-06-2024,FALSE
+39,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,4/13/2025,FALSE
+40,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,05-10-2024,TRUE
+41,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,12/15/2024,TRUE
+42,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/27/2025,TRUE
+43,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,07-07-2024,TRUE
+44,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,8/29/2024,FALSE
+45,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,2/20/2025,FALSE
+46,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/14/2024,FALSE
+47,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/31/2024,FALSE
+48,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,05-11-2024,TRUE
+49,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,09-10-2024,FALSE
+50,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/27/2024,FALSE
+51,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/14/2024,FALSE
+52,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/27/2024,TRUE
+53,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10-11-2024,TRUE
+54,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10-09-2024,TRUE
+55,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,3/17/2025,FALSE
+56,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/23/2024,TRUE
+57,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,03-01-2025,FALSE
+58,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/22/2024,FALSE
+59,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/20/2024,FALSE
+60,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/28/2024,TRUE
+61,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,5/22/2024,TRUE
+62,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,7/14/2024,TRUE
+63,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12-03-2024,FALSE
+64,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/20/2024,TRUE
+65,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,04-02-2025,FALSE
+66,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/18/2024,TRUE
+67,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,1/19/2025,FALSE
+68,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/14/2024,FALSE
+69,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,6/29/2024,FALSE
+70,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11-05-2024,FALSE
+71,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/26/2024,TRUE
+72,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,05-11-2024,FALSE
+73,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,01-08-2025,TRUE
+74,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,11/17/2024,FALSE
+75,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12/18/2024,FALSE
+76,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-08-2025,TRUE
+77,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,03-02-2025,TRUE
+78,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,9/29/2024,TRUE
+79,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,01-05-2025,TRUE
+80,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,08-10-2024,FALSE
+81,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/21/2025,FALSE
+82,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,4/14/2025,FALSE
+83,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,2/23/2025,FALSE
+84,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/14/2024,FALSE
+85,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,06-09-2024,FALSE
+86,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12-11-2024,FALSE
+87,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11-01-2024,TRUE
+88,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/20/2024,FALSE
+89,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,01-10-2025,FALSE
+90,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,10/14/2024,FALSE
+91,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-10-2025,TRUE
+92,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,9/29/2024,TRUE
+93,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/16/2024,TRUE
+94,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,01-08-2025,TRUE
+95,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/16/2024,FALSE
+96,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/24/2025,FALSE
+97,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,7/23/2024,TRUE
+98,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/19/2024,TRUE
+99,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11/24/2024,FALSE
+100,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,2/13/2025,FALSE
+101,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,3/26/2025,FALSE
+102,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11/18/2024,FALSE
+103,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-04-2025,TRUE
+104,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,01-10-2025,FALSE
+105,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,05-08-2024,FALSE
+106,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,1/16/2025,FALSE
+107,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11-05-2024,TRUE
+108,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,5/19/2024,TRUE
+109,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-01-2024,FALSE
+110,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/24/2024,TRUE
+111,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,07-10-2024,TRUE
+112,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,03-11-2025,FALSE
+113,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,02-07-2025,FALSE
+114,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,09-02-2024,FALSE
+115,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-11-2025,TRUE
+116,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-01-2024,TRUE
+117,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/17/2024,TRUE
+118,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/31/2024,TRUE
+119,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-09-2025,FALSE
+120,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/15/2024,TRUE
+121,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,07-10-2024,FALSE
+122,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/16/2024,TRUE
+123,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,4/21/2024,TRUE
+124,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,1/18/2025,FALSE
+125,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,02-03-2025,FALSE
+126,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,01-04-2025,FALSE
+127,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,12-02-2024,FALSE
+128,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,1/31/2025,TRUE
+129,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,08-10-2024,FALSE
+130,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,2/18/2025,FALSE
+131,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/30/2024,TRUE
+132,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/21/2024,TRUE
+133,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,4/24/2024,FALSE
+134,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/19/2024,TRUE
+135,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,08-04-2024,TRUE
+136,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/22/2024,TRUE
+137,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,07-08-2024,TRUE
+138,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,11-10-2024,TRUE
+139,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/28/2024,TRUE
+140,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,2/17/2025,TRUE
+141,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,8/20/2024,FALSE
+142,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,03-03-2025,FALSE
+143,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11/14/2024,TRUE
+144,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,09-03-2024,TRUE
+145,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/27/2024,FALSE
+146,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,01-06-2025,TRUE
+147,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,1/19/2025,FALSE
+148,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,08-01-2024,TRUE
+149,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11-03-2024,FALSE
+150,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,12-12-2024,FALSE
+151,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,07-10-2024,TRUE
+152,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/22/2025,TRUE
+153,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,08-06-2024,TRUE
+154,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,07-04-2024,FALSE
+155,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,08-06-2024,FALSE
+156,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,05-02-2024,FALSE
+157,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/18/2024,TRUE
+158,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,01-12-2025,TRUE
+159,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12/29/2024,FALSE
+160,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/19/2024,TRUE
+161,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/23/2024,FALSE
+162,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,4/25/2024,TRUE
+163,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11-10-2024,TRUE
+164,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,09-05-2024,TRUE
+165,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,10/31/2024,FALSE
+166,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/24/2024,TRUE
+167,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,10-11-2024,TRUE
+168,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/27/2025,FALSE
+169,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/29/2024,TRUE
+170,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/15/2025,FALSE
+171,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11/28/2024,TRUE
+172,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/13/2024,TRUE
+173,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,5/25/2024,FALSE
+174,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12/19/2024,TRUE
+175,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,07-12-2024,FALSE
+176,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/24/2025,FALSE
+177,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,3/19/2025,TRUE
+178,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/31/2024,FALSE
+179,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,4/17/2024,FALSE
+180,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,07-03-2024,TRUE
+181,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,8/27/2024,TRUE
+182,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,07-08-2024,FALSE
+183,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/24/2024,TRUE
+184,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,7/22/2024,FALSE
+185,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-12-2024,FALSE
+186,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-01-2024,FALSE
+187,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,2/25/2025,FALSE
+188,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/21/2024,TRUE
+189,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-04-2025,FALSE
+190,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/23/2025,FALSE
+191,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,07-05-2024,FALSE
+192,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12-04-2024,FALSE
+193,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/18/2024,TRUE
+194,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11-09-2024,FALSE
+195,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,08-06-2024,FALSE
+196,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,05-10-2024,TRUE
+197,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/14/2024,TRUE
+198,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12-07-2024,FALSE
+199,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11-06-2024,TRUE
+200,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12-06-2024,FALSE
+201,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,01-06-2025,FALSE
+202,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12/29/2024,TRUE
+203,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/22/2025,FALSE
+204,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/26/2024,TRUE
+205,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,9/19/2024,TRUE
+206,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,2/22/2025,FALSE
+207,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,06-11-2024,FALSE
+208,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,7/17/2024,TRUE
+209,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,03-04-2025,TRUE
+210,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,09-03-2024,FALSE
+211,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/21/2024,FALSE
+212,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,06-06-2024,FALSE
+213,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,3/23/2025,TRUE
+214,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,10/26/2024,TRUE
+215,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12-05-2024,TRUE
+216,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-04-2025,FALSE
+217,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,07-10-2024,FALSE
+218,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,09-05-2024,TRUE
+219,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,01-09-2025,TRUE
+220,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,01-03-2025,FALSE
+221,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/23/2024,FALSE
+222,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,7/19/2024,TRUE
+223,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/31/2024,TRUE
+224,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/29/2024,FALSE
+225,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,01-06-2025,TRUE
+226,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,5/25/2024,TRUE
+227,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/19/2024,TRUE
+228,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,3/30/2025,TRUE
+229,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,01-01-2025,TRUE
+230,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/24/2024,FALSE
+231,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,09-10-2024,FALSE
+232,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,6/30/2024,TRUE
+233,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-10-2024,FALSE
+234,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,06-03-2024,FALSE
+235,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,10-03-2024,TRUE
+236,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-03-2024,TRUE
+237,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,7/31/2024,TRUE
+238,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,1/26/2025,FALSE
+239,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/14/2024,FALSE
+240,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/18/2024,TRUE
+241,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/24/2025,TRUE
+242,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,08-04-2024,TRUE
+243,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/23/2024,TRUE
+244,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/25/2024,TRUE
+245,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/30/2024,TRUE
+246,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,1/29/2025,FALSE
+247,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/22/2024,TRUE
+248,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,08-01-2024,FALSE
+249,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-06-2025,TRUE
+250,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/15/2024,TRUE
+251,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,7/19/2024,FALSE
+252,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/31/2024,TRUE
+253,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,07-02-2024,FALSE
+254,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10/18/2024,FALSE
+255,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/13/2025,TRUE
+256,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/29/2024,FALSE
+257,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,04-07-2025,FALSE
+258,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,7/24/2024,TRUE
+259,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/23/2024,TRUE
+260,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,11-10-2024,TRUE
+261,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/18/2024,TRUE
+262,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,02-08-2025,FALSE
+263,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,10/21/2024,TRUE
+264,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/19/2025,TRUE
+265,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11/13/2024,TRUE
+266,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-05-2024,FALSE
+267,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/21/2024,TRUE
+268,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,03-11-2025,FALSE
+269,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/17/2024,TRUE
+270,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,04-11-2025,FALSE
+271,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12-02-2024,FALSE
+272,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/20/2024,FALSE
+273,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/18/2024,TRUE
+274,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,08-12-2024,TRUE
+275,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/22/2024,TRUE
+276,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,09-03-2024,TRUE
+277,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,01-12-2025,FALSE
+278,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,7/21/2024,TRUE
+279,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,05-10-2024,FALSE
+280,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-12-2024,TRUE
+281,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/18/2024,TRUE
+282,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,4/18/2024,FALSE
+283,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/19/2024,FALSE
+284,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/30/2024,FALSE
+285,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-02-2025,FALSE
+286,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11/29/2024,TRUE
+287,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,7/17/2024,FALSE
+288,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/22/2024,TRUE
+289,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,05-04-2024,FALSE
+290,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,1/16/2025,FALSE
+291,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,6/23/2024,TRUE
+292,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,4/27/2024,FALSE
+293,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,02-05-2025,FALSE
+294,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,02-01-2025,FALSE
+295,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/25/2024,TRUE
+296,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11-06-2024,FALSE
+297,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,8/27/2024,TRUE
+298,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/15/2024,FALSE
+299,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11-04-2024,FALSE
+300,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,9/29/2024,FALSE
+301,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,9/18/2024,FALSE
+302,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10-12-2024,FALSE
+303,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-01-2025,TRUE
+304,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/25/2025,TRUE
+305,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12-06-2024,FALSE
+306,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12-12-2024,FALSE
+307,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,8/20/2024,FALSE
+308,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/14/2024,FALSE
+309,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,02-06-2025,FALSE
+310,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/23/2024,TRUE
+311,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,08-10-2024,FALSE
+312,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/25/2024,FALSE
+313,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,1/25/2025,FALSE
+314,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12-06-2024,FALSE
+315,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/15/2024,FALSE
+316,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,9/16/2024,FALSE
+317,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,2/15/2025,FALSE
+318,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/14/2024,TRUE
+319,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/30/2024,FALSE
+320,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-01-2024,FALSE
+321,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,9/14/2024,TRUE
+322,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/27/2024,FALSE
+323,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/21/2024,FALSE
+324,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/20/2024,TRUE
+325,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,5/14/2024,TRUE
+326,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10-09-2024,FALSE
+327,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,4/24/2024,FALSE
+328,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/15/2024,TRUE
+329,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/14/2025,TRUE
+330,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,07-12-2024,TRUE
+331,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/18/2024,FALSE
+332,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,12/16/2024,FALSE
+333,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-07-2025,TRUE
+334,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,8/13/2024,TRUE
+335,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/27/2024,TRUE
+336,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12-11-2024,FALSE
+337,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,02-10-2025,TRUE
+338,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/26/2024,FALSE
+339,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-08-2024,FALSE
+340,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/20/2024,FALSE
+341,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/13/2024,FALSE
+342,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,03-09-2025,FALSE
+343,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,01-11-2025,FALSE
+344,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/26/2024,TRUE
+345,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,08-07-2024,FALSE
+346,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/25/2024,FALSE
+347,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11-03-2024,FALSE
+348,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12/28/2024,TRUE
+349,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/29/2024,TRUE
+350,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/22/2024,FALSE
+351,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/30/2024,TRUE
+352,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/13/2024,TRUE
+353,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,6/18/2024,FALSE
+354,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,09-10-2024,TRUE
+355,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/15/2024,FALSE
+356,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,9/23/2024,FALSE
+357,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11/27/2024,TRUE
+358,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-05-2025,FALSE
+359,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12/20/2024,TRUE
+360,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/25/2025,TRUE
+361,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/25/2024,FALSE
+362,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/23/2025,TRUE
+363,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11/30/2024,TRUE
+364,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11-09-2024,FALSE
+365,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/21/2025,FALSE
+366,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/25/2024,FALSE
+367,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,06-06-2024,FALSE
+368,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/22/2025,TRUE
+369,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/24/2024,TRUE
+370,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/21/2024,FALSE
+371,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,07-09-2024,FALSE
+372,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-07-2024,TRUE
+373,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,9/20/2024,TRUE
+374,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/30/2025,TRUE
+375,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/30/2024,FALSE
+376,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/22/2025,TRUE
+377,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,02-08-2025,FALSE
+378,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11/28/2024,TRUE
+379,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12/17/2024,TRUE
+380,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,10/24/2024,TRUE
+381,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,01-07-2025,FALSE
+382,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-12-2025,FALSE
+383,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,04-02-2025,TRUE
+384,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,7/13/2024,TRUE
+385,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,1/14/2025,TRUE
+386,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,01-06-2025,FALSE
+387,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,10/20/2024,FALSE
+388,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/29/2024,TRUE
+389,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,4/13/2025,TRUE
+390,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/27/2024,FALSE
+391,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/30/2024,TRUE
+392,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,5/13/2024,TRUE
+393,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/29/2025,TRUE
+394,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/21/2024,TRUE
+395,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,1/24/2025,TRUE
+396,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11-01-2024,FALSE
+397,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,2/17/2025,FALSE
+398,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,12-03-2024,TRUE
+399,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,03-02-2025,FALSE
+400,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12-12-2024,TRUE
+401,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/15/2024,TRUE
+402,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/29/2024,TRUE
+403,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,2/15/2025,FALSE
+404,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/24/2024,TRUE
+405,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,6/19/2024,FALSE
+406,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/20/2024,FALSE
+407,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,9/26/2024,TRUE
+408,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/24/2024,TRUE
+409,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/22/2024,TRUE
+410,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10/20/2024,TRUE
+411,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/22/2024,TRUE
+412,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10-09-2024,TRUE
+413,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/20/2024,TRUE
+414,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,10-03-2024,TRUE
+415,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11-03-2024,FALSE
+416,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/15/2024,TRUE
+417,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,07-07-2024,FALSE
+418,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,06-02-2024,TRUE
+419,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/29/2024,FALSE
+420,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,4/13/2025,FALSE
+421,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12-12-2024,FALSE
+422,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,05-02-2024,FALSE
+423,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/18/2024,FALSE
+424,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,7/16/2024,FALSE
+425,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12/20/2024,TRUE
+426,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/30/2024,TRUE
+427,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,07-06-2024,FALSE
+428,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/22/2024,TRUE
+429,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11/14/2024,FALSE
+430,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,12-07-2024,TRUE
+431,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/22/2025,FALSE
+432,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11/23/2024,FALSE
+433,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/26/2025,TRUE
+434,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/21/2024,FALSE
+435,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,5/16/2024,FALSE
+436,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/24/2024,TRUE
+437,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,02-06-2025,TRUE
+438,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,4/20/2024,TRUE
+439,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/13/2024,FALSE
+440,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,06-03-2024,FALSE
+441,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,01-10-2025,TRUE
+442,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-11-2025,TRUE
+443,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,08-12-2024,TRUE
+444,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,07-12-2024,FALSE
+445,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,2/13/2025,TRUE
+446,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,12/21/2024,FALSE
+447,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,8/24/2024,TRUE
+448,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,8/28/2024,FALSE
+449,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,08-02-2024,TRUE
+450,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-06-2024,FALSE
+451,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/21/2025,FALSE
+452,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/31/2025,FALSE
+453,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-11-2025,TRUE
+454,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,05-08-2024,TRUE
+455,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,6/25/2024,TRUE
+456,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,01-05-2025,FALSE
+457,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12-03-2024,TRUE
+458,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,11/14/2024,TRUE
+459,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-10-2024,TRUE
+460,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/19/2024,FALSE
+461,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/16/2024,FALSE
+462,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/22/2025,TRUE
+463,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,9/21/2024,FALSE
+464,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,02-12-2025,FALSE
+465,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,7/20/2024,FALSE
+466,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,4/17/2024,FALSE
+467,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,06-11-2024,TRUE
+468,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-01-2024,FALSE
+469,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,08-03-2024,TRUE
+470,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,03-12-2025,FALSE
+471,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,07-12-2024,TRUE
+472,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,9/15/2024,FALSE
+473,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/24/2024,FALSE
+474,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10/24/2024,TRUE
+475,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,9/18/2024,FALSE
+476,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/27/2024,TRUE
+477,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/25/2024,TRUE
+478,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/28/2024,FALSE
+479,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/22/2024,TRUE
+480,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/18/2025,TRUE
+481,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/25/2024,TRUE
+482,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,9/15/2024,TRUE
+483,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11-04-2024,TRUE
+484,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/27/2024,FALSE
+485,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,8/18/2024,FALSE
+486,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,02-03-2025,FALSE
+487,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/26/2024,FALSE
+488,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,09-07-2024,TRUE
+489,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-05-2025,FALSE
+490,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/21/2024,TRUE
+491,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/13/2025,TRUE
+492,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/27/2024,FALSE
+493,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10/19/2024,TRUE
+494,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11/18/2024,FALSE
+495,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11-01-2024,FALSE
+496,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10-02-2024,FALSE
+497,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/24/2024,FALSE
+498,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,06-12-2024,FALSE
+499,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/29/2024,TRUE
+500,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,04-06-2025,FALSE
+501,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/24/2024,TRUE
+502,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/19/2024,TRUE
+503,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-04-2025,FALSE
+504,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11-05-2024,TRUE
+505,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,6/20/2024,FALSE
+506,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,4/30/2024,FALSE
+507,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,10/24/2024,FALSE
+508,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,05-02-2024,FALSE
+509,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/15/2024,TRUE
+510,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/13/2025,FALSE
+511,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,08-02-2024,TRUE
+512,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,03-07-2025,TRUE
+513,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,10-04-2024,FALSE
+514,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,9/26/2024,FALSE
+515,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,01-10-2025,FALSE
+516,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12-04-2024,TRUE
+517,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,09-09-2024,FALSE
+518,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/26/2025,FALSE
+519,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/14/2024,FALSE
+520,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-02-2024,TRUE
+521,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-04-2025,TRUE
+522,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10/14/2024,FALSE
+523,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,9/17/2024,FALSE
+524,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/31/2024,FALSE
+525,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/14/2024,FALSE
+526,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/21/2024,TRUE
+527,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,6/16/2024,FALSE
+528,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,9/16/2024,FALSE
+529,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/20/2024,FALSE
+530,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,09-08-2024,TRUE
+531,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,9/26/2024,FALSE
+532,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/16/2025,TRUE
+533,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,02-07-2025,TRUE
+534,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/19/2024,TRUE
+535,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/28/2024,FALSE
+536,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/30/2024,TRUE
+537,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/13/2025,FALSE
+538,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10-07-2024,TRUE
+539,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-06-2025,FALSE
+540,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,10-04-2024,FALSE
+541,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,07-07-2024,FALSE
+542,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,07-11-2024,FALSE
+543,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,05-04-2024,TRUE
+544,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,02-05-2025,FALSE
+545,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,08-07-2024,FALSE
+546,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-03-2025,FALSE
+547,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/29/2025,TRUE
+548,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/24/2024,TRUE
+549,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,2/17/2025,FALSE
+550,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/14/2024,FALSE
+551,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,3/15/2025,TRUE
+552,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,5/25/2024,TRUE
+553,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11/14/2024,TRUE
+554,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,9/30/2024,TRUE
+555,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,02-01-2025,TRUE
+556,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,2/13/2025,FALSE
+557,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/18/2025,FALSE
+558,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,09-03-2024,TRUE
+559,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-04-2025,FALSE
+560,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,07-05-2024,TRUE
+561,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,5/26/2024,FALSE
+562,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10/13/2024,TRUE
+563,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,09-06-2024,TRUE
+564,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,01-10-2025,FALSE
+565,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,08-08-2024,TRUE
+566,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/17/2024,TRUE
+567,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,2/16/2025,TRUE
+568,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/18/2024,TRUE
+569,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,03-12-2025,TRUE
+570,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12/25/2024,FALSE
+571,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,08-03-2024,TRUE
+572,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,08-05-2024,FALSE
+573,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11-04-2024,FALSE
+574,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,1/16/2025,TRUE
+575,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,03-08-2025,TRUE
+576,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/13/2024,TRUE
+577,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,1/28/2025,FALSE
+578,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,9/29/2024,FALSE
+579,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,02-01-2025,FALSE
+580,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/25/2024,FALSE
+581,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,08-01-2024,TRUE
+582,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,12-12-2024,TRUE
+583,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/27/2025,TRUE
+584,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,4/25/2024,FALSE
+585,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,07-05-2024,TRUE
+586,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,9/14/2024,FALSE
+587,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,6/30/2024,TRUE
+588,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,6/21/2024,FALSE
+589,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/22/2024,FALSE
+590,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/29/2025,TRUE
+591,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11-11-2024,TRUE
+592,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,04-06-2025,TRUE
+593,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,7/19/2024,TRUE
+594,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,01-04-2025,TRUE
+595,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12/16/2024,FALSE
+596,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/18/2025,FALSE
+597,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,4/15/2025,FALSE
+598,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,2/24/2025,TRUE
+599,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,10-07-2024,FALSE
+600,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,09-09-2024,TRUE
+601,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/20/2025,TRUE
+602,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,06-12-2024,FALSE
+603,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11-11-2024,FALSE
+604,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,01-07-2025,FALSE
+605,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,03-05-2025,TRUE
+606,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-12-2024,FALSE
+607,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/25/2025,TRUE
+608,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/29/2024,TRUE
+609,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11/13/2024,TRUE
+610,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,10/26/2024,FALSE
+611,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11-02-2024,TRUE
+612,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/26/2024,TRUE
+613,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-06-2025,FALSE
+614,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/14/2025,FALSE
+615,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/14/2025,FALSE
+616,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/17/2024,TRUE
+617,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/20/2024,FALSE
+618,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10/23/2024,FALSE
+619,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,3/23/2025,TRUE
+620,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,6/30/2024,TRUE
+621,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,9/18/2024,TRUE
+622,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/30/2024,FALSE
+623,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/24/2024,TRUE
+624,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,6/25/2024,TRUE
+625,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,10/24/2024,FALSE
+626,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-07-2025,TRUE
+627,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/28/2025,TRUE
+628,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/21/2025,FALSE
+629,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/30/2024,TRUE
+630,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,3/19/2025,FALSE
+631,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/27/2025,TRUE
+632,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,1/27/2025,TRUE
+633,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/23/2025,TRUE
+634,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,6/16/2024,FALSE
+635,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/29/2024,TRUE
+636,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/25/2025,FALSE
+637,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,3/25/2025,FALSE
+638,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,1/19/2025,FALSE
+639,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,10-03-2024,FALSE
+640,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,10/24/2024,TRUE
+641,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,02-10-2025,TRUE
+642,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/31/2025,FALSE
+643,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/18/2024,FALSE
+644,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/27/2024,FALSE
+645,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-03-2025,FALSE
+646,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,9/19/2024,TRUE
+647,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,07-03-2024,TRUE
+648,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,04-02-2025,FALSE
+649,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/14/2025,TRUE
+650,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,9/28/2024,TRUE
+651,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/17/2024,FALSE
+652,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,10-09-2024,TRUE
+653,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,02-03-2025,TRUE
+654,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,9/26/2024,FALSE
+655,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11/19/2024,TRUE
+656,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/20/2025,TRUE
+657,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/26/2025,FALSE
+658,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/16/2024,FALSE
+659,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,1/20/2025,FALSE
+660,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/25/2024,TRUE
+661,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/22/2024,TRUE
+662,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,11-03-2024,TRUE
+663,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/23/2024,TRUE
+664,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,06-11-2024,TRUE
+665,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,08-11-2024,FALSE
+666,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,5/15/2024,FALSE
+667,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,07-08-2024,TRUE
+668,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/24/2025,FALSE
+669,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,01-04-2025,FALSE
+670,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,09-04-2024,TRUE
+671,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,01-01-2025,FALSE
+672,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/27/2024,FALSE
+673,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,7/23/2024,FALSE
+674,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/22/2024,FALSE
+675,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-04-2025,FALSE
+676,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,07-11-2024,FALSE
+677,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/17/2025,TRUE
+678,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/24/2024,FALSE
+679,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,2/13/2025,TRUE
+680,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,07-07-2024,FALSE
+681,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,05-11-2024,TRUE
+682,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,8/25/2024,FALSE
+683,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-02-2024,TRUE
+684,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,09-10-2024,TRUE
+685,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,09-10-2024,TRUE
+686,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-06-2024,TRUE
+687,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,09-10-2024,TRUE
+688,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,4/14/2025,TRUE
+689,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,9/13/2024,FALSE
+690,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11/19/2024,TRUE
+691,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,04-07-2025,FALSE
+692,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,03-09-2025,FALSE
+693,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,01-04-2025,TRUE
+694,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11-12-2024,FALSE
+695,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,08-02-2024,FALSE
+696,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,2/15/2025,TRUE
+697,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10-04-2024,FALSE
+698,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-05-2024,FALSE
+699,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,2/13/2025,FALSE
+700,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/28/2024,TRUE
+701,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11-06-2024,TRUE
+702,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,9/21/2024,TRUE
+703,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/30/2024,TRUE
+704,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,3/30/2025,FALSE
+705,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-07-2025,FALSE
+706,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11/28/2024,FALSE
+707,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,8/19/2024,FALSE
+708,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,4/13/2025,TRUE
+709,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/15/2024,FALSE
+710,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-07-2024,FALSE
+711,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-08-2024,FALSE
+712,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,9/21/2024,FALSE
+713,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,7/20/2024,FALSE
+714,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,01-07-2025,TRUE
+715,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/26/2025,FALSE
+716,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-03-2024,TRUE
+717,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,6/22/2024,FALSE
+718,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,04-10-2025,TRUE
+719,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,7/16/2024,FALSE
+720,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10-12-2024,TRUE
+721,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,02-09-2025,FALSE
+722,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,4/25/2024,TRUE
+723,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-03-2025,TRUE
+724,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,7/17/2024,TRUE
+725,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,11/13/2024,TRUE
+726,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11/25/2024,FALSE
+727,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,7/21/2024,FALSE
+728,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12-07-2024,TRUE
+729,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,02-10-2025,FALSE
+730,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,05-04-2024,FALSE
+731,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,7/22/2024,TRUE
+732,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/17/2024,FALSE
+733,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11/13/2024,FALSE
+734,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,10/27/2024,TRUE
+735,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/26/2024,TRUE
+736,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,4/17/2024,TRUE
+737,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/21/2024,FALSE
+738,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,1/17/2025,FALSE
+739,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/28/2025,TRUE
+740,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/23/2024,FALSE
+741,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,03-11-2025,FALSE
+742,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,5/15/2024,FALSE
+743,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11-01-2024,TRUE
+744,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/14/2024,TRUE
+745,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11/17/2024,TRUE
+746,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-10-2025,TRUE
+747,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/28/2024,FALSE
+748,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,09-10-2024,TRUE
+749,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/20/2024,FALSE
+750,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/16/2024,TRUE
+751,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/15/2024,TRUE
+752,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/13/2024,FALSE
+753,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,05-03-2024,TRUE
+754,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,02-10-2025,FALSE
+755,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,03-02-2025,TRUE
+756,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/15/2025,TRUE
+757,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,08-02-2024,TRUE
+758,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-01-2024,FALSE
+759,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/15/2024,TRUE
+760,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/27/2025,FALSE
+761,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/27/2024,FALSE
+762,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/24/2024,FALSE
+763,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12-05-2024,FALSE
+764,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/27/2025,FALSE
+765,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,04-10-2025,TRUE
+766,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,4/20/2024,FALSE
+767,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,2/22/2025,FALSE
+768,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,8/25/2024,FALSE
+769,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,6/18/2024,FALSE
+770,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,07-07-2024,FALSE
+771,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/17/2024,FALSE
+772,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12-09-2024,TRUE
+773,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/29/2025,TRUE
+774,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/15/2024,TRUE
+775,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,5/26/2024,TRUE
+776,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,06-04-2024,FALSE
+777,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-06-2024,FALSE
+778,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,3/24/2025,FALSE
+779,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,5/29/2024,FALSE
+780,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11-02-2024,FALSE
+781,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/25/2024,TRUE
+782,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/29/2024,FALSE
+783,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/21/2024,FALSE
+784,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,10/30/2024,TRUE
+785,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/15/2024,FALSE
+786,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,01-07-2025,TRUE
+787,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,11/21/2024,TRUE
+788,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,7/24/2024,FALSE
+789,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/20/2025,TRUE
+790,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10-12-2024,TRUE
+791,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,6/13/2024,FALSE
+792,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/21/2024,FALSE
+793,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11-02-2024,TRUE
+794,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,2/13/2025,TRUE
+795,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,8/15/2024,FALSE
+796,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,02-11-2025,TRUE
+797,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,09-05-2024,TRUE
+798,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,03-02-2025,FALSE
+799,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/29/2025,FALSE
+800,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/14/2024,FALSE
+801,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,7/27/2024,TRUE
+802,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,9/17/2024,TRUE
+803,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,4/17/2024,TRUE
+804,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,3/17/2025,TRUE
+805,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,05-08-2024,FALSE
+806,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,06-01-2024,FALSE
+807,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,12/14/2024,TRUE
+808,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,4/20/2024,FALSE
+809,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,11/13/2024,TRUE
+810,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,04-10-2025,TRUE
+811,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,7/31/2024,TRUE
+812,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,4/14/2025,TRUE
+813,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-06-2025,FALSE
+814,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,06-06-2024,FALSE
+815,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,06-09-2024,TRUE
+816,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/26/2025,FALSE
+817,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,03-04-2025,TRUE
+818,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/15/2025,FALSE
+819,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,04-07-2025,FALSE
+820,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,05-11-2024,TRUE
+821,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,3/17/2025,FALSE
+822,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10-11-2024,TRUE
+823,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/26/2025,FALSE
+824,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,04-01-2025,TRUE
+825,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,05-12-2024,TRUE
+826,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,6/24/2024,TRUE
+827,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,08-11-2024,TRUE
+828,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,2/24/2025,FALSE
+829,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,5/28/2024,FALSE
+830,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,10-04-2024,TRUE
+831,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,2/24/2025,TRUE
+832,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,11/14/2024,TRUE
+833,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,11/13/2024,TRUE
+834,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/21/2024,FALSE
+835,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,3/18/2025,TRUE
+836,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,4/23/2024,FALSE
+837,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,4/13/2025,FALSE
+838,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-01-2024,FALSE
+839,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,3/17/2025,FALSE
+840,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-02-2024,TRUE
+841,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,2/14/2025,FALSE
+842,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,10-07-2024,FALSE
+843,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-02-2024,TRUE
+844,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12-05-2024,FALSE
+845,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/24/2025,FALSE
+846,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,10-10-2024,TRUE
+847,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,2/16/2025,TRUE
+848,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,4/15/2025,TRUE
+849,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,1/24/2025,FALSE
+850,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,1/14/2025,TRUE
+851,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,5/16/2024,FALSE
+852,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,07-09-2024,TRUE
+853,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,7/18/2024,FALSE
+854,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,12/13/2024,FALSE
+855,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,5/17/2024,FALSE
+856,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-02-2024,FALSE
+857,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,6/16/2024,TRUE
+858,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,7/18/2024,FALSE
+859,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,2/20/2025,FALSE
+860,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,4/23/2024,FALSE
+861,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/28/2024,FALSE
+862,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/24/2024,TRUE
+863,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-01-2024,TRUE
+864,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,9/16/2024,TRUE
+865,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,05-05-2024,FALSE
+866,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,03-09-2025,TRUE
+867,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,06-08-2024,TRUE
+868,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,03-08-2025,TRUE
+869,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,1/19/2025,TRUE
+870,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11-03-2024,FALSE
+871,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,6/28/2024,FALSE
+872,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,10-08-2024,FALSE
+873,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,2/22/2025,TRUE
+874,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11/27/2024,FALSE
+875,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,07-10-2024,FALSE
+876,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,01-06-2025,TRUE
+877,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,09-08-2024,FALSE
+878,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/26/2024,TRUE
+879,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,4/13/2025,FALSE
+880,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,4/19/2024,TRUE
+881,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,08-10-2024,FALSE
+882,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,06-07-2024,TRUE
+883,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,03-02-2025,TRUE
+884,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,4/16/2024,TRUE
+885,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/27/2024,TRUE
+886,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12-09-2024,TRUE
+887,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,03-04-2025,TRUE
+888,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/19/2024,TRUE
+889,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,6/17/2024,FALSE
+890,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,02-04-2025,TRUE
+891,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,03-12-2025,FALSE
+892,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/24/2024,TRUE
+893,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,04-08-2025,TRUE
+894,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,08-06-2024,FALSE
+895,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/30/2024,TRUE
+896,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,06-07-2024,FALSE
+897,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12-06-2024,FALSE
+898,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,7/31/2024,TRUE
+899,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,09-01-2024,FALSE
+900,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,06-02-2024,FALSE
+901,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/18/2024,FALSE
+902,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,3/16/2025,FALSE
+903,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,3/14/2025,FALSE
+904,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,08-01-2024,TRUE
+905,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,9/18/2024,TRUE
+906,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,9/15/2024,FALSE
+907,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12-01-2024,TRUE
+908,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,10-06-2024,TRUE
+909,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,06-07-2024,TRUE
+910,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,8/16/2024,FALSE
+911,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,03-03-2025,TRUE
+912,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,12/24/2024,TRUE
+913,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,06-11-2024,TRUE
+914,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,02-11-2025,TRUE
+915,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,12/17/2024,TRUE
+916,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,11/18/2024,FALSE
+917,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,04-01-2025,FALSE
+918,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,4/22/2024,FALSE
+919,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,6/28/2024,TRUE
+920,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/27/2024,FALSE
+921,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,06-05-2024,FALSE
+922,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,7/31/2024,TRUE
+923,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,12/20/2024,TRUE
+924,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,1/16/2025,FALSE
+925,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,7/16/2024,TRUE
+926,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,8/29/2024,TRUE
+927,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,12/20/2024,TRUE
+928,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,1/14/2025,TRUE
+929,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,9/20/2024,FALSE
+930,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,2/22/2025,TRUE
+931,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,08-08-2024,TRUE
+932,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,3/31/2025,TRUE
+933,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,2/16/2025,FALSE
+934,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,10/30/2024,TRUE
+935,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,05-09-2024,TRUE
+936,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,4/25/2024,FALSE
+937,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,09-03-2024,TRUE
+938,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,08-05-2024,TRUE
+939,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10/22/2024,FALSE
+940,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,07-11-2024,FALSE
+941,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,05-04-2024,FALSE
+942,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,10/26/2024,FALSE
+943,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-11-2024,FALSE
+944,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,08-03-2024,TRUE
+945,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,6/22/2024,FALSE
+946,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,5/19/2024,TRUE
+947,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/26/2024,TRUE
+948,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,7/14/2024,FALSE
+949,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,5/16/2024,TRUE
+950,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,4/20/2024,FALSE
+951,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,4/20/2024,TRUE
+952,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,11-03-2024,TRUE
+953,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,6/21/2024,FALSE
+954,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,4/26/2024,TRUE
+955,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,5/25/2024,FALSE
+956,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,08-06-2024,FALSE
+957,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/27/2024,FALSE
+958,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,9/19/2024,FALSE
+959,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,12/23/2024,FALSE
+960,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,9/25/2024,FALSE
+961,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,12-12-2024,FALSE
+962,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,4/30/2024,TRUE
+963,Cloud Computing with AWS - Video 1,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,8/13/2024,FALSE
+964,SQL for Beginners - Video 1,This video covers SQL for Beginners in detail.,https://training.gts.org/videos/sql_for_beginners.mp4,9/21/2024,TRUE
+965,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,2/21/2025,FALSE
+966,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,1/18/2025,TRUE
+967,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,05-08-2024,FALSE
+968,Advanced Excel for Analysts - Video 1,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-03-2025,FALSE
+969,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,8/18/2024,FALSE
+970,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,2/16/2025,TRUE
+971,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/30/2024,TRUE
+972,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,06-03-2024,TRUE
+973,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,04-08-2025,TRUE
+974,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,01-07-2025,TRUE
+975,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,10/25/2024,FALSE
+976,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,10/18/2024,TRUE
+977,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,05-02-2024,FALSE
+978,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,4/29/2024,FALSE
+979,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11/22/2024,TRUE
+980,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,11/22/2024,TRUE
+981,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,02-05-2025,TRUE
+982,Full Stack Web Development - Video 1,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,10-02-2024,FALSE
+983,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/30/2025,FALSE
+984,Web Development Essentials - Video 1,This video covers Web Development Essentials in detail.,https://training.gts.org/videos/web_development_essentials.mp4,4/16/2024,TRUE
+985,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,02-05-2025,FALSE
+986,Data Science Bootcamp - Video 1,This video covers Data Science Bootcamp in detail.,https://training.gts.org/videos/data_science_bootcamp.mp4,07-03-2024,FALSE
+987,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,3/22/2025,FALSE
+988,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,11/13/2024,TRUE
+989,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,06-01-2024,TRUE
+990,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10-01-2024,FALSE
+991,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,10/28/2024,TRUE
+992,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,7/29/2024,TRUE
+993,Advanced Excel for Analysts - Video 2,This video covers Advanced Excel for Analysts in detail.,https://training.gts.org/videos/advanced_excel_for_analysts.mp4,04-08-2025,FALSE
+994,Python for AI & ML - Video 2,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,6/29/2024,TRUE
+995,Communication & Soft Skills - Video 1,This video covers Communication & Soft Skills in detail.,https://training.gts.org/videos/communication_&_soft_skills.mp4,11-01-2024,TRUE
+996,Digital Marketing Fundamentals - Video 1,This video covers Digital Marketing Fundamentals in detail.,https://training.gts.org/videos/digital_marketing_fundamentals.mp4,08-12-2024,FALSE
+997,Cybersecurity Foundations - Video 1,This video covers Cybersecurity Foundations in detail.,https://training.gts.org/videos/cybersecurity_foundations.mp4,07-08-2024,TRUE
+998,Python for AI & ML - Video 1,This video covers Python for AI & ML in detail.,https://training.gts.org/videos/python_for_ai_&_ml.mp4,9/15/2024,TRUE
+999,Full Stack Web Development - Video 2,This video covers Full Stack Web Development in detail.,https://training.gts.org/videos/full_stack_web_development.mp4,12-01-2024,FALSE
+1000,Cloud Computing with AWS - Video 2,This video covers Cloud Computing with AWS in detail.,https://training.gts.org/videos/cloud_computing_with_aws.mp4,3/23/2025,FALSE

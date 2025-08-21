@@ -1,0 +1,1001 @@
+GTS_CURRENCY_CODE,GTS_CURRENCY_ID,GTS_CURRENCY_NAME,GTS_CURRENCY_DESCRIPTION,GTS_CURRENCY_STATUS
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+EUR,2,Euro,Euro (EUR),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+GBP,5,British Pound,British Pound (GBP),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+INR,3,Indian Rupee,Indian Rupee (INR),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+USD,1,US Dollar,US Dollar (USD),TRUE
+USD,1,US Dollar,US Dollar (USD),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+EUR,2,Euro,Euro (EUR),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),FALSE
+USD,1,US Dollar,US Dollar (USD),TRUE
+ZAR,10,South African Rand,South African Rand (ZAR),TRUE
+JPY,6,Japanese Yen,Japanese Yen (JPY),TRUE
+GBP,5,British Pound,British Pound (GBP),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+JPY,6,Japanese Yen,Japanese Yen (JPY),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+USD,1,US Dollar,US Dollar (USD),FALSE
+ZAR,10,South African Rand,South African Rand (ZAR),FALSE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+CNY,9,Chinese Yuan,Chinese Yuan (CNY),TRUE
+INR,3,Indian Rupee,Indian Rupee (INR),FALSE
+AUD,7,Australian Dollar,Australian Dollar (AUD),TRUE
+EUR,2,Euro,Euro (EUR),TRUE
+CAD,8,Canadian Dollar,Canadian Dollar (CAD),FALSE
+NGN,4,Nigerian Naira,Nigerian Naira (NGN),FALSE
+GBP,5,British Pound,British Pound (GBP),FALSE

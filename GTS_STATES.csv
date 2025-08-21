@@ -1,0 +1,1001 @@
+GTS_STATE_ID,GTS_STATE_NAME,GTS_STATE_DESCRIPTION,GTS_STATE_STATUS,GTS_COUNTRY_ID
+1,Antioquia,Antioquia is home to the city of Medellín.,TRUE,1
+2,England,"England is the largest country in the UK, home to London.",TRUE,5
+3,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,23
+4,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,15
+5,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,15
+6,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,22
+7,New South Wales,New South Wales includes the city of Sydney.,TRUE,1
+8,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,27
+9,California,California is a western U.S. state known for its tech hubs.,TRUE,5
+10,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,6
+11,New South Wales,New South Wales includes the city of Sydney.,TRUE,18
+12,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,18
+13,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,27
+14,Antioquia,Antioquia is home to the city of Medellín.,TRUE,22
+15,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,12
+16,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,9
+17,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,23
+18,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,25
+19,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,28
+20,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,10
+21,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,21
+22,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,24
+23,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,10
+24,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,8
+25,Antioquia,Antioquia is home to the city of Medellín.,TRUE,29
+26,Java,Java is Indonesia's most populous and politically important island.,TRUE,13
+27,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,11
+28,New South Wales,New South Wales includes the city of Sydney.,FALSE,4
+29,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,18
+30,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,1
+31,California,California is a western U.S. state known for its tech hubs.,TRUE,30
+32,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,6
+33,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,17
+34,Antioquia,Antioquia is home to the city of Medellín.,TRUE,19
+35,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,13
+36,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,15
+37,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,19
+38,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,6
+39,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,28
+40,England,"England is the largest country in the UK, home to London.",TRUE,20
+41,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,18
+42,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,14
+43,England,"England is the largest country in the UK, home to London.",FALSE,25
+44,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,12
+45,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,15
+46,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,2
+47,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,2
+48,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,19
+49,Java,Java is Indonesia's most populous and politically important island.,TRUE,9
+50,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,2
+51,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,28
+52,Java,Java is Indonesia's most populous and politically important island.,TRUE,3
+53,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,19
+54,Java,Java is Indonesia's most populous and politically important island.,TRUE,19
+55,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,23
+56,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,31
+57,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,28
+58,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,22
+59,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,12
+60,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,28
+61,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,31
+62,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,21
+63,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,4
+64,Antioquia,Antioquia is home to the city of Medellín.,FALSE,27
+65,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,11
+66,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,8
+67,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,11
+68,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,5
+69,California,California is a western U.S. state known for its tech hubs.,TRUE,29
+70,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,14
+71,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,7
+72,California,California is a western U.S. state known for its tech hubs.,TRUE,2
+73,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,26
+74,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,6
+75,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,2
+76,Java,Java is Indonesia's most populous and politically important island.,TRUE,23
+77,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,29
+78,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,18
+79,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,30
+80,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,28
+81,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,11
+82,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,30
+83,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,7
+84,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,28
+85,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,21
+86,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,27
+87,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,28
+88,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,13
+89,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,24
+90,Antioquia,Antioquia is home to the city of Medellín.,TRUE,9
+91,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,11
+92,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,13
+93,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,21
+94,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,25
+95,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,10
+96,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,19
+97,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,4
+98,New South Wales,New South Wales includes the city of Sydney.,TRUE,22
+99,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,16
+100,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,16
+101,New South Wales,New South Wales includes the city of Sydney.,FALSE,21
+102,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,22
+103,Antioquia,Antioquia is home to the city of Medellín.,TRUE,31
+104,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,18
+105,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,16
+106,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,20
+107,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,24
+108,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,9
+109,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,20
+110,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,4
+111,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,20
+112,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,12
+113,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,3
+114,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,9
+115,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,20
+116,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,3
+117,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,3
+118,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,5
+119,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,25
+120,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,1
+121,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,27
+122,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,20
+123,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,9
+124,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,21
+125,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,29
+126,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,4
+127,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,5
+128,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,19
+129,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,4
+130,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,9
+131,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,26
+132,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,3
+133,England,"England is the largest country in the UK, home to London.",TRUE,21
+134,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,29
+135,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,14
+136,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,18
+137,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,25
+138,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,19
+139,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,28
+140,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,27
+141,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,2
+142,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,28
+143,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,30
+144,California,California is a western U.S. state known for its tech hubs.,TRUE,5
+145,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,6
+146,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,3
+147,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,7
+148,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,26
+149,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,22
+150,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,14
+151,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,24
+152,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,2
+153,California,California is a western U.S. state known for its tech hubs.,FALSE,23
+154,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,15
+155,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,11
+156,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,26
+157,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,26
+158,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,6
+159,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,28
+160,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,2
+161,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,28
+162,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,24
+163,Antioquia,Antioquia is home to the city of Medellín.,FALSE,13
+164,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,8
+165,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,2
+166,Java,Java is Indonesia's most populous and politically important island.,FALSE,15
+167,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,10
+168,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,7
+169,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,30
+170,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,25
+171,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,9
+172,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,2
+173,California,California is a western U.S. state known for its tech hubs.,TRUE,18
+174,Antioquia,Antioquia is home to the city of Medellín.,FALSE,9
+175,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,10
+176,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,6
+177,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,1
+178,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,24
+179,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,31
+180,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,1
+181,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,17
+182,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,13
+183,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,28
+184,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,1
+185,England,"England is the largest country in the UK, home to London.",FALSE,31
+186,Java,Java is Indonesia's most populous and politically important island.,TRUE,29
+187,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,18
+188,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,10
+189,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,28
+190,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,20
+191,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,11
+192,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,8
+193,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,17
+194,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,11
+195,Java,Java is Indonesia's most populous and politically important island.,TRUE,22
+196,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,17
+197,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,14
+198,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,19
+199,England,"England is the largest country in the UK, home to London.",TRUE,27
+200,Antioquia,Antioquia is home to the city of Medellín.,TRUE,30
+201,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,18
+202,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,11
+203,Antioquia,Antioquia is home to the city of Medellín.,TRUE,7
+204,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,2
+205,England,"England is the largest country in the UK, home to London.",FALSE,5
+206,England,"England is the largest country in the UK, home to London.",TRUE,6
+207,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,11
+208,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,5
+209,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,13
+210,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,3
+211,California,California is a western U.S. state known for its tech hubs.,FALSE,28
+212,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,14
+213,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,23
+214,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,3
+215,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,22
+216,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,3
+217,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,10
+218,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,19
+219,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,24
+220,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,4
+221,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,20
+222,New South Wales,New South Wales includes the city of Sydney.,TRUE,3
+223,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,8
+224,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,10
+225,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,26
+226,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,30
+227,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,17
+228,Antioquia,Antioquia is home to the city of Medellín.,TRUE,21
+229,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,17
+230,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,12
+231,Java,Java is Indonesia's most populous and politically important island.,FALSE,15
+232,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,1
+233,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,24
+234,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,9
+235,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,3
+236,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,24
+237,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,9
+238,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,10
+239,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,14
+240,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,18
+241,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,6
+242,Java,Java is Indonesia's most populous and politically important island.,FALSE,29
+243,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,22
+244,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,21
+245,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,4
+246,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,5
+247,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,28
+248,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,8
+249,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,14
+250,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,2
+251,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,31
+252,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,9
+253,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,7
+254,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,31
+255,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,1
+256,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,27
+257,Java,Java is Indonesia's most populous and politically important island.,FALSE,19
+258,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,20
+259,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,14
+260,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,30
+261,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,24
+262,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,28
+263,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,26
+264,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,8
+265,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,25
+266,Java,Java is Indonesia's most populous and politically important island.,FALSE,25
+267,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,22
+268,England,"England is the largest country in the UK, home to London.",FALSE,30
+269,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,12
+270,New South Wales,New South Wales includes the city of Sydney.,TRUE,14
+271,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,18
+272,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,12
+273,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,11
+274,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,28
+275,California,California is a western U.S. state known for its tech hubs.,FALSE,18
+276,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,10
+277,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,9
+278,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,14
+279,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,27
+280,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,29
+281,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,17
+282,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,3
+283,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,28
+284,Java,Java is Indonesia's most populous and politically important island.,FALSE,18
+285,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,29
+286,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,13
+287,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,8
+288,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,13
+289,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,31
+290,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,4
+291,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,19
+292,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,7
+293,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,24
+294,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,5
+295,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,22
+296,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,31
+297,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,2
+298,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,13
+299,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,16
+300,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,7
+301,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,11
+302,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,23
+303,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,20
+304,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,24
+305,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,23
+306,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,13
+307,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,30
+308,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,12
+309,Antioquia,Antioquia is home to the city of Medellín.,FALSE,3
+310,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,13
+311,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,18
+312,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,1
+313,New South Wales,New South Wales includes the city of Sydney.,TRUE,3
+314,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,18
+315,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,21
+316,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,15
+317,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,30
+318,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,5
+319,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,19
+320,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,12
+321,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,26
+322,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,29
+323,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,14
+324,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,23
+325,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,11
+326,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,23
+327,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,9
+328,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,5
+329,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,29
+330,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,17
+331,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,5
+332,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,13
+333,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,22
+334,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,11
+335,Antioquia,Antioquia is home to the city of Medellín.,FALSE,5
+336,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,13
+337,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,13
+338,Antioquia,Antioquia is home to the city of Medellín.,TRUE,5
+339,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,22
+340,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,14
+341,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,22
+342,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,16
+343,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,12
+344,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,16
+345,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,28
+346,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,20
+347,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,12
+348,Java,Java is Indonesia's most populous and politically important island.,FALSE,14
+349,Antioquia,Antioquia is home to the city of Medellín.,TRUE,11
+350,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,7
+351,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,3
+352,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,8
+353,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,20
+354,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,21
+355,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,19
+356,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,23
+357,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,27
+358,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,31
+359,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,21
+360,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,8
+361,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,5
+362,Antioquia,Antioquia is home to the city of Medellín.,FALSE,17
+363,Java,Java is Indonesia's most populous and politically important island.,TRUE,11
+364,Java,Java is Indonesia's most populous and politically important island.,TRUE,18
+365,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,16
+366,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,5
+367,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,6
+368,England,"England is the largest country in the UK, home to London.",FALSE,6
+369,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,21
+370,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,15
+371,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,23
+372,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,14
+373,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,5
+374,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,7
+375,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,7
+376,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,23
+377,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,27
+378,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,7
+379,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,22
+380,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,16
+381,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,22
+382,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,27
+383,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,2
+384,England,"England is the largest country in the UK, home to London.",TRUE,31
+385,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,15
+386,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,24
+387,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,16
+388,California,California is a western U.S. state known for its tech hubs.,FALSE,4
+389,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,9
+390,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,18
+391,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,30
+392,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,30
+393,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,6
+394,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,16
+395,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,3
+396,Antioquia,Antioquia is home to the city of Medellín.,TRUE,30
+397,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,16
+398,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,7
+399,Java,Java is Indonesia's most populous and politically important island.,TRUE,27
+400,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,3
+401,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,22
+402,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,17
+403,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,10
+404,Java,Java is Indonesia's most populous and politically important island.,FALSE,27
+405,California,California is a western U.S. state known for its tech hubs.,TRUE,24
+406,New South Wales,New South Wales includes the city of Sydney.,FALSE,29
+407,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,6
+408,California,California is a western U.S. state known for its tech hubs.,FALSE,26
+409,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,4
+410,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,26
+411,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,10
+412,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,28
+413,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,23
+414,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,13
+415,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,15
+416,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,31
+417,New South Wales,New South Wales includes the city of Sydney.,TRUE,17
+418,New South Wales,New South Wales includes the city of Sydney.,TRUE,17
+419,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,24
+420,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,6
+421,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,4
+422,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,21
+423,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,3
+424,California,California is a western U.S. state known for its tech hubs.,TRUE,1
+425,Antioquia,Antioquia is home to the city of Medellín.,FALSE,3
+426,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,14
+427,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,8
+428,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,16
+429,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,23
+430,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,4
+431,England,"England is the largest country in the UK, home to London.",TRUE,25
+432,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,5
+433,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,27
+434,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,16
+435,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,8
+436,Java,Java is Indonesia's most populous and politically important island.,FALSE,9
+437,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,10
+438,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,8
+439,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,20
+440,Antioquia,Antioquia is home to the city of Medellín.,FALSE,9
+441,California,California is a western U.S. state known for its tech hubs.,TRUE,14
+442,New South Wales,New South Wales includes the city of Sydney.,TRUE,11
+443,England,"England is the largest country in the UK, home to London.",TRUE,13
+444,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,29
+445,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,18
+446,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,5
+447,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,14
+448,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,6
+449,Java,Java is Indonesia's most populous and politically important island.,FALSE,15
+450,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,9
+451,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,31
+452,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,30
+453,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,1
+454,Antioquia,Antioquia is home to the city of Medellín.,TRUE,18
+455,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,24
+456,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,28
+457,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,5
+458,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,26
+459,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,11
+460,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,16
+461,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,3
+462,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,31
+463,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,5
+464,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,18
+465,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,3
+466,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,14
+467,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,8
+468,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,8
+469,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,25
+470,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,11
+471,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,25
+472,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,30
+473,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,13
+474,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,17
+475,New South Wales,New South Wales includes the city of Sydney.,TRUE,24
+476,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,9
+477,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,24
+478,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,12
+479,New South Wales,New South Wales includes the city of Sydney.,FALSE,7
+480,California,California is a western U.S. state known for its tech hubs.,TRUE,10
+481,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,20
+482,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,18
+483,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,15
+484,Antioquia,Antioquia is home to the city of Medellín.,TRUE,17
+485,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,21
+486,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,28
+487,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,15
+488,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,5
+489,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,6
+490,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,9
+491,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,12
+492,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,6
+493,Antioquia,Antioquia is home to the city of Medellín.,TRUE,17
+494,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,9
+495,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,9
+496,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,21
+497,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,9
+498,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,3
+499,Java,Java is Indonesia's most populous and politically important island.,TRUE,7
+500,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,3
+501,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,29
+502,California,California is a western U.S. state known for its tech hubs.,FALSE,9
+503,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,31
+504,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,31
+505,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,25
+506,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,14
+507,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,8
+508,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,7
+509,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,17
+510,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,4
+511,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,15
+512,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,2
+513,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,24
+514,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,19
+515,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,18
+516,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,19
+517,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,4
+518,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,25
+519,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,18
+520,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,31
+521,Java,Java is Indonesia's most populous and politically important island.,TRUE,11
+522,New South Wales,New South Wales includes the city of Sydney.,FALSE,11
+523,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,26
+524,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,4
+525,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,16
+526,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,29
+527,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,7
+528,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,31
+529,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,11
+530,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,29
+531,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,15
+532,England,"England is the largest country in the UK, home to London.",TRUE,8
+533,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,23
+534,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,28
+535,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,25
+536,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,3
+537,England,"England is the largest country in the UK, home to London.",FALSE,13
+538,Java,Java is Indonesia's most populous and politically important island.,TRUE,29
+539,California,California is a western U.S. state known for its tech hubs.,FALSE,31
+540,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,31
+541,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,18
+542,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,24
+543,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,18
+544,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,16
+545,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,28
+546,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,6
+547,Antioquia,Antioquia is home to the city of Medellín.,FALSE,31
+548,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,14
+549,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,10
+550,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,6
+551,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,2
+552,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,16
+553,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,3
+554,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,16
+555,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,20
+556,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,2
+557,New South Wales,New South Wales includes the city of Sydney.,TRUE,19
+558,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,12
+559,Antioquia,Antioquia is home to the city of Medellín.,TRUE,2
+560,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,22
+561,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,16
+562,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,25
+563,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,5
+564,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,5
+565,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,22
+566,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,11
+567,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,24
+568,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,22
+569,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,22
+570,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,3
+571,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,25
+572,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,14
+573,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,27
+574,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,24
+575,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,24
+576,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,10
+577,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,24
+578,Antioquia,Antioquia is home to the city of Medellín.,TRUE,28
+579,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,19
+580,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,19
+581,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,29
+582,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,15
+583,California,California is a western U.S. state known for its tech hubs.,FALSE,2
+584,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,28
+585,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,28
+586,England,"England is the largest country in the UK, home to London.",FALSE,27
+587,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,5
+588,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,18
+589,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,8
+590,Antioquia,Antioquia is home to the city of Medellín.,FALSE,1
+591,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,5
+592,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,6
+593,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,30
+594,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,3
+595,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,10
+596,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,10
+597,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,17
+598,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,1
+599,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,7
+600,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,16
+601,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,1
+602,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,12
+603,England,"England is the largest country in the UK, home to London.",FALSE,19
+604,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,4
+605,Antioquia,Antioquia is home to the city of Medellín.,FALSE,8
+606,California,California is a western U.S. state known for its tech hubs.,TRUE,23
+607,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,14
+608,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,17
+609,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,22
+610,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,27
+611,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,7
+612,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,26
+613,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,22
+614,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,20
+615,California,California is a western U.S. state known for its tech hubs.,FALSE,28
+616,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,3
+617,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,1
+618,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,25
+619,England,"England is the largest country in the UK, home to London.",FALSE,22
+620,New South Wales,New South Wales includes the city of Sydney.,FALSE,22
+621,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,7
+622,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,16
+623,England,"England is the largest country in the UK, home to London.",TRUE,15
+624,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,17
+625,Nairobi County,Nairobi County includes Kenya's capital and economic center.,FALSE,31
+626,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,26
+627,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,12
+628,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,2
+629,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,30
+630,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,9
+631,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,28
+632,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,7
+633,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,25
+634,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,1
+635,California,California is a western U.S. state known for its tech hubs.,FALSE,12
+636,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,8
+637,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,18
+638,New South Wales,New South Wales includes the city of Sydney.,FALSE,20
+639,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,22
+640,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,15
+641,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,15
+642,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,16
+643,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,9
+644,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,17
+645,Antioquia,Antioquia is home to the city of Medellín.,TRUE,4
+646,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,18
+647,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,31
+648,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,4
+649,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,12
+650,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,17
+651,New South Wales,New South Wales includes the city of Sydney.,FALSE,9
+652,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,10
+653,England,"England is the largest country in the UK, home to London.",TRUE,14
+654,England,"England is the largest country in the UK, home to London.",FALSE,12
+655,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,11
+656,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,28
+657,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,26
+658,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,16
+659,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,3
+660,New South Wales,New South Wales includes the city of Sydney.,FALSE,25
+661,Antioquia,Antioquia is home to the city of Medellín.,FALSE,10
+662,England,"England is the largest country in the UK, home to London.",FALSE,26
+663,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,7
+664,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,28
+665,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,8
+666,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,21
+667,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,2
+668,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,21
+669,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,23
+670,Antioquia,Antioquia is home to the city of Medellín.,TRUE,20
+671,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,3
+672,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,20
+673,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,17
+674,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,30
+675,Java,Java is Indonesia's most populous and politically important island.,TRUE,22
+676,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,20
+677,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,6
+678,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,19
+679,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,17
+680,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,7
+681,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,25
+682,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,2
+683,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,5
+684,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,20
+685,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,10
+686,New South Wales,New South Wales includes the city of Sydney.,FALSE,6
+687,New South Wales,New South Wales includes the city of Sydney.,FALSE,4
+688,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,24
+689,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,31
+690,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,29
+691,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,6
+692,Antioquia,Antioquia is home to the city of Medellín.,TRUE,29
+693,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,11
+694,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,14
+695,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,2
+696,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,14
+697,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,14
+698,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,31
+699,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,24
+700,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,22
+701,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,24
+702,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,30
+703,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,20
+704,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,9
+705,New South Wales,New South Wales includes the city of Sydney.,TRUE,16
+706,California,California is a western U.S. state known for its tech hubs.,FALSE,30
+707,Antioquia,Antioquia is home to the city of Medellín.,TRUE,1
+708,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,8
+709,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,6
+710,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,15
+711,California,California is a western U.S. state known for its tech hubs.,TRUE,3
+712,Bangkok,Bangkok is Thailand's capital and economic center.,TRUE,21
+713,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,15
+714,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,4
+715,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,12
+716,California,California is a western U.S. state known for its tech hubs.,TRUE,16
+717,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,20
+718,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,21
+719,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,2
+720,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,25
+721,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,19
+722,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,18
+723,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,15
+724,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,27
+725,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,25
+726,England,"England is the largest country in the UK, home to London.",TRUE,3
+727,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,6
+728,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,6
+729,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,29
+730,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,11
+731,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,29
+732,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,7
+733,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,10
+734,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,5
+735,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,10
+736,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,30
+737,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,5
+738,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,6
+739,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,9
+740,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,24
+741,Antioquia,Antioquia is home to the city of Medellín.,FALSE,17
+742,England,"England is the largest country in the UK, home to London.",FALSE,13
+743,England,"England is the largest country in the UK, home to London.",FALSE,23
+744,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,26
+745,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,12
+746,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,5
+747,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,12
+748,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,31
+749,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,3
+750,New South Wales,New South Wales includes the city of Sydney.,TRUE,12
+751,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,25
+752,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,27
+753,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,26
+754,California,California is a western U.S. state known for its tech hubs.,FALSE,4
+755,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,7
+756,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,17
+757,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,4
+758,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,16
+759,Java,Java is Indonesia's most populous and politically important island.,TRUE,4
+760,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,30
+761,Antioquia,Antioquia is home to the city of Medellín.,TRUE,24
+762,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,16
+763,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,6
+764,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,17
+765,New South Wales,New South Wales includes the city of Sydney.,FALSE,4
+766,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,2
+767,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,10
+768,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,26
+769,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,4
+770,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,27
+771,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,4
+772,California,California is a western U.S. state known for its tech hubs.,TRUE,5
+773,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,17
+774,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,27
+775,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,10
+776,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,11
+777,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,12
+778,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,18
+779,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,15
+780,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,30
+781,California,California is a western U.S. state known for its tech hubs.,FALSE,13
+782,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,31
+783,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,30
+784,Java,Java is Indonesia's most populous and politically important island.,TRUE,23
+785,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,12
+786,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,17
+787,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,4
+788,Java,Java is Indonesia's most populous and politically important island.,FALSE,20
+789,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,14
+790,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,30
+791,Antioquia,Antioquia is home to the city of Medellín.,TRUE,31
+792,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,30
+793,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,28
+794,Java,Java is Indonesia's most populous and politically important island.,FALSE,15
+795,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,20
+796,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,TRUE,6
+797,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,21
+798,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,3
+799,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,26
+800,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,22
+801,New South Wales,New South Wales includes the city of Sydney.,FALSE,26
+802,New South Wales,New South Wales includes the city of Sydney.,FALSE,2
+803,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,22
+804,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,8
+805,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,3
+806,Antioquia,Antioquia is home to the city of Medellín.,FALSE,31
+807,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,18
+808,Java,Java is Indonesia's most populous and politically important island.,FALSE,17
+809,England,"England is the largest country in the UK, home to London.",TRUE,16
+810,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,27
+811,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,6
+812,Antioquia,Antioquia is home to the city of Medellín.,FALSE,3
+813,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,5
+814,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,1
+815,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,2
+816,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,15
+817,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,23
+818,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,18
+819,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,10
+820,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,1
+821,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,27
+822,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,5
+823,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,26
+824,Stockholm County,Stockholm County includes Sweden's capital city.,TRUE,24
+825,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,27
+826,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,29
+827,England,"England is the largest country in the UK, home to London.",FALSE,6
+828,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,6
+829,California,California is a western U.S. state known for its tech hubs.,FALSE,25
+830,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,4
+831,England,"England is the largest country in the UK, home to London.",TRUE,30
+832,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,2
+833,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,13
+834,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,1
+835,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,8
+836,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,7
+837,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,9
+838,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",TRUE,26
+839,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,23
+840,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,2
+841,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,26
+842,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,16
+843,New South Wales,New South Wales includes the city of Sydney.,TRUE,14
+844,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",TRUE,7
+845,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,17
+846,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,28
+847,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,16
+848,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,2
+849,California,California is a western U.S. state known for its tech hubs.,TRUE,7
+850,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,9
+851,Antioquia,Antioquia is home to the city of Medellín.,TRUE,17
+852,Nairobi County,Nairobi County includes Kenya's capital and economic center.,TRUE,18
+853,Java,Java is Indonesia's most populous and politically important island.,FALSE,16
+854,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,11
+855,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,28
+856,Lagos,Lagos is a major Nigerian state and commercial hub.,TRUE,29
+857,England,"England is the largest country in the UK, home to London.",FALSE,16
+858,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,TRUE,20
+859,England,"England is the largest country in the UK, home to London.",FALSE,8
+860,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,25
+861,California,California is a western U.S. state known for its tech hubs.,TRUE,17
+862,Java,Java is Indonesia's most populous and politically important island.,FALSE,7
+863,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,21
+864,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,11
+865,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,31
+866,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,27
+867,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,10
+868,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,8
+869,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,20
+870,Antioquia,Antioquia is home to the city of Medellín.,TRUE,3
+871,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,3
+872,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,21
+873,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,6
+874,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,10
+875,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,19
+876,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,14
+877,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,22
+878,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,12
+879,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,6
+880,England,"England is the largest country in the UK, home to London.",TRUE,3
+881,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,4
+882,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,31
+883,New South Wales,New South Wales includes the city of Sydney.,TRUE,11
+884,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,20
+885,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,23
+886,Masovian Voivodeship,"Masovian Voivodeship includes Warsaw, the capital of Poland.",FALSE,20
+887,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,2
+888,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,6
+889,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,16
+890,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,18
+891,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,29
+892,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,FALSE,13
+893,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,13
+894,New South Wales,New South Wales includes the city of Sydney.,TRUE,12
+895,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,9
+896,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,10
+897,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,10
+898,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,TRUE,10
+899,Maharashtra,"Maharashtra is home to Mumbai, India's financial capital.",FALSE,19
+900,California,California is a western U.S. state known for its tech hubs.,FALSE,16
+901,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,7
+902,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,12
+903,Java,Java is Indonesia's most populous and politically important island.,TRUE,27
+904,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,19
+905,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,3
+906,New South Wales,New South Wales includes the city of Sydney.,FALSE,4
+907,Antioquia,Antioquia is home to the city of Medellín.,FALSE,25
+908,Cairo Governorate,Cairo Governorate contains the capital and largest city.,FALSE,23
+909,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,30
+910,Bangkok,Bangkok is Thailand's capital and economic center.,FALSE,8
+911,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,9
+912,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,2
+913,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,15
+914,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,8
+915,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,TRUE,10
+916,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,7
+917,Guangdong,Guangdong is a coastal province and a manufacturing hub.,TRUE,14
+918,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,19
+919,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,3
+920,Jalisco,Jalisco is known for mariachi music and tequila.,FALSE,16
+921,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,7
+922,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,FALSE,18
+923,Istanbul Province,Istanbul Province includes the country's largest city.,FALSE,15
+924,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,20
+925,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,26
+926,England,"England is the largest country in the UK, home to London.",FALSE,14
+927,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,4
+928,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,29
+929,California,California is a western U.S. state known for its tech hubs.,FALSE,20
+930,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,8
+931,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,27
+932,Punjab,Punjab is Pakistan's most populous and agriculturally rich province.,FALSE,21
+933,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,13
+934,Antioquia,Antioquia is home to the city of Medellín.,FALSE,4
+935,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,9
+936,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,20
+937,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,TRUE,17
+938,Ontario,Ontario is a central province known for Toronto and Ottawa.,FALSE,13
+939,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,7
+940,Gauteng,Gauteng is South Africa's smallest but wealthiest province.,TRUE,10
+941,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,19
+942,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,24
+943,England,"England is the largest country in the UK, home to London.",TRUE,9
+944,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,22
+945,Tokyo Metropolis,Tokyo Metropolis is Japan's capital and most populous region.,FALSE,8
+946,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,31
+947,Île-de-France,"Île-de-France includes the capital city, Paris.",FALSE,18
+948,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,7
+949,Selangor,Selangor is Malaysia's most developed and industrialized state.,FALSE,16
+950,New South Wales,New South Wales includes the city of Sydney.,TRUE,9
+951,New South Wales,New South Wales includes the city of Sydney.,FALSE,12
+952,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,21
+953,Île-de-France,"Île-de-France includes the capital city, Paris.",TRUE,24
+954,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,18
+955,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,9
+956,New South Wales,New South Wales includes the city of Sydney.,FALSE,13
+957,Antioquia,Antioquia is home to the city of Medellín.,TRUE,20
+958,Metro Manila,Metro Manila is a metropolitan region and national capital.,TRUE,16
+959,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,29
+960,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,TRUE,1
+961,California,California is a western U.S. state known for its tech hubs.,TRUE,25
+962,England,"England is the largest country in the UK, home to London.",TRUE,9
+963,New South Wales,New South Wales includes the city of Sydney.,FALSE,10
+964,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,12
+965,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,14
+966,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,5
+967,Cairo Governorate,Cairo Governorate contains the capital and largest city.,TRUE,18
+968,California,California is a western U.S. state known for its tech hubs.,FALSE,19
+969,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,30
+970,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,12
+971,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,10
+972,England,"England is the largest country in the UK, home to London.",FALSE,23
+973,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,FALSE,26
+974,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,16
+975,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,21
+976,Istanbul Province,Istanbul Province includes the country's largest city.,TRUE,29
+977,Lombardy,Lombardy is Italy's wealthiest and most populous region.,TRUE,20
+978,Stockholm County,Stockholm County includes Sweden's capital city.,FALSE,30
+979,Riyadh Province,Riyadh Province includes the capital of Saudi Arabia.,TRUE,12
+980,São Paulo,São Paulo is Brazil's most populous and economically powerful state.,FALSE,7
+981,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,19
+982,Catalonia,Catalonia is an autonomous community known for Barcelona.,TRUE,19
+983,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,27
+984,Bavaria,Bavaria is a southeastern German state known for its culture.,TRUE,9
+985,Guangdong,Guangdong is a coastal province and a manufacturing hub.,FALSE,26
+986,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,7
+987,Moscow Oblast,Moscow Oblast surrounds the city of Moscow.,FALSE,24
+988,Lagos,Lagos is a major Nigerian state and commercial hub.,FALSE,26
+989,California,California is a western U.S. state known for its tech hubs.,TRUE,21
+990,Ho Chi Minh City,Ho Chi Minh City is a major city and economic hub in Vietnam.,FALSE,16
+991,Jalisco,Jalisco is known for mariachi music and tequila.,TRUE,4
+992,Selangor,Selangor is Malaysia's most developed and industrialized state.,TRUE,29
+993,Buenos Aires Province,Buenos Aires Province surrounds the capital city.,FALSE,12
+994,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,19
+995,Bavaria,Bavaria is a southeastern German state known for its culture.,FALSE,20
+996,Metro Manila,Metro Manila is a metropolitan region and national capital.,FALSE,23
+997,Ontario,Ontario is a central province known for Toronto and Ottawa.,TRUE,21
+998,Catalonia,Catalonia is an autonomous community known for Barcelona.,FALSE,7
+999,Lombardy,Lombardy is Italy's wealthiest and most populous region.,FALSE,28
+1000,Gyeonggi Province,Gyeonggi surrounds Seoul and is the most populous province.,TRUE,23

@@ -1,0 +1,1001 @@
+GTS_DEGREE_ID,GTS_DEGREE_NAME,GTS_DEGREE_DESCRIPTION,GTS_DEGREE_STATUS
+1,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+2,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+3,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+4,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+5,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+6,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+7,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+8,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+9,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+10,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+11,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+12,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+13,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+14,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+15,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+16,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+17,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+18,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+19,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+20,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+21,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+22,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+23,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+24,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+25,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+26,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+27,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+28,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+29,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+30,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+31,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+32,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+33,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+34,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+35,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+36,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+37,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+38,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+39,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+40,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+41,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+42,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+43,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+44,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+45,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+46,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+47,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+48,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+49,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+50,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+51,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+52,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+53,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+54,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+55,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+56,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+57,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+58,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+59,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+60,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+61,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+62,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+63,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+64,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+65,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+66,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+67,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+68,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+69,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+70,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+71,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+72,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+73,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+74,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+75,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+76,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+77,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+78,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+79,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+80,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+81,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+82,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+83,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+84,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+85,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+86,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+87,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+88,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+89,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+90,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+91,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+92,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+93,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+94,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+95,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+96,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+97,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+98,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+99,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+100,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+101,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+102,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+103,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+104,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+105,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+106,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+107,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+108,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+109,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+110,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+111,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+112,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+113,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+114,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+115,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+116,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+117,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+118,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+119,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+120,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+121,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+122,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+123,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+124,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+125,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+126,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+127,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+128,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+129,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+130,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+131,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+132,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+133,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+134,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+135,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+136,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+137,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+138,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+139,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+140,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+141,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+142,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+143,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+144,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+145,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+146,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+147,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+148,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+149,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+150,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+151,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+152,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+153,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+154,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+155,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+156,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+157,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+158,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+159,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+160,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+161,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+162,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+163,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+164,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+165,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+166,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+167,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+168,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+169,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+170,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+171,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+172,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+173,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+174,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+175,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+176,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+177,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+178,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+179,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+180,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+181,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+182,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+183,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+184,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+185,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+186,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+187,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+188,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+189,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+190,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+191,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+192,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+193,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+194,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+195,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+196,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+197,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+198,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+199,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+200,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+201,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+202,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+203,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+204,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+205,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+206,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+207,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+208,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+209,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+210,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+211,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+212,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+213,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+214,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+215,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+216,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+217,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+218,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+219,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+220,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+221,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+222,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+223,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+224,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+225,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+226,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+227,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+228,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+229,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+230,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+231,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+232,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+233,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+234,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+235,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+236,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+237,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+238,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+239,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+240,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+241,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+242,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+243,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+244,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+245,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+246,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+247,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+248,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+249,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+250,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+251,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+252,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+253,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+254,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+255,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+256,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+257,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+258,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+259,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+260,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+261,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+262,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+263,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+264,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+265,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+266,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+267,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+268,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+269,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+270,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+271,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+272,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+273,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+274,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+275,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+276,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+277,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+278,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+279,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+280,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+281,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+282,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+283,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+284,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+285,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+286,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+287,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+288,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+289,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+290,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+291,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+292,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+293,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+294,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+295,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+296,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+297,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+298,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+299,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+300,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+301,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+302,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+303,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+304,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+305,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+306,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+307,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+308,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+309,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+310,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+311,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+312,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+313,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+314,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+315,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+316,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+317,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+318,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+319,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+320,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+321,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+322,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+323,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+324,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+325,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+326,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+327,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+328,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+329,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+330,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+331,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+332,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+333,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+334,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+335,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+336,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+337,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+338,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+339,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+340,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+341,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+342,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+343,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+344,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+345,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+346,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+347,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+348,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+349,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+350,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+351,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+352,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+353,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+354,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+355,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+356,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+357,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+358,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+359,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+360,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+361,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+362,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+363,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+364,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+365,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+366,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+367,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+368,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+369,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+370,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+371,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+372,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+373,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+374,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+375,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+376,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+377,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+378,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+379,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+380,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+381,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+382,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+383,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+384,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+385,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+386,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+387,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+388,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+389,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+390,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+391,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+392,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+393,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+394,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+395,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+396,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+397,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+398,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+399,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+400,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+401,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+402,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+403,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+404,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+405,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+406,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+407,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+408,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+409,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+410,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+411,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+412,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+413,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+414,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+415,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+416,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+417,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+418,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+419,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+420,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+421,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+422,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+423,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+424,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+425,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+426,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+427,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+428,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+429,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+430,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+431,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+432,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+433,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+434,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+435,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+436,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+437,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+438,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+439,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+440,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+441,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+442,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+443,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+444,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+445,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+446,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+447,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+448,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+449,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+450,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+451,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+452,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+453,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+454,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+455,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+456,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+457,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+458,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+459,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+460,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+461,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+462,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+463,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+464,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+465,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+466,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+467,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+468,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+469,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+470,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+471,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+472,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+473,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+474,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+475,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+476,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+477,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+478,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+479,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+480,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+481,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+482,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+483,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+484,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+485,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+486,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+487,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+488,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+489,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+490,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+491,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+492,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+493,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+494,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+495,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+496,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+497,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+498,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+499,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+500,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+501,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+502,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+503,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+504,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+505,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+506,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+507,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+508,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+509,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+510,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+511,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+512,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+513,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+514,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+515,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+516,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+517,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+518,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+519,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+520,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+521,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+522,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+523,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+524,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+525,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+526,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+527,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+528,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+529,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+530,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+531,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+532,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+533,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+534,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+535,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+536,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+537,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+538,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+539,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+540,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+541,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+542,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+543,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+544,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+545,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+546,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+547,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+548,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+549,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+550,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+551,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+552,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+553,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+554,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+555,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+556,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+557,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+558,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+559,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+560,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+561,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+562,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+563,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+564,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+565,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+566,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+567,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+568,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+569,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+570,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+571,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+572,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+573,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+574,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+575,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+576,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+577,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+578,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+579,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+580,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+581,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+582,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+583,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+584,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+585,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+586,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+587,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+588,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+589,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+590,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+591,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+592,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+593,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+594,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+595,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+596,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+597,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+598,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+599,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+600,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+601,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+602,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+603,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+604,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+605,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+606,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+607,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+608,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+609,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+610,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+611,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+612,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+613,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+614,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+615,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+616,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+617,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+618,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+619,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+620,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+621,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+622,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+623,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+624,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+625,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+626,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+627,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+628,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+629,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+630,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+631,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+632,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+633,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+634,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+635,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+636,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+637,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+638,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+639,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+640,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+641,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+642,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+643,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+644,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+645,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+646,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+647,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+648,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+649,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+650,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+651,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+652,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+653,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+654,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+655,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+656,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+657,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+658,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+659,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+660,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+661,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+662,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+663,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+664,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+665,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+666,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+667,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+668,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+669,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+670,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+671,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+672,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+673,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+674,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+675,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+676,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+677,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+678,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+679,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+680,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+681,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+682,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+683,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+684,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+685,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+686,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+687,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+688,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+689,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+690,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+691,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+692,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+693,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+694,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+695,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+696,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+697,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+698,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+699,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+700,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+701,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+702,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+703,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+704,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+705,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+706,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+707,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+708,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+709,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+710,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+711,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+712,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+713,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+714,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+715,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+716,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+717,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+718,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+719,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+720,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+721,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+722,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+723,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+724,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+725,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+726,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+727,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+728,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+729,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+730,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+731,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+732,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+733,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+734,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+735,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+736,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+737,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+738,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+739,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+740,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+741,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+742,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+743,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+744,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+745,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+746,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+747,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+748,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+749,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+750,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+751,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+752,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+753,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+754,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+755,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+756,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+757,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+758,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+759,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+760,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+761,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+762,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+763,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+764,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+765,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+766,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+767,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+768,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+769,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+770,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+771,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+772,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+773,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+774,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+775,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+776,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+777,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+778,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+779,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+780,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+781,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+782,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+783,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+784,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+785,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+786,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+787,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+788,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+789,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+790,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+791,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+792,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+793,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+794,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+795,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+796,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+797,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+798,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+799,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+800,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+801,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+802,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+803,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+804,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+805,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+806,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+807,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+808,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+809,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+810,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+811,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+812,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+813,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+814,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+815,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+816,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+817,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+818,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+819,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+820,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+821,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+822,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+823,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+824,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+825,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+826,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+827,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+828,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+829,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+830,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+831,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+832,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+833,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+834,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+835,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+836,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+837,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+838,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+839,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+840,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+841,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+842,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+843,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+844,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+845,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+846,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+847,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+848,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+849,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+850,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+851,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+852,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+853,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+854,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+855,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+856,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+857,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+858,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+859,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+860,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+861,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+862,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+863,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+864,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+865,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+866,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+867,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+868,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+869,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+870,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+871,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+872,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+873,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+874,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+875,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+876,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+877,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+878,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+879,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+880,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+881,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+882,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+883,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+884,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+885,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+886,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+887,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+888,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+889,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+890,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+891,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+892,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+893,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+894,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+895,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+896,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+897,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+898,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+899,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+900,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+901,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+902,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+903,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+904,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+905,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+906,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+907,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+908,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+909,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+910,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+911,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+912,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+913,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+914,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",FALSE
+915,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+916,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+917,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+918,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+919,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+920,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+921,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+922,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+923,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+924,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",TRUE
+925,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+926,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+927,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+928,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+929,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+930,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+931,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+932,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+933,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+934,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+935,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+936,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+937,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+938,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+939,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+940,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+941,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+942,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+943,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+944,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+945,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+946,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+947,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+948,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+949,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+950,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+951,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+952,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",FALSE
+953,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+954,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+955,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+956,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+957,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+958,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+959,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+960,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+961,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+962,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+963,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+964,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",FALSE
+965,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+966,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",FALSE
+967,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+968,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+969,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+970,Associate Degree,"A two-year degree typically awarded by community colleges, often a stepping stone to a bachelor's degree.",TRUE
+971,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",TRUE
+972,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+973,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+974,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+975,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+976,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+977,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+978,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+979,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+980,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",TRUE
+981,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+982,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",TRUE
+983,Doctor of Education,"A doctoral degree that focuses on education theory, practice, and leadership in educational settings.",FALSE
+984,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+985,Engineering Degree,"A degree focusing on the principles of engineering, including mechanical, civil, electrical, and software engineering.",FALSE
+986,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+987,Master of Science,"A graduate-level degree focusing on advanced knowledge and research in science, technology, and engineering.",TRUE
+988,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+989,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+990,Juris Doctor,"A professional graduate degree in law, typically required to practice law in many countries.",FALSE
+991,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
+992,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+993,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",TRUE
+994,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+995,Doctor of Philosophy,"A doctoral degree that typically requires extensive research, academic writing, and original contributions to knowledge.",FALSE
+996,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",TRUE
+997,Master of Business Administration,"A graduate-level degree focusing on business management, leadership, and organizational strategies.",FALSE
+998,Bachelor of Science,"A bachelor's degree focusing on science, technology, engineering, or mathematics fields.",FALSE
+999,Master of Arts,"A graduate-level degree focusing on advanced study in the humanities, arts, and social sciences.",TRUE
+1000,Bachelor of Arts,"A bachelor's degree focusing on humanities, social sciences, or fine arts.",TRUE
